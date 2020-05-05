@@ -5,8 +5,6 @@ import Container from 'components/Container'
 import Link from 'components/Link'
 import LogoSvg from 'components/Icons/Logo'
 
-import { appUrls } from 'urls'
-
 const Wrapper = styled.header`
   background: ${({ theme }) => theme.colors.primary};
   border-bottom: 1px solid ${({ theme }) => theme.colors.white};
@@ -17,6 +15,7 @@ const Wrapper = styled.header`
 const Content = styled(Container)`
   padding: 20px 16px;
   margin: 0 auto;
+  max-width: 100%;
   width: 100%;
   height: 100%;
   display: flex;
@@ -25,8 +24,8 @@ const Content = styled(Container)`
 `
 
 const Logo = styled(LogoSvg)`
-  height: 42px;
-  color: ${({ theme }) => theme.colors.white};
+  height: 45px;
+  color: ${({ theme }) => theme.colors.primary};
 `
 
 const StyledLink = styled(Link)`
@@ -70,29 +69,28 @@ const Hamburger = styled.button`
 const HamburgerItems = styled.span`
   display: inline-block;
   vertical-align: middle;
-  content: '';
-  background: #fff;
   width: 30px;
   height: 2px;
+  background: ${({ theme }) => theme.colors.white};
 
   &:before {
-    background: #fff;
-    width: 30px;
-    height: 2px;
     content: '';
-    display: block;
     position: absolute;
     top: 7px;
+    display: block;
+    width: 30px;
+    height: 2px;
+    background: ${({ theme }) => theme.colors.white};
   }
 
   &:after {
-    background: #fff;
-    width: 30px;
-    height: 2px;
     content: '';
-    display: block;
     position: absolute;
     bottom: 5px;
+    display: block;
+    width: 30px;
+    height: 2px;
+    background: ${({ theme }) => theme.colors.white};
   }
 `
 
@@ -100,7 +98,7 @@ const MenuItemLink = styled.a`
   color: ${({ theme }) => theme.colors.white};
   font-weight: ${({ theme }) => theme.font.weight.medium};
   padding: 8px 15px;
-  font-size: 15px;
+  font-size: 14px;
   margin: 0;
   text-decoration: none;
   line-height: 1.5;
@@ -133,19 +131,35 @@ const MenuItemLink = styled.a`
 
 const menuItems = (isFirefox = false) => [
   {
-    href: appUrls.ABOUT,
-    label: 'About project'
-  },
-  {
-    href: appUrls.FEED,
-    label: 'Verified data'
+    href: 'https://fakehunter.pap.pl/#oprojekcie',
+    label: 'O projekcie'
   },
   {
     href: isFirefox
       ? 'https://addons.mozilla.org/pl/firefox/addon/fakehunter-pap-pl/'
       : 'https://chrome.google.com/webstore/detail/fakehunter/biebjolppinbddooahlglekngmalnfkf',
-    label: 'Install extension',
+    label: 'Zainstaluj wtyczkę',
     special: true
+  },
+  {
+    href: '/',
+    label: 'Zweryfikowane informacje'
+  },
+  {
+    href: 'https://fakehunter.pap.pl/#zostanfakehunterem',
+    label: 'Zostań fakehunterem'
+  },
+  {
+    href: 'https://fakehunter.pap.pl/zespol.php',
+    label: 'Zespół'
+  },
+  {
+    href: 'https://fakehunter.pap.pl/#partnerzy',
+    label: 'Partnerzy'
+  },
+  {
+    href: 'https://fakehunter.pap.pl/#dolacz',
+    label: 'Dołącz do developerów'
   }
 ]
 
@@ -163,7 +177,7 @@ const Topbar = () => {
   return (
     <Wrapper>
       <Content>
-        <StyledLink href={appUrls.FEED}>
+        <StyledLink href="https://fakehunter.pap.pl" external>
           <Logo />
         </StyledLink>
         <Hamburger onClick={() => setIsOpen(!isOpen)}>

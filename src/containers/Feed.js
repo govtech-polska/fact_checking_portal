@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import Router, { useRouter } from 'next/router'
 import useSWR from 'swr'
 import styled from 'styled-components'
@@ -19,21 +20,23 @@ const LoaderWrapper = styled.div`
   justify-content: center;
   min-height: 600px;
 `
-
+// TODO: use SSR, fix error/loader handling
 const Feed = ({ layout }) => {
-  const { query } = useRouter()
+  const {
+    query: { page = 1 }
+  } = useRouter()
 
-  const { data: feed, error } = useSWR(apiUrls.FEED + `?page=${query.page || 1}`, request, {
+  const { data: feed, error } = useSWR(apiUrls.FEED + `?page=${page}`, request, {
     suspense: false
   })
   const errorMsg = getError(error)
   const isCardsLayout = layout === FEED_LAYOUTS.CARDS
   const isListLayout = layout === FEED_LAYOUTS.LIST
 
-  const handlePageChange = (page) => {
+  const handlePageChange = (nextPage) => {
     Router.push({
       pathname: appUrls.FEED,
-      query: { page }
+      query: { page: nextPage }
     })
   }
 
@@ -51,7 +54,7 @@ const Feed = ({ layout }) => {
 
   return (
     <>
-      {feed?.results?.length === 0 && <p>We don't have any reports yet.</p>}
+      {feed?.results?.length === 0 && <p>Brak raportów.</p>}
       {isCardsLayout && <Cards items={feed.results} />}
       {isListLayout && (
         <>
@@ -69,9 +72,13 @@ const Feed = ({ layout }) => {
           ))}
         </>
       )}
-      <Pagination total={feed.count} page={query.page} onPageChange={handlePageChange} />
+      <Pagination total={feed.count} page={page} onPageChange={handlePageChange} />
     </>
   )
+}
+
+Feed.propTypes = {
+  layout: PropTypes.oneOf(Object.values(FEED_LAYOUTS))
 }
 
 export default Feed

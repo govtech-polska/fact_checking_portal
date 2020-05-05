@@ -2,8 +2,9 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 
 import Button from 'components/Button'
-import GridSvg from 'components/Icons/Grid'
-import List from 'components/Icons/List'
+import GridIcon from 'components/Icons/Grid'
+import ListIcon from 'components/Icons/List'
+
 import { FEED_LAYOUTS } from 'consts'
 
 const Wrapper = styled.div`
@@ -43,7 +44,7 @@ const IconButton = styled(Button)`
   }
 `
 
-const GridIcon = styled(GridSvg)`
+const StyledGridIcon = styled(GridIcon)`
   padding: 1px;
 `
 
@@ -51,13 +52,13 @@ const FeedLayoutManager = ({ active, onChange }) => {
   return (
     <Wrapper>
       <IconButton onClick={() => onChange(FEED_LAYOUTS.LIST)} active={active === FEED_LAYOUTS.LIST}>
-        <List title="List view" />
+        <ListIcon title="Widok listy" />
       </IconButton>
       <IconButton
         onClick={() => onChange(FEED_LAYOUTS.CARDS)}
         active={active === FEED_LAYOUTS.CARDS}
       >
-        <GridIcon title="Cards view" />
+        <StyledGridIcon title="Widok kart" />
       </IconButton>
     </Wrapper>
   )

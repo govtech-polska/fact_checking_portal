@@ -40,4 +40,11 @@ const Suspense = ({ children, wait, error, infinite }) => {
   return children
 }
 
+Suspense.propTypes = {
+  children: PropTypes.element,
+  wait: PropTypes.bool,
+  infinite: PropTypes.bool,
+  error: PropTypes.string
+}
+
 export default Suspense

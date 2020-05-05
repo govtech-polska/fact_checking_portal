@@ -4,7 +4,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     padding: 0;
     margin: 0;
-    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
 
     color: ${({ theme }) => theme.colors.fontMain};
     background: ${({ theme }) => theme.colors.white};

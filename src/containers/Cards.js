@@ -56,7 +56,7 @@ const Cards = ({ items }) => {
   )
 }
 
-Cards.proptypes = {
+Cards.propTypes = {
   items: PropTypes.array
 }
 

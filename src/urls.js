@@ -1,7 +1,6 @@
 export const appUrls = {
   FEED: '/',
-  DETAILS: '/:id',
-  ABOUT: '/about'
+  DETAILS: '/:id'
 }
 
 export const apiUrls = {

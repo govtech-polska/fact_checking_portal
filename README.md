@@ -1,21 +1,31 @@
-# DoFacts! - portal
+# Fake News Fighter
 
-A website with a list of fact checks about COVID-19 information. It's a part of [dofacts project](https://github.com/dook/dofacts).
+## Opis
 
-## Getting Started
+Portal jest to strona wyświetlająca listę zweryfikowanych newsów na temat COVID-19. Dostępna jest pod adresem [app.fakehunter.pap.pl](https://app.fakehunter.pap.pl/).
 
-### Prerequisites
+## Dane techniczne
 
-- Node.js >=12.13.0
-- Yarn / npm
+### Technologie
 
-### Commands
+Aplikacja bazuje między innymi na technologiach:
 
-- `yarn install` - install dependencies before start
-- `yarn dev` - start development server
-- `yarn build` - build production bundle
-- `yarn start` - start production server
+- React.js
+- next.js
+- styled-components
 
-## License
+### Wymagania
 
-This project is licensed under the MIT License - see the LICENSE file for details
+- `node.js` >= 12.13.0
+- `yarn` / `npm`
+
+### Komendy
+
+- `yarn install` - instaluje niezbędne zależności
+- `yarn dev` - uruchamia serwer deweloperski
+- `yarn build` - buduje wersję produkcyjną aplikacji
+- `yarn start` - uruchamia serwer produkcyjny
+
+## Licencja
+
+Program jest dystrybuowany na zasadach licencji MIT - więcej informacji w pliku `LICENSE`.

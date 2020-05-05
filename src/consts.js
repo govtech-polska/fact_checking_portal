@@ -1,7 +1,7 @@
 export const VERDICT_STATUS = {
-  true: 'True',
+  true: 'Prawda',
   false: 'Fake News',
-  unidentified: 'Unverifiable'
+  unidentified: 'Nieweryfikowalne'
 }
 
 export const FEED_LAYOUTS = {

@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import Head from 'next/head'
 import Linkify from 'react-linkify'
 import styled from 'styled-components'
@@ -23,7 +24,7 @@ const DetailsWrapper = styled.div`
 
 const DetailsTitle = styled(Title)`
   margin-top: 50px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
 `
 
 const InfoCommon = styled.div`
@@ -33,7 +34,7 @@ const InfoCommon = styled.div`
 const NewsInfo = styled(InfoCommon)`
   padding: 32px 0;
   background: #f9f9f9;
-  margin-bottom: ${({ theme }) => theme.spacing.main};
+  margin: ${({ theme }) => theme.spacing.main} 0;
 
   &:after {
     content: '';
@@ -60,7 +61,7 @@ const Image = styled.img`
   height: 200px;
   object-fit: cover;
   margin-bottom: ${({ theme }) => theme.spacing.main};
-  border: 1px solid #eee;
+  border: 1px solid ${({ theme }) => theme.colors.cardBorder};
   box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1);
 
   @media (min-width: ${({ theme }) => theme.breakpoints.tablet}) {
@@ -77,28 +78,38 @@ const Image = styled.img`
 const StyledDate = styled.p`
   font-size: 14px;
   color: #b5b5b5;
-  margin-top: 6px;
-  margin-bottom: 30px;
+  margin-top: -10px;
+  margin-bottom: 20px;
 `
-
-const PostDate = ({ date }) => {
-  const formattedDate = dateFormat(new Date(date), 'dd.mm.yyyy')
-
-  return <StyledDate>{formattedDate}</StyledDate>
-}
 
 const ExpertVerdictWrapper = styled.div`
   margin-bottom: 50px;
 `
+
+const PostDate = ({ date, label }) => {
+  const formattedDate = dateFormat(new Date(date), 'dd.mm.yyyy HH:MM')
+
+  return (
+    <StyledDate>
+      {label} {formattedDate}
+    </StyledDate>
+  )
+}
+
+PostDate.propTypes = {
+  date: PropTypes.string,
+  label: PropTypes.string
+}
 
 const VerdictContent = ({ isExpert, expert, checkers }) => {
   return (
     <>
       {isExpert && (
         <ExpertVerdictWrapper>
-          <SectionTitle>Expert report</SectionTitle>
+          <SectionTitle>Raport eksperta</SectionTitle>
+          <PostDate date={expert.date} label="Data werdyktu:" />
           <Text preLine>{expert.comment}</Text>
-          <SubSectionTitle>Sources</SubSectionTitle>
+          <SubSectionTitle>Źródła</SubSectionTitle>
           <Text preLine>
             <Linkify
               componentDecorator={(href, text, key) => (
@@ -115,10 +126,11 @@ const VerdictContent = ({ isExpert, expert, checkers }) => {
 
       {checkers?.length > 0 && (
         <>
-          <SectionTitle>Community reports</SectionTitle>
+          <SectionTitle>Raporty społeczności</SectionTitle>
           {checkers.map((checker, i) => (
             <SubSection key={`${checker.title}_${i}`}>
-              <SubSectionTitle>Report {i + 1}</SubSectionTitle>
+              <SubSectionTitle>Raport {i + 1}</SubSectionTitle>
+              <PostDate date={checker.date} label="Data werdyktu:" />
               <Text preLine>{checker.comment}</Text>
               <Text preLine>
                 <Linkify
@@ -139,6 +151,12 @@ const VerdictContent = ({ isExpert, expert, checkers }) => {
   )
 }
 
+VerdictContent.propTypes = {
+  isExpert: PropTypes.bool,
+  expert: PropTypes.object,
+  checkers: PropTypes.array
+}
+
 const getTitle = (expert, checkers = []) => expert?.title || checkers[0]?.title
 const getComment = (expert, checkers = []) => expert?.comment || checkers[0]?.comment
 
@@ -146,7 +164,7 @@ const Details = ({ data: details, error, seo }) => {
   return (
     <>
       <Head>
-        <title>DoFacts! - {details.title}</title>
+        <title>#FakeHunter - {details.title}</title>
         <meta name="description" content={seo.description}></meta>
         <meta name="twitter:card" content="summary"></meta>
         <meta property="og:type" content="article" />
@@ -155,7 +173,7 @@ const Details = ({ data: details, error, seo }) => {
         <meta property="og:image" content={details.screenshot_url} />
         <meta
           name="description"
-          content="DoFacts! is an open source project focused on the fight against disinformation"
+          content="#FakeHunter to społeczny projekt weryfikacji treści publikowanych w internecie uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2"
         />
       </Head>
       <Topbar />
@@ -163,7 +181,10 @@ const Details = ({ data: details, error, seo }) => {
         <Suspense error={error}>
           <Container>
             <DetailsTitle>{details.title}</DetailsTitle>
-            <PostDate date={getPostDate(details.expert, details.checkers)} />
+            <PostDate
+              date={getPostDate(details.expert, details.checkers)}
+              label="Data zgłoszenia:"
+            />
           </Container>
           <NewsInfo>
             <Container>
@@ -218,6 +239,12 @@ export async function getServerSideProps({ params }) {
   } catch (error) {
     return { props: { error: error.response?.data || error.message, data: {}, seo: {} } }
   }
+}
+
+Details.propTypes = {
+  data: PropTypes.object,
+  seo: PropTypes.object,
+  error: PropTypes.string
 }
 
 export default Details

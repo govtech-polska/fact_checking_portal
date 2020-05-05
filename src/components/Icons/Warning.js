@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 const Warning = ({ className }) => {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" className={className}>
@@ -11,6 +13,10 @@ const Warning = ({ className }) => {
       />
     </svg>
   )
+}
+
+Warning.propTypes = {
+  className: PropTypes.string
 }
 
 export default Warning

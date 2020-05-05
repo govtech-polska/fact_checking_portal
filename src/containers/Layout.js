@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 import styled from 'styled-components'
 
 import Footer from 'containers/Footer'
@@ -21,6 +22,10 @@ const Layout = ({ children }) => {
       <Footer />
     </AppWrapper>
   )
+}
+
+Layout.propTypes = {
+  children: PropTypes.element
 }
 
 export default Layout

@@ -70,7 +70,10 @@ Link.propTypes = {
   external: PropTypes.bool,
   children: PropTypes.node,
   variant: PropTypes.oneOf(['clear']),
-  size: PropTypes.oneOf(['small', 'regular'])
+  size: PropTypes.oneOf(['small', 'regular']),
+  withIcon: PropTypes.bool,
+  newTab: PropTypes.bool,
+  page: PropTypes.string
 }
 
 export default Link

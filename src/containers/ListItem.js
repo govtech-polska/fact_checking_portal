@@ -1,16 +1,17 @@
 import PropTypes from 'prop-types'
-import Link from 'components/Link'
 import styled from 'styled-components'
 import dateFormat from 'dateformat'
 
+import Link from 'components/Link'
 import Verdict from 'components/Verdict'
+
 import { resolveUrl } from 'utils'
 import { appUrls } from 'urls'
 
 const Article = styled.article`
   width: 100%;
-  background: #fff;
-  border: 1px solid #eee;
+  background: ${({ theme }) => theme.colors.white};
+  border: 1px solid ${({ theme }) => theme.colors.cardBorder};
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -28,7 +29,7 @@ const ImageWrapper = styled.div`
   @media (min-width: 600px) {
     height: auto;
     flex: 0 0 250px;
-    border-right: 1px solid #eee;
+    border-right: 1px solid ${({ theme }) => theme.colors.cardBorder};
   }
 `
 
@@ -77,14 +78,14 @@ const Description = styled.p`
 const Button = styled(Link)`
   padding: 14px 20px;
   font-size: 14px;
-  border-radius: 4px;
+  border-radius: 2px;
   font-weight: ${({ theme }) => theme.font.weight.medium};
   color: ${({ theme }) => theme.colors.white};
   background: ${({ theme }) => theme.colors.primary};
   transition: all 0.2s ease;
 
   &:hover {
-    color: #fff;
+    color: ${({ theme }) => theme.colors.white};
     background: ${({ theme }) => theme.colors.primaryHover};
   }
 
@@ -101,7 +102,7 @@ const DateInfo = styled.p`
 `
 
 const ListItem = ({ id, title, description, image, verdict, date, isFinal }) => {
-  const formattedDate = date && dateFormat(new Date(date), 'dd.mm.yyyy')
+  const formattedDate = date && dateFormat(new Date(date), 'dd.mm.yyyy HH:MM')
 
   return (
     <Article>
@@ -113,13 +114,13 @@ const ListItem = ({ id, title, description, image, verdict, date, isFinal }) => 
       <Content>
         <CardBody>
           <Title>{title}</Title>
-          <DateInfo>{formattedDate}</DateInfo>
+          <DateInfo>Data zgłoszenia: {formattedDate}</DateInfo>
           <Description>{description}</Description>
         </CardBody>
         <CardMeta>
           <Verdict type={verdict} size="list" isFinal={isFinal} />
           <Button page="/[id]" href={resolveUrl(appUrls.DETAILS, { id })}>
-            Show report
+            Zobacz raport
           </Button>
         </CardMeta>
       </Content>
@@ -128,9 +129,13 @@ const ListItem = ({ id, title, description, image, verdict, date, isFinal }) => 
 }
 
 ListItem.propTypes = {
+  id: PropTypes.string,
   title: PropTypes.string,
   description: PropTypes.string,
-  image: PropTypes.string
+  image: PropTypes.string,
+  verdict: PropTypes.string,
+  date: PropTypes.string,
+  isFinal: PropTypes.bool
 }
 
 export default ListItem

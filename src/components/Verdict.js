@@ -35,8 +35,6 @@ const styles = {
     wrapper: css`
       align-items: center;
       justify-content: center;
-      /* margin-bottom: 30px; */
-      /* margin-bottom: auto; */
       flex: 1;
       min-height: 100px;
     `,
@@ -113,14 +111,13 @@ const Warning = styled.p`
   }
 `
 
-// TODO: extract
 const mapTypeToIcon = {
   true: PositiveVote,
   false: NegativeVote,
   unidentified: Unknown
 }
 
-const Verdict = ({ type, size, className, isFinal }) => {
+const Verdict = ({ type, className, isFinal }) => {
   return (
     <Wrapper className={className}>
       <VerdictStatus>

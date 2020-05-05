@@ -1,10 +1,8 @@
-import { VERDICT_STATUS } from '../consts'
-
 const theme = {
   colors: {
-    primary: '#0260E8',
-    primaryHover: '#103a77',
-    primaryActive: '#161077',
+    primary: '#DC371B',
+    primaryHover: '#333',
+    primaryActive: '#dc551b',
 
     cardBorder: '#eee',
 
@@ -20,14 +18,8 @@ const theme = {
     verdicts: {
       true: 'green',
       false: 'red',
-      unidentified: 'gary'
+      unidentified: 'gray'
     },
-
-    secondary: '#D5233F',
-    secondaryAlt: '#A7162D',
-    black: '#1B1B1B',
-    grayDarker: '#656565',
-    grayDark: '#767676',
 
     gray: '#F1F1F1'
   },
@@ -40,7 +32,7 @@ const theme = {
     },
     weight: {
       regular: 400,
-      medium: 500,
+      medium: 600,
       bold: 700
     }
   },

@@ -1,16 +1,12 @@
 import Head from 'next/head'
-import Router, { useRouter } from 'next/router'
-import styled from 'styled-components'
-import useSWR, { mutate } from 'swr'
 
 import FeedLayoutManager from 'containers/FeedLayoutManager'
-import ListItem from 'containers/ListItem'
+import Topbar from 'containers/Topbar'
 import Feed from 'containers/Feed'
 import Container from 'components/Container'
 
 import { useState, useEffect } from 'react'
 import { FEED_LAYOUTS } from 'consts'
-import Topbar from 'containers/Topbar'
 
 const LAYOUT_TYPE = 'LAYOUT_TYPE'
 const Index = () => {
@@ -28,16 +24,19 @@ const Index = () => {
   return (
     <>
       <Head>
-        <title>DoFacts!</title>
+        <title>#FakeHunter - dołącz do walki z dezinformacją o SARS-COV-2</title>
         <meta
           name="description"
-          content="DoFacts! is an open source application focused on the fight against disinformation"
+          content="#FakeHunter to społeczny projekt weryfikacji treści publikowanych w internecie uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2"
         />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="DoFacts!" />
+        <meta
+          property="og:title"
+          content="#FakeHunter - dołącz do walki z dezinformacją o SARS-COV-2"
+        />
         <meta
           property="og:description"
-          content="DoFacts! is an open source application focused on the fight against disinformation"
+          content="#FakeHunter to społeczny projekt weryfikacji treści publikowanych w internecie uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2"
         />
       </Head>
 

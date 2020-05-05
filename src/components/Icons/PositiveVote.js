@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 const PositiveVote = ({ className }) => {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 0 511 512" className={className}>
@@ -7,6 +9,10 @@ const PositiveVote = ({ className }) => {
       />
     </svg>
   )
+}
+
+PositiveVote.propTypes = {
+  className: PropTypes.string
 }
 
 export default PositiveVote

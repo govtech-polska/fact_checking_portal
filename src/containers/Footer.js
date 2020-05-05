@@ -1,7 +1,8 @@
 import styled from 'styled-components'
 import Container from 'components/Container'
 import Link from 'components/Link'
-import LogoDOOK from 'components/Icons/LogoDOOK'
+import LogoPAP from 'components/Icons/LogoPAP'
+import LogoGovTech from 'components/Icons/LogoGovTech'
 
 const StyledFooter = styled.footer`
   width: 100%;
@@ -31,6 +32,10 @@ const LogoWrapper = styled.div`
 
   svg {
     height: 100%;
+
+    &:first-child {
+      margin-right: 16px;
+    }
   }
 `
 
@@ -40,32 +45,27 @@ const Links = styled.div`
 
 const StyledLink = styled(Link)`
   width: auto;
-  margin: 0 10px;
-  font-size: 15px;
+  margin: 0 5px;
+  font-size: 12px;
 `
 
 const LINKS = [
   {
-    label: 'Source code on Github',
-    value: 'https://github.com/dook/dofacts-portal/'
+    label: 'Regulamin',
+    value: 'https://fakehunter.pap.pl/attachments/regulamin_aplikacji.pdf'
   },
   {
-    label: 'Case study',
-    value: 'https://dook.pro/portfolio/fakehunter'
+    label: 'Reguły weryfikacji faktów',
+    value: 'https://fakehunter.pap.pl/attachments/reguly_weryfikacji_faktow.pdf'
+  },
+  {
+    label: 'Polityka korekt',
+    value: 'https://fakehunter.pap.pl/attachments/polityka_korekt.pdf'
+  },
+  {
+    label: 'Polityka prywatności',
+    value: 'https://fakehunter.pap.pl/attachments/polityka_prywatnosci.pdf'
   }
-
-  // {
-  //   label: 'Reguły weryfikacji faktów',
-  //   value: 'https://fakehunter.pap.pl/attachments/reguly_weryfikacji_faktow.pdf'
-  // },
-  // {
-  //   label: 'Polityka korekt',
-  //   value: 'https://fakehunter.pap.pl/attachments/polityka_korekt.pdf'
-  // },
-  // {
-  //   label: 'Polityka prywatności',
-  //   value: 'https://fakehunter.pap.pl/attachments/polityka_prywatnosci.pdf'
-  // }
 ]
 
 const Footer = () => {
@@ -73,8 +73,11 @@ const Footer = () => {
     <StyledFooter>
       <StyledContainer>
         <LogoWrapper>
-          <Link href="https://dook.pro/" external newTab>
-            <LogoDOOK />
+          <Link href="https://www.pap.pl/" external newTab>
+            <LogoPAP />
+          </Link>
+          <Link href="https://govtech.gov.pl/" external newTab>
+            <LogoGovTech />
           </Link>
         </LogoWrapper>
         <Links>

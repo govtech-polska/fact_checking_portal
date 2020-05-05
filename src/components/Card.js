@@ -69,7 +69,8 @@ Card.propTypes = {
   description: PropTypes.string,
   image: PropTypes.string,
   verdict: PropTypes.string,
-  isFinal: PropTypes.bool
+  isFinal: PropTypes.bool,
+  date: PropTypes.string
 }
 
 export default Card

@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 const Grid = ({ className, title }) => (
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 444 444" className={className}>
     <title>{title}</title>
@@ -7,5 +9,10 @@ const Grid = ({ className, title }) => (
     />
   </svg>
 )
+
+Grid.propTypes = {
+  className: PropTypes.string,
+  title: PropTypes.string
+}
 
 export default Grid
