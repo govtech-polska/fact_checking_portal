@@ -23,7 +23,7 @@
     "react-linkify": "^1.0.0-alpha",
     "react-paginate": "^6.3.2",
     "react-share": "4.1.0",
-    "react-syntax-highlighter": "^12.2.1",
+    "react-syntax-highlighter": "13.5.3",
     "route-parser": "^0.0.5",
     "styled-components": "5.0.1",
     "styled-jsx": "^3.3.0",
