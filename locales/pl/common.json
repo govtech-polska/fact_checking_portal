@@ -1,0 +1,30 @@
+{
+  "footer": {
+    "terms": {
+      "label": "Regulamin",
+      "file": "/regulamin_aplikacji.pdf"
+    },
+    "rulesOfVerification": {
+      "label": "Reguły weryfikacji faktów",
+      "file": "/reguly_weryfikacji_faktow.pdf"
+    },
+    "checkingPolicy": {
+      "label": "Polityka korekt",
+      "file": "/polityka_korekt.pdf"
+    },
+    "privacyPolicy": {
+      "label": "Polityka prywatności",
+      "file": "/polityka_prywatnosci.pdf"
+    },
+    "forDevelopers": "Dla programistów"
+  },
+  "nav": {
+    "verified": "Zweryfikowane informacje",
+    "about": "O projekcie",
+    "extension": "Zainstaluj wtyczkę",
+    "join": "Zostań fakehunterem",
+    "team": "Zespół",
+    "partners": "Partnerzy",
+    "helpUs": "Dołącz do developerów"
+  }
+}

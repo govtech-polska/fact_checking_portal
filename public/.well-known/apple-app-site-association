@@ -1,0 +1,15 @@
+{
+ "applinks": {
+   "apps": [],
+   "details": [
+      {
+       "appID": "K36E9SFT27.com.dook.fakehunter.dev",
+       "paths": ["*"]
+       },
+       {
+        "appID": "A58A936UKL.pl.pap.fakehunter",
+        "paths": ["*"]
+      }
+   ]
+ }
+}

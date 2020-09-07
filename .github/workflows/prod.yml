@@ -1,0 +1,99 @@
+on:
+  push:
+    branches:
+      - master
+env:
+  tf_version: '0.12.29'
+  tf_working_dir: 'terraform'
+  environment: 'prod'
+  IMAGE_TAG: ${{ github.sha }}
+  repository: '433731253015.dkr.ecr.eu-central-1.amazonaws.com/sfnf-portal-fe-prod'
+
+name: Deploy to Amazon ECS
+
+jobs:
+  build:
+    name: Build & Publish
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.aws_access_key }}
+          aws-secret-access-key: ${{ secrets.aws_secret_access_key }}
+          aws-region: eu-central-1
+
+      - name: Login to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      - name: Build, tag, and push image to Amazon ECR
+        id: build-image
+        env:
+          ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
+        run: |
+          # Build a docker container and
+          # push it to ECR so that it can
+          # be deployed to ECS.
+          docker build -t ${{ env.repository }}:${{ env.IMAGE_TAG }} --build-arg API_URL="https://panel-api.fakehunter.pap.pl"  --build-arg APP_URL="https://fakehunter.pap.pl" .
+          docker push ${{ env.repository }}:${{ env.IMAGE_TAG }}
+          echo "::set-output name=image::${{ secrets.aws_prod_repo }}:${{ env.IMAGE_TAG }}"
+
+  terraform:
+    name: 'Terraform'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.aws_access_key }}
+          aws-secret-access-key: ${{ secrets.aws_secret_access_key }}
+          aws-region: eu-central-1
+      - name: 'Checkout'
+        uses: actions/checkout@master
+      - name: 'Terraform Format'
+        uses: hashicorp/terraform-github-actions@master
+        with:
+          tf_actions_version: ${{ env.tf_version }}
+          tf_actions_subcommand: 'fmt'
+          tf_actions_working_dir: ${{ env.tf_working_dir }}
+
+      - name: 'Terraform Init'
+        uses: hashicorp/terraform-github-actions@master
+        with:
+          tf_actions_version: ${{ env.tf_version }}
+          tf_actions_subcommand: 'init'
+          args: '-backend-config=env_vars/prod.tf'
+          tf_actions_working_dir: ${{ env.tf_working_dir }}
+        env:
+          GIT_SSH_COMMAND: "echo '${{ secrets.ssh_key }}' > id_rsa
+            && echo $(ssh-keyscan -t rsa github.com) > known_hosts
+            && chmod 400 id_rsa known_hosts
+            && ssh -i ./id_rsa -o UserKnownHostsFile=./known_hosts"
+      - name: 'Terraform Validate'
+        uses: hashicorp/terraform-github-actions@master
+        with:
+          tf_actions_version: ${{ env.tf_version }}
+          tf_actions_subcommand: 'validate'
+          tf_actions_working_dir: ${{ env.tf_working_dir }}
+
+      - name: 'Terraform Plan Production'
+        uses: hashicorp/terraform-github-actions@master
+        with:
+          tf_actions_version: ${{ env.tf_version }}
+          tf_actions_subcommand: 'plan'
+          args: '-var="image_tag=${{ env.IMAGE_TAG }}" -var-file=env_vars/prod.tf'
+          tf_actions_working_dir: ${{ env.tf_working_dir }}
+
+      - name: 'Terraform Apply Production'
+        uses: hashicorp/terraform-github-actions@master
+        with:
+          tf_actions_version: ${{ env.tf_version }}
+          tf_actions_subcommand: 'apply'
+          args: '-var="image_tag=${{ env.IMAGE_TAG }}" -var-file=env_vars/prod.tf -auto-approve'
+          tf_actions_working_dir: ${{ env.tf_working_dir }}

@@ -1,0 +1,17 @@
+fqdn                = "fakehunter.pap.pl"
+domain              = "fakehunter.pap.pl"
+environment         = "prod"
+vpc_id              = "vpc-0e937b59f01e9c889"
+azs                 = ["eu-central-1a", "eu-central-1b", "eu-central-1c"]
+public_subnets      = ["subnet-09fc5906f7bc6994b", "subnet-01a4696859a224d2a", "subnet-0900caf0ab41e57e7"]
+private_subnets     = ["subnet-03bb0e34107109be1", "subnet-01c4b4aae03bd634d", "subnet-02c9d780ef6b313bd"]
+certificate_arn     = "arn:aws:acm:eu-central-1:433731253015:certificate/52135fa4-83ac-4ede-b098-5c1739d4707f"
+name                = "fakehunter"
+bucket              = "fakehunter-prod-tfstate"
+acl                 = "private"
+key                 = "sfnf-portal-fe"
+infra_statefile_key = "fakehunter-prod"
+region              = "eu-central-1"
+encrypt             = "true"
+dynamodb_table      = "fakehunter-prod-tfstate"
+ecr_registry        = "433731253015.dkr.ecr.eu-central-1.amazonaws.com/sfnf-portal-fe-prod"

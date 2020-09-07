@@ -1,0 +1,77 @@
+{
+  "title": "Dołącz do walki <0/> <1>z dezinformacją o SARS-CoV-2</1>",
+  "follow": "Śledź nas: ",
+  "quote": "„Prawdą jest zawsze to, co się dzieje, <0/> a nie nasza opowieść o tym, <1/> co się powinno dziać.”",
+  "section1": {
+    "title": "O projekcie",
+    "subtitle": "Wezwanie do walki z dezinformacją!",
+    "description": "to społeczny projekt weryfikacji treści publikowanych w internecie, uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2.",
+    "collapsed": {
+      "1": "Każdy internauta będzie mógł zgłosić wątpliwą treść do weryfikacji, a następnie otrzymać wiarygodną odpowiedź, zweryfikowaną przez społecznych liderów opinii oraz ekspertów PAP.",
+      "2": "W przestrzeni internetowej pojawia się coraz więcej fałszywych wiadomości, a ich zadaniem jest dezinformacja i sianie paniki w czasie zagrożenia epidemicznego. Projekt <0>#FakeHunter</0> zrodził się z potrzeby przeciwstawienia się takiej sytuacji, a także z dążenia do tego, by portale internetowe i wszyscy użytkownicy mediów społecznościowych w sposób odpowiedzialny dzielili się wyłącznie prawdziwymi przekazami.",
+      "3": "Kim jesteśmy",
+      "4": "Polska Agencja Prasowa jest spółką Skarbu Państwa, której działalność opiera się na ustawie z dnia 31 lipca 1997 roku. Na jej mocy PAP ma charakter publicznej agencji prasowej, która uzyskuje i przekazuje odbiorcom rzetelne, obiektywne i wszechstronne informacje z kraju i z zagranicy.",
+      "5": "Program GovTech Polska jest realizowany przez Zespół, działający w Kancelarii Prezesa Rady Ministrów pod patronatem Premiera. Zespół odpowiada za międzyresortowe projekty w dziedzinie innowacji, nowych technologii oraz cyfryzacji. Jego celem jest budowa nowoczesnego Państwa wspólnie z innowatorami: przedsiębiorcami, start-upami, środowiskiem naukowym oraz samymi obywatelami. Zespół skupia także społeczność innowatorów, chcących wspólnie przyczynić się do budowy nowoczesnego, cyfrowego Państwa.",
+      "6": "Źródła finansowania",
+      "7": "Podstawowymi źródłami finansowania Polskiej Agencji Prasowej są wpływy z opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące z działalności gospodarczej, która nie pozostaje w sprzeczności z zadaniami określonymi w ustawie. Do źródeł finansowania zalicza się także dotacje podmiotowe z budżetu państwa, związane z realizacją celów określonych w ustawie, które stanowią ok. 15 proc. rocznych przychodów PAP."
+    }
+  },
+  "section2": {
+    "title": "Zgłoś do weryfikacji",
+    "subtitle": "Sprawdź, zanim prześlesz dalej",
+    "description": "Jeśli napotkasz w internecie informację na temat koronawirusa, która budzi twoją wątpliwość, wyślij nam ją do zweryfikowania. Nasi eksperci sprawdzą jej treść na podstawie wiarygodnych źródeł, a Ty otrzymasz link zwrotny z werdyktem. Jeśli informacja okaże się nieprawdziwa, wklej link w miejscu, gdzie ją znalazłeś. W ten sposób wesprzesz nas w walce z dezinformacją, za co ci bardzo dziękujemy!",
+    "collapsed": {
+      "title": "Jak to zrobić",
+      "1": "zainstaluj wtyczkę aplikacji #FakeHunter w swojej przeglądarce",
+      "2": "zaznacz tekst, który chcesz zweryfikować",
+      "3": "uruchom okno aplikacji",
+      "4": "podaj swój e-mail, na który wyślemy ci rezultat weryfikacji",
+      "5": "napisz, co w tej wiadomości budzi twoją wątpliwość",
+      "6": "kliknij przycisk „wyślij”"
+    },
+    "installExtBtn": "Zainstaluj wtyczkę"
+  },
+  "section3": {
+    "title": "Zweryfikowane informacje",
+    "subtitle": "Zobacz, co już sprawdziliśmy",
+    "description": "W tym miejscu znajdziesz wszystkie zweryfikowane informacje zgłoszone do nas przez internautów. Przekonaj się, jakie treści na temat koronawirusa były prawdziwe, a jakie nie i wykorzystaj to źródło do prostowania fałszywych informacji, gdy je zauważysz.",
+    "verifiedNewsBtn": "Zobacz"
+  },
+  "section4": {
+    "title": "Zostań fakehunterem",
+    "subtitle": "Dołącz do naszego zespołu",
+    "description": "Jesteś zaangażowany społecznie? Zależy ci na dystrybucji wiarygodnych informacji w przestrzeni publicznej i chcesz z nami zrobić coś pożytecznego? Jeśli tak, to przyłącz się do projektu <0>#FakeHunter</0> i pomóż nam weryfikować nieprawdziwe wiadomości dotyczące epidemii.",
+    "applyBtn": "Aplikuj"
+  },
+  "section5": {
+    "title": "Partnerzy",
+    "subtitle": "Wspierają naszą akcję",
+    "description": "Kluczowymi uczestnikami projektu <0>#FakeHunter</0> są również firmy oraz instytucje, które do nas dołączyły. Dzięki ich zaangażowaniu i wsparciu mogliśmy uruchomić ten ważny społecznie projekt. Doceniamy, że jesteście z nami i aktywnie wspieracie walkę z dezinformacją.",
+    "techLeader": "Lider technologii",
+    "joinBtn": "Dołącz do partnerów projektu"
+  },
+  "section6": {
+    "title": "Pomóż nam rozbudować aplikację",
+    "subtitle": "#ZwalczWirusaKodem",
+    "description": " Szukamy osób, które dołączą do zespołu dev aplikacji do walki z dezinformacją, pomogą rozwijać oprogramowanie, umożliwiające zgłaszanie treści, oraz weryfikację i ocenianie informacji przez społecznych Fact-Checkerów, a także zespół ekspertów PAP.",
+    "applyBtn": "Aplikuj"
+  },
+  "section7": {
+    "title": "Kontakt",
+    "subtitle": "Czekamy na twoją wiadomość",
+    "description": "Jesteś zainteresowany naszym projektem? Potrzebujesz więcej informacji na jego temat? A może chcesz nas wesprzeć, ale jeszcze nie wiesz jak? Jeśli tak, wyślij nam wiadomość za pomocą formularza na stronie. Bądźmy w kontakcie!",
+    "applyBtn": "Aplikuj"
+  },
+  "contactForm": {
+    "name": "Imię",
+    "surname": "Nazwisko",
+    "email": "Email",
+    "topic": "Temat",
+    "message": "Treść",
+    "send": "Wyślij",
+    "successMsg": "Twoja wiadomość została wysłana.",
+    "errorMsg": "Nie udało się wysłać wiadomości."
+  },
+  "more": "Więcej",
+  "less": "Mniej"
+}

@@ -1,0 +1,30 @@
+{
+  "footer": {
+    "terms": {
+      "label": "Terms of use",
+      "file": "/Terms_of_use.pdf"
+    },
+    "rulesOfVerification": {
+      "label": "FH Rules of Fact Verification",
+      "file": "/FH_Rules_of_Fact_Verification.pdf"
+    },
+    "checkingPolicy": {
+      "label": "Fact-checking policy",
+      "file": "/Fact-checking_policy.pdf"
+    },
+    "privacyPolicy": {
+      "label": "Privacy policy",
+      "file": "/Privacy_policy.pdf"
+    },
+    "forDevelopers": "For developers"
+  },
+  "nav": {
+    "verified": "Verified data",
+    "about": "About the project",
+    "extension": "Install the plug-in",
+    "join": "Join the Fakehunters",
+    "team": "Team",
+    "partners": "Partners",
+    "helpUs": "Help us update the app"
+  }
+}

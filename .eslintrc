@@ -1,0 +1,29 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "settings": {
+    "react": {
+      "version": "latest"
+    }
+  },
+  "env": {
+    "browser": true,
+    "jest": true,
+    "node": true,
+    "es6": true
+  },
+  "globals": {
+    "grecaptcha": "readonly"
+  },
+  "plugins": ["react", "react-hooks"],
+  "extends": ["eslint:recommended", "plugin:react/recommended", "plugin:prettier/recommended"],
+  "rules": {
+    "react/react-in-jsx-scope": 0
+  }
+}
