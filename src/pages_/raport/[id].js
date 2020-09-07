@@ -262,7 +262,7 @@ export async function getServerSideProps({ params, req }) {
     }
 
     const social = {
-      shareUrl: `${origin}/${params.id}`
+      shareUrl: `${origin}/raport/${params.id}`
     }
 
     return { props: { data, seo, social } }

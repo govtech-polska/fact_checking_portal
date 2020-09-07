@@ -180,8 +180,9 @@ const menuItems = (isFirefox = false, t) => [
 const NEW_TAB_PROPSES = { target: '_blank', rel: 'noreferrer noopener' }
 
 const Topbar = () => {
-  const { pathname } = useRouter()
-  const pathnameWithoutLocale = pathname.replace(/^\/en\/?/, '/')
+  const { route, asPath } = useRouter()
+  const routeWithoutLocale = route.replace(/^\/en\/?/, '/')
+  const pathWithoutLocale = asPath.replace(/^\/en\/?/, '/')
   const [isOpen, setIsOpen] = useState(false)
   const [isFirefox, setIsFirefox] = useState(false)
   const { t, lang } = useTranslation()
@@ -217,7 +218,11 @@ const Topbar = () => {
             </li>
           ))}
           <li>
-            <MenuItemLink nextLinkProps={{ lang: isPL ? 'en' : 'pl' }} href={pathnameWithoutLocale}>
+            <MenuItemLink
+              nextLinkProps={{ lang: isPL ? 'en' : 'pl' }}
+              page={routeWithoutLocale}
+              href={pathWithoutLocale}
+            >
               {isPL ? 'EN' : 'PL'}
             </MenuItemLink>
           </li>
