@@ -28,7 +28,7 @@ module.exports = () => {
     async redirects() {
       return [
         {
-          source: `/:id(^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$)`,
+          source: `/:id([0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12})`,
           destination: '/raport/:id',
           statusCode: 301
         }

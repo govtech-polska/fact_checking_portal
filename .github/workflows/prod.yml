@@ -35,13 +35,11 @@ jobs:
         id: build-image
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-          GOOGLE_SITE_KEY: ${{ secrets.GOOGLE_SITE_KEY }}
-          GOOGLE_SECRET_KEY: ${{ secrets.GOOGLE_SECRET_KEY }}
         run: |
           # Build a docker container and
           # push it to ECR so that it can
           # be deployed to ECS.
-          docker build -t ${{ env.repository }}:${{ env.IMAGE_TAG }} --build-arg API_URL="https://panel-api.fakehunter.pap.pl"  --build-arg APP_URL="https://fakehunter.pap.pl" .
+          docker build -t ${{ env.repository }}:${{ env.IMAGE_TAG }} --build-arg API_URL="https://panel-api.fakehunter.pap.pl"  --build-arg APP_URL="https://fakehunter.pap.pl" --build-arg GOOGLE_SITE_KEY=${{ secrets.GOOGLE_SITE_KEY }} --build-arg GOOGLE_SECRET_KEY=${{ secrets.GOOGLE_SECRET_KEY }} .
           docker push ${{ env.repository }}:${{ env.IMAGE_TAG }}
           echo "::set-output name=image::${{ secrets.aws_prod_repo }}:${{ env.IMAGE_TAG }}"
 
