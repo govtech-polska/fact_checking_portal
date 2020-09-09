@@ -308,6 +308,11 @@ const About = () => {
                         <img src="/images/logo_obywatele.jpg" alt="Obywatele zdrowo zaangażowani" />
                       </a>
                     </li>
+                    <li className="pfizer">
+                         <a target="_blank" rel="noopener noreferrer" href="https://pactt.pl/akademia">
+                          <img src="/images/logo_akademia-pactt-pfizer.jpg" alt="Akademia Pactt Pfizer" />
+                           </a>
+                    </li>
                     <li className="info">
                       <h5 className="title">
                         <a href="#kontakt">{t('about:section5.joinBtn')}</a>
