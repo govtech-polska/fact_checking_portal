@@ -68,7 +68,7 @@ const StyledLink = styled(Link)`
   padding: 8px 12px;
   margin: 6px 4px;
   position: relative;
-  text-transform: capitalize;
+  text-transform: uppercase;
   color: #6b3931;
   font-weight: ${({ theme }) => theme.font.weight.medium};
 
@@ -87,7 +87,7 @@ const MoreButton = styled(Button)`
   padding: 8px 12px;
   margin: 6px 4px;
   position: relative;
-  text-transform: capitalize;
+  text-transform: uppercase;
   color: ${({ theme }) => theme.colors.primary};
   font-weight: ${({ theme }) => theme.font.weight.medium};
   outline: none;
