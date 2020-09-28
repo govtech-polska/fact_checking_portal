@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import dateFormat from 'dateformat'
+import useTranslation from 'next-translate/useTranslation'
 
 import Link from 'components/Link'
 import Verdict from 'components/Verdict'
@@ -112,6 +113,7 @@ const TitleLink = styled(Link)`
 `
 
 const ListItem = ({ id, title, description, image, verdict, date, isFinal, newTab }) => {
+  const { t } = useTranslation()
   const formattedDate = date && dateFormat(new Date(date), 'dd.mm.yyyy HH:MM')
   const link = resolveUrl(appUrls.DETAILS, { id })
 
@@ -125,13 +127,15 @@ const ListItem = ({ id, title, description, image, verdict, date, isFinal, newTa
           <TitleLink page={appUrls.DETAILS} href={link} newTab={newTab}>
             <Title>{title}</Title>
           </TitleLink>
-          <DateInfo>Data zgłoszenia: {formattedDate}</DateInfo>
+          <DateInfo>
+            {t('verified:listItem.reportDate')} {formattedDate}
+          </DateInfo>
           <Description>{description}</Description>
         </CardBody>
         <CardMeta>
           <Verdict type={verdict} size="list" isFinal={isFinal} />
           <Button page={appUrls.DETAILS} href={link} newTab={newTab}>
-            Zobacz raport
+            {t('verified:listItem.showReport')}
           </Button>
         </CardMeta>
       </Content>

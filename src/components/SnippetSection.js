@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import Snippet from 'components/Snippet'
 import Container from 'components/Container'
 import { SectionTitle } from 'components/Typography'
+import useTranslation from 'next-translate/useTranslation'
 
 const Wrapper = styled.div`
   padding: 32px 0;
@@ -63,6 +64,7 @@ export const ConfigInput = styled.input`
 
 const SnippetSection = ({ renderConfig, defaultConfig, title, snippet, getSrc }) => {
   const [config, setConfig] = useState(defaultConfig)
+  const { t, lang } = useTranslation()
 
   return (
     <Wrapper>
@@ -70,12 +72,12 @@ const SnippetSection = ({ renderConfig, defaultConfig, title, snippet, getSrc })
         <Title>{title}</Title>
         <ConfigWrapper>
           <ConfigRow>
-            <ConfigLabel>Jakie wymiary ma mieć ten element?</ConfigLabel>
+            <ConfigLabel>{t('developers:iframes.common.sizeLabel')}</ConfigLabel>
             <InputsWrapper>
               <ConfigInput
                 name="width"
                 type="number"
-                placeholder="Szerokość (px)"
+                placeholder={t('developers:iframes.common.widthLabel') + ' (px)'}
                 onBlur={(e) =>
                   setConfig({ ...config, width: e.target.value || defaultConfig.width })
                 }
@@ -83,7 +85,7 @@ const SnippetSection = ({ renderConfig, defaultConfig, title, snippet, getSrc })
               <ConfigInput
                 name="height"
                 type="number"
-                placeholder="Wysokość (px)"
+                placeholder={t('developers:iframes.common.heightLabel') + ' (px)'}
                 onBlur={(e) =>
                   setConfig({ ...config, height: e.target.value || defaultConfig.height })
                 }
@@ -93,7 +95,7 @@ const SnippetSection = ({ renderConfig, defaultConfig, title, snippet, getSrc })
           {renderConfig && renderConfig(config, setConfig)}
         </ConfigWrapper>
         <Iframe
-          src={getSrc(config)}
+          src={getSrc({ ...config, isEn: lang === 'en' })}
           width={config.width}
           height={config.height}
           frameborder="0"

@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Link from 'components/Link'
+import useTranslation from 'next-translate/useTranslation'
 
 import { resolveUrl } from 'utils'
 import { request } from 'base/request'
@@ -48,13 +49,14 @@ const ContentWrapper = styled.div`
 `
 
 const Newest = ({ data }) => {
+  const { t } = useTranslation()
   const url = resolveUrl(appUrls.FEED)
   return (
     <>
       <DetailsWrapper>
         <LogoLink href={url} newTab>
           <StyledLogo />
-          <Title>Najnowsze raporty</Title>
+          <Title>{t('developers:plugins.newest')}</Title>
         </LogoLink>
         <ContentWrapper>
           {data?.map((item) => (

@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Linkify from 'react-linkify'
 import styled from 'styled-components'
 import dateFormat from 'dateformat'
+import useTranslation from 'next-translate/useTranslation'
 
 import Layout from 'containers/Layout'
 import Container from 'components/Container'
@@ -126,14 +127,16 @@ PostDate.propTypes = {
 }
 
 const VerdictContent = ({ isExpert, expert, checkers }) => {
+  const { t } = useTranslation()
+
   return (
     <>
       {isExpert && (
         <ExpertVerdictWrapper>
-          <VerdictSectionTitle>Raport eksperta</VerdictSectionTitle>
-          <PostDate date={expert.date} label="Data werdyktu:" withMargin />
+          <VerdictSectionTitle>{t('verified:report.expertReport')}</VerdictSectionTitle>
+          <PostDate date={expert.date} label={t('verified:report.verdictDate')} withMargin />
           <Text preLine>{expert.comment}</Text>
-          <SubSectionTitle>Źródła</SubSectionTitle>
+          <SubSectionTitle>{t('verified:report.sources')}</SubSectionTitle>
           <Text preLine>
             <Linkify
               componentDecorator={(href, text, key) => (
@@ -150,11 +153,13 @@ const VerdictContent = ({ isExpert, expert, checkers }) => {
 
       {checkers?.length > 0 && (
         <>
-          <VerdictSectionTitle>Raporty społeczności</VerdictSectionTitle>
+          <VerdictSectionTitle>{t('verified:report.communityReports')}</VerdictSectionTitle>
           {checkers.map((checker, i) => (
             <SubSection key={`${checker.title}_${i}`}>
-              <VerdictSubSectionTitle>Raport {i + 1}</VerdictSubSectionTitle>
-              <PostDate date={checker.date} label="Data werdyktu:" withMargin />
+              <VerdictSubSectionTitle>
+                {t('verified:report.reportNo', { number: i + 1 })}
+              </VerdictSubSectionTitle>
+              <PostDate date={checker.date} label={t('verified:report.verdictDate')} withMargin />
               <Text preLine>{checker.comment}</Text>
               <Text preLine>
                 <Linkify
@@ -182,6 +187,8 @@ VerdictContent.propTypes = {
 }
 
 const Details = ({ data, error, seo, social }) => {
+  const { t } = useTranslation()
+
   return (
     <>
       <Head>
@@ -215,7 +222,7 @@ const Details = ({ data, error, seo, social }) => {
                 })}
               </HashtagsWrapper>
               <SubtitleWrapper>
-                <PostDate date={data.reported_at} label="Data zgłoszenia:" />
+                <PostDate date={data.reported_at} label={t('verified:report.reportDate')} />
                 <SocialShare
                   url={social?.shareUrl}
                   title={seo.title}
@@ -225,7 +232,7 @@ const Details = ({ data, error, seo, social }) => {
             </Container>
             <NewsInfo>
               <Container>
-                <SectionTitle>Zgłoszony news</SectionTitle>
+                <SectionTitle>{t('verified:report.reportedNews')}</SectionTitle>
                 {data.screenshot_url && <Image src={data.screenshot_url} alt="" />}
                 <Text>{data.text}</Text>
                 <Link href={data.url} size="small" external newTab withIcon>
@@ -235,7 +242,7 @@ const Details = ({ data, error, seo, social }) => {
             </NewsInfo>
             <VerdictInfo>
               <Container>
-                <SectionTitle>Werdykt</SectionTitle>
+                <SectionTitle>{t('verified:report.verdict')}</SectionTitle>
                 <Verdict type={data.verdict} size="details" isFinal={data.verified_by_expert} />
                 <VerdictContent
                   isExpert={data.verified_by_expert}

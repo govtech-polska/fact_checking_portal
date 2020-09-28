@@ -1,0 +1,38 @@
+{
+  "feed": {
+    "newest": "Najnowsze",
+    "showAll": "pokaż wszystko",
+    "resultsForTag": "Wyniki dla #{{hashtag}}",
+    "resultsForCategory": "Wyniki dla kategorii {{category}}",
+    "categories": {
+      "all": "Wszystkie",
+      "showLess": "Pokaż mniej",
+      "showMore": "Pokaż więcej"
+    },
+    "pinned": "Polecane",
+    "latestTags": "Najpopularniejsze tagi:",
+    "layout": {
+      "listView": "Widok listy",
+      "cardView": "Widok kart"
+    }
+  },
+  "listItem": {
+    "reportDate": "Data zgłoszenia:",
+    "showReport": "Zobacz raport"
+  },
+  "report": {
+    "reportDate": "Data zgłoszenia:",
+    "reportedNews": "Zgłoszony news",
+    "verdict": "Werdykt",
+    "expertReport": "Raport eksperta",
+    "verdictDate": "Data werdyktu:",
+    "sources": "Sources",
+    "communityReports": "Raporty społecznosci",
+    "reportNo": "Report {{number}}",
+    "share": "Share: "
+  },
+  "pagination": {
+    "next": "Next",
+    "previous": "Previous"
+  }
+}

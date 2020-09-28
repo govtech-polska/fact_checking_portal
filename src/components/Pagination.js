@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 import ReactPaginate from 'react-paginate'
 import styled from 'styled-components'
+import useTranslation from 'next-translate/useTranslation'
 
 const styleVars = {
   colors: {
@@ -18,11 +19,9 @@ const PaginationWrapper = styled.div`
 
   ul {
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     padding: 0;
-  }
-
-  li {
   }
 
   a {
@@ -61,6 +60,7 @@ const PaginationWrapper = styled.div`
 `
 
 const Pagination = ({ total, pageSize, page = 1, onPageChange }) => {
+  const { t } = useTranslation()
   const pageCount = Math.ceil(total / pageSize)
 
   if (pageCount === 0) {
@@ -75,8 +75,8 @@ const Pagination = ({ total, pageSize, page = 1, onPageChange }) => {
         marginPagesDisplayed={2}
         pageRangeDisplayed={5}
         onPageChange={({ selected }) => onPageChange(selected + 1)}
-        nextLabel="Następna"
-        previousLabel="Poprzednia"
+        nextLabel={t('verified:pagination.next')}
+        previousLabel={t('verified:pagination.previous')}
       />
     </PaginationWrapper>
   )

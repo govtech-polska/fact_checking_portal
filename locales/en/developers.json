@@ -1,0 +1,31 @@
+{
+  "tabTitle": "#FakeHunter - for developers",
+  "title": "For developers",
+  "description": "Na tej stronie znaleźć można fragmenty kodu, które pozwalają na osadzenie istotnych elementów portalu na zewnętrznych stronach www. Każda z poniższych sekcji składa się z pól konfiguracyjnych, podglądu oraz gotowego kodu do osadzenia.",
+  "iframes": {
+    "common": {
+      "sizeLabel": "Jakie wymiary ma mieć ten element?",
+      "widthLabel": "Width",
+      "heightLabel": "Height"
+    },
+    "report": {
+      "title": "Raport fact checkingowy",
+      "urlLabel": "Jaki jest adres raportu?"
+    },
+    "pinned": {
+      "title": "Wyróżnione raporty"
+    },
+    "newest": {
+      "title": "Najnowsze raporty",
+      "countLabel": "Ile raportów wyświetlać?",
+      "countPlaceholder": "from {{from}} to {{to}} (eg. {{example}})"
+    }
+  },
+  "plugins": {
+    "report": {
+      "readMore": "Read more"
+    },
+    "pinned": "Polecane raporty",
+    "newest": "Najnowsze raporty"
+  }
+}

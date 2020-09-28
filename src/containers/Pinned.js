@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types'
 import useSWR from 'swr'
 import styled from 'styled-components'
+import useTranslation from 'next-translate/useTranslation'
 
 import { request } from 'base/request'
 import PinnedCard from 'containers/PinnedCard'
@@ -17,6 +18,7 @@ const Wrapper = styled.div`
 `
 
 const Pinned = ({ initialData }) => {
+  const { t } = useTranslation()
   const { data, error } = useSWR(apiUrls.FEED + `?is_pinned=true`, request, {
     suspense: false,
     initialData
@@ -33,7 +35,7 @@ const Pinned = ({ initialData }) => {
 
   return (
     <section>
-      <IndexSectionTitle>Polecane</IndexSectionTitle>
+      <IndexSectionTitle>{t('verified:feed.pinned')}</IndexSectionTitle>
       <Wrapper>
         {data?.results?.map((card) => (
           <PinnedCard

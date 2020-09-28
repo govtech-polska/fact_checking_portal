@@ -7,6 +7,10 @@
   "pages": {
     "*": ["common"],
     "/o-projekcie": ["about"],
-    "/zespol": ["team"]
+    "/zespol": ["team"],
+    "/dla-programistow": ["developers"],
+    "/plugins/*": ["developers"],
+    "/": ["verified"],
+    "/raport/[id]": ["verified"]
   }
 }

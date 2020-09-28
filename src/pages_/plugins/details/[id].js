@@ -9,6 +9,7 @@ import Logo from 'components/Icons/Logo'
 import { request } from 'base/request'
 import { resolveUrl } from 'utils'
 import { apiUrls, appUrls } from 'urls'
+import useTranslation from 'next-translate/useTranslation'
 
 const DetailsWrapper = styled.div`
   display: flex;
@@ -107,6 +108,7 @@ const MoreBtn = styled(Link)`
 `
 
 const Details = ({ data }) => {
+  const { t } = useTranslation()
   const url = resolveUrl(appUrls.DETAILS, { id: data.id })
   return (
     <>
@@ -122,7 +124,7 @@ const Details = ({ data }) => {
           <MetaWrapper>
             <StyledVerdict size="details" type={data.verdict} isFinal={data.verified_by_expert} />
             <MoreBtn href={url} newTab>
-              Czytaj dalej
+              {t('developers:plugins.report.readMore')}
             </MoreBtn>
           </MetaWrapper>
         </ContentWrapper>

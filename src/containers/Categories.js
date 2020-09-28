@@ -2,6 +2,7 @@ import { useRef, useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import useSWR from 'swr'
 import styled, { css } from 'styled-components'
+import useTranslation from 'next-translate/useTranslation'
 
 import Link from 'components/Link'
 import Container from 'components/Container'
@@ -101,6 +102,7 @@ const isOverflown = (el) => {
 }
 
 const Categories = ({ activeCategory, initialData }) => {
+  const { t } = useTranslation()
   const { data } = useSWR(apiUrls.CATEGORIES, request, {
     suspense: false,
     initialData
@@ -141,7 +143,7 @@ const Categories = ({ activeCategory, initialData }) => {
       <StyledContainer>
         <OverflowWrapper ref={$container} isOverflown={displayMoreBtn} showAll={showAll}>
           <StyledLink href={feedPageUrl} page={feedPageUrl} active={!activeCategory}>
-            Wszystkie
+            {t('verified:feed.categories.all')}
           </StyledLink>
 
           {data.results?.map(({ name }) => {
@@ -154,13 +156,13 @@ const Categories = ({ activeCategory, initialData }) => {
           })}
 
           <MoreButton onClick={() => setShowAll(false)} hide={!showAll}>
-            Pokaż mniej
+            {t('verified:feed.categories.showLess')}
           </MoreButton>
         </OverflowWrapper>
 
         {displayMoreBtn && (
           <MoreButton onClick={() => setShowAll(true)} hide={showAll}>
-            Pokaż więcej
+            {t('verified:feed.categories.showMore')}
           </MoreButton>
         )}
       </StyledContainer>

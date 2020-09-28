@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types'
 import Head from 'next/head'
+import useTranslation from 'next-translate/useTranslation'
 
 import Layout from 'containers/Layout'
 import Container from 'components/Container'
@@ -12,9 +13,11 @@ import { request } from 'base/request'
 
 const APP_URL = process.env.APP_URL
 
+const getAppUrl = (isEn) => `${process.env.APP_URL}${isEn ? '/en' : ''}`
+
 const DETAILS = {
   config: { width: 500, height: 360, url: 'caf6516b-b4b4-434c-8ea8-b0beddf858b8' },
-  src: ({ url }) => `${APP_URL}/plugins/details/${getUUIDFromUrl(url)}`,
+  src: ({ url, isEn }) => `${getAppUrl(isEn)}/plugins/details/${getUUIDFromUrl(url)}`,
   snippet: ({ url, width, height }) => `<iframe
   src="${APP_URL}/plugins/details/${getUUIDFromUrl(url)}"
   width="${width}" height="${height}" frameborder="0"
@@ -24,7 +27,7 @@ const DETAILS = {
 
 const PINNED = {
   config: { width: 1000, height: 450 },
-  src: () => `${APP_URL}/plugins/pinned`,
+  src: ({ isEn }) => `${getAppUrl(isEn)}/plugins/pinned`,
   snippet: ({ width, height }) => `<iframe
   src="${APP_URL}/plugins/pinned"
   width="${width}" height="${height}" frameborder="0"
@@ -34,7 +37,7 @@ const PINNED = {
 
 const NEWEST = {
   config: { width: 1000, height: 450, count: 5 },
-  src: ({ count }) => `${APP_URL}/plugins/newest?count=${count}`,
+  src: ({ count, isEn }) => `${getAppUrl(isEn)}/plugins/newest?count=${count}`,
   snippet: ({ width, height, count }) => `<iframe
   src="${APP_URL}/plugins/newest?count=${count}"
   width="${width}" height="${height}" frameborder="0"
@@ -43,30 +46,27 @@ const NEWEST = {
 }
 
 const Development = ({ defaultDetailsUrl }) => {
+  const { t } = useTranslation()
   return (
     <>
       <Head>
-        <CommonHead title="#FakeHunter - dla programistów" />
+        <CommonHead title={t('developers:tabTitle')} />
       </Head>
 
       <Layout>
         <Container>
-          <Title style={{ margin: '30px 0' }}>Dla programistów</Title>
-          <Text style={{ marginBottom: '48px' }}>
-            Na tej stronie znaleźć można fragmenty kodu, które pozwalają na osadzenie istotnych
-            elementów portalu na zewnętrznych stronach www. Każda z poniższych sekcji składa się z
-            pól konfiguracyjnych, podglądu oraz gotowego kodu do osadzenia.
-          </Text>
+          <Title style={{ margin: '30px 0' }}>{t('developers:title')}</Title>
+          <Text style={{ marginBottom: '48px' }}>{t('developers:description')}</Text>
         </Container>
 
         <SnippetSection
-          title="Raport fact checkingowy"
+          title={t('developers:iframes.report.title')}
           defaultConfig={{ ...DETAILS.config, url: defaultDetailsUrl }}
           getSrc={DETAILS.src}
           snippet={DETAILS.snippet}
           renderConfig={(config, setConfig) => (
             <ConfigRow>
-              <ConfigLabel>Jaki jest adres raportu?</ConfigLabel>
+              <ConfigLabel>{t('developers:iframes.report.urlLabel')}</ConfigLabel>
               <ConfigInput
                 name="url"
                 placeholder={`np. ${config.url}`}
@@ -77,24 +77,28 @@ const Development = ({ defaultDetailsUrl }) => {
         />
 
         <SnippetSection
-          title="Wyróżnione raporty"
+          title={t('developers:iframes.pinned.title')}
           defaultConfig={PINNED.config}
           getSrc={PINNED.src}
           snippet={PINNED.snippet}
         />
 
         <SnippetSection
-          title="Najnowsze raporty"
+          title={t('developers:iframes.newest.title')}
           defaultConfig={NEWEST.config}
           getSrc={NEWEST.src}
           snippet={NEWEST.snippet}
           renderConfig={(config, setConfig) => (
             <ConfigRow>
-              <ConfigLabel>Ile raportów wyświetlać?</ConfigLabel>
+              <ConfigLabel>{t('developers:iframes.newest.countLabel')}</ConfigLabel>
               <ConfigInput
                 name="count"
                 type="number"
-                placeholder="od 1 do 20 (np. 5)"
+                placeholder={t('developers:iframes.newest.countPlaceholder', {
+                  from: 1,
+                  to: 20,
+                  example: 5
+                })}
                 onBlur={(e) =>
                   setConfig({ ...config, count: e.target.value || NEWEST.config.count })
                 }
