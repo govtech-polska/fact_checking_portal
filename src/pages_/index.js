@@ -5,6 +5,7 @@ import Router from 'next-translate/Router'
 import { useRouter } from 'next/router'
 import styled from 'styled-components'
 import useSWR from 'swr'
+import useTranslation from 'next-translate/useTranslation'
 
 import FeedLayoutManager from 'containers/FeedLayoutManager'
 import Pinned from 'containers/Pinned'
@@ -37,10 +38,11 @@ const Header = styled.div``
 const FiltersWrapper = styled.div``
 
 const FeedTitle = ({ hashtag, category }) => {
+  const { t } = useTranslation()
   let title = null
 
-  if (hashtag) title = `Wyniki dla #${hashtag}`
-  if (category) title = `Wyniki dla kategorii ${category}`
+  if (hashtag) title = t('verified:feed.resultsForTag', { hashtag })
+  if (category) title = t('verified:feed.resultsForCategory', { category })
 
   if (title) {
     const resetUrl = resolveUrl(appUrls.FEED)
@@ -54,13 +56,13 @@ const FeedTitle = ({ hashtag, category }) => {
             scroll: false
           }}
         >
-          pokaż wszystko
+          {t('verified:feed.showAll')}
         </ResetLink>
       </IndexSectionTitle>
     )
   }
 
-  return <IndexSectionTitle>Najnowsze</IndexSectionTitle>
+  return <IndexSectionTitle>{t('verified:feed.newest')}</IndexSectionTitle>
 }
 
 FeedTitle.propTypes = {

@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
+import useTranslation from 'next-translate/useTranslation'
 
 import Link from 'components/Link'
 import PinnedCard from 'containers/PinnedCard'
@@ -52,13 +53,15 @@ const ContentWrapper = styled.div`
 `
 
 const Pinned = ({ data }) => {
+  const { t } = useTranslation()
   const url = resolveUrl(appUrls.FEED)
+
   return (
     <>
       <DetailsWrapper>
         <LogoLink href={url} newTab>
           <StyledLogo />
-          <Title>Polecane raporty</Title>
+          <Title>{t('developers:plugins.pinned')}</Title>
         </LogoLink>
         <ContentWrapper>
           {data?.results?.map((card) => (

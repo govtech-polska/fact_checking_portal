@@ -2,6 +2,7 @@ import { Fragment } from 'react'
 import PropTypes from 'prop-types'
 import useSWR from 'swr'
 import styled from 'styled-components'
+import useTranslation from 'next-translate/useTranslation'
 
 import Link from 'components/Link'
 import { resolveUrl } from 'utils'
@@ -16,6 +17,7 @@ const Text = styled.p`
 `
 
 const Hashtags = ({ initialData }) => {
+  const { t } = useTranslation()
   const { data, error } = useSWR(resolveUrl(apiUrls.TAGS, {}, { popular: true }), request, {
     suspense: false,
     initialData
@@ -29,7 +31,7 @@ const Hashtags = ({ initialData }) => {
 
   return (
     <Text>
-      Najpopularniejsze tagi:{' '}
+      {t('verified:feed.latestTags')}{' '}
       {results.map((tag, i) => {
         const url = resolveUrl(appUrls.FEED, {}, { tags: [tag.name] })
         return (

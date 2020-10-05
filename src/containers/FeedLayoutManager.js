@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
+import useTranslation from 'next-translate/useTranslation'
 
 import Button from 'components/Button'
 import GridIcon from 'components/Icons/Grid'
@@ -49,16 +50,17 @@ const StyledGridIcon = styled(GridIcon)`
 `
 
 const FeedLayoutManager = ({ active, onChange }) => {
+  const { t } = useTranslation()
   return (
     <Wrapper>
       <IconButton onClick={() => onChange(FEED_LAYOUTS.LIST)} active={active === FEED_LAYOUTS.LIST}>
-        <ListIcon title="Widok listy" />
+        <ListIcon title={t('verified:feed.layout.listView')} />
       </IconButton>
       <IconButton
         onClick={() => onChange(FEED_LAYOUTS.CARDS)}
         active={active === FEED_LAYOUTS.CARDS}
       >
-        <StyledGridIcon title="Widok kart" />
+        <StyledGridIcon title={t('verified:feed.layout.cardView')} />
       </IconButton>
     </Wrapper>
   )

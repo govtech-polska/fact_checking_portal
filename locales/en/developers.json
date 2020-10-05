@@ -1,0 +1,31 @@
+{
+  "tabTitle": "#FakeHunter - for developers",
+  "title": "For developers",
+  "description": "On this page, you can find code fragments that allow you to embed important portal elements on external websites. Each of the following sections consists of configuration fields, a preview and a ready code to be embedded.",
+  "iframes": {
+    "common": {
+      "sizeLabel": "What dimensions should this element have?",
+      "widthLabel": "Width",
+      "heightLabel": "Height"
+    },
+    "report": {
+      "title": "Fact checking report",
+      "urlLabel": "What's the address of the report?"
+    },
+    "pinned": {
+      "title": "Highlighted reports"
+    },
+    "newest": {
+      "title": "Latest reports",
+      "countLabel": "How many reports to display?",
+      "countPlaceholder": "from {{from}} to {{to}} (eg. {{example}})"
+    }
+  },
+  "plugins": {
+    "report": {
+      "readMore": "Read More"
+    },
+    "pinned": " Featured reports",
+    "newest": "Latest reports"
+  }
+}

@@ -12,6 +12,7 @@ import {
 import styled from 'styled-components'
 
 import createShareButton from 'react-share/lib/hocs/createShareButton'
+import useTranslation from 'next-translate/useTranslation'
 
 const Wrapper = styled.div`
   display: flex;
@@ -50,9 +51,10 @@ const WykopShareButton = createShareButton(
 )
 
 const SocialShare = ({ url, title, description }) => {
+  const { t } = useTranslation()
   return (
     <Wrapper>
-      <Label>Udostępnij:</Label>
+      <Label>{t('verified:report.share')}</Label>
       <FacebookShareButton url={url}>
         <FacebookIcon size={32} />
       </FacebookShareButton>
