@@ -18,8 +18,8 @@ const getAppUrl = (isEn) => `${process.env.APP_URL}${isEn ? '/en' : ''}`
 const DETAILS = {
   config: { width: 500, height: 360, url: 'caf6516b-b4b4-434c-8ea8-b0beddf858b8' },
   src: ({ url, isEn }) => `${getAppUrl(isEn)}/plugins/details/${getUUIDFromUrl(url)}`,
-  snippet: ({ url, width, height }) => `<iframe
-  src="${APP_URL}/plugins/details/${getUUIDFromUrl(url)}"
+  snippet: ({ url, width, height, isEn }) => `<iframe
+  src="${getAppUrl(isEn)}/plugins/details/${getUUIDFromUrl(url)}"
   width="${width}" height="${height}" frameborder="0"
   style="border: none; width: 100%; max-width: ${width}px;"
 />`
@@ -28,8 +28,8 @@ const DETAILS = {
 const PINNED = {
   config: { width: 1000, height: 450 },
   src: ({ isEn }) => `${getAppUrl(isEn)}/plugins/pinned`,
-  snippet: ({ width, height }) => `<iframe
-  src="${APP_URL}/plugins/pinned"
+  snippet: ({ width, height, isEn }) => `<iframe
+  src="${getAppUrl(isEn)}/plugins/pinned"
   width="${width}" height="${height}" frameborder="0"
   style="border: none; width: 100%; max-width: ${width}px;"
 />`
@@ -38,8 +38,8 @@ const PINNED = {
 const NEWEST = {
   config: { width: 1000, height: 450, count: 5 },
   src: ({ count, isEn }) => `${getAppUrl(isEn)}/plugins/newest?count=${count}`,
-  snippet: ({ width, height, count }) => `<iframe
-  src="${APP_URL}/plugins/newest?count=${count}"
+  snippet: ({ width, height, count, isEn }) => `<iframe
+  src="${getAppUrl(isEn)}/plugins/newest?count=${count}"
   width="${width}" height="${height}" frameborder="0"
   style="border: none; width: 100%; max-width: ${width}px;"
 />`

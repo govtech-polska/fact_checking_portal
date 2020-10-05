@@ -9,7 +9,7 @@
     "/o-projekcie": ["about"],
     "/zespol": ["team"],
     "/dla-programistow": ["developers"],
-    "/plugins/*": ["developers"],
+    "rgx:/plugins/*": ["developers", "verified"],
     "/": ["verified"],
     "/raport/[id]": ["verified"]
   }

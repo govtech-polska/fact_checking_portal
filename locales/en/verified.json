@@ -1,33 +1,33 @@
 {
   "feed": {
-    "newest": "Najnowsze",
-    "showAll": "pokaż wszystko",
-    "resultsForTag": "Wyniki dla #{{hashtag}}",
-    "resultsForCategory": "Wyniki dla kategorii {{category}}",
+    "newest": "Newest",
+    "showAll": "Show All",
+    "resultsForTag": "Results for #{{hashtag}}",
+    "resultsForCategory": "Results for category {{category}}",
     "categories": {
-      "all": "Wszystkie",
-      "showLess": "Pokaż mniej",
-      "showMore": "Pokaż więcej"
+      "all": "All",
+      "showLess": "Show less",
+      "showMore": "Show more"
     },
-    "pinned": "Polecane",
-    "latestTags": "Najpopularniejsze tagi:",
+    "pinned": "Recommended",
+    "latestTags": "Most popular tags:",
     "layout": {
-      "listView": "Widok listy",
-      "cardView": "Widok kart"
+      "listView": "List view",
+      "cardView": "Card view"
     }
   },
   "listItem": {
-    "reportDate": "Data zgłoszenia:",
-    "showReport": "Zobacz raport"
+    "reportDate": "Report date:",
+    "showReport": "See the report"
   },
   "report": {
-    "reportDate": "Data zgłoszenia:",
-    "reportedNews": "Zgłoszony news",
-    "verdict": "Werdykt",
-    "expertReport": "Raport eksperta",
-    "verdictDate": "Data werdyktu:",
+    "reportDate": "Report date:",
+    "reportedNews": "Reported news",
+    "verdict": "Verdict",
+    "expertReport": "Expert's report",
+    "verdictDate": "Date of the verdict:",
     "sources": "Sources",
-    "communityReports": "Raporty społecznosci",
+    "communityReports": "Community Reports",
     "reportNo": "Report {{number}}",
     "share": "Share: "
   },

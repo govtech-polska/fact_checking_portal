@@ -65,6 +65,7 @@ export const ConfigInput = styled.input`
 const SnippetSection = ({ renderConfig, defaultConfig, title, snippet, getSrc }) => {
   const [config, setConfig] = useState(defaultConfig)
   const { t, lang } = useTranslation()
+  const isEn = lang === 'en'
 
   return (
     <Wrapper>
@@ -95,7 +96,7 @@ const SnippetSection = ({ renderConfig, defaultConfig, title, snippet, getSrc })
           {renderConfig && renderConfig(config, setConfig)}
         </ConfigWrapper>
         <Iframe
-          src={getSrc({ ...config, isEn: lang === 'en' })}
+          src={getSrc({ ...config, isEn })}
           width={config.width}
           height={config.height}
           frameborder="0"
@@ -105,7 +106,7 @@ const SnippetSection = ({ renderConfig, defaultConfig, title, snippet, getSrc })
             maxWidth: `${config.width}px`
           }}
         />
-        <Snippet>{snippet(config)}</Snippet>
+        <Snippet>{snippet({ ...config, isEn })}</Snippet>
       </CenterContainer>
     </Wrapper>
   )
