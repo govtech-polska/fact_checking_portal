@@ -29,20 +29,18 @@ body {
   color: #fff;
   font-size: 130px;
   font-weight: 700;
-  line-height: 110px;
+  line-height: 150px;
   margin: 80px auto 200px auto;
   display: block;
   width: 1030px;
 }
-.s1 .title span {
-  font-size: 69px;
-}
+
 
 .en .s1 .title {
   font-size: 155px;
 }
 .en .s1 .title span {
-  font-size: 59px;
+  font-size: 89px;
 }
 
 .s1 .quotation {
@@ -509,14 +507,12 @@ body {
 
 @media (max-width: 1199px) {
   .s1 .title {
-    font-size: 117px;
+    font-size: 115px;
     margin: 60px auto 160px auto;
-    line-height: 90px;
+    line-height: 130px;
     width: 910px;
   }
-  .s1 .title span {
-    font-size: 61px;
-  }
+
   .s1 .quotation h2 {
     font-size: 25px;
     line-height: 33px;
@@ -526,7 +522,7 @@ body {
     font-size: 136px;
   }
   .en .s1 .title span {
-    font-size: 52px;
+    font-size: 77px;
   }
 
   .s2 .textWrapper,
@@ -569,20 +565,18 @@ body {
     display: none;
   }
   .s1 .title {
-    font-size: 85px;
+    font-size: 82px;
     width: 670px;
-    line-height: 70px;
+    line-height: 100px;
     margin: 60px auto 130px auto;
   }
-  .s1 .title span {
-    font-size: 45px;
-  }
+
 
   .en .s1 .title {
     font-size: 100px;
   }
   .en .s1 .title span {
-    font-size: 38px;
+    font-size: 57px;
   }
 
   .s2,
@@ -637,21 +631,19 @@ body {
     display: none;
   }
   .s1 .title {
-    font-size: 65px;
+    font-size: 60px;
     width: 505px;
-    line-height: 50px;
+    line-height: 70px;
     margin-bottom: 30px;
     margin-top: 10px;
   }
-  .s1 .title span {
-    font-size: 34px;
-  }
+
 
   .en .s1 .title {
     font-size: 78px;
   }
   .en .s1 .title span {
-    font-size: 29px;
+    font-size: 44px;
   }
 
   .s6 .logoWrapper li {
@@ -710,17 +702,15 @@ body {
   .s1 .title {
     font-size: 36px;
     width: 285px;
-    line-height: 33px;
+    line-height: 55px;
   }
-  .s1 .title span {
-    font-size: 19px;
-  }
+
 
   .en .s1 .title {
     font-size: 42px;
   }
   .en .s1 .title span {
-    font-size: 16px;
+    font-size: 24px;
   }
 
   .textWrapper .title {
