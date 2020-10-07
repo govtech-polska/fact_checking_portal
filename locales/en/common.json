@@ -21,10 +21,10 @@
   "nav": {
     "verified": "Verified data",
     "about": "About the project",
-    "extension": "Install the plug-in",
+    "report": "Report information",
     "join": "Join the Fakehunters",
     "team": "Team",
     "partners": "Partners",
-    "helpUs": "Help us update the app"
+    "challenge": "#FakeHunter Challenge"
   }
 }

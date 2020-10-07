@@ -5,7 +5,7 @@
       "file": "/regulamin_aplikacji.pdf"
     },
     "rulesOfVerification": {
-      "label": "ReguÅ‚y weryfikacji faktów",
+      "label": "Reguły weryfikacji faktów",
       "file": "/reguly_weryfikacji_faktow.pdf"
     },
     "checkingPolicy": {
@@ -23,7 +23,7 @@
     "about": "O projekcie",
     "report": "Zgłoś informację",
     "join": "Zostań fakehunterem",
-    "team": "Zespół‚",
+    "team": "Zespół",
     "partners": "Partnerzy"
   }
 }
