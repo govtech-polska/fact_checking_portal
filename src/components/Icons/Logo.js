@@ -10,7 +10,7 @@ const Logo = ({ className, color }) => {
   const fgColor = COLORS[color]
 
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 50" className={className}>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 239 66" className={className}>
       <title>#FakeHunter</title>
       <path
         fill={fgColor}
