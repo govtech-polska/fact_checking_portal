@@ -187,6 +187,13 @@ body {
   text-decoration: none;
 }
 
+.s3 .collapseButton{margin: 0 0 10px 0;}
+.s3 .collapseButton span:after{display:none !important;}
+.s3 .collapseButton:after{float: right;}
+
+.collapseButton:hover, .collapseButton:focus{color: #dc371b;}
+
+
 .en .collapseButton span:after {
   content: 'Less';
 }
@@ -297,9 +304,11 @@ body {
 .s6 .logoWrapper li.objectivity img {
   width: 80%;
 }
+
 .s6 .logoWrapper li.pfizer img {
   width: 80%;
 }
+
 .s6 .logoWrapper .info {
   padding: 0;
   text-align: center;
