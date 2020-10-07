@@ -5,7 +5,7 @@
       "file": "/regulamin_aplikacji.pdf"
     },
     "rulesOfVerification": {
-      "label": "ReguÅ‚y weryfikacji faktÃ³w",
+      "label": "ReguÅ‚y weryfikacji faktów",
       "file": "/reguly_weryfikacji_faktow.pdf"
     },
     "checkingPolicy": {
@@ -13,17 +13,17 @@
       "file": "/polityka_korekt.pdf"
     },
     "privacyPolicy": {
-      "label": "Polityka prywatnoÅ›ci",
+      "label": "Polityka prywatności",
       "file": "/polityka_prywatnosci.pdf"
     },
-    "forDevelopers": "Dla programistÃ³w"
+    "forDevelopers": "Dla programistów"
   },
   "nav": {
     "verified": "Zweryfikowane informacje",
     "about": "O projekcie",
-    "report": "ZgÅ‚oÅ› informacjÄ™",
-    "join": "ZostaÅ„ fakehunterem",
-    "team": "ZespÃ³Å‚",
+    "report": "Zgłoś informację",
+    "join": "Zostań fakehunterem",
+    "team": "Zespół‚",
     "partners": "Partnerzy"
   }
 }
