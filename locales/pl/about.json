@@ -20,16 +20,30 @@
     "title": "Zgłoś do weryfikacji",
     "subtitle": "Sprawdź, zanim prześlesz dalej",
     "description": "Jeśli napotkasz w internecie informację na temat koronawirusa, która budzi twoją wątpliwość, wyślij nam ją do zweryfikowania. Nasi eksperci sprawdzą jej treść na podstawie wiarygodnych źródeł, a Ty otrzymasz link zwrotny z werdyktem. Jeśli informacja okaże się nieprawdziwa, wklej link w miejscu, gdzie ją znalazłeś. W ten sposób wesprzesz nas w walce z dezinformacją, za co ci bardzo dziękujemy!",
+    "subtitle2": "Jak to zrobić",
+    "button": "Przeglądarka internetowa",
     "collapsed": {
-      "title": "Jak to zrobić",
       "1": "zainstaluj wtyczkę aplikacji #FakeHunter w swojej przeglądarce",
       "2": "zaznacz tekst, który chcesz zweryfikować",
       "3": "uruchom okno aplikacji",
       "4": "podaj swój e-mail, na który wyślemy ci rezultat weryfikacji",
       "5": "napisz, co w tej wiadomości budzi twoją wątpliwość",
-      "6": "kliknij przycisk „wyślij”"
+      "6": "kliknij przycisk „wyślij”",
+      "installExtBtn": "Zainstaluj wtyczkę"
     },
-    "installExtBtn": "Zainstaluj wtyczkę"
+    "button1": "Aplikacja mobilna",
+    "collapsed1": {
+      "1": "Pobierz i zainstaluj aplikację",
+      "2": "Wejdź w zakładkę „ZGŁOŚ”",
+      "3": "Wypełnij wszystkie wymagane pola i dołącz zrzut ekranu",
+      "4": "Kliknij przycisk wyślij",
+      "installExtBtn": "Pobierz aplikację"
+    },
+    "button2": "Zgłoś przez chatbota",
+    "collapsed2": {
+      "1": "Na profilu #FakeHunter na Facebooku otwórz okno wiadomości",
+      "2": "Zadaj pytanie w formie zamkniętej lub zgłoś informację postępując zgodnie z instrukcjami od chatbota"
+    }
   },
   "section3": {
     "title": "Zweryfikowane informacje",
@@ -49,12 +63,6 @@
     "description": "Kluczowymi uczestnikami projektu <0>#FakeHunter</0> są również firmy oraz instytucje, które do nas dołączyły. Dzięki ich zaangażowaniu i wsparciu mogliśmy uruchomić ten ważny społecznie projekt. Doceniamy, że jesteście z nami i aktywnie wspieracie walkę z dezinformacją.",
     "techLeader": "Lider technologii",
     "joinBtn": "Dołącz do partnerów projektu"
-  },
-  "section6": {
-    "title": "Pomóż nam rozbudować aplikację",
-    "subtitle": "#ZwalczWirusaKodem",
-    "description": " Szukamy osób, które dołączą do zespołu dev aplikacji do walki z dezinformacją, pomogą rozwijać oprogramowanie, umożliwiające zgłaszanie treści, oraz weryfikację i ocenianie informacji przez społecznych Fact-Checkerów, a także zespół ekspertów PAP.",
-    "applyBtn": "Aplikuj"
   },
   "section7": {
     "title": "Kontakt",

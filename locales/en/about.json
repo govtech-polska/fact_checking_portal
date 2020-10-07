@@ -20,6 +20,7 @@
     "title": "Report for verification",
     "subtitle": "Check before you share!",
     "description": "If you come across any information on the Internet about coronavirus that raises your doubts, please send it to us for verification. Our experts will validate its content based on reliable, scientific and official sources and you will receive a return link with the answer. If the information turns out to be incorrect, please paste the link where you found it. In this way, you will support us in the battle against misinformation. We are very grateful for your assistance!",
+    "button": "Web browser",
     "collapsed": {
       "title": "How to do it",
       "1": "Install the plug-in of the #FakeHunter app on your browser.",
@@ -27,9 +28,22 @@
       "3": "Launch the application window.",
       "4": "Enter your e-mail address on which we will send you the verification result.",
       "5": "Write what you find suspicious about this piece of content.",
-      "6": "Click \"send\"."
+      "6": "Click \"send\".",
+      "installExtBtn": "Install the plug-in"
     },
-    "installExtBtn": "Install the plug-in"
+    "button1": "Mobile application",
+    "collapsed1": {
+      "1": "Download and install the application",
+      "2": "Go to the \"REPORT6\" tab",
+      "3": "Fill in all required fields and attach a screenshot",
+      "4": "Click the send button",
+      "installExtBtn": "Download the App"
+    },
+    "button2": "Report via Chatbot",
+    "collapsed2": {
+      "1": "On the #FakeHunter Facebook profile, open a message window",
+      "2": "Ask a closed question or report information following the chatbot's instructions"
+    }
   },
   "section3": {
     "title": "Verified data",
@@ -49,12 +63,6 @@
     "description": "Among the key participants of the #FakeHunter project are also companies and institutions that have joined us. Thanks to their commitment and support, we were able to launch this socially significant project. We appreciate that you are with us and actively support the fight against disinformation.",
     "techLeader": "Technology leader",
     "joinBtn": "Join the partners"
-  },
-  "section6": {
-    "title": "Help us update the app",
-    "subtitle": "#FightVirusWithCode",
-    "description": "We are looking for volunteers who will join the dev team to fight disinformation, help develop software enabling content reporting, as well as verification and evaluation of information by social fact-checkers and a team of PAP experts.",
-    "applyBtn": "Apply"
   },
   "section7": {
     "title": "Contact",

@@ -150,14 +150,14 @@ const menuItems = (isFirefox = false, t) => [
     href: '/o-projekcie',
     label: t('common:nav.about')
   },
-  {
-    href: isFirefox
-      ? 'https://addons.mozilla.org/pl/firefox/addon/fakehunter-pap-pl/'
-      : 'https://chrome.google.com/webstore/detail/fakehunter/biebjolppinbddooahlglekngmalnfkf',
 
-    label: t('common:nav.extension'),
+
+  {
+    href: '/o-projekcie#jaktodziala',
+    label: t('common:nav.report'),
     special: true
   },
+
 
   {
     href: '/o-projekcie#zostanfakehunterem',
@@ -171,10 +171,6 @@ const menuItems = (isFirefox = false, t) => [
     href: '/o-projekcie#partnerzy',
     label: t('common:nav.partners')
   },
-  {
-    href: '/o-projekcie#dolacz',
-    label: t('common:nav.helpUs')
-  }
 ]
 
 const NEW_TAB_PROPSES = { target: '_blank', rel: 'noreferrer noopener' }
@@ -194,41 +190,41 @@ const Topbar = () => {
   }, [])
 
   return (
-    <Wrapper>
-      <Content>
-        <StyledLink href="/">
-          <StyledH1>
-            <Logo />
-          </StyledH1>
-        </StyledLink>
-        <Hamburger onClick={() => setIsOpen(!isOpen)}>
-          <HamburgerItems />
-        </Hamburger>
-        <MenuList isOpen={isOpen}>
-          {menuItems(isFirefox, t).map((item) => (
-            <li key={item.href}>
+      <Wrapper>
+        <Content>
+          <StyledLink href="/">
+            <StyledH1>
+              <Logo />
+            </StyledH1>
+          </StyledLink>
+          <Hamburger onClick={() => setIsOpen(!isOpen)}>
+            <HamburgerItems />
+          </Hamburger>
+          <MenuList isOpen={isOpen}>
+            {menuItems(isFirefox, t).map((item) => (
+                <li key={item.href}>
+                  <MenuItemLink
+                      href={item.href}
+                      special={item.special}
+                      external={item.special}
+                      {...(item.special ? NEW_TAB_PROPSES : {})}
+                  >
+                    {item.label}
+                  </MenuItemLink>
+                </li>
+            ))}
+            <li>
               <MenuItemLink
-                href={item.href}
-                special={item.special}
-                external={item.special}
-                {...(item.special ? NEW_TAB_PROPSES : {})}
+                  nextLinkProps={{ lang: isPL ? 'en' : 'pl' }}
+                  page={routeWithoutLocale}
+                  href={pathWithoutLocale}
               >
-                {item.label}
+                {isPL ? 'EN' : 'PL'}
               </MenuItemLink>
             </li>
-          ))}
-          <li>
-            <MenuItemLink
-              nextLinkProps={{ lang: isPL ? 'en' : 'pl' }}
-              page={routeWithoutLocale}
-              href={pathWithoutLocale}
-            >
-              {isPL ? 'EN' : 'PL'}
-            </MenuItemLink>
-          </li>
-        </MenuList>
-      </Content>
-    </Wrapper>
+          </MenuList>
+        </Content>
+      </Wrapper>
   )
 }
 
