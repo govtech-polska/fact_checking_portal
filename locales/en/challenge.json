@@ -1,84 +1,63 @@
 {
-  "title": "Join the fight <0/><1>against disinformation</1>",
+  "title": "FakeHunter <0/>  Challenge",
   "follow": "Follow us: ",
-  "quote": "„The truth is always what is happening,<0/> and not our story about<1/> what should be happening.”",
+  "quote": "„Take the challenge and join the fight against fake news by creating a network without fake. You also have an influence on what others read.”",
   "section1": {
-    "title": "About the project",
-    "subtitle": "The call to combat disinformation!",
-    "description": "is a community-based project for verifying content published on the Internet, launched by the Polish Press Agency (PAP) together with GovTech Polska. It aims to demystify and refute false information related to the SARS-CoV-2 virus.",
-    "collapsed": {
-      "1": "Every Internet user will be able to identify and report doubtful content for verification and then receive a reliable, fact-based answer, cross-checked by external opinion leaders and PAP experts, based on trusted, official sources.",
-      "2": "The number of false publications on the Internet has been growing at a dangerous rate. Their aim is to spread disinformation and panic, injecting fear into people’s minds and add drama in that already dramatic period of the epidemic. The #FakeHunter project was born out of the need to counter such a situation; in a bid to encourage websites and all social media users to responsibly share only evidence-based messages.",
-      "3": "Who are we?",
-      "4": "The Polish Press Agency (PAP) is a state-owned enterprise (SOE) operating based on a bill dating back to 31 July 1997. Under this law, PAP is a public press agency that gathers and disseminates reliable, objective and comprehensive domestic and foreign information to its clients.",
-      "5": "The GovTech Polska program is a Task Force operating at the Chancellery of the Prime Minister of Poland (Kancelaria Prezesa Rady Ministrów, KPRM), under the Prime Minister's direct supervision and patronage. The Team is responsible for horizontal, cross-ministerial strategic projects concerning innovation, new technologies, and digitization. It aims at creating the modern, citizen-friendly, fully digital and future-oriented State together with innovators and technology enthusiasts: businesses, start-ups, the scientific community and the citizens themselves.",
-      "6": "Sources of funding",
-      "7": "The basic sources of funding for the Polish Press Agency are revenues from fees for its information services delivered to clients, as well as incomes from economic activities not contradictory to and without any conflict of interest with the goals outlined in the law. The sources of funding also include special-purpose subsidies from the state budget related to the fulfillment of the goals outlined in the law and which constitute about 15 percent of the PAP's annual revenue."
-    }
+    "title": "About the challenge",
+    "subtitle": "What is fake news and why is it so dangerous?",
+    "description": "In cyberspace, false information, popularly known as fakes, is appearing more and more often on a scale larger than you think. They pertain to many areas of life, consciously or without being misleading. Anyone can be a victim of disinformation or even fraud. Without realizing what fake news is and how powerful it is, we believe what we read and watch too easily. The time of the coronavirus pandemic has shown the importance of the fight against false information. People started to believe that 5G technology causes Covid-19 disease and cancer, vaccines cause autism, and wearing face masks can be dangerous to your health. The victims of information scams on the Internet are, among others, ordinary people, public figures, companies whose market value is destroyed due to fake news.",
+    "button": "We have plenty of examples of fake news!"
   },
   "section2": {
-    "title": "Report for verification",
-    "subtitle": "Check before you share!",
-    "description": "If you come across any information on the Internet about coronavirus that raises your doubts, please send it to us for verification. Our experts will validate its content based on reliable, scientific and official sources and you will receive a return link with the answer. If the information turns out to be incorrect, please paste the link where you found it. In this way, you will support us in the battle against misinformation. We are very grateful for your assistance!",
-    "button": "Web browser",
+    "title": "Details",
+    "subtitle": "Competition rules",
+    "description": "The competition is open to all Internet users who speak Polish or English, regardless of age. The competition is open to teams of one to ten people, competing for 3 days and competing for attractive prizes. ",
+    "description1":"The competition consists of 4 competitions:",
+    "button": "Fake news hunt",
     "collapsed": {
-      "title": "How to do it",
-      "1": "Install the plug-in of the #FakeHunter app on your browser.",
-      "2": "Select the text you want to verify.",
-      "3": "Launch the application window.",
-      "4": "Enter your e-mail address on which we will send you the verification result.",
-      "5": "Write what you find suspicious about this piece of content.",
-      "6": "Click \"send\".",
-      "installExtBtn": "Install the plug-in"
+      "description": "In this competition the number of entries entered into the FakeHunter system from the area of the thematic categories provided for in the competition, which the jury deems verifiable, is scored."
     },
-    "button1": "Mobile application",
+    "button1": "Fact checking challenge",
     "collapsed1": {
-      "1": "Download and install the application",
-      "2": "Go to the \"REPORT6\" tab",
-      "3": "Fill in all required fields and attach a screenshot",
-      "4": "Click the send button",
-      "installExtBtn": "Download the App"
+      "description1": "This competition is a combination of fake hunt competition with the verification of applications carried out by the competition participants, issuing verdicts and preparation of fact checking reports in accordance with the #FakeHunter system fact checking rules."
     },
-    "button2": "Report via Chatbot",
+    "button2": "Improve FakeHuntra",
     "collapsed2": {
-      "1": "On the #FakeHunter Facebook profile, open a message window",
-      "2": "Ask a closed question or report information following the chatbot's instructions"
+      "description2": "According to the 'Policy of corrections' of the system, participants of the competition can verify reports already published on the #FakeHunter website from the beginning of its existence and present alternative verdicts and sources."
+    },
+    "button3": "Find the real source of fake news",
+    "collapsed3": {
+      "description3": "This competition consists in tracing, using the available Internet and programming tools, the original, real source of the fake news, verified as fake news on the #FakeHunter website or by the jury, presenting evidence and materials proving it. By fake news we mean information or a claim that can be verified with facts. Competition is not subject to opinions."
     }
   },
   "section3": {
-    "title": "Verified data",
-    "subtitle": "See what we have already checked",
-    "description": "All verified information reported to us by Internet users can be found below. Find out which coronavirus content was found true or false, and use this source to rectify false information when you see it.",
-    "verifiedNewsBtn": "View"
+    "title": "Verified informations",
+    "subtitle": "See what we've already checked",
+    "description": "Here you will find all verified information reported to us by Internet users. Find out what was real and what was wrong about the coronavirus, and use this source to rectify false information when you spot it.",
+    "verifiedNewsBtn": "Discover"
   },
   "section4": {
-    "title": "Join the Fakehunters",
-    "subtitle": "Join our team",
-    "description": "Are you socially engaged? Is the distribution of trustworthy information in the public space important to you? Do you want to do something useful with us and for society? If so, then join the <0>#FakeHunter</0> project and help us verify untrue news concerning the COVID-19 epidemic.",
-    "applyBtn": "Apply"
-  },
-  "section5": {
-    "title": "Partners",
-    "subtitle": "Support our campaign",
-    "description": "Among the key participants of the #FakeHunter project are also companies and institutions that have joined us. Thanks to their commitment and support, we were able to launch this socially significant project. We appreciate that you are with us and actively support the fight against disinformation.",
-    "techLeader": "Technology leader",
-    "joinBtn": "Join the partners"
+    "title": "Become fakehunter and win awards",
+    "subtitle": "Join the fight against fake news on the weekend of November 13-15",
+    "description": "On these days, anyone can take part in the challenge of finding and verifying fake news on the web and recive rewards. Points can be scored for reporting false information, preparing a source-based analysis and pointing to source of false information.",
+    "description1": "Take the challenge and join us in the fight against fake news by creating a network without fake. Share information about fakes, participate in discussions, follow <0>FakeHunter's profile</0> and convince others to do so. It is also up to you what they read and how they react to this information.",
+    "applyBtn": "Sign up"
   },
   "section7": {
     "title": "Contact",
     "subtitle": "We are waiting for your message",
-    "description": "Are you interested in our project? Do you need more information about it? Or maybe you want to support us, but you do not know how? If so, simply send us a message using the contact form on the page. Let us be in touch!",
-    "applyBtn": "Apply"
+    "description": "Are you interested in our project? Do you need more information about it? Or maybe you want to support us, but you don't know how yet? If so, send us a message using the form on the website. Let's be in touch!",
+    "applyBtn": "Sing up"
   },
   "contactForm": {
     "name": "Name",
     "surname": "Surname",
-    "email": "Email address",
+    "email": "Email",
     "topic": "Subject",
-    "message": "Message content",
+    "message": "Content",
     "send": "Send",
-    "successMsg": "Your message has been successfully submitted.",
-    "errorMsg": "Your message has not been submitted!"
+    "successMsg": "Your massage has been sent!",
+    "errorMsg": "We coudn't send your massage!"
   },
   "more": "More",
   "less": "Less"

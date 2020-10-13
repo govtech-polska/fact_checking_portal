@@ -47,7 +47,7 @@ const Challenge = () => {
               <div className="container">
                 <div className="row">
                   <div className="col-xl-12">
-                    <h1 className="title">
+                    <h1 className="title challenge_title">
                       <Trans i18nKey="challenge:title" components={[<br/>, <span/>]}/>
                     </h1>
                   </div>
@@ -82,7 +82,6 @@ const Challenge = () => {
                         <Trans i18nKey="challenge:quote" components={[<br/>, <br/>]}/>
                       </h2>
                       <br/>
-                      Organizatorzy
                     </div>
                   </div>
                 </div>
@@ -142,7 +141,7 @@ const Challenge = () => {
                     </div>
                   </div>
                   <div className="col-lg-6">
-                    <iframe height = "380px" className = "imageWrapper" src="https://www.youtube.com/embed/Q_trVUFPNCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe height = "400px"className = "imageWrapper" src="https://www.youtube.com/embed/Q_trVUFPNCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>
