@@ -132,11 +132,12 @@ const Challenge = () => {
                       <p>
                           {t('challenge:section1.description')}
                       </p>
-                      <p >
-                      {t('challenge:section1.description1') }
-                      </p>
-                      <a className="button" href="#">
-                        {t('challenge:section2.button')}
+                      <a className="button" 
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        href="/"
+                        >
+                        {t('challenge:section1.button')}
                       </a>
                     </div>
                   </div>
