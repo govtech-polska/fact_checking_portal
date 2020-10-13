@@ -171,6 +171,10 @@ const menuItems = (isFirefox = false, t) => [
     href: '/o-projekcie#partnerzy',
     label: t('common:nav.partners')
   },
+  {
+    href: '/challenge',
+    label: t('common:nav.challenge')
+  }
 ]
 
 const NEW_TAB_PROPSES = { target: '_blank', rel: 'noreferrer noopener' }
