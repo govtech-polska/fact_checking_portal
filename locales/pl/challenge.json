@@ -17,10 +17,10 @@
     }
   },
   "section2": {
-    "title": "Zgłoś do weryfikacji",
-    "subtitle": "Sprawdź, zanim prześlesz dalej",
-    "description": "Jeśli napotkasz w internecie informację na temat koronawirusa, która budzi twoją wątpliwość, wyślij nam ją do zweryfikowania. Nasi eksperci sprawdzą jej treść na podstawie wiarygodnych źródeł, a Ty otrzymasz link zwrotny z werdyktem. Jeśli informacja okaże się nieprawdziwa, wklej link w miejscu, gdzie ją znalazłeś. W ten sposób wesprzesz nas w walce z dezinformacją, za co ci bardzo dziękujemy!",
-    "subtitle2": "Jak to zrobić",
+    "title": "Szczegóły konkursu",
+    "subtitle": "Zasady rywalizacji",
+    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, bez względu na wiek. W konkursie mogą wziąć udział zespoły liczące od jednej do dziesięciu osób, przez 3 dni rywalizujące i walczące o atrakcyjne nagrody.",
+    "description1":"Konkurs składa się z 4 konkurencji:",
     "button": "Przeglądarka internetowa",
     "collapsed": {
       "1": "zainstaluj wtyczkę aplikacji #FakeHunter w swojej przeglądarce",
@@ -54,15 +54,9 @@
   "section4": {
     "title": "Zostań fakehunterem i zdobądź nagrody",
     "subtitle": "Dołącz do walki z fejk newsami w weekend 13-15 listopada",
-    "description": "W tych dniach każdy może wziąć udział w wyzwaniu polegającym na wyszukiwaniu i weryfikacji fake newsów w sieci i otrzymać za to nagrody. Punkty można otzymywać za zgłoszenie nieprawdziwej informacji, przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach lub wskazanie źródła pochodzenia fałszywej informacji. Podejmij wyzwanie i dołacz razem z nami do walki z fake newasami tworząc bez ściemy. Dziel sie informacjami o fejkach, udzielaj się w dyskusjach, obswerwuj progil FakeHunter i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
+    "description": "W tych dniach każdy może wziąć udział w wyzwaniu polegającym na wyszukiwaniu i weryfikacji fake newsów w sieci i otrzymać za to nagrody. Punkty można otzymywać za zgłoszenie nieprawdziwej informacji, przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach lub wskazanie źródła pochodzenia fałszywej informacji.",
+    "description1": "Podejmij wyzwanie i dołacz razem z nami do walki z fake newasami tworząc bez ściemy. Dziel sie informacjami o fejkach, udzielaj się w dyskusjach, obswerwuj <0>profil FakeHunter</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
     "applyBtn": "Zapisz się i zgłaszaj swoje Fejki"
-  },
-  "section5": {
-    "title": "Partnerzy",
-    "subtitle": "Wspierają naszą akcję",
-    "description": "Kluczowymi uczestnikami projektu <0>#FakeHunter</0> są również firmy oraz instytucje, które do nas dołączyły. Dzięki ich zaangażowaniu i wsparciu mogliśmy uruchomić ten ważny społecznie projekt. Doceniamy, że jesteście z nami i aktywnie wspieracie walkę z dezinformacją.",
-    "techLeader": "Lider technologii",
-    "joinBtn": "Dołącz do partnerów projektu"
   },
   "section7": {
     "title": "Kontakt",

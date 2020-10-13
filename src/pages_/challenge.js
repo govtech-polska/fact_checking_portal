@@ -104,7 +104,10 @@ const Challenge = () => {
                       <h2 className="section">{t('challenge:section4.title')}</h2>
                       <p className="title">{t('challenge:section4.subtitle')}</p>
                       <p>
-                        <Trans i18nKey="challenge:section4.description" components={[<span/>]}/>
+                        <Trans i18nKey="challenge:section4.description" />
+                      </p>
+                      <p>
+                        <Trans i18nKey="challenge:section4.description1" components={[<a href="https://www.facebook.com/PAPFakeHunter/"/>]}/>
                       </p>
                       <a
                           target="_blank"
@@ -127,7 +130,7 @@ const Challenge = () => {
                       <h2 className="section">{t('challenge:section1.title')}</h2>
                       <p className="title">{t('challenge:section1.subtitle')}</p>
                       <p>
-                        <span>#FakeHunter</span> {t('challenge:section1.description')}
+                          {t('challenge:section1.description')}
                       </p>
                       <div className="collapse" id="collapseOne">
                         <p>{t('challenge:section1.collapsed.1')}</p>
@@ -177,7 +180,7 @@ const Challenge = () => {
                       <h2 className="section">{t('challenge:section2.title')}</h2>
                       <p className="title">{t('challenge:section2.subtitle')}</p>
                       <p>{t('challenge:section2.description')}</p>
-                      <h3 className="subtitle">{t('challenge:section2.subtitle2')}</h3>
+                      <p>{t('challenge:section2.description1')}</p>
                       <a
                           className="collapseButton collapsed"
                           data-toggle="collapse"
