@@ -3,46 +3,32 @@
   "follow": "Śledź nas: ",
   "quote": "„Podejmij wyzwanie i dołacz do walki z fake newsami<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to co czytają inni.”",
   "section1": {
-    "title": "O projekcie",
-    "subtitle": "Wezwanie do walki z dezinformacją!",
-    "description": "to społeczny projekt weryfikacji treści publikowanych w internecie, uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2.",
-    "collapsed": {
-      "1": "Każdy internauta będzie mógł zgłosić wątpliwą treść do weryfikacji, a następnie otrzymać wiarygodną odpowiedź, zweryfikowaną przez społecznych liderów opinii oraz ekspertów PAP.",
-      "2": "W przestrzeni internetowej pojawia się coraz więcej fałszywych wiadomości, a ich zadaniem jest dezinformacja i sianie paniki w czasie zagrożenia epidemicznego. Projekt <0>#FakeHunter</0> zrodził się z potrzeby przeciwstawienia się takiej sytuacji, a także z dążenia do tego, by portale internetowe i wszyscy użytkownicy mediów społecznościowych w sposób odpowiedzialny dzielili się wyłącznie prawdziwymi przekazami.",
-      "3": "Kim jesteśmy",
-      "4": "Polska Agencja Prasowa jest spółką Skarbu Państwa, której działalność opiera się na ustawie z dnia 31 lipca 1997 roku. Na jej mocy PAP ma charakter publicznej agencji prasowej, która uzyskuje i przekazuje odbiorcom rzetelne, obiektywne i wszechstronne informacje z kraju i z zagranicy.",
-      "5": "Program GovTech Polska jest realizowany przez Zespół, działający w Kancelarii Prezesa Rady Ministrów pod patronatem Premiera. Zespół odpowiada za międzyresortowe projekty w dziedzinie innowacji, nowych technologii oraz cyfryzacji. Jego celem jest budowa nowoczesnego Państwa wspólnie z innowatorami: przedsiębiorcami, start-upami, środowiskiem naukowym oraz samymi obywatelami. Zespół skupia także społeczność innowatorów, chcących wspólnie przyczynić się do budowy nowoczesnego, cyfrowego Państwa.",
-      "6": "Źródła finansowania",
-      "7": "Podstawowymi źródłami finansowania Polskiej Agencji Prasowej są wpływy z opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące z działalności gospodarczej, która nie pozostaje w sprzeczności z zadaniami określonymi w ustawie. Do źródeł finansowania zalicza się także dotacje podmiotowe z budżetu państwa, związane z realizacją celów określonych w ustawie, które stanowią ok. 15 proc. rocznych przychodów PAP."
-    }
+    "title": "O konkursie",
+    "subtitle": "Czym jest fake i dlaczego jest tak groźny",
+    "description": "W cyberprzestrzeni coraz częściej pojawiają się i to na skalę większą niż myślisz, fałszywe informacje, popularnie zwane fejkami. Dotyczą one wielu dziedzin życia, świadomie lub nie wprowadzając w błąd. Każdy może być ofiarą dezinformacji lub wręcz oszustwa. Nie zdając sobie sprawy z tego, czym są fake newsy i jaka mają siłę rażenia, zbyt łatwo wierzymy w to, co czytamy i oglądamy. O tym, jak ważna jest walka z fałszywymi informacjami pokazał czas pandemii koronawirusa. W sieci zaczęły masowo pojawiać się informacje, że technologia 5G wywołuje chorobę Covid-19 i raka, szczepienia powodują autyzm, a noszenie maseczek może być groźne dla zdrowia. Ofiarami oszustw informacyjnych w internecie padają m.in. zwykli ludzie, osoby publiczne, firmy, których wartość rynkowa z powodu fake newsów jest niszczona.",
+    "description1": "<0>Przykładów fake newsów mamy dużo</0>",
+    "button": "Zapisz się i zgłaszaj swoje fejki!"
   },
   "section2": {
     "title": "Szczegóły konkursu",
     "subtitle": "Zasady rywalizacji",
     "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, bez względu na wiek. W konkursie mogą wziąć udział zespoły liczące od jednej do dziesięciu osób, przez 3 dni rywalizujące i walczące o atrakcyjne nagrody.",
     "description1":"Konkurs składa się z 4 konkurencji:",
-    "button": "Przeglądarka internetowa",
+    "button": "Polowanie na fake newsy (fake hunt)",
     "collapsed": {
-      "1": "zainstaluj wtyczkę aplikacji #FakeHunter w swojej przeglądarce",
-      "2": "zaznacz tekst, który chcesz zweryfikować",
-      "3": "uruchom okno aplikacji",
-      "4": "podaj swój e-mail, na który wyślemy ci rezultat weryfikacji",
-      "5": "napisz, co w tej wiadomości budzi twoją wątpliwość",
-      "6": "kliknij przycisk „wyślij”",
-      "installExtBtn": "Zainstaluj wtyczkę"
+      "description": "W tej konkurencji punktowana jest liczba wprowadzonych do systemu FakeHuntera zgłoszeń z obszaru przewidzianych w konkursie kategorii tematycznych, które jury uzna za możliwe do zweryfikowania."
     },
-    "button1": "Aplikacja mobilna",
+    "button1": "Fact checking challenge",
     "collapsed1": {
-      "1": "Pobierz i zainstaluj aplikację",
-      "2": "Wejdź w zakładkę „ZGŁOŚ”",
-      "3": "Wypełnij wszystkie wymagane pola i dołącz zrzut ekranu",
-      "4": "Kliknij przycisk wyślij",
-      "installExtBtn": "Pobierz aplikację"
+      "description1": "Konkurencja ta stanowi połączenie konkurencji polowania na fejki z przeprowadzaną przez uczestników konkursu weryfikacją zgłoszeń, wydawaniem werdyktów i przygotowaniem raportów fact checkingowych zgodnie z regułami weryfikacji faktów systemu #FakeHunter."
     },
-    "button2": "Zgłoś przez chatbota",
+    "button2": "Popraw FakeHuntra",
     "collapsed2": {
-      "1": "Na profilu #FakeHunter na Facebooku otwórz okno wiadomości",
-      "2": "Zadaj pytanie w formie zamkniętej lub zgłoś informację postępując zgodnie z instrukcjami od chatbota"
+      "description2": "Zgodnie z „Polityką korekt” systemu uczestnicy rywalizacji mogą weryfikować raporty już opublikowane w serwisie internetowym #FakeHunter od początku jego istnienia i przedstawić alternatywne werdykty i źródła."
+    },
+    "button3": "Znajdź prawdziwe źródło informacji",
+    "collapsed3": {
+      "description3": "Konkurencja ta polega na wyśledzeniu, za pomocą dostępnych narzędzi internetowych i programistycznych, pierwotnego, rzeczywistego źródła fałszywej informacji, zweryfikowanej jako fake news w serwisie #FakeHunter lub przez jury, przedstawienia dowodów i materiałów o tym świadczących."
     }
   },
   "section3": {

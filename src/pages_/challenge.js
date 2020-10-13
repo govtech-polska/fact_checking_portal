@@ -107,7 +107,7 @@ const Challenge = () => {
                         <Trans i18nKey="challenge:section4.description" />
                       </p>
                       <p>
-                        <Trans i18nKey="challenge:section4.description1" components={[<a href="https://www.facebook.com/PAPFakeHunter/"/>]}/>
+                        <Trans i18nKey="challenge:section4.description1" components={[<a href="https://www.facebook.com/PAPFakeHunter/" target="_blank"/>]}/>
                       </p>
                       <a
                           target="_blank"
@@ -132,30 +132,9 @@ const Challenge = () => {
                       <p>
                           {t('challenge:section1.description')}
                       </p>
-                      <div className="collapse" id="collapseOne">
-                        <p>{t('challenge:section1.collapsed.1')}</p>
-
-                        <p>
-                          <Trans i18nKey="challenge:section1.collapsed.2" components={[<span/>]}/>
-                        </p>
-
-                        <h3 className="subtitle">{t('challenge:section1.collapsed.3')}</h3>
-                        <p>{t('challenge:section1.collapsed.4')}</p>
-                        <p>{t('challenge:section1.collapsed.5')}</p>
-
-                        <h3 className="subtitle">{t('challenge:section1.collapsed.6')}</h3>
-                        <p>{t('challenge:section1.collapsed.7')}</p>
-                      </div>
-                      <a
-                          className="collapseButton collapsed"
-                          data-toggle="collapse"
-                          href="#collapseOne"
-                          role="button"
-                          aria-expanded="false"
-                          aria-controls="collapseOne"
-                      >
-                        <span></span>
-                      </a>
+                      <p>
+                      {t('challenge:section1.description1')}
+                      </p>
                     </div>
                   </div>
                   <div className="col-lg-6">
@@ -166,6 +145,8 @@ const Challenge = () => {
                 </div>
               </div>
             </section>
+
+            {/* start of zasady rywalizacji section */}
             <section className="s3" id="jaktodziala">
               <div className="container-fluid">
                 <div className="row no-gutters">
@@ -175,12 +156,14 @@ const Challenge = () => {
                       <div className="author">strixcode / Adobe Stock</div>
                     </div>
                   </div>
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section2.title')}</h2>
                       <p className="title">{t('challenge:section2.subtitle')}</p>
                       <p>{t('challenge:section2.description')}</p>
                       <p>{t('challenge:section2.description1')}</p>
+
                       <a
                           className="collapseButton collapsed"
                           data-toggle="collapse"
@@ -192,45 +175,7 @@ const Challenge = () => {
                       </a>
 
                       <div className="collapse" id="collapseTwo">
-
-                        <ol>
-                          <li>{t('challenge:section2.collapsed.1')}</li>
-                          <li>{t('challenge:section2.collapsed.2')}</li>
-                          <li>{t('challenge:section2.collapsed.3')}</li>
-                          <li>{t('challenge:section2.collapsed.4')}</li>
-                          <li>{t('challenge:section2.collapsed.5')}</li>
-                          <li>{t('challenge:section2.collapsed.6')}</li>
-                        </ol>
-                        <div className="dropdown">
-                          <button
-                              className="dropdown-toggle buttonDropdown"
-                              type="button"
-                              id="dropdownMenuButton"
-                              data-toggle="dropdown"
-                              aria-haspopup="true"
-                              aria-expanded="false"
-                          >
-                            {t('challenge:section2.collapsed.installExtBtn')}
-                          </button>
-                          <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="dropdown-item"
-                                href="https://chrome.google.com/webstore/detail/fakehunter/biebjolppinbddooahlglekngmalnfkf"
-                            >
-                              Chrome
-                            </a>
-                            <a
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="dropdown-item"
-                                href="https://addons.mozilla.org/pl/firefox/addon/fakehunter-pap-pl/"
-                            >
-                              Firefox
-                            </a>
-                          </div>
-                        </div>
+                          <p>{t('challenge:section2.collapsed.description')}</p>
                       </div>
 
                       <div></div>
@@ -246,48 +191,27 @@ const Challenge = () => {
                       </a>
 
                       <div className="collapse" id="collapseThree">
-
-                        <ol>
-                          <li>{t('challenge:section2.collapsed1.1')}</li>
-                          <li>{t('challenge:section2.collapsed1.2')}</li>
-                          <li>{t('challenge:section2.collapsed1.3')}</li>
-                          <li>{t('challenge:section2.collapsed1.4')}</li>
-                        </ol>
-                        <div className="dropdown">
-                          <button
-                              className="dropdown-toggle buttonDropdown"
-                              type="button"
-                              id="dropdownMenuButton1"
-                              data-toggle="dropdown"
-                              aria-haspopup="true"
-                              aria-expanded="false"
-                          >
-                            {t('challenge:section2.collapsed1.installExtBtn')}
-                          </button>
-                          <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                            <a
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="dropdown-item"
-                                href="https://play.google.com/store/apps/details?id=pl.pap.fakehunter"
-                            >
-                              Android
-                            </a>
-                            <a
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="dropdown-item"
-                                href="https://apps.apple.com/pl/app/fakehunter/id1527976394"
-                            >
-                              IOS
-                            </a>
-                          </div>
-                        </div>
+                        <p>{t('challenge:section2.collapsed1.description1')}</p>
                       </div>
 
 
                       <div></div>
 
+                      <a
+                          className="collapseButton collapsed"
+                          data-toggle="collapse"
+                          href="#collapseFive"
+                          role="button"
+                          aria-expanded="false"
+                          aria-controls="collapseFive">
+                        <span>{t('challenge:section2.button2')}</span>
+                      </a>
+
+                      <div className="collapse" id="collapseFive">
+                        <p>{t('challenge:section2.collapsed2.description2')}</p>
+                      </div>
+
+                      <div></div>
 
                       <a
                           className="collapseButton collapsed"
@@ -296,16 +220,11 @@ const Challenge = () => {
                           role="button"
                           aria-expanded="false"
                           aria-controls="collapseFour">
-                        <span>{t('challenge:section2.button2')}</span>
+                        <span>{t('challenge:section2.button3')}</span>
                       </a>
 
                       <div className="collapse" id="collapseFour">
-                        <ol>
-                          <li>{t('challenge:section2.collapsed2.1')}</li>
-                          <li>{t('challenge:section2.collapsed2.2')}</li>
-                        </ol>
-                        <a className="button"
-                           href="https://www.facebook.com/PAPFakeHunter/">Chatbot</a>
+                        <p>{t('challenge:section2.collapsed3.description3')}</p>
                       </div>
 
 
@@ -314,6 +233,8 @@ const Challenge = () => {
                 </div>
               </div>
             </section>
+            {/* end of zasady rywalizacji section */}
+
             <section className="s4" id="zweryfikowaneinformacje">
               <div className="container-fluid">
                 <div className="row no-gutters">
