@@ -1,7 +1,7 @@
 {
-  "title": "Dołącz do walki <0/> <1>z dezinformacją</1>",
+  "title": "FakeHunter <0/> <1> Challenge</1>",
   "follow": "Śledź nas: ",
-  "quote": "„Prawdą jest zawsze to, co się dzieje, <0/> a nie nasza opowieść o tym, <1/> co się powinno dziać.”",
+  "quote": "„Podejmij wyzwanie i dołacz do walki z fake newsami<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to co czytają inni.”",
   "section1": {
     "title": "O projekcie",
     "subtitle": "Wezwanie do walki z dezinformacją!",
@@ -52,10 +52,10 @@
     "verifiedNewsBtn": "Zobacz"
   },
   "section4": {
-    "title": "Zostań fakehunterem",
-    "subtitle": "Dołącz do naszego zespołu",
-    "description": "Jesteś zaangażowany społecznie? Zależy ci na dystrybucji wiarygodnych informacji w przestrzeni publicznej i chcesz z nami zrobić coś pożytecznego? Jeśli tak, to przyłącz się do projektu <0>#FakeHunter</0> i pomóż nam weryfikować nieprawdziwe wiadomości dotyczące epidemii.",
-    "applyBtn": "Aplikuj"
+    "title": "Zostań fakehunterem i zdobądź nagrody",
+    "subtitle": "Dołącz do walki z fejk newsami w weekend 13-15 listopada",
+    "description": "W tych dniach każdy może wziąć udział w wyzwaniu polegającym na wyszukiwaniu i weryfikacji fake newsów w sieci i otrzymać za to nagrody. Punkty można otzymywać za zgłoszenie nieprawdziwej informacji, przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach lub wskazanie źródła pochodzenia fałszywej informacji. Podejmij wyzwanie i dołacz razem z nami do walki z fake newasami tworząc bez ściemy. Dziel sie informacjami o fejkach, udzielaj się w dyskusjach, obswerwuj progil FakeHunter i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
+    "applyBtn": "Zapisz się i zgłaszaj swoje Fejki"
   },
   "section5": {
     "title": "Partnerzy",

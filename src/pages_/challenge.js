@@ -13,7 +13,7 @@ const setRecaptchaDisplay = (display) => {
   if (recaptcha) recaptcha.style.display = display
 }
 
-const About = () => {
+const challenge = () => {
   const {t, lang} = useTranslation()
   const isEn = lang === 'en'
 
@@ -42,20 +42,20 @@ const About = () => {
           />
         </Head>
         <Layout>
-          <div className={`about-project ${isEn ? 'en' : ''}`}>
+          <div className={`challenge-project ${isEn ? 'en' : ''}`}>
             <section className="s1">
               <div className="container">
                 <div className="row">
                   <div className="col-xl-12">
                     <h1 className="title">
-                      <Trans i18nKey="about:title" components={[<br/>, <span/>]}/>
+                      <Trans i18nKey="challenge:title" components={[<br/>, <span/>]}/>
                     </h1>
                   </div>
                 </div>
                 <div className="row">
                   <div className="col-xl-12">
                     <div className="followUs">
-                      <h4>{t('about:follow')}</h4>
+                      <h4>{t('challenge:follow')}</h4>
                       <ul>
                         <li className="facebook">
                           <a
@@ -79,10 +79,41 @@ const About = () => {
                   <div className="col-xl-12">
                     <div className="quotation">
                       <h2>
-                        <Trans i18nKey="about:quote" components={[<br/>, <br/>]}/>
+                        <Trans i18nKey="challenge:quote" components={[<br/>, <br/>]}/>
                       </h2>
                       <br/>
-                      Katie Byron
+                      Organizatorzy
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section className="s5" id="zostanfakehunterem">
+              <div className="container-fluid">
+                <div className="row no-gutters">
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/image3.png" alt=""/>
+                      <div className="author">
+                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section4.title')}</h2>
+                      <p className="title">{t('challenge:section4.subtitle')}</p>
+                      <p>
+                        <Trans i18nKey="challenge:section4.description" components={[<span/>]}/>
+                      </p>
+                      <a
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="button"
+                          href="https://zgloszenia.govtech.gov.pl/ankieta/512297/dolacz-do-korpusu-ludzi-walczacych-z-dezinformacja-towarzyszaca-epidemii-koronawirusa.html"
+                      >
+                        {t('challenge:section4.applyBtn')}
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -93,24 +124,24 @@ const About = () => {
                 <div className="row no-gutters">
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('about:section1.title')}</h2>
-                      <p className="title">{t('about:section1.subtitle')}</p>
+                      <h2 className="section">{t('challenge:section1.title')}</h2>
+                      <p className="title">{t('challenge:section1.subtitle')}</p>
                       <p>
-                        <span>#FakeHunter</span> {t('about:section1.description')}
+                        <span>#FakeHunter</span> {t('challenge:section1.description')}
                       </p>
                       <div className="collapse" id="collapseOne">
-                        <p>{t('about:section1.collapsed.1')}</p>
+                        <p>{t('challenge:section1.collapsed.1')}</p>
 
                         <p>
-                          <Trans i18nKey="about:section1.collapsed.2" components={[<span/>]}/>
+                          <Trans i18nKey="challenge:section1.collapsed.2" components={[<span/>]}/>
                         </p>
 
-                        <h3 className="subtitle">{t('about:section1.collapsed.3')}</h3>
-                        <p>{t('about:section1.collapsed.4')}</p>
-                        <p>{t('about:section1.collapsed.5')}</p>
+                        <h3 className="subtitle">{t('challenge:section1.collapsed.3')}</h3>
+                        <p>{t('challenge:section1.collapsed.4')}</p>
+                        <p>{t('challenge:section1.collapsed.5')}</p>
 
-                        <h3 className="subtitle">{t('about:section1.collapsed.6')}</h3>
-                        <p>{t('about:section1.collapsed.7')}</p>
+                        <h3 className="subtitle">{t('challenge:section1.collapsed.6')}</h3>
+                        <p>{t('challenge:section1.collapsed.7')}</p>
                       </div>
                       <a
                           className="collapseButton collapsed"
@@ -143,10 +174,10 @@ const About = () => {
                   </div>
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('about:section2.title')}</h2>
-                      <p className="title">{t('about:section2.subtitle')}</p>
-                      <p>{t('about:section2.description')}</p>
-                      <h3 className="subtitle">{t('about:section2.subtitle2')}</h3>
+                      <h2 className="section">{t('challenge:section2.title')}</h2>
+                      <p className="title">{t('challenge:section2.subtitle')}</p>
+                      <p>{t('challenge:section2.description')}</p>
+                      <h3 className="subtitle">{t('challenge:section2.subtitle2')}</h3>
                       <a
                           className="collapseButton collapsed"
                           data-toggle="collapse"
@@ -154,18 +185,18 @@ const About = () => {
                           role="button"
                           aria-expanded="false"
                           aria-controls="collapseTwo">
-                        <span>{t('about:section2.button')}</span>
+                        <span>{t('challenge:section2.button')}</span>
                       </a>
 
                       <div className="collapse" id="collapseTwo">
 
                         <ol>
-                          <li>{t('about:section2.collapsed.1')}</li>
-                          <li>{t('about:section2.collapsed.2')}</li>
-                          <li>{t('about:section2.collapsed.3')}</li>
-                          <li>{t('about:section2.collapsed.4')}</li>
-                          <li>{t('about:section2.collapsed.5')}</li>
-                          <li>{t('about:section2.collapsed.6')}</li>
+                          <li>{t('challenge:section2.collapsed.1')}</li>
+                          <li>{t('challenge:section2.collapsed.2')}</li>
+                          <li>{t('challenge:section2.collapsed.3')}</li>
+                          <li>{t('challenge:section2.collapsed.4')}</li>
+                          <li>{t('challenge:section2.collapsed.5')}</li>
+                          <li>{t('challenge:section2.collapsed.6')}</li>
                         </ol>
                         <div className="dropdown">
                           <button
@@ -176,7 +207,7 @@ const About = () => {
                               aria-haspopup="true"
                               aria-expanded="false"
                           >
-                            {t('about:section2.collapsed.installExtBtn')}
+                            {t('challenge:section2.collapsed.installExtBtn')}
                           </button>
                           <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                             <a
@@ -208,16 +239,16 @@ const About = () => {
                           role="button"
                           aria-expanded="false"
                           aria-controls="collapseTwo">
-                        <span>{t('about:section2.button1')}</span>
+                        <span>{t('challenge:section2.button1')}</span>
                       </a>
 
                       <div className="collapse" id="collapseThree">
 
                         <ol>
-                          <li>{t('about:section2.collapsed1.1')}</li>
-                          <li>{t('about:section2.collapsed1.2')}</li>
-                          <li>{t('about:section2.collapsed1.3')}</li>
-                          <li>{t('about:section2.collapsed1.4')}</li>
+                          <li>{t('challenge:section2.collapsed1.1')}</li>
+                          <li>{t('challenge:section2.collapsed1.2')}</li>
+                          <li>{t('challenge:section2.collapsed1.3')}</li>
+                          <li>{t('challenge:section2.collapsed1.4')}</li>
                         </ol>
                         <div className="dropdown">
                           <button
@@ -228,7 +259,7 @@ const About = () => {
                               aria-haspopup="true"
                               aria-expanded="false"
                           >
-                            {t('about:section2.collapsed1.installExtBtn')}
+                            {t('challenge:section2.collapsed1.installExtBtn')}
                           </button>
                           <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                             <a
@@ -262,13 +293,13 @@ const About = () => {
                           role="button"
                           aria-expanded="false"
                           aria-controls="collapseFour">
-                        <span>{t('about:section2.button2')}</span>
+                        <span>{t('challenge:section2.button2')}</span>
                       </a>
 
                       <div className="collapse" id="collapseFour">
                         <ol>
-                          <li>{t('about:section2.collapsed2.1')}</li>
-                          <li>{t('about:section2.collapsed2.2')}</li>
+                          <li>{t('challenge:section2.collapsed2.1')}</li>
+                          <li>{t('challenge:section2.collapsed2.2')}</li>
                         </ol>
                         <a className="button"
                            href="https://www.facebook.com/PAPFakeHunter/">Chatbot</a>
@@ -285,11 +316,11 @@ const About = () => {
                 <div className="row no-gutters">
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('about:section3.title')}</h2>
-                      <p className="title">{t('about:section3.subtitle')}</p>
-                      <p>{t('about:section3.description')}</p>
+                      <h2 className="section">{t('challenge:section3.title')}</h2>
+                      <p className="title">{t('challenge:section3.subtitle')}</p>
+                      <p>{t('challenge:section3.description')}</p>
                       <a className="button" href="/">
-                        {t('about:section3.verifiedNewsBtn')}
+                        {t('challenge:section3.verifiedNewsBtn')}
                       </a>
                     </div>
                   </div>
@@ -302,46 +333,15 @@ const About = () => {
                 </div>
               </div>
             </section>
-            <section className="s5" id="zostanfakehunterem">
-              <div className="container-fluid">
-                <div className="row no-gutters">
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/image3.png" alt=""/>
-                      <div className="author">
-                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-lg-6">
-                    <div className="textWrapper">
-                      <h2 className="section">{t('about:section4.title')}</h2>
-                      <p className="title">{t('about:section4.subtitle')}</p>
-                      <p>
-                        <Trans i18nKey="about:section4.description" components={[<span/>]}/>
-                      </p>
-                      <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="button"
-                          href="https://zgloszenia.govtech.gov.pl/ankieta/512297/dolacz-do-korpusu-ludzi-walczacych-z-dezinformacja-towarzyszaca-epidemii-koronawirusa.html"
-                      >
-                        {t('about:section4.applyBtn')}
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
             <section className="s6" id="partnerzy">
               <div className="container-fluid">
                 <div className="row no-gutters">
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('about:section5.title')}</h2>
-                      <p className="title">{t('about:section5.subtitle')}</p>
+                      <h2 className="section">{t('challenge:section5.title')}</h2>
+                      <p className="title">{t('challenge:section5.subtitle')}</p>
                       <p>
-                        <Trans i18nKey="about:section5.description" components={[<span/>]}/>
+                        <Trans i18nKey="challenge:section5.description" components={[<span/>]}/>
                       </p>
                     </div>
                   </div>
@@ -349,7 +349,7 @@ const About = () => {
                     <ul className="logoWrapper">
                       <li className="dook">
                         <div>
-                          <h5>{t('about:section5.techLeader')}</h5>
+                          <h5>{t('challenge:section5.techLeader')}</h5>
                           <a
                               target="_blank"
                               rel="noopener noreferrer"
@@ -396,7 +396,7 @@ const About = () => {
                       </li>
                       <li className="info">
                         <h5 className="title">
-                          <a href="#kontakt">{t('about:section5.joinBtn')}</a>
+                          <a href="#kontakt">{t('challenge:section5.joinBtn')}</a>
                         </h5>
                       </li>
                     </ul>
@@ -409,9 +409,9 @@ const About = () => {
                 <div className="row no-gutters">
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('about:section7.title')}</h2>
-                      <p className="title">{t('about:section7.subtitle')}</p>
-                      <p>{t('about:section7.description')}</p>
+                      <h2 className="section">{t('challenge:section7.title')}</h2>
+                      <p className="title">{t('challenge:section7.subtitle')}</p>
+                      <p>{t('challenge:section7.description')}</p>
                     </div>
                   </div>
                   <div className="col-lg-6">
@@ -428,4 +428,4 @@ const About = () => {
   )
 }
 
-export default About
+export default challenge
