@@ -5,7 +5,7 @@ import Trans from 'next-translate/Trans'
 
 import CommonHead from 'base/CommonHead'
 import Layout from 'containers/Layout'
-import ContactForm from 'components/ContactForm'
+import ChallengeContactForm from 'components/ChallengeContactForm'
 import {useEffect} from 'react'
 
 const setRecaptchaDisplay = (display) => {
@@ -13,7 +13,7 @@ const setRecaptchaDisplay = (display) => {
   if (recaptcha) recaptcha.style.display = display
 }
 
-const challenge = () => {
+const Challenge = () => {
   const {t, lang} = useTranslation()
   const isEn = lang === 'en'
 
@@ -333,91 +333,20 @@ const challenge = () => {
                 </div>
               </div>
             </section>
-            <section className="s6" id="partnerzy">
-              <div className="container-fluid">
-                <div className="row no-gutters">
-                  <div className="col-lg-6">
-                    <div className="textWrapper">
-                      <h2 className="section">{t('challenge:section5.title')}</h2>
-                      <p className="title">{t('challenge:section5.subtitle')}</p>
-                      <p>
-                        <Trans i18nKey="challenge:section5.description" components={[<span/>]}/>
-                      </p>
-                    </div>
-                  </div>
-                  <div className="col-lg-6">
-                    <ul className="logoWrapper">
-                      <li className="dook">
-                        <div>
-                          <h5>{t('challenge:section5.techLeader')}</h5>
-                          <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              href="https://dook.pro/"
-                              aria-label="DOOK"
-                          />
-                        </div>
-                      </li>
-                      <li className="objectivity">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://www.objectivity.co.uk/"
-                        >
-                          <img src="/images/objectivity_logo.png" alt="objectivity"/>
-                        </a>
-                      </li>
-                      <li>
-                        <a target="_blank" rel="noopener noreferrer" href="https://aws.amazon.com/">
-                          <img src="/images/aws_logo.png" alt="AWS"/>
-                        </a>
-                      </li>
-                      <li className="demagog">
-                        <a target="_blank" rel="noopener noreferrer" href="https://demagog.org.pl/">
-                          <img src="/images/demagog_logo.png" alt="Demagog"/>
-                        </a>
-                      </li>
-                      <li className="obywatele">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="http://www.obywatelezz.pl/"
-                        >
-                          <img src="/images/logo_obywatele.jpg"
-                               alt="Obywatele zdrowo zaangaĹźowani"/>
-                        </a>
-                      </li>
-                      <li className="pfizer">
-                        <a target="_blank" rel="noopener noreferrer"
-                           href="https://pactt.pl/akademia">
-                          <img src="/images/logo_akademia-pactt-pfizer.jpg"
-                               alt="Akademia Pactt Pfizer"/>
-                        </a>
-                      </li>
-                      <li className="info">
-                        <h5 className="title">
-                          <a href="#kontakt">{t('challenge:section5.joinBtn')}</a>
-                        </h5>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </section>
             <section className="s8" id="kontakt">
               <div className="container-fluid">
                 <div className="row no-gutters">
+                <div className="col-lg-6">
+                    <ul className="formWrapper">
+                      <ChallengeContactForm/>
+                    </ul>
+                  </div>
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section7.title')}</h2>
                       <p className="title">{t('challenge:section7.subtitle')}</p>
                       <p>{t('challenge:section7.description')}</p>
                     </div>
-                  </div>
-                  <div className="col-lg-6">
-                    <ul className="formWrapper">
-                      <ContactForm/>
-                    </ul>
                   </div>
                 </div>
               </div>
@@ -428,4 +357,4 @@ const challenge = () => {
   )
 }
 
-export default challenge
+export default Challenge
