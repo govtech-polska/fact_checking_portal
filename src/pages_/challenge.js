@@ -112,7 +112,7 @@ const Challenge = () => {
                           target="_blank"
                           rel="noopener noreferrer"
                           className="button"
-                          href="https://zgloszenia.govtech.gov.pl/ankieta/512297/dolacz-do-korpusu-ludzi-walczacych-z-dezinformacja-towarzyszaca-epidemii-koronawirusa.html"
+                          href="https://zgloszenia.govtech.gov.pl/ankieta/563990/powiadomienie-o-starcie-konkursu-fakehunter-challange.html"
                       >
                         {t('challenge:section4.applyBtn')}
                       </a>
@@ -132,7 +132,6 @@ const Challenge = () => {
                           {t('challenge:section1.description')}
                       </p>
                       <a className="button" 
-                        target="_blank"
                         rel="noopener noreferrer"
                         href="/"
                         >
