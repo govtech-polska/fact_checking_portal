@@ -4,9 +4,9 @@
   "quote": "„Podejmij wyzwanie i dołacz do walki z fake newsami<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to co czytają inni.”",
   "section1": {
     "title": "O konkursie",
-    "subtitle": "Czym jest fake i dlaczego jest tak groźny",
+    "subtitle": "Czym jest fake i dlaczego jest tak groźny?",
     "description": "W cyberprzestrzeni coraz częściej pojawiają się i to na skalę większą niż myślisz, fałszywe informacje, popularnie zwane fejkami. Dotyczą one wielu dziedzin życia, świadomie lub nie wprowadzając w błąd. Każdy może być ofiarą dezinformacji lub wręcz oszustwa. Nie zdając sobie sprawy z tego, czym są fake newsy i jaka mają siłę rażenia, zbyt łatwo wierzymy w to, co czytamy i oglądamy. O tym, jak ważna jest walka z fałszywymi informacjami pokazał czas pandemii koronawirusa. W sieci zaczęły masowo pojawiać się informacje, że technologia 5G wywołuje chorobę Covid-19 i raka, szczepienia powodują autyzm, a noszenie maseczek może być groźne dla zdrowia. Ofiarami oszustw informacyjnych w internecie padają m.in. zwykli ludzie, osoby publiczne, firmy, których wartość rynkowa z powodu fake newsów jest niszczona.",
-    "description1": "<0>Przykładów fake newsów mamy dużo</0>",
+    "description1": "Przykładów fake newsów mamy dużo!",
     "button": "Zapisz się i zgłaszaj swoje fejki!"
   },
   "section2": {
@@ -14,7 +14,7 @@
     "subtitle": "Zasady rywalizacji",
     "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, bez względu na wiek. W konkursie mogą wziąć udział zespoły liczące od jednej do dziesięciu osób, przez 3 dni rywalizujące i walczące o atrakcyjne nagrody.",
     "description1":"Konkurs składa się z 4 konkurencji:",
-    "button": "Polowanie na fake newsy (fake hunt)",
+    "button": "Zapisz się i zgłaszaj swoje fejki",
     "collapsed": {
       "description": "W tej konkurencji punktowana jest liczba wprowadzonych do systemu FakeHuntera zgłoszeń z obszaru przewidzianych w konkursie kategorii tematycznych, które jury uzna za możliwe do zweryfikowania."
     },

@@ -132,21 +132,21 @@ const Challenge = () => {
                       <p>
                           {t('challenge:section1.description')}
                       </p>
-                      <p>
-                      {t('challenge:section1.description1')}
+                      <p >
+                      {t('challenge:section1.description1') }
                       </p>
+                      <a className="button" href="#">
+                        {t('challenge:section2.button')}
+                      </a>
                     </div>
                   </div>
                   <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/image2.png" alt=""/>
-                    </div>
+                    <iframe height = "380px" className = "imageWrapper" src="https://www.youtube.com/embed/Q_trVUFPNCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>
             </section>
 
-            {/* start of zasady rywalizacji section */}
             <section className="s3" id="jaktodziala">
               <div className="container-fluid">
                 <div className="row no-gutters">
@@ -233,7 +233,6 @@ const Challenge = () => {
                 </div>
               </div>
             </section>
-            {/* end of zasady rywalizacji section */}
 
             <section className="s4" id="zweryfikowaneinformacje">
               <div className="container-fluid">
