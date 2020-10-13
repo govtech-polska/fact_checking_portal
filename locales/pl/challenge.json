@@ -1,0 +1,64 @@
+{
+  "title": "FakeHunter <0/> <1> Challenge</1>",
+  "follow": "Śledź nas: ",
+  "quote": "„Podejmij wyzwanie i dołacz do walki z fake newsami<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to co czytają inni.”",
+  "section1": {
+    "title": "O konkursie",
+    "subtitle": "Czym jest fake news i dlaczego jest tak groźny?",
+    "description": "W cyberprzestrzeni coraz częściej pojawiają się i to na skalę większą niż myślisz, fałszywe informacje, popularnie zwane fejkami. Dotyczą one wielu dziedzin życia, świadomie lub nie wprowadzając w błąd. Każdy może być ofiarą dezinformacji lub wręcz oszustwa. Nie zdając sobie sprawy z tego, czym są fake newsy i jaka mają siłę rażenia, zbyt łatwo wierzymy w to, co czytamy i oglądamy. O tym, jak ważna jest walka z fałszywymi informacjami pokazał czas pandemii koronawirusa. W sieci zaczęły masowo pojawiać się informacje, że technologia 5G wywołuje chorobę Covid-19 i raka, szczepienia powodują autyzm, a noszenie maseczek może być groźne dla zdrowia. Ofiarami oszustw informacyjnych w internecie padają m.in. zwykli ludzie, osoby publiczne, firmy, których wartość rynkowa z powodu fake newsów jest niszczona.",
+    "button": "Przykładów fake newsów mamy mnóstwo!"
+  },
+  "section2": {
+    "title": "Szczegóły konkursu",
+    "subtitle": "Zasady rywalizacji",
+    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, bez względu na wiek. W konkursie mogą wziąć udział zespoły liczące od jednej do dziesięciu osób, przez 3 dni rywalizujące i walczące o atrakcyjne nagrody.",
+    "description1":"Konkurs składa się z 4 konkurencji:",
+    "button": "Polowanie na fake newsy (fake news hunt)",
+    "collapsed": {
+      "description": "W tej konkurencji punktowana jest liczba wprowadzonych do systemu FakeHuntera zgłoszeń z obszaru przewidzianych w konkursie kategorii tematycznych, które jury uzna za możliwe do zweryfikowania."
+    },
+    "button1": "Fact checking challenge",
+    "collapsed1": {
+      "description1": "Konkurencja ta stanowi połączenie konkurencji polowania na fejki z przeprowadzaną przez uczestników konkursu weryfikacją zgłoszeń, wydawaniem werdyktów i przygotowaniem raportów fact checkingowych zgodnie z regułami weryfikacji faktów systemu #FakeHunter."
+    },
+    "button2": "Popraw FakeHuntra",
+    "collapsed2": {
+      "description2": "Zgodnie z „Polityką korekt” systemu uczestnicy rywalizacji mogą weryfikować raporty już opublikowane w serwisie internetowym #FakeHunter od początku jego istnienia i przedstawić alternatywne werdykty i źródła."
+    },
+    "button3": "Znajdź prawdziwe źródło informacji",
+    "collapsed3": {
+      "description3": "Konkurencja ta polega na wyśledzeniu, za pomocą dostępnych narzędzi internetowych i programistycznych, pierwotnego, rzeczywistego źródła fałszywej informacji, zweryfikowanej jako fake news w serwisie #FakeHunter lub przez jury, przedstawienia dowodów i materiałów o tym świadczących."
+    }
+  },
+  "section3": {
+    "title": "Zweryfikowane informacje",
+    "subtitle": "Zobacz, co już sprawdziliśmy",
+    "description": "W tym miejscu znajdziesz wszystkie zweryfikowane informacje zgłoszone do nas przez internautów. Przekonaj się, jakie treści na temat koronawirusa były prawdziwe, a jakie nie i wykorzystaj to źródło do prostowania fałszywych informacji, gdy je zauważysz.",
+    "verifiedNewsBtn": "Zobacz"
+  },
+  "section4": {
+    "title": "Zostań fakehunterem i zdobądź nagrody",
+    "subtitle": "Dołącz do walki z fake newsami w weekend 13-15 listopada",
+    "description": "W tych dniach każdy może wziąć udział w wyzwaniu polegającym na wyszukiwaniu i weryfikacji fake newsów w sieci i otrzymać za to nagrody. Punkty można otzymywać za zgłoszenie nieprawdziwej informacji, przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach lub wskazanie źródła pochodzenia fałszywej informacji.",
+    "description1": "Podejmij wyzwanie i dołacz razem z nami do walki z fake newasami tworząc bez ściemy. Dziel sie informacjami o fejkach, udzielaj się w dyskusjach, obswerwuj <0>profil FakeHunter</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
+    "applyBtn": "Zapisz się i zgłaszaj swoje Fejki"
+  },
+  "section7": {
+    "title": "Kontakt",
+    "subtitle": "Czekamy na twoją wiadomość",
+    "description": "Jesteś zainteresowany naszym projektem? Potrzebujesz więcej informacji na jego temat? A może chcesz nas wesprzeć, ale jeszcze nie wiesz jak? Jeśli tak, wyślij nam wiadomość za pomocą formularza na stronie. Bądźmy w kontakcie!",
+    "applyBtn": "Aplikuj"
+  },
+  "contactForm": {
+    "name": "Imię",
+    "surname": "Nazwisko",
+    "email": "Email",
+    "topic": "Temat",
+    "message": "Treść",
+    "send": "Wyślij",
+    "successMsg": "Twoja wiadomość została wysłana.",
+    "errorMsg": "Nie udało się wysłać wiadomości."
+  },
+  "more": "Więcej",
+  "less": "Mniej"
+}

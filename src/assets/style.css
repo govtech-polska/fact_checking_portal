@@ -39,6 +39,10 @@ body {
 .en .s1 .title {
   font-size: 155px;
 }
+.en .challenge_title { 
+  font-size: 130px !important;
+}
+
 .en .s1 .title span {
   font-size: 89px;
 }
@@ -53,7 +57,7 @@ body {
 }
 .s1 .quotation h2 {
   font-style: italic;
-  text-align: left;
+  text-align: right;
   font-size: 30px;
   line-height: 38px;
 }
@@ -767,4 +771,8 @@ body {
 .grecaptcha-badge {
   z-index: 99;
   bottom: 70px !important;
+}
+
+.challenge-project .s1 .quotation h2{
+    margin-bottom: 70px;
 }

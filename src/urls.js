@@ -3,7 +3,8 @@ export const appUrls = {
   FEED_CATEGORY: '/kategoria/:category',
   DETAILS: '/raport/:id',
   FOR_DEVELOPERS: '/dla-programistow',
-  ABOUT: '/o-projekcie'
+  ABOUT: '/o-projekcie',
+  CHALLENGE: '/challenge',
 }
 
 export const apiUrls = {
