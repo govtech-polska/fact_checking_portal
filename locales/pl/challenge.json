@@ -1,16 +1,16 @@
 {
   "title": "FakeHunter <0/> <1> Challenge</1>",
   "follow": "Śledź nas: ",
-  "quote": "„Podejmij wyzwanie i dołącz do walki z fake newsami<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to co czytają inni.”",
+  "quote": "Podejmij wyzwanie i dołącz do walki z fake newsami<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to co czytają inni.",
   "section1": {
     "title": "O konkursie",
     "subtitle": "Czym jest fake news i dlaczego jest tak groźny?",
-    "description": "W cyberprzestrzeni coraz częściej pojawiają się i to na skalę większą niż myślisz, fałszywe informacje, popularnie zwane fejkami. Dotyczą one wielu dziedzin życia, świadomie lub nie wprowadzając w błąd. Każdy może być ofiarą dezinformacji lub wręcz oszustwa. Nie zdając sobie sprawy z tego, czym są fake newsy i jaka mają siłę rażenia, zbyt łatwo wierzymy w to, co czytamy i oglądamy. O tym, jak ważna jest walka z fałszywymi informacjami pokazał czas pandemii koronawirusa. W sieci zaczęły masowo pojawiać się informacje, że technologia 5G wywołuje chorobę Covid-19 i raka, szczepienia powodują autyzm, a noszenie maseczek może być groźne dla zdrowia. Ofiarami oszustw informacyjnych w internecie padają m.in. zwykli ludzie, osoby publiczne, firmy, których wartość rynkowa z powodu fake newsów jest niszczona.",
+    "description": "W cyberprzestrzeni coraz częściej pojawiają się i to na skalę większą niż myślisz, fałszywe informacje, popularnie zwane fejkami. Dotyczą one wielu dziedzin życia, świadomie lub nie wprowadzając w błąd. Każdy może być ofiarą dezinformacji lub wręcz oszustwa. Nie zdając sobie sprawy z tego, czym są fake newsy i jaką mają siłę rażenia, zbyt łatwo wierzymy w to, co czytamy i oglądamy. O tym, jak ważna jest walka z fałszywymi informacjami pokazał czas pandemii koronawirusa. W sieci zaczęły masowo pojawiać się informacje, że technologia 5G wywołuje chorobę Covid-19 i raka, szczepienia powodują autyzm, a noszenie maseczek może być groźne dla zdrowia. Ofiarami oszustw informacyjnych w internecie padają m.in. zwykli ludzie, osoby publiczne, firmy, których wartość rynkowa z powodu fake newsów jest niszczona.",
     "button": "Przykładów fake newsów mamy mnóstwo!"
   },
   "section2": {
     "title": "Szczegóły konkursu",
-    "subtitle": "Zasady rywalizacji",
+    "subtitle": "Szczegóły rywalizacji",
     "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, bez względu na wiek. W konkursie mogą wziąć udział zespoły liczące od jednej do dziesięciu osób, przez 3 dni rywalizujące i walczące o atrakcyjne nagrody.",
     "description1":"Konkurs składa się z 4 konkurencji:",
     "button": "Polowanie na fake newsy (fake news hunt)",
@@ -41,12 +41,12 @@
     "subtitle": "Dołącz do walki z fake newsami w weekend 13-15 listopada",
     "description": "W tych dniach każdy może wziąć udział w wyzwaniu polegającym na wyszukiwaniu i weryfikacji fake newsów w sieci i otrzymać za to nagrody. Punkty można otzymywać za zgłoszenie nieprawdziwej informacji, przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach lub wskazanie źródła pochodzenia fałszywej informacji.",
     "description1": "Podejmij wyzwanie i dołącz razem z nami do walki z fake newsami tworząc bez ściemy. Dziel sie informacjami o fejkach, udzielaj się w dyskusjach, obswerwuj <0>profil FakeHunter</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
-    "applyBtn": "Zapisz się i zgłaszaj swoje Fejki"
+    "applyBtn": "Zapisz się, by otrzymać więcej informacji o konkursie"
   },
   "section7": {
     "title": "Kontakt",
     "subtitle": "Czekamy na twoją wiadomość",
-    "description": "Jesteś zainteresowany naszym projektem? Potrzebujesz więcej informacji na jego temat? A może chcesz nas wesprzeć, ale jeszcze nie wiesz jak? Jeśli tak, wyślij nam wiadomość za pomocą formularza na stronie. Bądźmy w kontakcie!",
+    "description": "Zapisz się, by jako pierwszy otrzymać szczegóły akcji – rodzaj nagród, zasady rywalizacji, szczegółowy czas trwania. Ujawnimy je do 23.10.2020! Masz pytania? Jesteś zainteresowany naszym projektem i chciałbyś dopytać? A może chcesz dołączyć do partnerów inicjatywy i chcesz dać nam o tym znać? Jeśli tak, wyślij nam wiadomość za pomocą formularza na stronie. Bądźmy w kontakcie!",
     "applyBtn": "Aplikuj"
   },
   "contactForm": {
