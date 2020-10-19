@@ -77,7 +77,7 @@ const Footer = () => {
           <LogoLink href="https://www.pap.pl/" external newTab>
             <LogoPAP />
           </LogoLink>
-          <LogoLink href="https://govtech.gov.pl/" external newTab>
+          <LogoLink href="https://gov.pl/govtech" external newTab>
             <LogoGovTech />
           </LogoLink>
         </LogoWrapper>
