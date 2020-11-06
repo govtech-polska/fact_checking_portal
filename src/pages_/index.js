@@ -108,7 +108,9 @@ const Index = ({ pinned, hashtags, categories }) => {
         <CommonHead />
       </Head>
       <Layout>
-        <div className=" fIAPut"><div className="hhDTtj">
+        <div className=" fIAPut"><div className="hhDTtj" style="
+                                                              justify-content: center;
+                                                              align-items: center;">
              <a href="/challenge"><img style="width:100%" src="/attachments/banner_konkurs_720x100.gif" alt="FakeHunter Challenge - wygraj 15 tys. zł"/></a>
             </div>
         </div>
