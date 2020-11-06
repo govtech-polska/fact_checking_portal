@@ -9,6 +9,7 @@
     "button": "Przykładów fake newsów mamy mnóstwo!"
   },
   "section2": {
+    "link": "Uszczegółowienie kategorii konkursowych",
     "title": "Szczegóły konkursu",
     "subtitle": "Szczegóły rywalizacji",
     "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, bez względu na wiek. W konkursie mogą wziąć udział zespoły liczące od jednej do dziesięciu osób, przez 3 dni rywalizujące i walczące o atrakcyjne nagrody.",
@@ -41,7 +42,7 @@
     "subtitle": "Dołącz do walki z fake newsami w weekend 13-15 listopada",
     "description": "W tych dniach każdy może wziąć udział w wyzwaniu polegającym na wyszukiwaniu i weryfikacji fake newsów w sieci i otrzymać za to nagrody. Punkty można otrzymywać za zgłoszenie nieprawdziwej informacji, przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach lub wskazanie źródła pochodzenia fałszywej informacji.",
     "description1": "Podejmij wyzwanie i dołącz razem z nami do walki z fake newsami tworząc, bez ściemy. Dziel sie informacjami o fejkach, udzielaj się w dyskusjach, obswerwuj <0>profil FakeHunter</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
-    "applyBtn": "Zapisz się, by otrzymać więcej informacji o konkursie"
+    "applyBtn": "ZGŁOŚ SIĘ DO KONKURSU!"
   },
   "section7": {
     "title": "Kontakt",
@@ -49,6 +50,31 @@
     "description": "Zapisz się, by jako pierwszy otrzymać szczegóły akcji – rodzaj nagród, zasady rywalizacji, szczegółowy czas trwania. Ujawnimy je do 23.10.2020! Masz pytania? Jesteś zainteresowany naszym projektem i chciałbyś dopytać? A może chcesz dołączyć do partnerów inicjatywy i chcesz dać nam o tym znać? Jeśli tak, wyślij nam wiadomość za pomocą formularza na stronie. Bądźmy w kontakcie!",
     "applyBtn": "Aplikuj"
   },
+  "section8": {
+    "link": "Regulamin",
+    "title": "Nagrody",
+    "subtitle": "Weź udział w konkursie i zdobądź atrakcyjne nagrody!",
+    "description": "Wszyscy uczestnicy konkursu mają szansę na wygranie atrakcyjnych nagród pieniężnych. <0>Nagroda za pierwsze miejsce na podium to 15 tys. zł,  za drugie miejsce 10 tys. zł, a za trzecie miejsce 5 tys. zł.</0> Zasady są proste - wygrywa ten kto uzyska najwięcej punktów. Uczestnicy konkursu mogą przesyłać swoje zgłoszenia we wszystkich czterech kategoriach – szansa na wygraną wzrasta, bo punkty się sumują. Nad przebiegiem konkursu i oceną prac czuwa jury."
+  },
+  "section9": {
+    "title": "Partnerzy",
+    "subtitle": "Wspierają naszą akcję",
+    "description": "Wielkie zaangażowanie partnerów pomogło nam w zorganizowaniu wydarzenia, tak ważnego z punktu widzenia walki z dezinformacją. Cenimy sobie tę współpracę i dziękujemy, że wspieracie projekut, który pomaga oczyszczać sieć z fałszywych i wprowadzających w błąd informacji."
+  },
+  "section10": {
+    "title": "GovTech Festival",
+    "subtitle": "GovTech Festival, czyli listopad pod znakiem cyfryzacji",
+    "description": "#FakeHunter Challenge to jedno z kluczowych wydarzeń odbywającego się w listopadzie GovTech Festival, czyli cyklu wydarzeń online, w których może wziąć udział każdy zainteresowany. Przez cały miesiąc w ramach GovTech Festival organizowane są webinaria, warsztaty i hackathony, które mają na celu przełamywanie analogowych barier, edukowanie i otwieranie społeczeństwa na nowe możliwości związane z cyfryzacją i digitalizacją. Udział we wszystkich wydarzeniach jest bezpłatny.",
+    "button": "ZOBACZ STRONĘ FESTIWALU"
+  },
+  "section11": {
+    "title": "Wyślij zgłoszenie konkursowe",
+    "subtitle": "Prześlij info o fejku, raport lub informacje o źródle fałszywej informacji",
+    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w dniach 13.11 do 80:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
+    "button": "Prześlij fejka, raport lub informacje o źródle fejka"
+  },
+
+
   "contactForm": {
     "name": "Imię",
     "surname": "Nazwisko",
