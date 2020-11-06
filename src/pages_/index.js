@@ -109,7 +109,7 @@ const Index = ({ pinned, hashtags, categories }) => {
       </Head>
       <Layout>
         <div className=" fIAPut"><div className="hhDTtj">
-             <a href="/challenge"><img src="/attachments/banner_konkurs_720x100.gif" alt="FakeHunter Challenge - wygraj 15 tys. zł"/></a>
+             <a href="/challenge"><img style="width:100%" src="/attachments/banner_konkurs_720x100.gif" alt="FakeHunter Challenge - wygraj 15 tys. zł"/></a>
             </div>
         </div>
         <Categories activeCategory={category} initialData={categories} />
