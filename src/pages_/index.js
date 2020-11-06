@@ -109,7 +109,7 @@ const Index = ({ pinned, hashtags, categories }) => {
       </Head>
       <Layout>
         <div className=" fIAPut"><div className="hhDTtj">
-             <a href="/challenge"><img src="https://z-p3-cdn.fbsbx.com/v/t59.2708-21/123946772_406383050537051_7649290391231653781_n.gif" alt=""/></a>
+             <a href="/challenge"><img src="/attachments/banner_konkurs_720x100.gif" alt=""/></a>
             </div>
         </div>
         <Categories activeCategory={category} initialData={categories} />
