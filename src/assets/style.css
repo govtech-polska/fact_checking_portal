@@ -331,6 +331,26 @@ body {
   margin: 0 auto;
 }
 
+.s6 .logoWrapper li.festiwal img {
+  width: 100%;
+}
+
+.s6 .logoWrapper li.fundacja img {
+  width: 80%;
+}
+.s6 .logoWrapper li.state img {
+  width: 70%;
+}
+
+.link{color:#dc371b;}
+.link:hover, link:focus{color:#dc371b;}
+
+.link .buttonDropdown{color:#dc371b; font-weight:600;  background: none; width:auto; font-weight: 600; padding: 0; text-transform:none; font-size:16px;}
+.link .buttonDropdown:hover, .link .buttonDropdown:focus{color:#dc371b; background: none;}
+
+
+
+
 .s7 {
   z-index: 7;
   position: relative;

@@ -106,13 +106,13 @@ const Challenge = () => {
                         <Trans i18nKey="challenge:section4.description" />
                       </p>
                       <p>
-                        <Trans i18nKey="challenge:section4.description1" components={[<a href="https://www.facebook.com/PAPFakeHunter/" target="_blank"/>]}/>
+                        <Trans i18nKey="challenge:section4.description1" components={[<a className="link" href="https://www.facebook.com/PAPFakeHunter/" target="_blank"/>]}/>
                       </p>
                       <a
                           target="_blank"
                           rel="noopener noreferrer"
                           className="button"
-                          href="https://zgloszenia.govtech.gov.pl/ankieta/563990/powiadomienie-o-starcie-konkursu-fakehunter-challange.html"
+                          href="https://zgloszenia.govtech.gov.pl/ankieta/573866/rejestracja-do-fakehunter-challenge.html"
                       >
                         {t('challenge:section4.applyBtn')}
                       </a>
@@ -121,32 +121,64 @@ const Challenge = () => {
                 </div>
               </div>
             </section>
-            <section className="s2" id="oprojekcie">
+
+            <section className="s2">
               <div className="container-fluid">
                 <div className="row no-gutters">
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('challenge:section1.title')}</h2>
-                      <p className="title">{t('challenge:section1.subtitle')}</p>
+                      <h2 className="section">{t('challenge:section8.title')}</h2>
+                      <p className="title">{t('challenge:section8.subtitle')}</p>
                       <p>
-                          {t('challenge:section1.description')}
+                          <Trans i18nKey="challenge:section8.description" components={[<span/>]}/>
                       </p>
-                      <a className="button" 
-                        rel="noopener noreferrer"
-                        href="/"
+                      <div className="dropdown link">
+                        <button
+                            className="dropdown-toggle buttonDropdown link"
+                            type="button"
+                            id="dropdownMenuButton"
+                            data-toggle="dropdown"
+                            aria-haspopup="true"
+                            aria-expanded="false"
                         >
-                        {t('challenge:section1.button')}
-                      </a>
+                          {t('challenge:section8.link')}
+                        </button>
+                        <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                          <a
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="dropdown-item"
+                              href="/attachments/regulamin.pdf"
+                          >
+                            PL
+                          </a>
+                          <a
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="dropdown-item"
+                              href="/attachments/regulations.pdf"
+                          >
+                            EN
+                          </a>
+                        </div>
+                      </div>
+
+
                     </div>
                   </div>
                   <div className="col-lg-6">
-                    <iframe height = "400px"className = "imageWrapper" src="https://www.youtube.com/embed/Q_trVUFPNCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <div className="imageWrapper">
+                      <img src="/images/prize.png" alt=""/>
+                      <div className="author">
+                        Ariel / Unsplash
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
             </section>
 
-            <section className="s3" id="jaktodziala">
+            <section className="s3">
               <div className="container-fluid">
                 <div className="row no-gutters">
                   <div className="col-lg-6">
@@ -174,7 +206,7 @@ const Challenge = () => {
                       </a>
 
                       <div className="collapse" id="collapseTwo">
-                          <p>{t('challenge:section2.collapsed.description')}</p>
+                        <p>{t('challenge:section2.collapsed.description')}</p>
                       </div>
 
                       <div></div>
@@ -226,6 +258,44 @@ const Challenge = () => {
                         <p>{t('challenge:section2.collapsed3.description3')}</p>
                       </div>
 
+                      <div></div>
+
+
+                      <div className="dropdown link">
+                        <button
+                            className="dropdown-toggle buttonDropdown link"
+                            type="button"
+                            id="dropdownMenuButton"
+                            data-toggle="dropdown"
+                            aria-haspopup="true"
+                            aria-expanded="false"
+                        >
+                          {t('challenge:section2.link')}
+                        </button>
+                        <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                          <a
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="dropdown-item"
+                              href="/attachments/kategorie.pdf"
+                          >
+                            PL
+                          </a>
+                          <a
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="dropdown-item"
+                              href="/attachments/categories.pdf"
+                          >
+                            EN
+                          </a>
+                        </div>
+                      </div>
+
+
+
+
+
 
                     </div>
                   </div>
@@ -233,9 +303,136 @@ const Challenge = () => {
               </div>
             </section>
 
+            <section className="s2">
+              <div className="container-fluid">
+                <div className="row no-gutters">
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section11.title')}</h2>
+                      <p className="title">{t('challenge:section11.subtitle')}</p>
+                      <p>
+                        {t('challenge:section11.description')}
+                      </p>
+                      <a className="button"
+                         rel="noopener noreferrer"
+                         href="https://zgloszenia.govtech.gov.pl/ankieta/573102/zgloszenie-fake-news-raportu-weryfikacji-lub-zrodla-fejka-do-fakehunter-challenge.html"
+                      >
+                        {t('challenge:section11.button')}
+                      </a>
+                    </div>
+                  </div>
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/mail.png" alt=""/>
+                      <div className="author">Onlineprinters / Unsplash</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section className="s2">
+              <div className="container-fluid">
+                <div className="row no-gutters">
+
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/festiwal.png" alt=""/>
+                    </div>
+                  </div>
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section10.title')}</h2>
+                      <p className="title">{t('challenge:section10.subtitle')}</p>
+                      <p>
+                        {t('challenge:section10.description')}
+                      </p>
+                      <a className="button"
+                         rel="noopener noreferrer"
+                         href="http://www.govtechfestival.com"
+                      >
+                        {t('challenge:section10.button')}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section className="s6" >
+              <div className="container-fluid">
+                <div className="row no-gutters">
+
+
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section9.title')}</h2>
+                      <p className="title">{t('challenge:section9.subtitle')}</p>
+                      <p>
+                        <Trans i18nKey="challenge:section9.description" components={[<span/>]}/>
+                      </p>
+                    </div>
+                  </div>
+                  <div className="col-lg-6">
+                    <ul className="logoWrapper">
+
+                      <li className="state">
+                        <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            href="https://stateofpoland.pl/"
+                        >
+                          <img src="/images/logo1.png" alt="State of Poland"/>
+                        </a>
+                      </li>
+                      <li className="fundacja">
+                        <a target="_blank" rel="noopener noreferrer" href="https://fundacjapfr.pl/">
+                          <img src="/images/logo2.png" alt="PFR"/>
+                        </a>
+                      </li>
+                      <li className="festiwal">
+                        <a target="_blank" rel="noopener noreferrer" href="http://www.govtechfestival.com/">
+                          <img src="/images/logo3.png" alt="Festiwal"/>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+
+            <section className="s2" id="oprojekcie">
+              <div className="container-fluid">
+                <div className="row no-gutters">
+
+                  <div className="col-lg-6">
+                    <iframe height = "400px"className = "imageWrapper" src="https://www.youtube.com/embed/Q_trVUFPNCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section1.title')}</h2>
+                      <p className="title">{t('challenge:section1.subtitle')}</p>
+                      <p>
+                        {t('challenge:section1.description')}
+                      </p>
+                      <a className="button"
+                         rel="noopener noreferrer"
+                         href="/"
+                      >
+                        {t('challenge:section1.button')}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+
+
             <section className="s4" id="zweryfikowaneinformacje">
               <div className="container-fluid">
                 <div className="row no-gutters">
+
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section3.title')}</h2>
@@ -258,7 +455,9 @@ const Challenge = () => {
             <section className="s8" id="kontakt">
               <div className="container-fluid">
                 <div className="row no-gutters">
-                <div className="col-lg-6">
+
+
+                  <div className="col-lg-6">
                     <ul className="formWrapper">
                       <ChallengeContactForm/>
                     </ul>

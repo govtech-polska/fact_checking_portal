@@ -9,6 +9,7 @@
     "button": "We have plenty of examples of fake news!"
   },
   "section2": {
+    "link": "Detailed competition categories",
     "title": "Details",
     "subtitle": "Competition rules",
     "description": "The competition is open to all Internet users who speak Polish or English, regardless of age. The competition is open to teams of one to ten people, competing for 3 days and competing for attractive prizes. ",
@@ -41,7 +42,7 @@
     "subtitle": "Join the fight against fake news on the weekend of November 13-15",
     "description": "On these days, anyone can take part in the challenge of finding and verifying fake news on the web and recive rewards. Points can be scored for reporting false information, preparing a source-based analysis and pointing to source of false information.",
     "description1": "Take the challenge and join us in the fight against fake news by creating a network without fake. Share information about fakes, participate in discussions, follow <0>FakeHunter's profile</0> and convince others to do so. It is also up to you what they read and how they react to this information.",
-    "applyBtn": "Sign up"
+    "applyBtn": "REGISTER FOR THE COMPETITION!"
   },
   "section7": {
     "title": "Contact",
@@ -49,6 +50,31 @@
     "description": "Are you interested in our project? Do you need more information about it? Or maybe you want to support us, but you don't know how yet? If so, send us a message using the form on the website. Let's be in touch!",
     "applyBtn": "Sing up"
   },
+  "section8": {
+    "link": "Regulations",
+    "title": "Awards",
+    "subtitle": "Take part in the competition and get attractive prizes!",
+    "description": "All participants in the contest have a chance to win attractive cash prizes. <0>The prize for the first place on the podium is 15 thousand PLN, for the second place - 10 thousand PLN, and for the third place 5 thousand PLN.</0> The rules are simple - whoever gets the most points, wins. Competition participants can submit their entries in all four categories - the chance of winning increases because the points add up. The jury supervises the course of the competition and the evaluation of the works."
+  },
+  "section9": {
+    "title": "Partners",
+    "subtitle": "They support our action",
+    "description": "The great commitment of our partners helped us organize the event, so important from the point of view of the fight against disinformation. We appreciate this cooperation and thank you all for supporting the project, which helps cleanse the web of false and misleading information"
+  },
+  "section10": {
+    "title": "GovTech Festival",
+    "subtitle": "GovTech Festival, November marked by digitization",
+    "description": "GovTech Festival, November marked by digitization #FakeHunter Challenge is one of the key events of the November GovTech Festival, a series of online events that can be attended by anyone interested. Throughout the month, as part of the GovTech Festival, webinars, workshops and hackathons will be organized, which aim to break analogue barriers, educate and open the society to new opportunities related to digitization. The participation in all events is free of charge",
+    "button": "SEE THE FESTIVAL PAGE"
+  },
+  "section11": {
+    "title": "Wyślij zgłoszenie konkursowe",
+    "subtitle": "Prześlij info o fejku, raport lub informacje o źródle fałszywej informacji",
+    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w dniach 13.11 do 80:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
+    "button": "Prześlij fejka, raport lub informacje o źródle fejka"
+  },
+
+
   "contactForm": {
     "name": "Name",
     "surname": "Surname",

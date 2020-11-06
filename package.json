@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "countdown": "^2.6.0",
     "dateformat": "^3.0.3",
     "dotenv": "8.2.0",
     "feed": "^4.2.1",

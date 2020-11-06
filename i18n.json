@@ -12,6 +12,7 @@
     "/dla-programistow": ["developers"],
     "rgx:/plugins/*": ["developers", "verified"],
     "/": ["verified"],
-    "/raport/[id]": ["verified"]
+    "/raport/[id]": ["verified"],
+    "/agenda": ["agenda"]
   }
 }
