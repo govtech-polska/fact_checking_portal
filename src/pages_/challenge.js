@@ -87,50 +87,26 @@ const Challenge = () => {
                 </div>
               </div>
             </section>
-            <section className="s5" id="zostanfakehunterem">
+
+
+            <section className="s2">
               <div className="container-fluid">
                 <div className="row no-gutters">
+
                   <div className="col-lg-6">
                     <div className="imageWrapper">
-                      <img src="/images/image3.png" alt=""/>
+                      <img src="/images/prize.png" alt=""/>
                       <div className="author">
-                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
+                        Ariel / Unsplash
                       </div>
                     </div>
                   </div>
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('challenge:section4.title')}</h2>
-                      <p className="title">{t('challenge:section4.subtitle')}</p>
-                      <p>
-                        <Trans i18nKey="challenge:section4.description" />
-                      </p>
-                      <p>
-                        <Trans i18nKey="challenge:section4.description1" components={[<a className="link" href="https://www.facebook.com/PAPFakeHunter/" target="_blank"/>]}/>
-                      </p>
-                      <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="button"
-                          href="https://zgloszenia.govtech.gov.pl/ankieta/573866/rejestracja-do-fakehunter-challenge.html"
-                      >
-                        {t('challenge:section4.applyBtn')}
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-
-            <section className="s2">
-              <div className="container-fluid">
-                <div className="row no-gutters">
-                  <div className="col-lg-6">
-                    <div className="textWrapper">
                       <h2 className="section">{t('challenge:section8.title')}</h2>
                       <p className="title">{t('challenge:section8.subtitle')}</p>
                       <p>
-                          <Trans i18nKey="challenge:section8.description" components={[<span/>]}/>
+                        <Trans i18nKey="challenge:section8.description" components={[<span/>]}/>
                       </p>
                       <div className="dropdown link">
                         <button
@@ -166,18 +142,44 @@ const Challenge = () => {
 
                     </div>
                   </div>
+                </div>
+              </div>
+            </section>
+            <section className="s4" id="zostanfakehunterem">
+              <div className="container-fluid">
+                <div className="row no-gutters">
+
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section4.title')}</h2>
+                      <p className="title">{t('challenge:section4.subtitle')}</p>
+                      <p>
+                        <Trans i18nKey="challenge:section4.description" />
+                      </p>
+                      <p>
+                        <Trans i18nKey="challenge:section4.description1" components={[<a className="link" href="https://www.facebook.com/PAPFakeHunter/" target="_blank"/>]}/>
+                      </p>
+                      <a
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="button"
+                          href="https://zgloszenia.govtech.gov.pl/ankieta/573866/rejestracja-do-fakehunter-challenge.html"
+                      >
+                        {t('challenge:section4.applyBtn')}
+                      </a>
+                    </div>
+                  </div>
                   <div className="col-lg-6">
                     <div className="imageWrapper">
-                      <img src="/images/prize.png" alt=""/>
+                      <img src="/images/image3.png" alt=""/>
                       <div className="author">
-                        Ariel / Unsplash
+                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
             </section>
-
             <section className="s3">
               <div className="container-fluid">
                 <div className="row no-gutters">
