@@ -41,13 +41,13 @@
     "title": "Zostań fakehunterem i zdobądź nagrody",
     "subtitle": "Dołącz do walki z fake newsami w weekend 13-15 listopada",
     "description": "W tych dniach każdy może wziąć udział w wyzwaniu polegającym na wyszukiwaniu i weryfikacji fake newsów w sieci i otrzymać za to nagrody. Punkty można otrzymywać za zgłoszenie nieprawdziwej informacji, przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach lub wskazanie źródła pochodzenia fałszywej informacji.",
-    "description1": "Podejmij wyzwanie i dołącz razem z nami do walki z fake newsami tworząc, bez ściemy. Dziel sie informacjami o fejkach, udzielaj się w dyskusjach, obswerwuj <0>profil FakeHunter</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
+    "description1": "Podejmij wyzwanie i dołącz razem z nami do walki z fake newsami tworząc, bez ściemy. Dziel się informacjami o fejkach, udzielaj się w dyskusjach, obserwuj <0>profil FakeHunter</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
     "applyBtn": "ZGŁOŚ SIĘ DO KONKURSU!"
   },
   "section7": {
     "title": "Kontakt",
     "subtitle": "Czekamy na twoją wiadomość",
-    "description": "Zapisz się, by jako pierwszy otrzymać szczegóły akcji – rodzaj nagród, zasady rywalizacji, szczegółowy czas trwania. Ujawnimy je do 23.10.2020! Masz pytania? Jesteś zainteresowany naszym projektem i chciałbyś dopytać? A może chcesz dołączyć do partnerów inicjatywy i chcesz dać nam o tym znać? Jeśli tak, wyślij nam wiadomość za pomocą formularza na stronie. Bądźmy w kontakcie!",
+    "description": "Zapisz się, by jako pierwszy otrzymać szczegóły akcji – rodzaj nagród, zasady rywalizacji, szczegółowy czas trwania. Masz pytania? Jesteś zainteresowany naszym projektem i chciałbyś dopytać? A może chcesz dołączyć do partnerów inicjatywy i chcesz dać nam o tym znać? Jeśli tak, wyślij nam wiadomość za pomocą formularza na stronie. Bądźmy w kontakcie!",
     "applyBtn": "Aplikuj"
   },
   "section8": {
@@ -59,7 +59,7 @@
   "section9": {
     "title": "Partnerzy",
     "subtitle": "Wspierają naszą akcję",
-    "description": "Wielkie zaangażowanie partnerów pomogło nam w zorganizowaniu wydarzenia, tak ważnego z punktu widzenia walki z dezinformacją. Cenimy sobie tę współpracę i dziękujemy, że wspieracie projekut, który pomaga oczyszczać sieć z fałszywych i wprowadzających w błąd informacji."
+    "description": "Wielkie zaangażowanie partnerów pomogło nam w zorganizowaniu wydarzenia, tak ważnego z punktu widzenia walki z dezinformacją. Cenimy sobie tę współpracę i dziękujemy, że wspieracie projektu, który pomaga oczyszczać sieć z fałszywych i wprowadzających w błąd informacji."
   },
   "section10": {
     "title": "GovTech Festival",
@@ -69,8 +69,8 @@
   },
   "section11": {
     "title": "Wyślij zgłoszenie konkursowe",
-    "subtitle": "Prześlij info o fejku, raport lub informacje o źródle fałszywej informacji",
-    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w dniach 13.11 do 80:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
+    "subtitle": "Prześlij info o fejku, raport lub informację o źródle fałszywej informacji",
+    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w dniach 13.11 do 8:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
     "button": "Prześlij fejka, raport lub informacje o źródle fejka"
   },
 
