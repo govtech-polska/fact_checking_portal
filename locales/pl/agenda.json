@@ -1,19 +1,25 @@
 {
-  "title": "Dołącz do walki z dezinformacją",
-  "follow": "Śledź nas: ",
-  "quote": "„Prawdą jest zawsze to, co się dzieje, <0/> a nie nasza opowieść o tym, <1/> co się powinno dziać.”",
-  "section1": {
-    "title": "O projekcie",
-    "subtitle": "Wezwanie do walki z dezinformacją!",
-    "description": "to społeczny projekt weryfikacji treści publikowanych w internecie, uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2.",
-    "collapsed": {
-      "1": "Każdy internauta będzie mógł zgłosić wątpliwą treść do weryfikacji, a następnie otrzymać wiarygodną odpowiedź, zweryfikowaną przez społecznych liderów opinii oraz ekspertów PAP.",
-      "2": "W przestrzeni internetowej pojawia się coraz więcej fałszywych wiadomości, a ich zadaniem jest dezinformacja i sianie paniki w czasie zagrożenia epidemicznego. Projekt <0>#FakeHunter</0> zrodził się z potrzeby przeciwstawienia się takiej sytuacji, a także z dążenia do tego, by portale internetowe i wszyscy użytkownicy mediów społecznościowych w sposób odpowiedzialny dzielili się wyłącznie prawdziwymi przekazami.",
-      "3": "Kim jesteśmy",
-      "4": "Polska Agencja Prasowa jest spółką Skarbu Państwa, której działalność opiera się na ustawie z dnia 31 lipca 1997 roku. Na jej mocy PAP ma charakter publicznej agencji prasowej, która uzyskuje i przekazuje odbiorcom rzetelne, obiektywne i wszechstronne informacje z kraju i z zagranicy.",
-      "5": "Program GovTech Polska jest realizowany przez Zespół, działający w Kancelarii Prezesa Rady Ministrów pod patronatem Premiera. Zespół odpowiada za międzyresortowe projekty w dziedzinie innowacji, nowych technologii oraz cyfryzacji. Jego celem jest budowa nowoczesnego Państwa wspólnie z innowatorami: przedsiębiorcami, start-upami, środowiskiem naukowym oraz samymi obywatelami. Zespół skupia także społeczność innowatorów, chcących wspólnie przyczynić się do budowy nowoczesnego, cyfrowego Państwa.",
-      "6": "Źródła finansowania",
-      "7": "Podstawowymi źródłami finansowania Polskiej Agencji Prasowej są wpływy z opłat za serwisy informacyjne przekazywane odbiorcom oraz wpływy pochodzące z działalności gospodarczej, która nie pozostaje w sprzeczności z zadaniami określonymi w ustawie. Do źródeł finansowania zalicza się także dotacje podmiotowe z budżetu państwa, związane z realizacją celów określonych w ustawie, które stanowią ok. 15 proc. rocznych przychodów PAP."
+  "title": "Agenda",
+  "subtitle": "Opis",
+  "table": {
+    "tableTitle": "PIĄTEK 13.11.2020 - PANEL DZIENNIKARSKI",
+    "tableTitle1": "SOBOTA. 14.11.2020 - PANEL AGENCJI PRASOWYCH",
+    "tableTitle2": "NIEDZIELA 15.11.2020 - PANEL NAUKOWY",
+    "tableTh": "Godzina",
+    "tableTh1": "Imię",
+    "tableTh2": "Nazwisko",
+    "tableTh3": "Funkcja"
+  },
+  "personList": {
+    "person1": {
+      "name": "Alexandru Giboi ",
+      "paragraph1": "Alexandru Giboi jest Sekretarzem Generalnym EANA. Wybrany przez Zgromadzenie Ogólne organizacji we wrześniu 2018 r.",
+      "paragraph2": "Alexandru Giboi był wcześniej dyrektorem generalnym i przewodniczącym Rady Dyrektorów AGERPRES – Rumuńskiej Krajowej Agencji Prasowej. Był członkiem zarządu EANA w latach 2015-2018. Był także sekretarzem generalnym ABNA-SE - Stowarzyszenia Bałkańskich Agencji Informacyjnych w latach 2014-2018, a także pełnił funkcję prezesa tej samej organizacji w latach 2013–2014.",
+      "paragraph3": "Przed pracą w sektorze medialnym Alexandru Giboi pracował jako konsultant ds. relacji prasowych."
+    },
+    "person2": {
+      "name": "Cristina Tardáguila",
+      "paragraph1": "Cristina Tardáguila jest zastępcą dyrektora International Fact-Checking Network, a także założycielką Agência Lupa, pierwszej inicjatywy weryfikacji informacji w Brazylii. Jako dziennikarka pracowała w niektórych głównych brazylijskich mediach: O Globo, Folha de S.Paulo i revista piauí. Ukończyła dziennikarstwo w Rio de Janeiro, tytuł magistra uzyskała w Madrycie i ponownie uzyskała tytuł MBA z marketingu cyfrowego w Rio. Opublikowała dwie książki: „A Arte do Descaso” (w 2016 r.) O przestępstwach artystycznych oraz „Você foi Enganado” (2018) o fałszywych roszczeniach prezydenckich. Dwukrotnie była na czerwonym dywanie TEDx i zdobyła w 2018 roku nagrodę elPeriodico / Grupo w Hiszpanii jako najlepsza dziennikarka roku. Tardaguila była nominowana do nagrody im. Gabriela Garcíi Marqueza w Kolumbii i nagrody Comunique-se w Brazylii. Obie w swoich kategoriach innowacji."
     }
   }
 }

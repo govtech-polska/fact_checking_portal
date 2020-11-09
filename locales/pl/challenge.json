@@ -54,12 +54,12 @@
     "link": "Regulamin",
     "title": "Nagrody",
     "subtitle": "Weź udział w konkursie i zdobądź atrakcyjne nagrody!",
-    "description": "Wszyscy uczestnicy konkursu mają szansę na wygranie atrakcyjnych nagród pieniężnych. <0>Nagroda za pierwsze miejsce na podium to 15 tys. zł,  za drugie miejsce 10 tys. zł, a za trzecie miejsce 5 tys. zł.</0> Zasady są proste - wygrywa ten kto uzyska najwięcej punktów. Uczestnicy konkursu mogą przesyłać swoje zgłoszenia we wszystkich czterech kategoriach – szansa na wygraną wzrasta, bo punkty się sumują. Nad przebiegiem konkursu i oceną prac czuwa jury."
+    "description": "Wszyscy uczestnicy konkursu mają szansę na wygranie atrakcyjnych nagród pieniężnych. <0>Nagroda za pierwsze miejsce na podium to 15 tys. zł,  za drugie miejsce 10 tys. zł, a za trzecie miejsce 5 tys. zł.</0> Zasady są proste - wygrywa ten kto uzyska najwięcej punktów. Uczestnicy konkursu mogą przesyłać swoje zgłoszenia we wszystkich czterech konkurencjach – szansa na wygraną wzrasta, bo punkty się sumują. Nad przebiegiem konkursu i oceną prac czuwa jury."
   },
   "section9": {
     "title": "Partnerzy",
     "subtitle": "Wspierają naszą akcję",
-    "description": "Wielkie zaangażowanie partnerów pomogło nam w zorganizowaniu wydarzenia, tak ważnego z punktu widzenia walki z dezinformacją. Cenimy sobie tę współpracę i dziękujemy, że wspieracie projektu, który pomaga oczyszczać sieć z fałszywych i wprowadzających w błąd informacji."
+    "description": "Wielkie zaangażowanie partnerów pomogło nam w zorganizowaniu wydarzenia, tak ważnego z punktu widzenia walki z dezinformacją. Cenimy sobie tę współpracę i dziękujemy, że wspieracie projekt, który pomaga oczyszczać sieć z fałszywych i wprowadzających w błąd informacji."
   },
   "section10": {
     "title": "GovTech Festival",
@@ -70,7 +70,7 @@
   "section11": {
     "title": "Wyślij zgłoszenie konkursowe",
     "subtitle": "Prześlij info o fejku, raport lub informację o źródle fałszywej informacji",
-    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w dniach 13.11 do 8:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
+    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w terminie od 00:01 13.11 do 8:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
     "button": "Prześlij fejka, raport lub informacje o źródle fejka"
   },
 

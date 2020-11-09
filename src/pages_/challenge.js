@@ -395,6 +395,11 @@ const Challenge = () => {
                           <img src="/images/logo3.png" alt="Festiwal"/>
                         </a>
                       </li>
+                      <li className="wykop">
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.wykop.pl/">
+                          <img src="/images/wykopLogo.png" alt="Wykop"/>
+                        </a>
+                      </li>
                     </ul>
                   </div>
                 </div>

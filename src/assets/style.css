@@ -17,6 +17,23 @@ body {
 .hhDTtj{justify-content: center; align-items: center; display: flex; margin:20px 0;}
 .hhDTtj img{max-width: 100%;}
 
+.tableWrapper{width: 100%; margin:0 0 50px 0;}
+.tableWrapper .table{width: 100%;}
+.tableWrapper .table tr th{text-align: center;}
+.tableWrapper .table tr th.main{background: #DC371B; color: #fff;}
+.tableWrapper .table .center{text-align: center;}
+.tableWrapper .table .middle{vertical-align: middle;}
+.tableWrapper .table .hour{width:10%;}
+
+.article .personList{margin: 0; padding: 0;}
+.article .personList .person{list-style: none; margin: 0 0 50px 0; padding: 0;}
+.article .personList .person .imageWrapper{width:200px; position: relative; top: inherit;}
+.article .personList .person .imageWrapper img{width:100%; float: left;}
+.article .personList .person .textWrapper{float: right; width:calc(100% - 230px); padding: 0;}
+.article .personList .person .textWrapper .name{font-weight: 700; font-size: 18px;}
+.article .personList .person .textWrapper p{margin:0 0 10px 0;}
+.article .personList .person:after{content:""; display: block; clear:both;}
+
 .s1 {
   z-index: 1;
   position: relative;
@@ -342,6 +359,10 @@ body {
   width: 80%;
 }
 .s6 .logoWrapper li.state img {
+  width: 70%;
+}
+
+.s6 .logoWrapper li.wykop img {
   width: 70%;
 }
 
