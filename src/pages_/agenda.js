@@ -334,7 +334,7 @@ const Agenda = () => {
                                         <tr>
                                             <td>18:00
                                             </td>
-                                            <td><a href="#">Paweł Mąciwoda</a>
+                                            <td><a href="#">Paweł Mąciwoda-Jastrzębski</a>
 
 
 
