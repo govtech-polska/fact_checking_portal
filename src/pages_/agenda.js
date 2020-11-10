@@ -155,10 +155,10 @@ const Agenda = () => {
                                         </tr>
                                         <tr>
                                             <td className="hour">12:00</td>
-                                            <td>TVP Biełsat + Dom Białoruski
+                                            <td>Jakub Biernat, Aleś Zarembiuk
 
                                             </td>
-                                            <td>Jakub Biernat - TVP Biełsat/ Aleś Zarembiuk - Dom Białoruski
+                                            <td>TVP Biełsat / Dom Białoruski
 
                                             </td>
 

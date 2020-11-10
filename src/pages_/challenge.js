@@ -338,9 +338,33 @@ const Challenge = () => {
 
                   <div className="col-lg-6">
                     <div className="imageWrapper">
-                      <img src="/images/festiwal.png" alt=""/>
+                      <img src="/images/micro.png" alt=""/>
+                      <div className="author">Jonathan Farber / Unsplash</div>
                     </div>
                   </div>
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section12.title')}</h2>
+                      <p className="title">{t('challenge:section12.subtitle')}</p>
+                      <p>
+                        {t('challenge:section12.description')}
+                      </p>
+                      <a className="button"
+                         rel="noopener noreferrer"
+                         href="/agenda"
+                      >
+                        {t('challenge:section12.button')}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section className="s2">
+              <div className="container-fluid">
+                <div className="row no-gutters">
+
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section10.title')}</h2>
@@ -356,6 +380,11 @@ const Challenge = () => {
                       </a>
                     </div>
                   </div>
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/festiwal.png" alt=""/>
+                    </div>
+                  </div>
                 </div>
               </div>
             </section>
@@ -363,16 +392,6 @@ const Challenge = () => {
               <div className="container-fluid">
                 <div className="row no-gutters">
 
-
-                  <div className="col-lg-6">
-                    <div className="textWrapper">
-                      <h2 className="section">{t('challenge:section9.title')}</h2>
-                      <p className="title">{t('challenge:section9.subtitle')}</p>
-                      <p>
-                        <Trans i18nKey="challenge:section9.description" components={[<span/>]}/>
-                      </p>
-                    </div>
-                  </div>
                   <div className="col-lg-6">
                     <ul className="logoWrapper">
 
@@ -402,6 +421,16 @@ const Challenge = () => {
                       </li>
                     </ul>
                   </div>
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section9.title')}</h2>
+                      <p className="title">{t('challenge:section9.subtitle')}</p>
+                      <p>
+                        <Trans i18nKey="challenge:section9.description" components={[<span/>]}/>
+                      </p>
+                    </div>
+                  </div>
+
                 </div>
               </div>
             </section>
@@ -411,9 +440,7 @@ const Challenge = () => {
               <div className="container-fluid">
                 <div className="row no-gutters">
 
-                  <div className="col-lg-6">
-                    <iframe height = "400px"className = "imageWrapper" src="https://www.youtube.com/embed/Q_trVUFPNCI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section1.title')}</h2>
@@ -429,6 +456,12 @@ const Challenge = () => {
                       </a>
                     </div>
                   </div>
+                  <div className="col-lg-6">
+                    <iframe height="400px" className="imageWrapper" src="https://www.youtube.com/embed/Q_trVUFPNCI"
+                            frameBorder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowFullScreen></iframe>
+                  </div>
                 </div>
               </div>
             </section>
@@ -438,7 +471,12 @@ const Challenge = () => {
             <section className="s4" id="zweryfikowaneinformacje">
               <div className="container-fluid">
                 <div className="row no-gutters">
-
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/image4.png" alt=""/>
+                      <div className="author">Alejandro Escamilla / Unsplash</div>
+                    </div>
+                  </div>
 
                   <div className="col-lg-6">
                     <div className="textWrapper">
@@ -450,12 +488,7 @@ const Challenge = () => {
                       </a>
                     </div>
                   </div>
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/image4.png" alt=""/>
-                      <div className="author">Alejandro Escamilla / Unsplash</div>
-                    </div>
-                  </div>
+
                 </div>
               </div>
             </section>
@@ -464,17 +497,18 @@ const Challenge = () => {
                 <div className="row no-gutters">
 
 
-                  <div className="col-lg-6">
-                    <ul className="formWrapper">
-                      <ChallengeContactForm/>
-                    </ul>
-                  </div>
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section7.title')}</h2>
                       <p className="title">{t('challenge:section7.subtitle')}</p>
                       <p>{t('challenge:section7.description')}</p>
                     </div>
+                  </div>
+                  <div className="col-lg-6">
+                    <ul className="formWrapper">
+                      <ChallengeContactForm/>
+                    </ul>
                   </div>
                 </div>
               </div>

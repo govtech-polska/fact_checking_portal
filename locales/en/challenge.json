@@ -73,7 +73,12 @@
     "description": "Have you registered yourself or your team? Cool! You are ready to submit competition entries from 13/11 to 08:00 on 15/11. Use the form below, providing the same email address as provided on the registration form.",
     "button": "Submit fake news, reports, or information about the source of the fake."
   },
-
+  "section12": {
+    "title": "EXPERT ONLINE MEETINGS",
+    "subtitle": "We want to hear the voice of specialists and people who have experienced this phenomenon in the discussion about fake news and its impact on our lives.",
+    "description": "That is why we invite everyone to online meetings with experts who will tell, among others, about what fake news are, how to capture them, how they influence the shaping of the awareness of contemporary Internet users. Among our guests there will be also public figures who will share with us their experiences in dealing with the problem of false content about themselves.",
+    "button": "SEE THE MEETING AGENDA"
+  },
 
   "contactForm": {
     "name": "Name",

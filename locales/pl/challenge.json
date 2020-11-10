@@ -73,7 +73,12 @@
     "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w terminie od 00:01 13.11 do 8:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
     "button": "Prześlij fejka, raport lub informacje o źródle fejka"
   },
-
+  "section12": {
+    "title": "EKSPERCKIE SPOTKANIA ONLINE",
+    "subtitle": "Zależy nam na tym, aby w dyskusji o fake newsach i ich wpływie na nasze życie wybrzmiał także głos specjalistów i osób, które doświadczyły tego zjawiska.",
+    "description": "Dlatego zapraszamy wszystkich na spotkania online z ekspertami, którzy opowiedzą m.in. o tym, czym są fake newsy, jak je wychwytywać, jak wpływają na kształtowanie świadomości współczesnych użytkowników internetu. Wśród naszych gości będą także osoby publiczne, które podzielą się z nami swoimi doświadczeniami w radzeniu sobie z problemem fałszywych treści na temat ich samych.",
+    "button": "ZOBACZ AGENDĘ SPOTKAŃ"
+  },
 
   "contactForm": {
     "name": "Imię",
