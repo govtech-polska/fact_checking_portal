@@ -1,10 +1,11 @@
 {
-  "title": "Agenda",
-  "subtitle": "Desc",
+  "title": "Expert meetings online",
+  "subtitle": "We want to hear the voice of specialists and people who have experienced this phenomenon in the discussion about fake news and its impact on our lives. That is why we invite everyone to online meetings with experts who will tell, among others, about what fake news are, how to capture them, how they influence the shaping of the awareness of contemporary Internet users. Among our guests there will be also public figures who will share with us their experiences in dealing with the problem of false content about themselves.",
+  "subtitle1": "OUR SPEAKERS",
   "table": {
-    "tableTitle": "FRIDAY 13.11.2020 - JOURNALIST PANEL",
-    "tableTitle1": "SATURDAY 14.11.2020 - PRESS AGENCY PANEL",
-    "tableTitle2": "SUNDAY 15.11.2020 - SCIENTIFIC PANEL",
+    "tableTitle": "FRIDAY 13.11.2020",
+    "tableTitle1": "SATURDAY 14.11.2020",
+    "tableTitle2": "SUNDAY 15.11.2020",
     "tableTh": "Hour",
     "tableTh1": "Name",
     "tableTh2": "Surname",
@@ -13,13 +14,83 @@
   "personList": {
     "person1": {
       "name": "Alexandru Giboi ",
-      "paragraph1": "Alexandru Giboi is the Secretary General of EANA. Elected by the organization's General Assembly in September 2018.",
-      "paragraph2": "Alexandru Giboi was previously the CEO and chairman of the Board of Directors of AGERPRES - the Romanian National Press Agency. He was a board member of EANA in 2015-2018. He was also the secretary general of ABNA-SE - Association of Balkan Information Agencies in 2014-2018, and he was the president of the same organization in 2013-2014.",
-      "paragraph3": "Prior to working in the media sector, Alexandru Giboi worked as a press relations consultant."
+      "description": "Alexandru Giboi is the Secretary General of EANA. Elected by the organization's General Assembly in September 2018. Alexandru Giboi was previously the CEO and chairman of the Board of Directors of AGERPRES - the Romanian National Press Agency. He was a board member of EANA in 2015-2018. He was also the secretary general of ABNA-SE - Association of Balkan Information Agencies in 2014-2018, and he was the president of the same organization in 2013-2014. Prior to working in the media sector, Alexandru Giboi worked as a press relations consultant."
     },
     "person2": {
       "name": "Cristina Tardáguila",
-      "paragraph1": "Cristina Tardáguila is the International Fact-Checking Network’s Associate Director and also the founder of Agência Lupa, the first fact-checking initiative in her country, Brazil. As a journalist, she has worked in some of the major Brazilian media outlets: O Globo, Folha de S.Paulo and revista piauí. She graduated in journalism in Rio de Janeiro, got her master degree in Madrid and her MBA in Digital Marketing again in Rio. She has published two books: “A Arte do Descaso” (in 2016), about art crimes - and “Você foi Enganado” (2018), about presidential false claims. She’s been to TEDx’s red carpet twice and won the 2018 elPeriodico’s/Grupo award in 2018 in Spain as the best journalist of the year. Tardaguila has been nominated for the Gabriel García Marquez Award, in Colombia, and the Comunique-se Awards, in Brazil. Both in their innovation categories"
+      "description": "Cristina Tardáguila is the International Fact-Checking Network’s Associate Director and also the founder of Agência Lupa, the first fact-checking initiative in her country, Brazil. As a journalist, she has worked in some of the major Brazilian media outlets: O Globo, Folha de S.Paulo and revista piauí. She graduated in journalism in Rio de Janeiro, got her master degree in Madrid and her MBA in Digital Marketing again in Rio. She has published two books: “A Arte do Descaso” (in 2016), about art crimes - and “Você foi Enganado” (2018), about presidential false claims. She’s been to TEDx’s red carpet twice and won the 2018 elPeriodico’s/Grupo award in 2018 in Spain as the best journalist of the year. Tardaguila has been nominated for the Gabriel García Marquez Award, in Colombia, and the Comunique-se Awards, in Brazil. Both in their innovation categories"
+    },
+    "person3": {
+      "name": "Grzegorz Jankowski",
+      "description": "Press, radio and television journalist. He co-founded and managed the daily \"Fakt\" for 11 years. He conducts regular programs on the channels of Polskie Radio 24, Polish Radio One, Polsat News and Superstacja, of which he is the program director. The author of the book \"Fakt. True story. Sex, scandals, politics ”."
+    },
+    "person4": {
+      "name": "Hirek Wrona",
+      "description": "Independent music critic with experience in electronic and traditional media (TVP, PR III of the Polish Radio). Academic lecturer at the University of Wrocław. Fascinated by the combination of image and music. At the same time, a passionate collector of vinyl records. He considers the Internet (next to jazz) to be the greatest invention of the 20th century."
+    },
+    "person5": {
+      "name": "Jakub Kuś ",
+      "description": "Psychologist. Lecturer at the University of Social Sciences and Humanities. He studies the influence of new technologies on human functioning and interpersonal relations. In his scientific work, he focuses primarily on how the use of the Internet affects the emotional, cognitive and moral sphere of a person. He is the chairman of the Scientific Council of the Polish Association of Psychology Students and Graduates."
+    },
+    "person6": {
+      "name": "Jan Zygmuntowski",
+      "description": "A graduate of the Warsaw School of Economics, president of the think-tank Instrat Foundation and a regular associate of several other non-governmental organizations. Scientifically interested in development issues, economic systems, economy of innovation and public policy."
+    },
+    "person7": {
+      "name": "Joanna Kos-Krauze ",
+      "description": "Director, screenwriter and producer. Born 1972. Co-author of the award-winning \"Papusza\", \"Zbawiciela Square\" and \"Mój Nikifor\". President of the Polish Directors Trade Union in 2013-2018, currently vice-president. In the years 2006-2013, the chairman of the Polish Screenwriters' Section, member of the Artistic Council of the Andrzej Munk Film Studio and the European and Polish Film Academy. Expert of the Polish Film Institute, Silesia Film Fund, Gdynia Film Fund and Euroimage in Strasbourg. The last film \"Birds Sing in Kigali\" was awarded at several dozen festivals around the world, including: Karlovy Vary (Award for the best actress - Jowita Budnik and Eliane Umuhire), Chicago (Award for the best director, Award for the best actress - Jowita Budnik and Eliane Umuhire) Locarno (First Look Award), Luxemburg (Grand Prix), Kolkata, Istanbul, Crimea, Gdynia 2017 (Silver Lions Award, Award for the main female role for Jowita Budnik and Eliane Umuhire), award for editing."
+    },
+    "person8": {
+      "name": "Klaudia Rosińska ",
+      "description": "Doctor of social media theology, media expert, specialist in disinformation using fake news and educator. Author of publications on psychological vulnerability to fake news. Since 2017, she has been conducting exercises entitled \"Critical reception of media messages\" at the Institute of Media Education and Journalism at the Cardinal Stefan Wyszyński University."
+    },
+    "person9": {
+      "name": "Krzysztof Stępniak ",
+      "description": "Ph.D., media studies, professor at the Cardinal Stefan Wyszyński University in Warsaw, deputy director of the Institute of Media Education and Journalism, head of the Department of Religious Communication, Marketing and Advertising."
+    },
+    "person10": {
+      "name": "Marcin Miller",
+      "description": "Polish singer, leader and vocalist of the disco polo band Boys. Since 1990, he has been the leader and vocalist of the band Boys, with which he has released a total of 21 studio albums and two Christmas CDs. With the band he launched such hits as \"You're crazy\", \"Wolność\", \"Łobuz\" or \"Chłop z Mazur\"."
+    },
+    "person11": {
+      "name": "Marek Dietl",
+      "description": "Dr. Marek Dietl is the president of the Warsaw Stock Exchange and the economic advisor to the President of the Republic of Poland and an assistant professor at the Warsaw School of Economics. Previously, he gained experience through almost 20 years of practice in strategic consulting and the venture capital industry. He has sat on the Supervisory Boards, Audit Committees and Investment Committees of over 25 organizations."
+    },
+    "person12": {
+      "name": "Michał Viatteau",
+      "description": "Born in 1949 in Cracow, Poland. Got a degree at the High School of Foreign Languages, Warsaw University, then another one at the Institut Français de Presse, Université de Paris 2. Started to work for AFP in Paris in 1972. Worked in many posts, including Tehran (bureau chief), Rome (Vatican correspondent), Sarajevo (war correspondent), then as bureau chief in Moscow, Warsaw and Montréal. Warsaw bureau chief again from 2014 to May 2020. Fact-check editor since 1st June 2020. \nIn 1991, on a mission sponsored by the French government, answering an invitation of the Polish authorities, took part in the modernization of the Polish agency PAP.\n"
+    },
+    "person13": {
+      "name": "Piotr Gursztyn",
+      "description": "Journalist, publicist, historian. He worked, among others in Radio Plus, Telewizja Puls, Polsat television, \"Dziennik. Polska-Europa-Świat\", \"Rzeczpospolita\", \"Uważam Rze\", \"Do Rzeczy\", Polish Radio RDC. He is currently working at TVP. Author of the books: \"Carnage of Wola. Crime unsettled\" and \"Ribbentrop-Beck. Was the Poland-Germany Pact Possible?\""
+    },
+    "person14": {
+      "name": "Redbad Klynstra-Komarnicki",
+      "description": "Polish actor & director of Dutch origin. He graduated from the Acting Department of the State Higher School of Theater in Warsaw in 1994 and in the same year he made his debut in a television play, adapting the play by Horacio Quirog \"White Collapase\". Known, among others from such series as \"PitBull\" or \"For good and for bad\" or the plays \"Little Marriage Crimes\" by Eric-Emmanuel Schmitt staged at the Mazowiecki Theater. In 2001-2006 he was associated with the Rozmaitości Theater in Warsaw, and from 2008 with the Nowy Theater in Warsaw."
+    },
+    "person15": {
+      "name": "Sławomir Jastrzębowski",
+      "description": "A Polish philologist by education. Former editor-in-chief of the Super Express daily and deputy editor-in-chief of the Fakt daily. Previously, he was involved in investigative journalism, among others on TVP Łódź. Currently a partner at R4S."
+    },
+    "person16": {
+      "name": "Stefan Voss",
+      "description": "Head of verification at Deutsche Presse-Agentur. Social Media trainer. Working at dpa for over 20 years, former foreign correspondent in Kiev and Moscow, editor at the political desk in Berlin. For the last years Stefan built up the factchecking team at dpa in Berlin."
+    },
+    "person17": {
+      "name": "Tomasz Lis",
+      "description": "Executive Director Havas PR. He has advised brands and institutions such as: PKO BP, Procter & Gamble, Oshee, V&S Absolut Spirits, Diageo, Coca Cola, Nestle, Tesco, V&F Corporation, IBM, Sharp, Sony, PGNiG, Stora Enso, the Ministry of National Defense, the Ministry of Finance. Public relations lecturer at the Fr. Józef Tischner University of Europe, juror of Złote Spinacze and Cannes Lions competitions."
+    },
+    "person18": {
+      "name": "Tomasz Rożek",
+      "description": "Science journalist and physicist, doctor of physical sciences, popularizer of science. He hosted, among others, the program \"Sonda 2\" on TVP and \"Questions from the cosmos\" on the Polish Radio Trójka. Head of the research department in \"Sunday Guest\". The author of the book \"Science - simply. Interviews with eminent ”, which was recognized as the best popular science book of the 2010/2011 season."
+    },
+    "person19": {
+      "name": "Tomasz Wróblewski",
+      "description": ". Journalist and publicist. Former editor-in-chief incl. some weeklies, such as \"Newsweek Polska\", \"Dziennik Gazeta Prawna\", “Wprost” and the daily \"Rzeczpospolita\". Currently, he is the president of the Warsaw Enterprise Institute."
+    },
+    "person20": {
+      "name": "Wojciech Pędzich",
+      "description": "English teacher, Wikimedian, member of the board of the Wikimedia Polska Association in the 2014-2016 term and 2016-2018-2020 as  the secretary."
     }
   }
 }

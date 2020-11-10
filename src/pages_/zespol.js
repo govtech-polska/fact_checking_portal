@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Layout from 'containers/Layout'
 import useTranslation from 'next-translate/useTranslation'
 
-const NUMBER_OF_PEOPLE = 19
+const NUMBER_OF_PEOPLE = 17
 const TEAM_SIZE_ARRAY = Array(NUMBER_OF_PEOPLE).fill()
 
 const Team = () => {

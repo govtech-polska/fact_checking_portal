@@ -1,10 +1,11 @@
 {
-  "title": "Agenda",
-  "subtitle": "Opis",
+  "title": "Eksperckie spotkania online",
+  "subtitle": "Zależy nam na tym, aby w dyskusji o fake newsach i ich wpływie na nasze życie wybrzmiał także głos specjalistów i osób, które doświadczyły tego zjawiska. Dlatego zapraszamy wszystkich na spotkania online z ekspertami, którzy opowiedzą m.in. o tym, czym są fake newsy, jak je wychwytywać, jak wpływają na kształtowanie świadomości współczesnych użytkowników internetu. Wśród naszych gości będą także osoby publiczne, które podzielą się z nami swoimi doświadczeniami w radzeniu sobie z problemem fałszywych treści na temat ich samych.",
+  "subtitle1": "NASI PRELEGENCI",
   "table": {
-    "tableTitle": "PIĄTEK 13.11.2020 - PANEL DZIENNIKARSKI",
-    "tableTitle1": "SOBOTA. 14.11.2020 - PANEL AGENCJI PRASOWYCH",
-    "tableTitle2": "NIEDZIELA 15.11.2020 - PANEL NAUKOWY",
+    "tableTitle": "PIĄTEK 13.11.2020",
+    "tableTitle1": "SOBOTA. 14.11.2020",
+    "tableTitle2": "NIEDZIELA 15.11.2020",
     "tableTh": "Godzina",
     "tableTh1": "Imię",
     "tableTh2": "Nazwisko",
@@ -13,13 +14,84 @@
   "personList": {
     "person1": {
       "name": "Alexandru Giboi ",
-      "paragraph1": "Alexandru Giboi jest Sekretarzem Generalnym EANA. Wybrany przez Zgromadzenie Ogólne organizacji we wrześniu 2018 r.",
-      "paragraph2": "Alexandru Giboi był wcześniej dyrektorem generalnym i przewodniczącym Rady Dyrektorów AGERPRES – Rumuńskiej Krajowej Agencji Prasowej. Był członkiem zarządu EANA w latach 2015-2018. Był także sekretarzem generalnym ABNA-SE - Stowarzyszenia Bałkańskich Agencji Informacyjnych w latach 2014-2018, a także pełnił funkcję prezesa tej samej organizacji w latach 2013–2014.",
-      "paragraph3": "Przed pracą w sektorze medialnym Alexandru Giboi pracował jako konsultant ds. relacji prasowych."
+      "description": "Alexandru Giboi jest Sekretarzem Generalnym EANA. Wybrany przez Zgromadzenie Ogólne organizacji we wrześniu 2018 r. Alexandru Giboi był wcześniej dyrektorem generalnym i przewodniczącym Rady Dyrektorów AGERPRES – Rumuńskiej Krajowej Agencji Prasowej. Był członkiem zarządu EANA w latach 2015-2018. Był także sekretarzem generalnym ABNA-SE - Stowarzyszenia Bałkańskich Agencji Informacyjnych w latach 2014-2018, a także pełnił funkcję prezesa tej samej organizacji w latach 2013–2014. Przed pracą w sektorze medialnym Alexandru Giboi pracował jako konsultant ds. relacji prasowych."
     },
     "person2": {
       "name": "Cristina Tardáguila",
-      "paragraph1": "Cristina Tardáguila jest zastępcą dyrektora International Fact-Checking Network, a także założycielką Agência Lupa, pierwszej inicjatywy weryfikacji informacji w Brazylii. Jako dziennikarka pracowała w niektórych głównych brazylijskich mediach: O Globo, Folha de S.Paulo i revista piauí. Ukończyła dziennikarstwo w Rio de Janeiro, tytuł magistra uzyskała w Madrycie i ponownie uzyskała tytuł MBA z marketingu cyfrowego w Rio. Opublikowała dwie książki: „A Arte do Descaso” (w 2016 r.) O przestępstwach artystycznych oraz „Você foi Enganado” (2018) o fałszywych roszczeniach prezydenckich. Dwukrotnie była na czerwonym dywanie TEDx i zdobyła w 2018 roku nagrodę elPeriodico / Grupo w Hiszpanii jako najlepsza dziennikarka roku. Tardaguila była nominowana do nagrody im. Gabriela Garcíi Marqueza w Kolumbii i nagrody Comunique-se w Brazylii. Obie w swoich kategoriach innowacji."
+      "description": "Cristina Tardáguila jest zastępcą dyrektora International Fact-Checking Network, a także założycielką Agência Lupa, pierwszej inicjatywy weryfikacji informacji w Brazylii. Jako dziennikarka pracowała w niektórych głównych brazylijskich mediach: O Globo, Folha de S.Paulo i revista piauí. Ukończyła dziennikarstwo w Rio de Janeiro, tytuł magistra uzyskała w Madrycie i ponownie uzyskała tytuł MBA z marketingu cyfrowego w Rio. Opublikowała dwie książki: „A Arte do Descaso” (w 2016 r.) O przestępstwach artystycznych oraz „Você foi Enganado” (2018) o fałszywych roszczeniach prezydenckich. Dwukrotnie była na czerwonym dywanie TEDx i zdobyła w 2018 roku nagrodę elPeriodico / Grupo w Hiszpanii jako najlepsza dziennikarka roku. Tardaguila była nominowana do nagrody im. Gabriela Garcíi Marqueza w Kolumbii i nagrody Comunique-se w Brazylii. Obie w swoich kategoriach innowacji."
+    },
+    "person3": {
+      "name": "Grzegorz Jankowski",
+      "description": "Dziennikarz prasowy, radiowy i telewizyjny. Współtworzył i przez 11 lat kierował dziennikiem „Fakt”. Prowadzi stałe programy na antenach Polskiego Radia 24, Programu Pierwszego Polskiego Radia, Polsat News i Superstacji, której jest dyrektorem programowym. Autor książki „Fakt. Tak było naprawdę. Seks, afery, polityka”."
+    },
+    "person4": {
+      "name": "Hirek Wrona",
+      "description": "Niezależny krytyk muzyczny z doświadczeniem w mediach elektronicznych\ni tradycyjnych (TVP, PR III Polskiego Radia). Wykładowca akademicki na Uniwersytecie Wrocławskim. Zafascynowany połączeniem obrazu i muzyki. Jednocześnie kolekcjoner płyt winylowych. Internet (obok jazzu) uważa za największy wynalazek XX wieku. \n"
+    },
+    "person5": {
+      "name": "Jakub Kuś",
+      "description": "Psycholog. Wykładowca Uniwersytetu SWPS Zajmuje się wpływem nowych technologii na funkcjonowanie człowieka i relacje międzyludzkie. W pracy naukowej koncentruje się przede wszystkim na tym, w jaki sposób korzystanie z internetu oddziałuje na sferę emocjonalną, poznawczą i moralną człowieka. Jest przewodniczącym Rady Naukowej Polskiego Stowarzyszenia Studentów i Absolwentów Psychologii."
+    },
+    "person6": {
+      "name": "Jan Zygmuntowski",
+      "description": "Absolwent Szkoły Głównej Handlowej w Warszawie, prezes zarządu think-tanku Fundacja Instrat i stały współpracownik kilku innych organizacji pozarządowych. Naukowo zainteresowany problematyką rozwojową, systemami gospodarczymi, ekonomią innowacji oraz polityką publiczną."
+    },
+    "person7": {
+      "name": "Joanna Kos-Krauze ",
+      "description": "Reżyserka, scenarzystka i producentka. Ur. 1972. Współautorka  obsypanych nagrodami „Papuszy”, „Placu Zbawiciela” i „Mojego Nikifora”. Przewodnicząca Związku Zawodowego Reżyserów Polskich w latach 2013-2018, obecne wiceprzewodnicząca. W latach 2006-2013 Przewodnicząca Sekcji Scenarzystów Polskich, członkini Rady Artystycznej Studia Filmowego im. Andrzeja Munka oraz Europejskiej i Polskiej Akademii Filmowej. Ekspert Polskiego Instytutu Sztuki Filmowej, Silesia Film Fund, Gdynia Film Fund i Euroimage w Strasburgu. Ostatni film „Ptaki Śpiewają w Kigali”, został nagrodzony na kilkudziesięciu festiwalach na świecie min: w Karlowych Warach (Nagroda dla najlepszej aktorki - Jowita Budnik i Eliane Umuhire) , Chicago (Nagroda za najlepszą reżyserię, Nagroda dla najlepszej aktorki - Jowita Budnik i Eliane Umuhire) Locarno (Nagroda First Look), Luxemburgu (Grand Prix), Kalkuta, Stambuł, Krym Gdynia 2017 (Nagroda Srebrne Lwy,  Nagroda za główną rolę kobiecą dla Jowity Budnik i Eliane Umuhire), nagroda za montaż."
+    },
+    "person8": {
+      "name": "Klaudia Rosińska ",
+      "description": "Doktor teologii środków społecznego przekazu, medioznawca, specjalistka ds. dezinformacji za pomocą fake news oraz pedagog. Autorka publikacji na temat psychologicznej podatności na fake newsy. Od 2017 roku prowadzi ćwiczenia pt. „Krytyczny odbiór przekazów medialnych” w Instytucie Edukacji Medialnej i Dziennikarstwa na Uniwersytecie Kardynała Stefana Wyszyńskiego."
+    },
+    "person9": {
+      "name": "Krzysztof Stępniak ",
+      "description": "Dr hab., medioznawcza, profesor Uniwersytetu Kardynała Stefana Wyszyńskiego w Warszawie, wicedyrektor Instytutu Edukacji Medialnej i Dziennikarstwa, kierownik Katedry Komunikacji Religijnej, Marketingu i Reklamy."
+    },
+    "person10": {
+      "name": "Marcin Miller",
+      "description": "Polski piosenkarz, lider i wokalista zespołu disco polo Boys. Od 1990 jest liderem i wokalistą zespołu Boys, z którym wydał łącznie 21 albumów studyjnych i dwie płyty świąteczne. Z zespołem wylansował przeboje, takie jak „Jesteś szalona”, „Wolność”, „Łobuz” czy „Chłop z Mazur”."
+    },
+    "person11": {
+      "name": "Marek Dietl",
+      "description": "Dr Marek Dietl jest prezesem Giełdy Papierów Wartościowych w Warszawie i doradcą ekonomicznym Prezydenta RP oraz adiunktem w Szkole Głównej Handlowej w Warszawie. Wcześniej zdobywał doświadczenie poprzez prawie 20 letnią praktykę w doradztwie strategicznym  i  branży venture capital. Zasiadał w Radach Nadzorczych, Komisjach Rewizyjnych i Komitetach Inwestycyjnych ponad 25 organizacji. "
+    },
+    "person12": {
+      "name": "Michał Viatteau",
+      "description": "Urodzony w 1949 roku w Krakowie. Ukończył Liceum Języków Obcych Uniwersytetu Warszawskiego, potem Institut Français de Presse, Université de Paris 2. Pracę w AFP rozpoczął w Paryżu w 1972 roku. Pracował na wielu stanowiskach, w tym w Teheranie (szef biura) , Rzymie (korespondent watykański), Sarajewie (korespondent wojenny), następnie jako szef biur w Moskwie, Warszawie i Montrealu. Został szefem warszawskiego biura ponownie od 2014 do maja 2020. Redaktor sprawdzający od 1 czerwca 2020.\nW 1991 roku na misji sponsorowanej przez rząd francuski, odpowiadając na zaproszenie polskich władz, uczestniczył w modernizacji polskiej agencji PAP.\n"
+    },
+    "person13": {
+      "name": "Piotr Gursztyn",
+      "description": "Dziennikarz, publicysta, historyk. Pracował m.in. w Radiu Plus, Telewizji Puls, telewizji Polsat, \"Dzienniku. Polska-Europa-Świat\", \"Rzeczpospolitej\", \"Uważam Rze\", \"Do Rzeczy\", Polskim Radiu RDC. Obecnie pracuje w TVP. Autor książek \"Rzeź Woli. Zbrodnia nierozliczona\" i \"Ribbentrop-Beck. Czy pakt Polska-Niemcy był możliwy?\". "
+    },
+    "person14": {
+      "name": "Redbad Klynstra-Komarnicki",
+      "description": "Polski aktor, reżyser holenderskiego pochodzenia. Ukończył Wydział Aktorski Państwowej Wyższej Szkoły Teatralnej w Warszawie w roku 1994 i w tym samym roku zadebiutował w spektaklu telewizyjnym, adaptacji sztuki Horacio Quiroga  „Biała Zapaść”. Znany m.in. z takich seriali jak „PitBull” czy „Na dobre i na złe” czy sztuki „Małe zbrodnie małżeńskie” Erica-Emmanuela Schmitta wystawianej w Teatrze Mazowieckim. W latach 2001-2006 związany z Teatrem Rozmaitości w Warszawie, a od 2008 z Teatrem Nowym w Warszawie."
+    },
+    "person15": {
+      "name": "Sławomir Jastrzębowski",
+      "description": "Z wykształcenia polonista. Były naczelny dziennika „Super Express” i wicenaczelny dziennika „Fakt”. Wcześniej zajmował się dziennikarstwem śledczym m.in. w TVP Łódź. Obecnie partner w firmie R4S."
+    },
+    "person16": {
+      "name": "Stefan Voss",
+      "description": "Szef weryfikacji w Deutsche Presse-Agentur. Trener mediów społecznościowych. \nW dpa pracuje od ponad 20 lat, były korespondent zagraniczny w Kijowie i Moskwie, redaktor działu politycznego w Berlinie. \nStefan przez ostatnie lata budował zespół weryfikujący „fejki” w dpa w Berlinie.\n"
+    },
+    "person17": {
+      "name": "Tomasz Lis",
+      "description": "Executive Director Havas PR. Doradzał takim markom i instytucjom jak m.in.: PKO BP, Procter&Gamble, Oshee, V&S Absolut Spirits, Diageo, Coca Cola, Nestle, Tesco, V&F Corporation, IBM, Sharp, Sony, PGNiG, Stora Enso, Ministerstwo Obrony Narodowej, Ministerstwo Finansów. Wykładowca public relations w Wyższej Szkole Europejskiej im. ks. Józefa Tischnera, juror konkursów Złote Spinacze i Cannes Lions. "
+    },
+    "person18": {
+      "name": "Tomasz Rożek",
+      "description": "Dziennikarz naukowy i fizyk, doktor nauk fizycznych, popularyzator nauki. Prowadził między innymi program „Sonda 2” w TVP i „Pytania z kosmosu” w radiowej Trójce. Szef działu naukowego w „Gościu Niedzielnym”. Autor książki „Nauka − po prostu. Wywiady z wybitnymi”, która została uznana za najlepszą książkę popularnonaukową sezonu 2010/2011."
+    },
+    "person19": {
+      "name": "Tomasz Wróblewski",
+      "description": "Dziennikarz i publicysta. Były redaktor naczelny m.in. tygodnika „Newsweek Polska”, „Dziennika Gazety Prawnej”, dziennika „Rzeczpospolita” i tygodnika „Wprost”. Obecnie jest prezesem Warsaw Enterprise Institute."
+    },
+    "person20": {
+      "name": "Wojciech Pędzich",
+      "description": "Anglista, wikimedianin, członek zarządu Stowarzyszenia Wikimedia Polska w kadencji 2014-2016 i 2016-2018-2020 (sekretarz)."
     }
+
   }
 }
