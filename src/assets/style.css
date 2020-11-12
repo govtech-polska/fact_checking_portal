@@ -23,7 +23,7 @@ body {
 .tableWrapper .table tr th.main{background: #DC371B; color: #fff;}
 .tableWrapper .table .center{text-align: center;}
 .tableWrapper .table .middle{vertical-align: middle;}
-.tableWrapper .table .hour{width:10%;}
+.tableWrapper .table .hour{width:15%; text-align: center;}
 .tableWrapper .table .name{width:40%;}
 .tableWrapper .table .surname{width:25%;}
 .tableWrapper .table a{color: #dc371b;}

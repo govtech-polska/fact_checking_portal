@@ -70,17 +70,17 @@ const Agenda = () => {
 
                                         </tr>
                                         <tr>
-                                            <td>10:00</td>
+                                            <td className="hour">10:00</td>
                                             <td><a href="#id12">Marek Dietl</a></td>
                                             <td>{t('agenda:functions.function1')}</td>
                                         </tr>
                                         <tr>
-                                            <td>12:00</td>
+                                            <td className="hour">12:00</td>
                                             <td><a href="#id20">Tomasz Rożek</a></td>
                                             <td>{t('agenda:functions.function2')}</td>
                                         </tr>
                                         <tr>
-                                            <td className="middle" rowspan="3">14:00</td>
+                                            <td className="middle hour" rowspan="3">Debata <br/>14:00 - 14:45</td>
                                             <td><a href="#id4">Grzegorz Jankowski</a>
                                             </td>
                                             <td>{t('agenda:functions.function3')}
@@ -104,7 +104,7 @@ const Agenda = () => {
 
 
                                         <tr>
-                                            <td>16:00
+                                            <td className="hour">16:00
                                             </td>
                                             <td><a href="#id11">Marcin Miller</a>
                                             </td>
@@ -114,7 +114,7 @@ const Agenda = () => {
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>18:00
+                                            <td className="hour">18:00
                                             </td>
                                             <td><a href="#id19">Tomasz Lis</a>
 
@@ -164,7 +164,7 @@ const Agenda = () => {
 
                                         </tr>
                                         <tr>
-                                            <td className="middle" rowSpan="4">14:00</td>
+                                            <td className="middle hour" rowSpan="4">Debata <br/>14:00 - 14:45</td>
                                             <td><a href="#id13">Michel Viatteau</a>
 
                                             </td>
@@ -274,7 +274,7 @@ const Agenda = () => {
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td className="middle" rowSpan="4">14:00</td>
+                                            <td className="middle hour" rowSpan="4">Debata <br/>14:00 - 14:45</td>
                                             <td><a href="#id7">Jan Zygmuntowski</a>
 
                                             </td>
@@ -316,7 +316,7 @@ const Agenda = () => {
                                         </tr>
 
                                         <tr>
-                                            <td>16:00
+                                            <td className="hour">16:00
                                             </td>
                                             <td><a href="#">Piotr Gursztyn</a>
 
@@ -328,7 +328,7 @@ const Agenda = () => {
                                         </tr>
 
                                         <tr>
-                                            <td>18:00
+                                            <td className="hour">18:00
                                             </td>
                                             <td><a href="#">Paweł Mąciwoda-Jastrzębski</a>
 
@@ -343,7 +343,7 @@ const Agenda = () => {
                                         </tr>
 
                                         <tr>
-                                            <td>18:30</td>
+                                            <td className="hour">18:30</td>
                                             <td className="center" colSpan="3">Zakończenie #FakeHunter Challenge
                                             </td>
 
