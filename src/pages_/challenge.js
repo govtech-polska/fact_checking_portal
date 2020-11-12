@@ -352,7 +352,7 @@ const Challenge = () => {
                       <p>
                         {t('challenge:section12.description')}
                       </p>
-                      <a className="button"
+                      <a target="_blank" className="button"
                          rel="noopener noreferrer"
                          href="/agenda"
                       >
