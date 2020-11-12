@@ -11,6 +11,31 @@
     "tableTh2": "and surname",
     "tableTh3": "Function"
   },
+  "functions": {
+    "function1":"President of the Management Board of the Warsaw Stock Exchange",
+    "function2":"scientist",
+    "function3":"journalist",
+    "function4":"CEO WEI",
+    "function5":"Wikimedia",
+    "function6":"Leader and singer of Polish band BOYS",
+    "function7":"Public Relations HCG",
+    "function8":"actor, director",
+    "function9":"TVP Biełsat / Dom Białoruski",
+    "function10":"Fact-checking editor for Central Europe at Agence France-Presse Warsaw Office",
+    "function11":"Head of verification DPA",
+    "function12":"EANA Secretary General",
+    "function13":"Head of EFE Verifica, EFE’s fact-checking unit\n",
+    "function14":"Journalist. Former editor-in-chief of \"Super Express\"",
+    "function15":"International Fact-Checking Associate Director, Poynter Institute",
+    "function16":"director, screenwriter, producer",
+    "function17":"music journalist",
+    "function18":"scientist, lecturer",
+    "function19":"Pr. prof. UKSW dr hab., Head of the Department of Communication UKSW, media expert, deputy director of the UKSW Institute of Media Education and Journalism",
+    "function20":"PhD in theology of social means media expert, specialist in disinformation using fake news,\n educator\"",
+    "function21":"psychologist of new technologies PhD SWPS",
+    "function22":"journalist, historian",
+    "function23":"bass player, member of the Scorpions band"
+  },
   "personList": {
     "person1": {
       "name": "Alexandru Giboi ",
@@ -55,7 +80,7 @@
     },
     "person11": {
       "name": "Marcin Miller",
-      "description": "Polish singer, leader and vocalist of the disco polo band Boys. Since 1990, he has been the leader and vocalist of the band Boys, with which he has released a total of 21 studio albums and two Christmas CDs. With the band he launched such hits as \"You're crazy\", \"Wolność\", \"Łobuz\" or \"Chłop z Mazur\"."
+      "description": "Polish singer, leader and vocalist of the disco polo band Boys. Since 1990, he has been the leader and vocalist of the band Boys, with which he has released a total of 35 studio albums. With the band he launched such hits as \"You're crazy\", \"Wolność\", \"Łobuz\" or \"Chłop z Mazur\"."
     },
     "person12": {
       "name": "Marek Dietl",
@@ -75,7 +100,7 @@
     },
     "person16": {
       "name": "Redbad Klynstra-Komarnicki",
-      "description": "Polish actor & director of Dutch origin. He graduated from the Acting Department of the State Higher School of Theater in Warsaw in 1994 and in the same year he made his debut in a television play, adapting the play by Horacio Quirog \"White Collapase\". Known, among others from such series as \"PitBull\" or \"For good and for bad\" or the plays \"Little Marriage Crimes\" by Eric-Emmanuel Schmitt staged at the Mazowiecki Theater. In 2001-2006 he was associated with the Rozmaitości Theater in Warsaw, and from 2008 with the Nowy Theater in Warsaw."
+      "description": "Redbad Klynstra-Komarnicki - Polish actor & director of Dutch origin. He graduated from the Acting Department of the State Higher School of Theater in Warsaw in 1994 and in the same year he made his debut in a television play, adapting the play by Horacio Quirog \"White Collapase\". Known, among others from such series as \"PitBull\" or \"For good and for bad\" or the plays \"Little Marriage Crimes\" by Eric-Emmanuel Schmitt staged at the Mazowiecki Theater. In 2001-2006 he was associated with the Rozmaitości Theater in Warsaw, and from 2008 with the Nowy Theater in Warsaw."
     },
     "person17": {
       "name": "Sławomir Jastrzębowski",
@@ -100,6 +125,10 @@
     "person22": {
       "name": "Wojciech Pędzich",
       "description": "English teacher, Wikimedian, member of the board of the Wikimedia Polska Association in the 2014-2016 term and 2016-2018-2020 as  the secretary."
+    },
+    "person23": {
+      "name": "Jakub Biernat",
+      "description": "Jakub Biernat, dziennikarz TV Biełsat, od lat fascynuje się Białorusią, obszarem Europy Wschodniej i d. ZSRR. Reportażysta, tłumacz i podróżnik. Mówi po białorusku."
     }
   }
 }

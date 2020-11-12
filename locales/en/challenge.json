@@ -79,6 +79,11 @@
     "description": "That is why we invite everyone to online meetings with experts who will tell, among others, about what fake news are, how to capture them, how they influence the shaping of the awareness of contemporary Internet users. Among our guests there will be also public figures who will share with us their experiences in dealing with the problem of false content about themselves.",
     "button": "SEE THE MEETING AGENDA"
   },
+  "section13": {
+    "title": "SCOREBOARD",
+    "subtitle": "We want that competition participants have the opportunity to follow the progress of their work.",
+    "description": "Therefore, during the competition, we will keep you informed about the partial results of the 10 best fake news hunters. Join the competition and be the best!"
+  },
 
   "contactForm": {
     "name": "Name",

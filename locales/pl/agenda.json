@@ -11,6 +11,31 @@
     "tableTh2": "i nazwisko",
     "tableTh3": "Funkcja"
   },
+  "functions": {
+    "function1":"Prezes Zarządu Giełdy Papierów Wartościowych w Warszawie",
+    "function2":"naukowiec",
+    "function3":"dziennikarz",
+    "function4":"Prezes WEI",
+    "function5":"Wikimedia",
+    "function6":"Lider i wokalista zespołu Boys",
+    "function7":"Public Relations HCG",
+    "function8":"aktor, reżyser",
+    "function9":"TVP Biełsat / Dom Białoruski",
+    "function10":" Redaktor weryfikujący AFP",
+    "function11":"Szef weryfikacji DPA",
+    "function12":"Sekretarz Generalny EANA",
+    "function13":"Szef weryfikacji EFE",
+    "function14":"Dziennikarz, były naczelny Super Express",
+    "function15":" Zastępca dyrektora International Fact-Checking Network",
+    "function16":"reżyserka, scenarzystka, producentka",
+    "function17":"dziennikarz muzyczny",
+    "function18":"naukowiec, wykładowca",
+    "function19":"KS. prof. UKSW dr hab., kierownik Katedry Komunikacji UKSW, medioznawca, wicedyrektor Instytutu Edukacji Medialnej i Dziennikarstwa UKSW",
+    "function20":"dr teologii środków społ. przekazu, medioznawca, specjalistka ds. dezinformacji za pomocą fake news, pedagog",
+    "function21":"psycholog nowych technologii dr SWPS",
+    "function22":"dziennikarz, historyk",
+    "function23":"gitarzysta basowy, członek zespołu Scorpions"
+  },
   "personList": {
     "person1": {
       "name": "Alexandru Giboi ",
@@ -54,7 +79,7 @@
     },
     "person11": {
       "name": "Marcin Miller",
-      "description": "Polski piosenkarz, lider i wokalista zespołu disco polo Boys. Od 1990 jest liderem i wokalistą zespołu Boys, z którym wydał łącznie 21 albumów studyjnych i dwie płyty świąteczne. Z zespołem wylansował przeboje, takie jak „Jesteś szalona”, „Wolność”, „Łobuz” czy „Chłop z Mazur”."
+      "description": "Polski piosenkarz, lider i wokalista zespołu disco polo Boys. Od 1990 jest liderem i wokalistą zespołu Boys, z którym wydał łącznie 35 albumów studyjnych. Z zespołem wylansował przeboje, takie jak „Jesteś szalona”, „Wolność”, „Łobuz” czy „Chłop z Mazur”."
     },
     "person12": {
       "name": "Marek Dietl",
@@ -99,6 +124,10 @@
     "person22": {
       "name": "Wojciech Pędzich",
       "description": "Anglista, wikimedianin, członek zarządu Stowarzyszenia Wikimedia Polska w kadencji 2014-2016 i 2016-2018-2020 (sekretarz)."
+    },
+    "person23": {
+      "name": "Jakub Biernat",
+      "description": "Jakub Biernat, dziennikarz TV Biełsat, od lat fascynuje się Białorusią, obszarem Europy Wschodniej i d. ZSRR. Reportażysta, tłumacz i podróżnik. Mówi po białorusku."
     }
 
   }

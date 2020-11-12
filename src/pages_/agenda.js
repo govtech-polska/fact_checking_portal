@@ -72,25 +72,25 @@ const Agenda = () => {
                                         <tr>
                                             <td>10:00</td>
                                             <td><a href="#id12">Marek Dietl</a></td>
-                                            <td>prezes GPW</td>
+                                            <td>{t('agenda:functions.function1')}</td>
                                         </tr>
                                         <tr>
                                             <td>12:00</td>
                                             <td><a href="#id20">Tomasz Rożek</a></td>
-                                            <td>naukowiec</td>
+                                            <td>{t('agenda:functions.function2')}</td>
                                         </tr>
                                         <tr>
                                             <td className="middle" rowspan="3">14:00</td>
                                             <td><a href="#id4">Grzegorz Jankowski</a>
                                             </td>
-                                            <td>dziennikarz
+                                            <td>{t('agenda:functions.function3')}
                                             </td>
                                         </tr>
                                         <tr>
 
                                             <td><a href="#id21">Tomasz Wróblewski</a></td>
 
-                                            <td>dziennikarz
+                                            <td>{t('agenda:functions.function4')}
                                             </td>
                                         </tr>
                                         <tr>
@@ -98,7 +98,7 @@ const Agenda = () => {
                                             <td><a href="#id22">Wojciech Pędzich</a>
                                             </td>
 
-                                            <td>Wikimedia
+                                            <td>{t('agenda:functions.function5')}
                                             </td>
                                         </tr>
 
@@ -109,7 +109,7 @@ const Agenda = () => {
                                             <td><a href="#id11">Marcin Miller</a>
                                             </td>
 
-                                            <td>lider i wokalista zespołu Boys
+                                            <td>{t('agenda:functions.function6')}
 
                                             </td>
                                         </tr>
@@ -119,7 +119,7 @@ const Agenda = () => {
                                             <td><a href="#id19">Tomasz Lis</a>
 
                                             </td>
-                                            <td>Ex. Director - Havas PR
+                                            <td>{t('agenda:functions.function7')}
 
 
                                             </td>
@@ -150,15 +150,15 @@ const Agenda = () => {
                                             <td><a href="#id16">Redbad Klynstra - Komarnicki</a>
 
                                             </td>
-                                            <td>aktor, reżyser
+                                            <td>{t('agenda:functions.function8')}
                                             </td>
                                         </tr>
                                         <tr>
                                             <td className="hour">12:00</td>
-                                            <td>Jakub Biernat, Aleś Zarembiuk
+                                            <td><a href="#id23">Jakub Biernat</a>, Aleś Zarembiuk
 
                                             </td>
-                                            <td>TVP Biełsat / Dom Białoruski
+                                            <td>{t('agenda:functions.function1')}9
 
                                             </td>
 
@@ -169,7 +169,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>Fact-checking editor for Central Europe at Agence France-Presse Warsaw Office/ Redaktor weryfikujący AFP
+                                            <td>{t('agenda:functions.function10')}
 
 
 
@@ -180,7 +180,7 @@ const Agenda = () => {
                                             <td><a href="#id18">Stefan Voss</a>
                                             </td>
 
-                                            <td>Head of verification DPA/ Szef weryfikacji DPA
+                                            <td>{t('agenda:functions.function11')}
 
 
                                             </td>
@@ -192,7 +192,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>EANA Secretary General/Sekretarz Generalny EANA
+                                            <td>{t('agenda:functions.function12')}
 
 
 
@@ -204,7 +204,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>Head of EFE Verifica, EFE’s fact-checking unit/Szef weryfikacji EFE
+                                            <td>{t('agenda:functions.function13')}
 
                                             </td>
                                         </tr>
@@ -217,7 +217,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>b. naczelny Super Express
+                                            <td>{t('agenda:functions.function14')}
 
                                             </td>
                                         </tr>
@@ -229,9 +229,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>International Fact-Checking Associate Director, Poynter Institute/ Zastępca dyrektora International Fact-Checking Network
-
-
+                                            <td>{t('agenda:functions.function15')}
 
                                             </td>
                                         </tr>
@@ -262,7 +260,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>reżyserka, scenarzystka, producentka
+                                            <td>{t('agenda:functions.function16')}
 
                                             </td>
                                         </tr>
@@ -272,7 +270,7 @@ const Agenda = () => {
                                             <td><a href="#id5">Hirek Wrona</a>
                                             </td>
 
-                                            <td>dziennikarz muzyczny
+                                            <td>{t('agenda:functions.function17')}
                                             </td>
                                         </tr>
                                         <tr>
@@ -281,7 +279,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>naukowiec, wykładowca
+                                            <td>{t('agenda:functions.function18')}
 
                                             </td>
                                         </tr>
@@ -290,8 +288,7 @@ const Agenda = () => {
                                             <td><a href="#id1">Krzysztof Stępniak</a>
                                             </td>
 
-                                            <td>prof. UKSW dr hab., kierownik Katedry Komunikacji UKSW, medioznawca, wicedyrektor Instytutu Edukacji Medialnej i Dziennikarstwa UKSW
-
+                                            <td>{t('agenda:functions.function19')}
 
                                             </td>
                                         </tr>
@@ -301,8 +298,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>dr teologii środków społ. przekazu, medioznawca, specjalistka ds. dezinformacji za pomocą fake news, pedagog
-
+                                            <td>{t('agenda:functions.function20')}
                                             </td>
                                         </tr>
 
@@ -313,7 +309,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>psycholog nowych technologii dr SWPS
+                                            <td>{t('agenda:functions.function21')}
 
 
                                             </td>
@@ -326,7 +322,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>dziennikarz, historyk
+                                            <td>{t('agenda:functions.function22')}
 
                                             </td>
                                         </tr>
@@ -340,7 +336,7 @@ const Agenda = () => {
 
                                             </td>
 
-                                            <td>gitarzysta basowy, członek zespołu Scorpions
+                                            <td>{t('agenda:functions.function23')}
 
 
                                             </td>
@@ -403,6 +399,15 @@ const Agenda = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agenda:personList.person5.name')}</h2>
                                             <p>{t('agenda:personList.person5.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id23" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/biernat.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agenda:personList.person23.name')}</h2>
+                                            <p>{t('agenda:personList.person23.description')}</p>
                                         </div>
                                     </li>
                                     <li id="id6" className="person">
@@ -497,7 +502,7 @@ const Agenda = () => {
                                     </li>
                                     <li id="id16" className="person">
                                         <div className="imageWrapper">
-                                            <img src="/images/persons/3758541.jpg"/>
+                                            <img src="/images/persons/Redbad.png"/>
                                         </div>
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agenda:personList.person16.name')}</h2>

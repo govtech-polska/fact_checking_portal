@@ -79,6 +79,11 @@
     "description": "Dlatego zapraszamy wszystkich na spotkania online z ekspertami, którzy opowiedzą m.in. o tym, czym są fake newsy, jak je wychwytywać, jak wpływają na kształtowanie świadomości współczesnych użytkowników internetu. Wśród naszych gości będą także osoby publiczne, które podzielą się z nami swoimi doświadczeniami w radzeniu sobie z problemem fałszywych treści na temat ich samych.",
     "button": "ZOBACZ AGENDĘ SPOTKAŃ"
   },
+  "section13": {
+    "title": "TABELA WYNIKÓW",
+    "subtitle": "Chcemy, by uczestnicy rywalizacji mieli szansę śledzić postępy swoich prac.",
+    "description": "Dlatego w trakcie trwania konkursu na bieżąco, będziemy informować o wynikach cząstkowych 10 najlepszych łowców fake newsów. Dołącz do rywalizacji i bądź najlepszy!"
+  },
 
   "contactForm": {
     "name": "Imię",
