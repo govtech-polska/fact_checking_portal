@@ -587,12 +587,15 @@ const Agenda = () => {
 
                                 <div id="frames" className="iframeList">
 
-                                    <h2 className="subtitle">{t('agenda:subtitle2')}</h2>
+                                    <h2 className="title">{t('agenda:subtitle2')}</h2>
                                     <ul>
                                         <li>
-
+                                            <h5>Marek Dietl</h5>
                                             <div className="iframeWrapper">
-
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/8QIcNU37.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Markiem Dietlem (GPW)"
+                                                        width="620"></iframe>
                                             </div>
 
 

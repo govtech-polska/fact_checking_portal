@@ -47,6 +47,8 @@ body {
   height: 100%;
   border: 0;}
 
+
+
 .s1 {
   z-index: 1;
   position: relative;
@@ -387,7 +389,7 @@ body {
 
 article .iframeList ul{margin:0; padding: 0;}
 article .iframeList ul li{margin:0 0 50px 0; padding: 0; list-style: none;}
-
+article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px solid #dee2e6; padding-top: 30px;}
 
 
 .s7 {
@@ -840,5 +842,3 @@ article .iframeList ul li{margin:0 0 50px 0; padding: 0; list-style: none;}
     margin-bottom: 70px;
 }
 
-.iframeList{display: none;}
-.button.center{display: none;}
