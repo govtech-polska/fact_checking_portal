@@ -635,6 +635,17 @@ const Agenda = () => {
 
 
                                         </li>
+                                        <li>
+                                            <h5>FakeHunter Challenge: panel dyskusyjny z Agnieszką Hyży</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/9MMHPnCV.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Agnieszką Hyży"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
 
                                     </ul>
 
