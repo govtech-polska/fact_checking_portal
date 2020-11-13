@@ -89,21 +89,43 @@ const Challenge = () => {
             </section>
 
 
+            <section className="s2">
+              <div className="container-fluid">
+                <div className="row no-gutters">
 
+                  <div className="col-lg-6">
+                    <div class="iframeWrapper">
+                      <iframe src="//iframe.dacast.com/b/142411/c/544128" width="990" height="557" frameBorder="0"
+                              scrolling="no" allow="autoplay" allowFullScreen webkitallowfullscreen mozallowfullscreen
+                              oallowfullscreen msallowfullscreen></iframe>
+
+                    </div>
+                  </div>
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challenge:section12.title')}</h2>
+                      <p className="title">{t('challenge:section12.subtitle')}</p>
+                      <p>
+                        {t('challenge:section12.description')}
+                      </p>
+                      <a target="_blank" className="button"
+                         rel="noopener noreferrer"
+                         href="/agenda"
+                      >
+                        {t('challenge:section12.button')}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
 
 
             <section className="s2">
               <div className="container-fluid">
                 <div className="row no-gutters">
 
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/prize.png" alt=""/>
-                      <div className="author">
-                        Ariel / Unsplash
-                      </div>
-                    </div>
-                  </div>
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section8.title')}</h2>
@@ -145,6 +167,14 @@ const Challenge = () => {
 
                     </div>
                   </div>
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/prize.png" alt=""/>
+                      <div className="author">
+                        Ariel / Unsplash
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </section>
@@ -152,6 +182,15 @@ const Challenge = () => {
               <div className="container-fluid">
                 <div className="row no-gutters">
 
+
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/image3.png" alt=""/>
+                      <div className="author">
+                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
+                      </div>
+                    </div>
+                  </div>
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section4.title')}</h2>
@@ -172,26 +211,13 @@ const Challenge = () => {
                       </a>
                     </div>
                   </div>
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/image3.png" alt=""/>
-                      <div className="author">
-                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
-                      </div>
-                    </div>
-                  </div>
                 </div>
               </div>
             </section>
-            <section className="s3">
+            <section className="s4">
               <div className="container-fluid">
                 <div className="row no-gutters">
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/image5.png" alt=""/>
-                      <div className="author">strixcode / Adobe Stock</div>
-                    </div>
-                  </div>
+
 
                   <div className="col-lg-6">
                     <div className="textWrapper">
@@ -304,6 +330,12 @@ const Challenge = () => {
 
                     </div>
                   </div>
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/image5.png" alt=""/>
+                      <div className="author">strixcode / Adobe Stock</div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </section>
@@ -311,6 +343,13 @@ const Challenge = () => {
             <section className="s2">
               <div className="container-fluid">
                 <div className="row no-gutters">
+
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/mail.png" alt=""/>
+                      <div className="author">Onlineprinters / Unsplash</div>
+                    </div>
+                  </div>
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section11.title')}</h2>
@@ -326,49 +365,20 @@ const Challenge = () => {
                       </a>
                     </div>
                   </div>
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/mail.png" alt=""/>
-                      <div className="author">Onlineprinters / Unsplash</div>
-                    </div>
-                  </div>
                 </div>
               </div>
             </section>
+
+
+
+
             <section className="s2">
               <div className="container-fluid">
                 <div className="row no-gutters">
-
                   <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/micro.png" alt=""/>
-                      <div className="author">Jonathan Farber / Unsplash</div>
-                    </div>
-                  </div>
-                  <div className="col-lg-6">
-                    <div className="textWrapper">
-                      <h2 className="section">{t('challenge:section12.title')}</h2>
-                      <p className="title">{t('challenge:section12.subtitle')}</p>
-                      <p>
-                        {t('challenge:section12.description')}
-                      </p>
-                      <a target="_blank" className="button"
-                         rel="noopener noreferrer"
-                         href="/agenda"
-                      >
-                        {t('challenge:section12.button')}
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-            <section className="s2">
-              <div className="container-fluid">
-                <div className="row no-gutters">
 
 
-                  <div className="col-lg-6">
+
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section10.title')}</h2>
                       <p className="title">{t('challenge:section10.subtitle')}</p>
@@ -388,14 +398,16 @@ const Challenge = () => {
                       <img src="/images/festiwal.png" alt=""/>
                     </div>
                   </div>
+
                 </div>
               </div>
             </section>
             <section className="s6" >
               <div className="container-fluid">
                 <div className="row no-gutters">
-
                   <div className="col-lg-6">
+
+
                     <ul className="logoWrapper">
 
                       <li className="state">
@@ -424,6 +436,7 @@ const Challenge = () => {
                       </li>
                     </ul>
                   </div>
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section9.title')}</h2>
@@ -433,7 +446,6 @@ const Challenge = () => {
                       </p>
                     </div>
                   </div>
-
                 </div>
               </div>
             </section>
@@ -445,6 +457,7 @@ const Challenge = () => {
 
 
                   <div className="col-lg-6">
+
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section1.title')}</h2>
                       <p className="title">{t('challenge:section1.subtitle')}</p>
@@ -480,7 +493,6 @@ const Challenge = () => {
                       <div className="author">Alejandro Escamilla / Unsplash</div>
                     </div>
                   </div>
-
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section3.title')}</h2>
@@ -492,14 +504,15 @@ const Challenge = () => {
                     </div>
                   </div>
 
+
+
+
                 </div>
               </div>
             </section>
             <section className="s8" id="kontakt">
               <div className="container-fluid">
                 <div className="row no-gutters">
-
-
 
                   <div className="col-lg-6">
                     <div className="textWrapper">
@@ -513,6 +526,8 @@ const Challenge = () => {
                       <ChallengeContactForm/>
                     </ul>
                   </div>
+
+
                 </div>
               </div>
             </section>

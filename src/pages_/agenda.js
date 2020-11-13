@@ -48,6 +48,13 @@ const Agenda = () => {
 
                                 <p className="lead">{t('agenda:subtitle')}</p>
 
+                                <a className="button center"
+                                   rel="noopener noreferrer"
+                                   href="#frames"
+                                >{t('agenda:iframebutton')}
+
+                                </a>
+
                                 <div className="tableWrapper">
                                     <table className="table  table-bordered">
                                         <thead>
@@ -139,7 +146,8 @@ const Agenda = () => {
                                         </tr>
                                         <tr>
                                             <th scope="col">{t('agenda:table.tableTh')}</th>
-                                            <th className="name" scope="col">{t('agenda:table.tableTh1')} {t('agenda:table.tableTh2')}</th>
+                                            <th className="name"
+                                                scope="col">{t('agenda:table.tableTh1')} {t('agenda:table.tableTh2')}</th>
                                             <th scope="col">{t('agenda:table.tableTh3')}</th>
                                         </tr>
                                         </thead>
@@ -172,7 +180,6 @@ const Agenda = () => {
                                             <td>{t('agenda:functions.function10')}
 
 
-
                                             </td>
                                         </tr>
                                         <tr>
@@ -193,7 +200,6 @@ const Agenda = () => {
                                             </td>
 
                                             <td>{t('agenda:functions.function12')}
-
 
 
                                             </td>
@@ -248,7 +254,8 @@ const Agenda = () => {
                                         </tr>
                                         <tr>
                                             <th className="hour" scope="col">{t('agenda:table.tableTh')}</th>
-                                            <th className="name" scope="col">{t('agenda:table.tableTh1')} {t('agenda:table.tableTh2')}</th>
+                                            <th className="name"
+                                                scope="col">{t('agenda:table.tableTh1')} {t('agenda:table.tableTh2')}</th>
                                             <th scope="col">{t('agenda:table.tableTh3')}</th>
                                         </tr>
                                         </thead>
@@ -333,7 +340,6 @@ const Agenda = () => {
                                             <td><a href="#">Paweł Mąciwoda-Jastrzębski</a>
 
 
-
                                             </td>
 
                                             <td>{t('agenda:functions.function23')}
@@ -353,6 +359,11 @@ const Agenda = () => {
                                         </tbody>
                                     </table>
                                 </div>
+
+
+
+
+
                                 <h2 className="subtitle">{t('agenda:subtitle1')}</h2>
 
                                 <ul className="personList">
@@ -573,6 +584,23 @@ const Agenda = () => {
                                         </div>
                                     </li>
                                 </ul>
+
+                                <div id="frames" className="iframeList">
+
+                                    <h2 className="subtitle">{t('agenda:subtitle2')}</h2>
+                                    <ul>
+                                        <li>
+
+                                            <div className="iframeWrapper">
+
+                                            </div>
+
+
+                                        </li>
+                                    </ul>
+
+                                </div>
+
                             </div>
                         </div>
                     </div>
