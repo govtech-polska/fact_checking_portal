@@ -590,7 +590,16 @@ const Agenda = () => {
                                     <h2 className="title">{t('agenda:subtitle2')}</h2>
                                     <ul>
                                         <li>
-                                            <h5>Marek Dietl</h5>
+                                            <h5>#FakeHunter Challenge: otwarcie</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/1YZ5Hsp1.html"
+                                                        title="#FakeHunter Challenge: otwarcie" width="620"></iframe>
+                                            </div>
+
+
+                                        </li> <li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Markiem Dietlem (GPW)</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/8QIcNU37.html"
@@ -600,6 +609,19 @@ const Agenda = () => {
 
 
                                         </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Tomaszem Rożkiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/LXAPuVPE.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Tomaszem Rożkiem"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
                                     </ul>
 
                                 </div>
