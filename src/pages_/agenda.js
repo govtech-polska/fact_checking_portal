@@ -655,12 +655,23 @@ const Agenda = () => {
                                             </div>
 
 
-                                        </li><li>
+                                        </li>
+                                        <li>
                                             <h5>#FakeHunter Challenge: panel dyskusyjny z Redbadem Klynstra-Komarnickim</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/WaOH1uJ7.html"
                                                         title="#FakeHunter Challenge: panel dyskusyjny z Redbadem Klynstra-Komarnickim"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Jakubem Biernatem (TVP Biełsat)</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/khn0CZ8t.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Jakubem Biernatem (TVP Biełsat)"
                                                         width="620"></iframe>
                                             </div>
 
