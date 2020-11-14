@@ -666,16 +666,6 @@ const Agenda = () => {
                                             </div>
 
 
-                                        </li><li>
-                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Jakubem Biernatem (TVP Biełsat)</h5>
-                                            <div className="iframeWrapper">
-                                                <iframe allowFullScreen frameBorder="0" height="350"
-                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/khn0CZ8t.html"
-                                                        title="#FakeHunter Challenge: panel dyskusyjny z Jakubem Biernatem (TVP Biełsat)"
-                                                        width="620"></iframe>
-                                            </div>
-
-
                                         </li>
 
                                     </ul>
