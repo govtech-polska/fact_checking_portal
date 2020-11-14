@@ -219,7 +219,7 @@ const Agenda = () => {
                                         <tr>
                                             <td className="hour">16:00
                                             </td>
-                                            <td><a href="#">Piotr Legutko</a>
+                                            <td><a href="#id17">Piotr Legutko</a>
 
                                             </td>
 
@@ -523,6 +523,15 @@ const Agenda = () => {
                                             <p>{t('agenda:personList.person15.description')}</p>
                                         </div>
                                     </li>
+                                    <li id="id17" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/legutko.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agenda:personList.person17.name')}</h2>
+                                            <p>{t('agenda:personList.person17.description')}</p>
+                                        </div>
+                                    </li>
                                     <li id="id16" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/Redbad.png"/>
@@ -532,15 +541,7 @@ const Agenda = () => {
                                             <p>{t('agenda:personList.person16.description')}</p>
                                         </div>
                                     </li>
-                                    <li id="id17" className="person">
-                                        <div className="imageWrapper">
-                                            <img src="/images/persons/jastrzebowski.png"/>
-                                        </div>
-                                        <div className="textWrapper">
-                                            <h2 className="name">{t('agenda:personList.person17.name')}</h2>
-                                            <p>{t('agenda:personList.person17.description')}</p>
-                                        </div>
-                                    </li>
+
                                     <li id="id18" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/StefanVoss.png"/>
@@ -662,6 +663,16 @@ const Agenda = () => {
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/WaOH1uJ7.html"
                                                         title="#FakeHunter Challenge: panel dyskusyjny z Redbadem Klynstra-Komarnickim"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Jakubem Biernatem oraz Aleśem Zarembiukiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/Iuhpjvv5.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Jakubem Biernatem oraz Aleśem Zarembiukiem"
                                                         width="620"></iframe>
                                             </div>
 
