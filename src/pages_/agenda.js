@@ -678,11 +678,21 @@ const Agenda = () => {
 
 
                                         </li><li>
-                                            <h5>#FakeHunter Challenge: debata agencyjna"</h5>
+                                            <h5>#FakeHunter Challenge: debata agencyjna</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/4CIwF7o8.html"
                                                         title="#FakeHunter Challenge: debata agencyjna"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Piotrem Legutko (TVP Historia)</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/nxD6t5hB.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Piotrem Legutko (TVP Historia)"
                                                         width="620"></iframe>
                                             </div>
 
