@@ -73,7 +73,7 @@ const Agenda = () => {
                                         <tbody>
                                         <tr>
                                             <td className="hour">9:50</td>
-                                            <td className="center" colspan="2">Otwarcie #FakeHunter Challenge</td>
+                                            <td className="center" colspan="2">Otwarcie #FakeHunter Challengeya</td>
 
                                         </tr>
                                         <tr>
@@ -219,7 +219,7 @@ const Agenda = () => {
                                         <tr>
                                             <td className="hour">16:00
                                             </td>
-                                            <td><a href="#id17">Sławomir Jastrzębowski</a>
+                                            <td><a href="#">Piotr Legutko</a>
 
                                             </td>
 
@@ -636,11 +636,21 @@ const Agenda = () => {
 
                                         </li>
                                         <li>
-                                            <h5>FakeHunter Challenge: panel dyskusyjny z Agnieszką Hyży</h5>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Agnieszką Hyży</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/9MMHPnCV.html"
                                                         title="#FakeHunter Challenge: panel dyskusyjny z Agnieszką Hyży"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Tomaszem Lisem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/1LbNjV5d.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Tomaszem Lisem"
                                                         width="620"></iframe>
                                             </div>
 
