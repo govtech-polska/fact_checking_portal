@@ -214,7 +214,7 @@ const Challenge = () => {
                 </div>
               </div>
             </section>
-            <section className="s4">
+            <section className="s4 diffrentButtons">
               <div className="container-fluid">
                 <div className="row no-gutters">
 
