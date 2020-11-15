@@ -717,6 +717,16 @@ const Agenda = () => {
                                             </div>
 
 
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Hirkiem Wroną</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/XD4aC0TR.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Hirkiem Wroną"
+                                                        width="620"></iframe>
+                                            </div>
+
+
                                         </li>
 
                                     </ul>
