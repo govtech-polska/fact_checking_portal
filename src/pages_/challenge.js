@@ -384,7 +384,7 @@ const Challenge = () => {
                   </div>
                   <div className="col-lg-6">
                     <div className="imageWrapper">
-                      <img src="/images/tabela3.png" alt=""/>
+                      <img src="/images/tabela4.png" alt=""/>
 
                     </div>
                   </div>
