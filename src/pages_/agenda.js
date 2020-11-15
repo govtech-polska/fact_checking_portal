@@ -747,6 +747,27 @@ const Agenda = () => {
 
                                         </li>
 
+                                        <li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Pawłem Mąciwodą - Jastrzębskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/UkK4kfTk.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Pawłem Mąciwodą - Jastrzębskim"
+                                                        width="620"></iframe></div>
+
+
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge: zakończenie</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/ApVxdkxC.html"
+                                                        title="#FakeHunter Challenge: zakończenie" width="620"></iframe></div>
+
+
+                                        </li>
+
                                     </ul>
 
                                 </div>
