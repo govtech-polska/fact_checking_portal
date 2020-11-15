@@ -707,6 +707,16 @@ const Agenda = () => {
                                             </div>
 
 
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge: panel dyskusyjny z Joanną Kos-Krauze</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/soZ5T6LL.html"
+                                                        title="#FakeHunter Challenge: panel dyskusyjny z Joanną Kos-Krauze"
+                                                        width="620"></iframe>
+                                            </div>
+
+
                                         </li>
 
                                     </ul>
