@@ -727,6 +727,15 @@ const Agenda = () => {
                                             </div>
 
 
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge: debata naukowa</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/QguIt2j7.html"
+                                                        title="#FakeHunter Challenge: debata naukowa"
+                                                        width="620"></iframe></div>
+
+
                                         </li>
 
                                     </ul>
