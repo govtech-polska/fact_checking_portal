@@ -381,6 +381,10 @@ body {
   width: 70%;
 }
 
+.s6 .logoWrapper li.play img {
+  width: 70%;
+}
+
 .link{color:#dc371b;}
 .link:hover, link:focus{color:#dc371b;}
 
