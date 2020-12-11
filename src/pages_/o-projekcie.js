@@ -394,11 +394,17 @@ const About = () => {
                                alt="Akademia Pactt Pfizer"/>
                         </a>
                       </li>
+                      <li className="play">
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.play.pl/">
+                          <img src="/images/play.png" alt="Play"/>
+                        </a>
+                      </li>
                       <li className="info">
                         <h5 className="title">
                           <a href="#kontakt">{t('about:section5.joinBtn')}</a>
                         </h5>
                       </li>
+
                     </ul>
                   </div>
                 </div>
