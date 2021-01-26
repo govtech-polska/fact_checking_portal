@@ -395,6 +395,8 @@ article .iframeList ul{margin:0; padding: 0;}
 article .iframeList ul li{margin:0 0 50px 0; padding: 0; list-style: none;}
 article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px solid #dee2e6; padding-top: 30px;}
 
+.listHeader{font-size: 17px; font-weight: 700; margin:0 0 30px 0; width:100%; display: block;}
+
 
 .s7 {
   z-index: 7;

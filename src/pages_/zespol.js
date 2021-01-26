@@ -2,8 +2,7 @@ import Head from 'next/head'
 import Layout from 'containers/Layout'
 import useTranslation from 'next-translate/useTranslation'
 
-const NUMBER_OF_PEOPLE = 17
-const TEAM_SIZE_ARRAY = Array(NUMBER_OF_PEOPLE).fill()
+
 
 const Team = () => {
   const { t } = useTranslation()
@@ -46,20 +45,92 @@ const Team = () => {
                 <h1 className="title">{t('team:title')}</h1>
 
                 <p className="lead">{t('team:description')}</p>
+                <p className="lead">{t('team:description1')}</p>
 
                 <h2 className="subtitle">{t('team:subtitle')}</h2>
 
+
+                <h3 className="listHeader">{t('team:listHeader')}</h3>
+
                 <ul>
-                  {TEAM_SIZE_ARRAY.map((_, i) => {
-                    const { name, description } = getPersonData(i + 1)
-                    return (
-                      <li key={name}>
-                        <strong>{name}</strong>
-                        <p>{description}</p>
-                      </li>
-                    )
-                  })}
+                  <li>
+                    <strong>{t('team:data.1.name')}</strong>
+                    <p>{t('team:data.1.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.2.name')}</strong>
+                    <p>{t('team:data.2.description')}</p>
+                  </li>
                 </ul>
+
+                <h3 className="listHeader">{t('team:listHeader1')}</h3>
+
+
+                <ul>
+                  <li>
+                    <strong>{t('team:data.3.name')}</strong>
+                    <p>{t('team:data.3.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.4.name')}</strong>
+                    <p>{t('team:data.4.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.5.name')}</strong>
+                    <p>{t('team:data.5.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.6.name')}</strong>
+                    <p>{t('team:data.6.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.7.name')}</strong>
+                    <p>{t('team:data.7.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.8.name')}</strong>
+                    <p>{t('team:data.8.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.9.name')}</strong>
+                    <p>{t('team:data.9.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.10.name')}</strong>
+                    <p>{t('team:data.10.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.11.name')}</strong>
+                    <p>{t('team:data.11.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.12.name')}</strong>
+                    <p>{t('team:data.12.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.13.name')}</strong>
+                    <p>{t('team:data.13.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.14.name')}</strong>
+                    <p>{t('team:data.14.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.15.name')}</strong>
+                    <p>{t('team:data.15.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.16.name')}</strong>
+                    <p>{t('team:data.16.description')}</p>
+                  </li>
+                  <li>
+                    <strong>{t('team:data.17.name')}</strong>
+                    <p>{t('team:data.17.description')}</p>
+                  </li>
+                </ul>
+
+
+
               </div>
             </div>
           </div>

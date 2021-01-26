@@ -1,75 +1,78 @@
 {
   "title": "How do we verify the information?",
   "description": "You can find a lot of fake information on the Internet these days. The sheer scale of this process led us to the point where we needed to turn for help to the others in order to properly fight this phenomenon. The verification alone, on the other hand, cannot entail any indication of an institution or private opinion. The main idea of this project is to invite the volunteers from all over the country, who were trained on checking the facts and the use of the whole system before. It is they as well as PAP journalists who will verify the requests sent to them via special app from Internet users. Before the checked information will go public, two unanimous decisions from our volunteers or one verdict from PAP worker must be made. The journalists while making the final verdict will check the selection and reliability of sources used by the social ‘fake hunters’. After a detailed analysis they will make the final decision and also inform the volunteers.",
-  "subtitle": "Polish Press Agency Verification Team:",
+  "description1": "The #FakeHunter fact-checking team is an independent body within the Media Intelligence project of the Polish Press Agency. Its members, according to their competences, are representatives of various editorial offices and departments of PAP. However, their involvement and work for the #FakeHunter is completely independent of their professional duties and tasks performed in their respective organizational units of PAP.",
+  "subtitle": "The staff of the #FakeHunter:",
+  "listHeader": "#FakeHunter Lead Editors:",
+  "listHeader1": "#FakeHunter team members:",
   "data": {
     "1": {
       "name": "Grzegorz Rutke",
       "description": "Journalist associated with such titles as: „Gazeta Finansowa”, „Trybuna Śląska” and „Gazeta Prawna”, and then the editor-in-chief of the Egmont Polska and Edipresse Polska publishing houses. He graduated from the Faculty of Journalism and Political Science at the University of Warsaw."
     },
     "2": {
-      "name": "Jarosław Junko",
-      "description": "In journalism since 1996. First at the Polish Radio for Foreigners, and then, since 2005, as a correspondent of the Polish Press Agency in Ukraine. He reported, among others the events of the Orange Revolution of 2004, the war in Georgia in 2008 and the Revolution of Dignity at the turn of 2013-2014."
+      "name": "Anna Gwozdowska",
+      "description": "Since 20 years in media. In the beginning in Polish Public Broadcaster TVP, then Polish Public Radio, Warsaw Business Journal, Głos Ameryki, Polska the Times, Przekrój, Focus, Wprost, and then Polish Radio again. Mrs Gwozdowska specializes in international affairs."
     },
     "3": {
-      "name": "Monika Wysocka",
-      "description": "Editor of the 'Health Service' published by the Polish Press Agency. A medical journalist for many years associated with sector publications for doctors (including Puls Medycyny, Puls Farmacji, Magazyn Medycyny Rodzinnej) as well as portals on the subject of health (including Portale Medyczne, Kobiety i Medycyna, Czas dla Seniora)."
+      "name": "Jarosław Junko",
+      "description": "In journalism since 1996. First at the Polish Radio for Foreigners, and then, since 2005, as a correspondent of the Polish Press Agency in Ukraine. He reported, among others the events of the Orange Revolution of 2004, the war in Georgia in 2008 and the Revolution of Dignity at the turn of 2013-2014."
     },
     "4": {
       "name": "Marcin Mastalerz",
       "description": "In journalism since 1994. In the years 2001-2012 secretary of the editorial office and deputy editor-in-chief of Newsweek. In addition, he has worked at Metro International, Życie and Super Express. Author of books (including 'Zew oceanu', 'Ja, Fronczewski, Miasto’ 44'). At the Polish Press Agency since 2019."
     },
     "5": {
+      "name": "Monika Wysocka",
+      "description": "Editor of the 'Health Service' published by the Polish Press Agency. A medical journalist for many years associated with sector publications for doctors (including Puls Medycyny, Puls Farmacji, Magazyn Medycyny Rodzinnej) as well as portals on the subject of health (including Portale Medyczne, Kobiety i Medycyna, Czas dla Seniora)."
+    },
+    "6": {
       "name": "Anna Banasik",
       "description": "Has worked for the Polish Press Agency since 2006; specialises in issues concerning local government, including primarily education. A graduate of the History Faculty of the University of Warsaw and Post-diploma Studies in Contemporary Editing at the Cardinal Stefan Wyszyński University."
     },
-    "6": {
+    "7": {
       "name": "Sebastian Górski",
       "description": "Editor in the Polish Press Agency's Media Services Team. Over ten years editing in the computer press (PC World Komputer, Komputer Świat) and internet services devoted to technology and business (PCWorld.pl, Komputerswiat.pl, Next.Gazeta.pl, SztucznaInteligencja.org.pl, Telepolis.pl)."
     },
-    "7": {
+    "8": {
       "name": "Anna Piotrowska",
       "description": "Has been involved in popularising scientific discoveries for nearly 20 years. With a history and sociology education. Co-author of several books in the field of medicine. Private enthusiast of ancient Greece and prehistoric cultures."
     },
-    "8": {
+    "9": {
       "name": "Mateusz Kominiarczuk",
       "description": "Since 2017 editor of PAP's Technology service, devoted among other things to cybersecurity issues and disinformation on the internet. Master of Polish Philology, computer and social game researcher."
     },
-    "9": {
+    "10": {
       "name": "Paulina Pomianowska",
       "description": "Editor in the Polish Press Agency's Media Services Team. Many years' editorial experience in the daily press (Nowa Europa, Super Express) and colour press (consulting monthlies at G+J publishing, Bauer). Graduate of Polish Philology and Prehistoric Archaeology."
     },
-    "10": {
+    "11": {
       "name": "Marek Wójcik",
       "description": "PAP Media Intelligence department. Expert in the field of new technologies. Over 20 years' work experience in the media."
     },
-    "11": {
-      "name": "Justyna Wojteczek",
-      "description": "Editorial manager in the 'Health Service' published by the Polish Press Agency."
-    },
     "12": {
+      "name": "Justyna Wojteczek",
+      "description": "KEditorial manager in the 'Health Service' published by the Polish Press Agency."
+    },
+    "13": {
       "name": "Mateusz Kicka",
       "description": "Editor in PAP's Local Government Service. Has worked at PAP since 2011. Since 2015 has been coordinator of the Komitet Regionu international partnership project with three European agencies: EFE, ANSA and PAP, on the Polish side. From the very start of his work at the Agency, he has been associated with the PAP Local Government Service."
     },
-    "13": {
+    "14": {
       "name": "Joanna Balcer",
       "description": "A journalists with 15 years of experience at PAP. She worked as an editor in the social and political news service as well as the Newsroom. Now she works for PAP's Local Government Service. She is a history and journalism graduate."
     },
-    "14": {
+    "15": {
       "name": "Marcin Przybylski",
       "description": "Editor of the PAP Local Government service. Since 2006 a journalist at the Polish Press Agency, editor of the samorzad.pap.pl, europarlament.pap.pl and kurier.pap.pl services. Specialises in issues concerned with the municipal economy, environmental protection and European funds. Co-author and coordinator of many educational and promotional projects carried out by PAP, including in cooperation with the NBP (National Bank of Poland) and ministries concerned with EU funds."
     },
-    "15": {
+    "16": {
       "name": "Wiktor Szczepaniak",
       "description": "Has been working for over 15 years in the national media, specializing first in economic journalism (PAP, Puls Biznesu), and now in science and medicine (Serwis Zdrowie PAP). He also has several years of experience in public relations activities (Institute of Food and Nutrition, National Center for Nutritional Education). A graduate of the Faculty of Journalism and Political Science at the University of Warsaw. He is interested in various aspects and determinants of health, including in particular preventive medicine, health psychology and personalized medicine, as well as the influence of the media on public health."
     },
-    "16": {
+    "17": {
       "name": "Małgorzata Biegalska",
       "description": "Since 2001 PAP-based, initially as a reporter later as an editor. Graduate of the Faculty of Humanities at the University of Marie Curie Skłodowska in Lublin."
-    },
-    "17": {
-      "name": "Anna Gwozdowska",
-      "description": "Since 20 years in media. In the beginning in Polish Public Broadcaster TVP, then Polish Public Radio, Warsaw Business Journal, Głos Ameryki, Polska the Times, Przekrój, Focus, Wprost, and then Polish Radio again. Mrs Gwozdowska specializes in international affairs."
     }
   }
 }
