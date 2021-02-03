@@ -142,7 +142,7 @@ const About = () => {
                     </div>
                   </div>
                   <div className="col-lg-6">
-                    <div className="textWrapper">
+                    <div className="textWrapper diffrentButtons">
                       <h2 className="section">{t('about:section2.title')}</h2>
                       <p className="title">{t('about:section2.subtitle')}</p>
                       <p>{t('about:section2.description')}</p>
@@ -186,14 +186,6 @@ const About = () => {
                                 href="https://chrome.google.com/webstore/detail/fakehunter/biebjolppinbddooahlglekngmalnfkf"
                             >
                               Chrome
-                            </a>
-                            <a
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="dropdown-item"
-                                href="https://addons.mozilla.org/pl/firefox/addon/fakehunter-pap-pl/"
-                            >
-                              Firefox
                             </a>
                           </div>
                         </div>
