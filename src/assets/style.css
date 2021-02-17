@@ -74,9 +74,7 @@ body {
 .en .s1 .title {
   font-size: 155px;
 }
-.en .challenge_title { 
-  font-size: 130px !important;
-}
+
 
 .en .s1 .title span {
   font-size: 89px;
@@ -578,6 +576,18 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
   padding: 10px;
 }
 
+
+
+.previousVersions h3{display: inline-block; margin:0 10px 0 0; font-size: 18px; font-weight: 700;}
+.previousVersions ul{display: inline-block;}
+.previousVersions ul li{display: inline-block; margin:0 10px 0 0;}
+.previousVersions ul li:last-child{display: inline-block; margin:0 10px 0 0;}
+.previousVersions ul li a{font-size: 18px; color: #DC371B; font-weight: 700;}
+.previousVersions ul li a:after{content: ","; display: inline-block; color: #333;}
+
+.challenge-project .title.challenge_title{font-size: 150px; text-align: center;}
+
+
 @media (max-width: 1199px) {
   .s1 .title {
     font-size: 115px;
@@ -632,7 +642,10 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
   .s6 .logoWrapper .info .title {
     margin: -70px 0 0 0;
   }
-}
+
+  .challenge-project .title.challenge_title{font-size: 130px;}
+
+  }
 @media (max-width: 991px) {
   .article .personList .person .imageWrapper{display: block;}
 
@@ -700,6 +713,9 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
     text-align: center;
     margin: 20px 0 0 0;
   }
+
+  .challenge-project .title.challenge_title{font-size: 110px; margin: 30px auto 180px auto;}
+
 }
 @media (max-width: 767px) {
   .s1 .quotation {
@@ -768,6 +784,9 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
     width: 30px;
     height: 30px;
   }
+
+  .challenge-project .title.challenge_title{font-size: 80px; margin: 30px auto 60px auto;}
+
 }
 @media (max-width: 575px) {
   .buttonDropdown,
@@ -837,6 +856,9 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
   .footer .footerMenu li a {
     display: block;
   }
+
+  .challenge-project .title.challenge_title{font-size: 45px; margin: 15px auto 30px auto;}
+
 }
 
 .grecaptcha-badge {

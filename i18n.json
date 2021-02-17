@@ -8,6 +8,7 @@
     "*": ["common"],
     "/o-projekcie": ["about"],
     "/challenge":["challenge"],
+    "/challengeII":["challengeII"],
     "/zespol": ["team"],
     "/dla-programistow": ["developers"],
     "rgx:/plugins/*": ["developers", "verified"],
