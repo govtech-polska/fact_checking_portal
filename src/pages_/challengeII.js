@@ -469,7 +469,7 @@ const ChallengeII = () => {
                   <div className="col-12">
                     <div className="previousVersions">
 
-                      <h3>{t('challengeII:section14.title')}</h3><ul className="list-unstyled"><li><a href="https://fakehunter.pap.pl/challenge">#FakeHunter Challenge I</a></li></ul>
+                      <h3>{t('challengeII:section14.title')}</h3><ul className="list-unstyled"><li><a href="https://fakehunter.pap.pl/challenge">#FakeHunter Challenge</a></li></ul>
 
                     </div>
 
