@@ -157,7 +157,7 @@ const Agenda = () => {
                                         <tbody>
                                         <tr>
                                             <td className="hour">10:00</td>
-                                            <td><a href="#id8">Jarosław Pinkas</a>
+                                            <td><a href="#id8">Dr hab. n. med. Jarosław Jan Pinkas </a>
 
 
                                             </td>
@@ -244,6 +244,10 @@ const Agenda = () => {
 
 
 
+
+
+
+
                                     <li id="id7" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh2/Stanislaw_Banasiuk_foto.jpg"/>
@@ -262,6 +266,18 @@ const Agenda = () => {
                                             <p>{t('agendaII:personList.person9.description')}</p>
                                         </div>
                                     </li>
+
+                                    <li id="id8" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh2/pinkas.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaII:personList.person8.name')}</h2>
+                                            <p>{t('agendaII:personList.person8.description')}</p>
+                                        </div>
+                                    </li>
+
+
                                     <li id="id2" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/TomRozek-300x300.png"/>
