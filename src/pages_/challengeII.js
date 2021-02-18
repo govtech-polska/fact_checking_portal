@@ -115,35 +115,14 @@ const ChallengeII = () => {
             <section className="s2">
               <div className="container-fluid">
                 <div className="row no-gutters">
-
                   <div className="col-lg-6">
-                    <div class="imageWrapper">
-                      <img src="/images/micro.png" alt="mikrofon" />
-
+                    <div className="imageWrapper">
+                      <img src="/images/prize.png" alt=""/>
+                      <div className="author">
+                        Ariel / Unsplash
+                      </div>
                     </div>
                   </div>
-                  <div className="col-lg-6">
-                    <div className="textWrapper">
-                      <h2 className="section">{t('challengeII:section12.title')}</h2>
-                      <p className="title">{t('challengeII:section12.subtitle')}</p>
-                      <p>
-
-
-                        <Trans i18nKey="challengeII:section12.description" components={[<a className="link" href="https://pap-mediaroom.pl" target="_blank"/>]}/>
-
-                      </p>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </section>
-
-
-            <section className="s2">
-              <div className="container-fluid">
-                <div className="row no-gutters">
-
 
                   <div className="col-lg-6">
                     <div className="textWrapper">
@@ -189,30 +168,16 @@ const ChallengeII = () => {
 
                     </div>
                   </div>
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/prize.png" alt=""/>
-                      <div className="author">
-                        Ariel / Unsplash
-                      </div>
-                    </div>
-                  </div>
+
                 </div>
               </div>
             </section>
+
+
             <section className="s4" id="zostanfakehunterem">
               <div className="container-fluid">
                 <div className="row no-gutters">
 
-
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/image3.png" alt=""/>
-                      <div className="author">
-                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
-                      </div>
-                    </div>
-                  </div>
                   <div className="col-lg-6">
                     <div className="textWrapper">
                       <h2 className="section">{t('challengeII:section4.title')}</h2>
@@ -233,13 +198,29 @@ const ChallengeII = () => {
                       </a>
                     </div>
                   </div>
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/image3.png" alt=""/>
+                      <div className="author">
+                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
+                      </div>
+                    </div>
+                  </div>
+
                 </div>
               </div>
             </section>
+
+
             <section className="s4 diffrentButtons">
               <div className="container-fluid">
                 <div className="row no-gutters">
-
+                  <div className="col-lg-6">
+                    <div className="imageWrapper">
+                      <img src="/images/image5.png" alt=""/>
+                      <div className="author">strixcode / Adobe Stock</div>
+                    </div>
+                  </div>
 
                   <div className="col-lg-6">
                     <div className="textWrapper">
@@ -295,15 +276,49 @@ const ChallengeII = () => {
 
                     </div>
                   </div>
-                  <div className="col-lg-6">
-                    <div className="imageWrapper">
-                      <img src="/images/image5.png" alt=""/>
-                      <div className="author">strixcode / Adobe Stock</div>
-                    </div>
-                  </div>
+
                 </div>
               </div>
             </section>
+
+            <section className="s2">
+              <div className="container-fluid">
+                <div className="row no-gutters">
+                  <div className="col-lg-6">
+                    <div className="textWrapper">
+                      <h2 className="section">{t('challengeII:section12.title')}</h2>
+                      <p className="title">{t('challengeII:section12.subtitle')}</p>
+                      <p>
+
+
+                        <Trans i18nKey="challengeII:section12.description" components={[<a className="link" href="https://pap-mediaroom.pl" target="_blank"/>]}/>
+
+                      </p>
+
+                      <a target="_blank" className="button"
+                         rel="noopener noreferrer"
+                         href="/agenda"
+                      >
+                        {t('challengeII:section12.button')}
+                      </a>
+
+                    </div>
+                  </div>
+                  <div className="col-lg-6">
+                    <div class="imageWrapper">
+                      <img src="/images/micro.png" alt="mikrofon" />
+
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </section>
+
+
+
+
+
 
             <section className="s2">
               <div className="container-fluid">
