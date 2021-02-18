@@ -20,7 +20,7 @@
     },
     "button1": "Fact checking challenge",
     "collapsed1": {
-      "description1": "Konkurencja ta stanowi połączenie konkurencji polowania na fejki z przeprowadzaną przez uczestników konkursu weryfikacją zgłoszeń, wydawaniem werdyktów i przygotowaniem raportów fact checkingowych zgodnie z regułami weryfikacji faktów systemu #FakeHunter."
+      "description1": "Konkurencja ta stanowi połączenie konkurencji polowania na fejki z przeprowadzaną przez uczestników konkursu weryfikacją zgłoszeń, wydawaniem werdyktów i przygotowaniem raportów fact checkingowych zgodnie z <0>regułami weryfikacji faktów systemu #FakeHunter.</0>"
     },
     "button2": "Popraw FakeHuntra",
     "collapsed2": {
@@ -71,12 +71,12 @@
   "section11": {
     "title": "Wyślij zgłoszenie konkursowe",
     "subtitle": "Prześlij info o fejku, raport lub informację o źródle fałszywej informacji",
-    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w terminie od 00:01 13.11 do 11:00 w dniu 15.11 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
-    "button": "Prześlij fejka, raport lub informacje o źródle fejka"
+    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w terminie od 0:00 12.03 do 24:00 w dniu 13.03 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
+    "button": "PRZEŚLIJ FEJKA LUB RAPORT"
   },
   "section12": {
     "title": "EKSPERCKIE SPOTKANIA PAP",
-    "subtitle": "Zależy nam na tym, by w temacie szczepionek wybrzmiał głos specjalistów walczących na froncie Covidowym. Badania naukowe i wiedza lekarska są orężem w walce z fałszywymi informacjami.",
+    "subtitle": "Zależy nam na tym, by w temacie szczepionek wybrzmiał głos specjalistów walczących na froncie covidowym. Badania naukowe i wiedza lekarska są orężem w walce z fałszywymi informacjami.",
     "description": "Dwudniowym zmaganiom konkursowym będzie towarzyszył cykl spotkań z lekarzami, pielęgniarkami, naukowcami. Porozmawiamy o ich doświadczeniach i codziennych zmaganiach w walce z wirusem SARS-CoV-2, obalimy mity w temacie skuteczności i bezpieczeństwa szczepionek. Wśród naszych gości pojawią się także osoby publiczne, które opowiedzą o swoim zaangażowaniu w społeczną akcję szczepień. Transmisja live spotkań na <0>pap-mediaroom.pl </0>",
     "button": "ZOBACZ AGENDĘ SPOTKAŃ"
   },

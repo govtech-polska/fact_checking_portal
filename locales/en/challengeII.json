@@ -20,7 +20,7 @@
     },
     "button1": "Fact checking challenge",
     "collapsed1": {
-      "description1": "This competition is a combination of fake hunt competition with the verification of applications carried out by the competition participants, issuing verdicts and preparation of fact checking reports in accordance with the #FakeHunter system fact checking rules."
+      "description1": "This competition is a combination of fake hunt competition with the verification of applications carried out by the competition participants, issuing verdicts and preparation of fact checking reports in accordance with the <0>#FakeHunter system fact checking rules</0>."
     },
     "button2": "Improve FakeHuntra",
     "collapsed2": {
@@ -71,12 +71,12 @@
   "section11": {
     "title": "Send your contest application",
     "subtitle": "Submit fake info, report or information about the source of the false information",
-    "description": "Have you registered yourself or your team? Cool! You are ready to submit competition entries from 13/11 to 11:00 on 15/11. Use the form below, providing the same email address as provided on the registration form.",
-    "button": "Submit fake news, reports, or information about the source of the fake."
+    "description": "Have you registered yourself or your team? Cool! You are ready to submit competition entries from 0:00 on 12/03 to 24:00 on 13/03. Use the form below, providing the same email address as provided on the registration form.",
+    "button": "Submit fake news or reports"
   },
   "section12": {
     "title": "EXPERT MEETINGS WITH PAP",
-    "subtitle": "We want to hear the voice of specialists fighting on the Covid front in the subject of vaccines. Scientific research and medical knowledge are a weapon in the fight against false information.",
+    "subtitle": "We want to hear the voice of specialists fighting on the covid front in the subject of vaccines. Scientific research and medical knowledge are a weapon in the fight against false information.",
     "description": "The two-day competition will be accompanied by a series of meetings with doctors, nurses and scientists. We will talk about their experiences and everyday struggles in the fight against the SARS-CoV-2 virus, and we will debunk myths about the effectiveness and safety of vaccines. Our guests will also include public figures who will talk about their involvement in the public vaccination campaign. Live broadcast of the meetings at <0>pap-mediaroom.pl</0>",
     "button": "SEE THE MEETING AGENDA"
   },

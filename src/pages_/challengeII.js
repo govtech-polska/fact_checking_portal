@@ -256,7 +256,10 @@ const ChallengeII = () => {
                       </a>
 
                       <div className="collapse" id="collapseThree">
-                        <p>{t('challengeII:section2.collapsed1.description1')}</p>
+                        <p>
+
+                          <Trans i18nKey="challengeII:section2.collapsed1.description1" components={[<a className="link" href="/attachments/reguly_weryfikacji_faktow.pdf" target="_blank"/>]}/>
+                        </p>
                       </div>
 
 
@@ -367,25 +370,7 @@ const ChallengeII = () => {
                   <div className="col-lg-6">
                     <ul className="logoWrapper">
 
-                      <li className="state">
-                        <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            href="https://stateofpoland.pl/"
-                        >
-                          <img src="/images/logo1.png" alt="State of Poland"/>
-                        </a>
-                      </li>
-                      <li className="fundacja">
-                        <a target="_blank" rel="noopener noreferrer" href="https://fundacjapfr.pl/">
-                          <img src="/images/logo2.png" alt="PFR"/>
-                        </a>
-                      </li>
-                      <li className="festiwal">
-                        <a target="_blank" rel="noopener noreferrer" href="http://www.govtechfestival.com/">
-                          <img src="/images/logo3.png" alt="Festiwal"/>
-                        </a>
-                      </li>
+
                       <li className="wykop">
                         <a target="_blank" rel="noopener noreferrer" href="https://www.wykop.pl/">
                           <img src="/images/wykopLogo.png" alt="Wykop"/>
