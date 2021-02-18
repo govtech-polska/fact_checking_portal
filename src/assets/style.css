@@ -585,7 +585,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 .previousVersions ul li a{font-size: 18px; color: #DC371B; font-weight: 700;}
 .previousVersions ul li a:after{content: ","; display: inline-block; color: #333;}
 
-.challenge-project .title.challenge_title{font-size: 150px; text-align: center;}
+.challenge-project .title.challenge_title{font-size: 100px; text-align: center; width: auto; margin: 30px auto 180px auto;}
 
 
 @media (max-width: 1199px) {
@@ -643,7 +643,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
     margin: -70px 0 0 0;
   }
 
-  .challenge-project .title.challenge_title{font-size: 130px;}
+  .challenge-project .title.challenge_title{font-size: 80px;}
 
   }
 @media (max-width: 991px) {
@@ -714,7 +714,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
     margin: 20px 0 0 0;
   }
 
-  .challenge-project .title.challenge_title{font-size: 110px; margin: 30px auto 180px auto;}
+  .challenge-project .title.challenge_title{font-size: 60px; margin: 30px auto 180px auto;}
 
 }
 @media (max-width: 767px) {
@@ -785,7 +785,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
     height: 30px;
   }
 
-  .challenge-project .title.challenge_title{font-size: 80px; margin: 30px auto 60px auto;}
+  .challenge-project .title.challenge_title{font-size: 45px; margin: 30px auto 60px auto;}
 
 }
 @media (max-width: 575px) {
@@ -857,7 +857,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
     display: block;
   }
 
-  .challenge-project .title.challenge_title{font-size: 45px; margin: 15px auto 30px auto;}
+  .challenge-project .title.challenge_title{font-size: 25px; margin: 0px auto 15px auto;}
 
 }
 
