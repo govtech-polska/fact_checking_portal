@@ -1,0 +1,85 @@
+{
+  "title": "Eksperckie spotkania online",
+  "subtitle": "Zależy nam na tym, aby w dyskusji o fake newsach i ich wpływie na nasze życie wybrzmiał także głos specjalistów i osób, które doświadczyły tego zjawiska. Dlatego zapraszamy wszystkich na spotkania online z ekspertami, którzy opowiedzą m.in. o tym, czym są fake newsy, jak je wychwytywać, jak wpływają na kształtowanie świadomości współczesnych użytkowników internetu. Wśród naszych gości będą także osoby publiczne, które podzielą się z nami swoimi doświadczeniami w radzeniu sobie z problemem fałszywych treści na temat ich samych.",
+  "subtitle1": "NASI PRELEGENCI",
+  "subtitle2": " Obejrzyj spotkania, które już się odbyły",
+  "iframebutton": " Obejrzyj spotkania, które już się odbyły",
+  "table": {
+    "tableTitle": "PIĄTEK 12.03.2021",
+    "tableTitle2": "Sobota 13.03.2020",
+    "tableTh": "Godzina",
+    "tableTh1": "Imię",
+    "tableTh2": "i nazwisko",
+    "tableTh3": "Funkcja"
+  },
+  "functions": {
+    "function1":"prof., Bar Ilan University, Doradca Min. Zdrowia z Izraela",
+    "function2":"naukowiec",
+    "function3":" ",
+    "function4":" ",
+    "function5":" ",
+    "function6":"pielęgniarka epidemiologiczna/Białystok",
+    "function7":"aktor",
+    "function8":" ",
+    "function9":"aktor",
+    "function10":" ",
+    "function11":" ",
+    "function12":" ",
+    "function13":" "
+
+  },
+  "personList": {
+    "person1": {
+      "name": "Cyrille Cohen",
+      "description": " "
+    },
+    "person2": {
+      "name": "Tomasz Rożek",
+      "description": "Dziennikarz naukowy i fizyk, doktor nauk fizycznych, popularyzator nauki. Prowadził między innymi program „Sonda 2” w TVP i „Pytania z kosmosu” w radiowej Trójce. Szef działu naukowego w „Gościu Niedzielnym”. Autor książki „Nauka − po prostu. Wywiady z wybitnymi”, która została uznana za najlepszą książkę popularnonaukową sezonu 2010/2011."
+    },
+    "person3": {
+      "name": " ",
+      "description": " "
+    },
+    "person4": {
+      "name": " ",
+      "description": " "
+    },
+    "person5": {
+      "name": " ",
+      "description": " "
+    },
+    "person6": {
+      "name": "Aneta Łapińska",
+      "description": " "
+    },
+    "person7": {
+      "name": "Stanisław Banasiuk",
+      "description": "Absolwent PWST w Warszawie. Początkowo związany z Teatrem Polskim we Wrocławiu pod dyrekcją Jerzego Grzegorzewskiego, Teatrem Współczesnym Kazimierza Brauna oraz Teatrem Narodowym, w którym spędził 9 sezonów teatralnych. Przez 4 sezony związany był także z Teatrem POSK w Londynie, gdzie zagrał w sumie w 9 premierach teatralnych, ważnych dla patriotów-emigrantów z czasów II wojny światowej, m.in. w „Wigilii generała” przedstawiającej historię gen. Okulickiego. \nAktualnie współpracuje z Videoteatrem  Piotra Lachmana i Jolanty Lothe oraz Teatrem WARSawy i Teatrem Capitol. \n"
+    },
+    "person8": {
+      "name": "Jarosław Pinkas",
+      "description": " "
+    },
+    "person9": {
+      "name": "Cezary Pazura",
+      "description": "Aktor teatralny i filmowy, reżyser, prezenter telewizyjny, artysta kabaretowy. Ukończył studia na Wydziale Aktorskim Państwowej Wyższej Szkoły Filmowej, Telewizyjnej i Teatralnej w Łodzi. Zagrał w ponad 60 filmach produkcji polskiej, austriackiej i niemieckiej. Jest wielokrotnym laureatem Złotej Kaczki i dwukrotnym zdobywcą Złotych Lwów Gdańskich. Rola w filmie „Psy 2. Ostatnia Krew” przyniosła mu nagrodę na Międzynarodowym Festiwalu Filmów w Valenciennes. Grał m.in. u Andrzeja Wajdy, Krzysztofa Kieślowskiego, Juliusza Machulskiego, Władysława Pasikowskiego. Znany z takich filmów jak: „Sztos”, „Chłopaki nie płaczą”, „Kariera Nikosia Dyzmy”, „Kiler”, „Ajlawju” czy „Szczęśliwego Nowego Jorku”. Ambasador rządowej akcji „Szczepimy się”, w której zachęca do szczepienia się przeciwko Covid-19."
+    },
+    "person10": {
+      "name": " ",
+      "description": " "
+    },
+    "person11": {
+      "name": " ",
+      "description": " "
+    },
+    "person12": {
+      "name": " ",
+      "description": " "
+    },
+    "person13": {
+      "name": " ",
+      "description": " "
+    }
+  }
+}

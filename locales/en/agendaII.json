@@ -1,0 +1,84 @@
+{
+  "title": "Expert meetings online",
+  "subtitle": "We want to hear the voice of specialists and people who have experienced this phenomenon in the discussion about fake news and its impact on our lives. That is why we invite everyone to online meetings with experts who will tell, among others, about what fake news are, how to capture them, how they influence the shaping of the awareness of contemporary Internet users. Among our guests there will be also public figures who will share with us their experiences in dealing with the problem of false content about themselves.",
+  "subtitle1": "OUR SPEAKERS",
+  "subtitle2": "Watch the past meetings",
+  "iframebutton": "Watch the past meetings",
+  "table": {
+    "tableTitle": "FRIDAY 12.03.2021",
+    "tableTitle2": "Saturday 13.03.2021",
+    "tableTh": "Hour",
+    "tableTh1": "Name",
+    "tableTh2": "and surname",
+    "tableTh3": "Function"
+  },
+  "functions": {
+    "function1":"prof., Bar Ilan University, Doradca Min. Zdrowia z Izraela",
+    "function2":"scientist",
+    "function3":" ",
+    "function4":" ",
+    "function5":" ",
+    "function6":"pielęgniarka epidemiologiczna/Białystok",
+    "function7":"actor",
+    "function8":" ",
+    "function9":"actor",
+    "function10":" ",
+    "function11":" ",
+    "function12":" ",
+    "function13":" "
+  },
+  "personList": {
+    "person1": {
+      "name": "Cyrille Cohen",
+      "description": " "
+    },
+    "person2": {
+      "name": "Tomasz Rożek",
+      "description": "Science journalist and physicist, doctor of physical sciences, popularizer of science. He hosted, among others, the program \"Sonda 2\" on TVP and \"Questions from the cosmos\" on the Polish Radio Trójka. Head of the research department in \"Sunday Guest\". The author of the book \"Science - simply. Interviews with eminent ”, which was recognized as the best popular science book of the 2010/2011 season."
+    },
+    "person3": {
+      "name": " ",
+      "description": " "
+    },
+    "person4": {
+      "name": " ",
+      "description": " "
+    },
+    "person5": {
+      "name": " ",
+      "description": " "
+    },
+    "person6": {
+      "name": "Aneta Łapińska",
+      "description": " "
+    },
+    "person7": {
+      "name": "Stanisław Banasiuk",
+      "description": " "
+    },
+    "person8": {
+      "name": "Jarosław Pinkas",
+      "description": " "
+    },
+    "person9": {
+      "name": "Cezary Pazura",
+      "description": " "
+    },
+    "person10": {
+      "name": " ",
+      "description": " "
+    },
+    "person11": {
+      "name": " ",
+      "description": " "
+    },
+    "person12": {
+      "name": " ",
+      "description": " "
+    },
+    "person13": {
+      "name": " ",
+      "description": " "
+    }
+  }
+}

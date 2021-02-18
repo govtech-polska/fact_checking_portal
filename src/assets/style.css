@@ -20,7 +20,7 @@ body {
 .tableWrapper{width: 100%; margin:0 0 50px 0;}
 .tableWrapper .table{width: 100%;}
 .tableWrapper .table tr th{text-align: center;}
-.tableWrapper .table tr th.main{background: #DC371B; color: #fff;}
+.tableWrapper .table tr th.main{background: #DC371B; color: #fff; text-transform: uppercase;}
 .tableWrapper .table .center{text-align: center;}
 .tableWrapper .table .middle{vertical-align: middle;}
 .tableWrapper .table .hour{width:15%; text-align: center;}

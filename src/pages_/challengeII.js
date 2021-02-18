@@ -297,7 +297,7 @@ const ChallengeII = () => {
 
                       <a target="_blank" className="button"
                          rel="noopener noreferrer"
-                         href="/agenda"
+                         href="/agendaII"
                       >
                         {t('challengeII:section12.button')}
                       </a>
