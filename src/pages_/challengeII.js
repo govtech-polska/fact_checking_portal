@@ -150,7 +150,7 @@ const ChallengeII = () => {
                               target="_blank"
                               rel="noopener noreferrer"
                               className="dropdown-item"
-                              href="/attachments/regulamin.pdf"
+                              href="/attachments/regFH2pol.pdf"
                           >
                             PL
                           </a>
@@ -158,7 +158,7 @@ const ChallengeII = () => {
                               target="_blank"
                               rel="noopener noreferrer"
                               className="dropdown-item"
-                              href="/attachments/regulations.pdf"
+                              href="/attachments/regFH2eng.pdf"
                           >
                             EN
                           </a>

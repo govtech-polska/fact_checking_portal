@@ -577,13 +577,13 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 }
 
 
-
+.previousVersions{text-align: center;}
 .previousVersions h3{display: inline-block; margin:0 10px 0 0; font-size: 18px; font-weight: 700;}
 .previousVersions ul{display: inline-block;}
 .previousVersions ul li{display: inline-block; margin:0 10px 0 0;}
 .previousVersions ul li:last-child{display: inline-block; margin:0 10px 0 0;}
 .previousVersions ul li a{font-size: 18px; color: #DC371B; font-weight: 700;}
-.previousVersions ul li a:after{content: ","; display: inline-block; color: #333;}
+
 
 .challenge-project .title.challenge_title{font-size: 100px; text-align: center; width: auto; margin: 30px auto 180px auto;}
 
