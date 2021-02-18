@@ -243,15 +243,7 @@ const Agenda = () => {
                                 <ul className="personList">
 
 
-                                    <li id="id2" className="person">
-                                        <div className="imageWrapper">
-                                            <img src="/images/persons/TomRozek-300x300.png"/>
-                                        </div>
-                                        <div className="textWrapper">
-                                            <h2 className="name">{t('agendaII:personList.person2.name')}</h2>
-                                            <p>{t('agendaII:personList.person2.description')}</p>
-                                        </div>
-                                    </li>
+
                                     <li id="id7" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh2/Stanislaw_Banasiuk_foto.jpg"/>
@@ -268,6 +260,15 @@ const Agenda = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaII:personList.person9.name')}</h2>
                                             <p>{t('agendaII:personList.person9.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id2" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/TomRozek-300x300.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaII:personList.person2.name')}</h2>
+                                            <p>{t('agendaII:personList.person2.description')}</p>
                                         </div>
                                     </li>
 
