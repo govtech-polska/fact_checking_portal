@@ -577,7 +577,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 }
 
 
-.previousVersions{text-align: center;}
+.previousVersions{text-align: center; padding:30px 0 15px 0;}
 .previousVersions h3{display: inline-block; margin:0 10px 0 0; font-size: 18px; font-weight: 700;}
 .previousVersions ul{display: inline-block;}
 .previousVersions ul li{display: inline-block; margin:0 10px 0 0;}
