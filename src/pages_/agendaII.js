@@ -48,12 +48,7 @@ const Agenda = () => {
 
                                 <p className="lead">{t('agendaII:subtitle')}</p>
 
-                                <a className="button center"
-                                   rel="noopener noreferrer"
-                                   href="#frames"
-                                >{t('agendaII:iframebutton')}
 
-                                </a>
 
                                 <div className="tableWrapper">
                                     <table className="table  table-bordered">
