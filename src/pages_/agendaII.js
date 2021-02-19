@@ -285,15 +285,7 @@ const Agenda = () => {
 
                                 </ul>
 
-                                <div id="frames" className="iframeList">
 
-                                    <h2 className="title">{t('agendaII:subtitle2')}</h2>
-                                    <ul>
-                                        <li></li>
-
-                                    </ul>
-
-                                </div>
 
                             </div>
                         </div>
