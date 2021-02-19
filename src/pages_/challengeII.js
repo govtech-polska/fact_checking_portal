@@ -342,7 +342,7 @@ const ChallengeII = () => {
                       </p>
                       <a className="button"
                          rel="noopener noreferrer"
-                         href="https://zgloszenia.govtech.gov.pl/ankieta/573102/zgloszenie-fake-news-raportu-weryfikacji-lub-zrodla-fejka-do-fakehunter-challenge.html"
+                         href="https://www.webankieta.pl/ankieta/603362/formularz-konkursowy-fakehunter-challengeszczepienia.html"
                       >
                         {t('challengeII:section11.button')}
                       </a>
