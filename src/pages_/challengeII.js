@@ -192,7 +192,7 @@ const ChallengeII = () => {
                           target="_blank"
                           rel="noopener noreferrer"
                           className="button"
-                          href="https://zgloszenia.govtech.gov.pl/ankieta/573866/rejestracja-do-fakehunter-challenge.html"
+                          href="https://www.webankieta.pl/ankieta/603664/rejestracja-do-konkursu-fakehunterchallengeszczepienia.html"
                       >
                         {t('challengeII:section4.applyBtn')}
                       </a>
