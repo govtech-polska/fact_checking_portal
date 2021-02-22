@@ -587,6 +587,8 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 
 .challenge-project .title.challenge_title{font-size: 100px; text-align: center; width: auto; margin: 30px auto 180px auto;}
 
+.grecaptcha-badge{display: none !important;}
+
 
 @media (max-width: 1199px) {
   .s1 .title {

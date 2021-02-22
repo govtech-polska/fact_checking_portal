@@ -258,22 +258,9 @@ const ChallengeII = () => {
                       <div className="collapse" id="collapseThree">
                         <p>
 
-                          <Trans i18nKey="challengeII:section2.collapsed1.description1" components={[<a className="link" href="/attachments/reguly_weryfikacji_faktow.pdf" target="_blank"/>]}/>
+                          <Trans i18nKey="challengeII:section2.collapsed1.description1" components={[<a className="link" href="/attachments/reguly_weryfikacji_faktow.pdf" target="_blank"/>, <a className="link" href="/attachments/FH_Rules_of_Fact_Verification.pdf" target="_blank"/>]}/>
                         </p>
                       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -466,7 +453,7 @@ const ChallengeII = () => {
                   <div className="col-12">
                     <div className="previousVersions">
 
-                      <h3>{t('challengeII:section14.title')}</h3><ul className="list-unstyled"><li><a href="https://fakehunter.pap.pl/challenge">#FakeHunter Challenge</a></li></ul>
+                      <h3>{t('challengeII:section14.title')}</h3><ul className="list-unstyled"><li><Trans i18nKey="challengeII:section14.link1" components={[<a className="link" href="/challenge" />, <a className="link" href="/en/challenge" />]}/></li></ul>
 
                     </div>
 
