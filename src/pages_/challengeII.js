@@ -285,12 +285,11 @@ const ChallengeII = () => {
 
                       </p>
 
-                      <a target="_blank" className="button"
-                         rel="noopener noreferrer"
-                         href="/agendaII"
-                      >
-                        {t('challengeII:section12.button')}
-                      </a>
+
+                      <span> <Trans i18nKey="challengeII:section12.button" components={[<a className="button" href="/agendaII"/>, <a className="button" href="/en/agendaII"/>]}/></span>
+
+
+
 
                     </div>
                   </div>
