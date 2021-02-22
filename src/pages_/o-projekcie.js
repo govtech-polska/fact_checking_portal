@@ -405,18 +405,18 @@ const About = () => {
             <section className="s8" id="kontakt">
               <div className="container-fluid">
                 <div className="row no-gutters">
-                  <div className="col-lg-6">
+
+
+                  <div className="col-lg-12">
                     <div className="textWrapper">
                       <h2 className="section">{t('about:section7.title')}</h2>
                       <p className="title">{t('about:section7.subtitle')}</p>
-                      <p>{t('about:section7.description')}</p>
+                      <p>
+                        <Trans i18nKey="about:section7.description" components={[<a className="link" href="mailto:fakehunter@pap.pl" target="_blank"/>]}/></p>
                     </div>
                   </div>
-                  <div className="col-lg-6">
-                    <ul className="formWrapper">
-                      <ContactForm/>
-                    </ul>
-                  </div>
+
+
                 </div>
               </div>
             </section>

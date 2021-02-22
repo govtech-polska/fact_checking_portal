@@ -530,18 +530,13 @@ const Challenge = () => {
             <section className="s8" id="kontakt">
               <div className="container-fluid">
                 <div className="row no-gutters">
-                  <div className="col-lg-6">
+                  <div className="col-lg-12">
                     <div className="textWrapper">
                       <h2 className="section">{t('challenge:section7.title')}</h2>
                       <p className="title">{t('challenge:section7.subtitle')}</p>
-                      <p>{t('challenge:section7.description')}</p>
+                      <p>
+                        <Trans i18nKey="challenge:section7.description" components={[<a className="link" href="mailto:fakehunter@pap.pl" target="_blank"/>]}/></p>
                     </div>
-                  </div>
-
-                  <div className="col-lg-6">
-                    <ul className="formWrapper">
-                      <ChallengeContactForm/>
-                    </ul>
                   </div>
 
 

@@ -446,16 +446,13 @@ const ChallengeII = () => {
                 <div className="row no-gutters">
 
 
-                  <div className="col-lg-6">
-                    <ul className="formWrapper">
-                      <ChallengeContactForm/>
-                    </ul>
-                  </div>
-                  <div className="col-lg-6">
+
+                  <div className="col-lg-12">
                     <div className="textWrapper">
                       <h2 className="section">{t('challengeII:section7.title')}</h2>
                       <p className="title">{t('challengeII:section7.subtitle')}</p>
-                      <p>{t('challengeII:section7.description')}</p>
+                      <p>
+                      <Trans i18nKey="challengeII:section7.description" components={[<a className="link" href="mailto:fakehunter@pap.pl" target="_blank"/>]}/></p>
                     </div>
                   </div>
 

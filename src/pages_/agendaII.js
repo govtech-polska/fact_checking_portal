@@ -305,7 +305,7 @@ const Agenda = () => {
 
                                 </ul>
 
-                                s
+
 
                             </div>
                         </div>
