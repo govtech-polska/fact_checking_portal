@@ -23,9 +23,10 @@
     "function8":"doctor",
     "function9":"actor",
     "function10":" ",
-    "function11":" ",
-    "function12":" ",
-    "function13":" "
+    "function11":"Prezes Polskiego Towarzystwa Chorób Cywilizacyjnych",
+    "function12":"vice prezes Polskiego Towarzystwa Epidemiologów i Lekarzy Chorób Zakaźnych",
+    "function13":"Past Prezes Polskiego Towarzystwa Alergologicznego",
+    "function14":"Konsultant krajowy w dziedzinie psychiatrii"
   },
   "personList": {
     "person1": {
@@ -77,6 +78,10 @@
       "description": " "
     },
     "person13": {
+      "name": " ",
+      "description": " "
+    },
+    "person14": {
       "name": " ",
       "description": " "
     }

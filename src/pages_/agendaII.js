@@ -193,8 +193,8 @@ const Agenda = () => {
                                         </tr>
 
                                         <tr>
-                                            <td className="middle hour" rowSpan="3">15:00</td>
-                                            <td><a href="#id11"></a>
+                                            <td className="middle hour" rowSpan="4">15:00</td>
+                                            <td><a href="#id11">prof. Filip M. Szymański</a>
 
                                             </td>
 
@@ -204,7 +204,7 @@ const Agenda = () => {
                                         </tr>
                                         <tr>
 
-                                            <td><a href="#id12"></a>
+                                            <td><a href="#id12">prof. Krzysztof Tomasiewicz</a>
                                             </td>
 
                                             <td>{t('agendaII:functions.function12')}
@@ -213,13 +213,24 @@ const Agenda = () => {
                                         </tr>
                                         <tr>
 
-                                            <td><a href="#id13"></a>
+                                            <td><a href="#id13">prof. Piotr Kuna</a>
 
                                             </td>
 
                                             <td>{t('agendaII:functions.function13')}
                                             </td>
                                         </tr>
+
+                                        <tr>
+
+                                            <td><a href="#id14">prof. Piotr Gałecki</a>
+
+                                            </td>
+
+                                            <td>{t('agendaII:functions.function14')}
+                                            </td>
+                                        </tr>
+
                                         <tr>
                                             <td className="hour">15:40</td>
                                             <td className="center" colSpan="3">Zakończenie #FakeHunter Challenge/Szczepienia
