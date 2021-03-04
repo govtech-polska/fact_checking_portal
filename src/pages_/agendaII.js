@@ -69,7 +69,7 @@ const Agenda = () => {
                                         <tbody>
                                         <tr>
                                             <td className="hour">9:50</td>
-                                            <td className="center" colspan="2">Otwarcie #FakeHunter Challenge/Szczepienia</td>
+                                            <td className="center" colspan="2">{t('agendaII:table.tableMainTitle1')}</td>
 
                                         </tr>
                                         <tr>
@@ -233,7 +233,7 @@ const Agenda = () => {
 
                                         <tr>
                                             <td className="hour">15:40</td>
-                                            <td className="center" colSpan="3">Zakończenie #FakeHunter Challenge/Szczepienia
+                                            <td className="center" colSpan="3">{t('agendaII:table.tableMainTitle2')}
                                             </td>
 
                                         </tr>

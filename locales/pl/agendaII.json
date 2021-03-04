@@ -10,7 +10,9 @@
     "tableTh": "Godzina",
     "tableTh1": "Imię",
     "tableTh2": "i nazwisko",
-    "tableTh3": "Funkcja"
+    "tableTh3": "Funkcja",
+    "tableMainTitle1": "Otwarcie #FakeHunter Challenge/Szczepienia",
+    "tableMainTitle2": "Zakończenie #FakeHunter Challenge/Szczepienia"
   },
   "functions": {
     "function1":"prof., Bar Ilan University, Doradca Min. Zdrowia z Izraela",

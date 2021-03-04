@@ -10,10 +10,12 @@
     "tableTh": "Hour",
     "tableTh1": "Name",
     "tableTh2": "and surname",
-    "tableTh3": "Function"
+    "tableTh3": "Function",
+    "tableMainTitle1": "Opening #FakeHunter Challenge/Vaccinations",
+    "tableMainTitle2": "Ending #FakeHunter Challenge/Vaccinations"
   },
   "functions": {
-    "function1":"A Bar-Ilan University profesor; member of a Health Ministry advisory committee ",
+    "function1":"Bar-Ilan University profesor; member of Health Ministry advisory committee ",
     "function2":"scientist",
     "function3":" ",
     "function4":" ",
