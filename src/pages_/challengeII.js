@@ -370,6 +370,11 @@ const ChallengeII = () => {
                           <img src="/images/govtech_logo.svg" alt="Festiwal"/>
                         </a>
                       </li>
+                      <li className="wykop">
+                        <a target="_blank" rel="noopener noreferrer" href="https://wsei.edu.pl//">
+                          <img src="/images/1_wsei_full_color.jpg" alt="wsei"/>
+                        </a>
+                      </li>
                     </ul>
                   </div>
 
