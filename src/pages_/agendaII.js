@@ -251,7 +251,7 @@ const Agenda = () => {
 
                                     <li id="id10" className="person">
                                         <div className="imageWrapper">
-                                            <img src="/images/persons/fh2/chlipala.jpg"/>
+                                            <img src="/images/persons/fh2/chli.jpg" />
                                         </div>
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaII:personList.person10.name')}</h2>
