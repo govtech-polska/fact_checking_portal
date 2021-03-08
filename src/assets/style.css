@@ -37,7 +37,8 @@ body {
 .article .personList .person .textWrapper p{margin:0 0 10px 0;}
 .article .personList .person:after{content:""; display: block; clear:both;}
 
-.iframeWrapper{ position: relative;
+.iframeWrapper{ position: sticky;
+  top: 0px;
   overflow: hidden;
   padding-top: 56.25%;}
 .iframeWrapper iframe{position: absolute;

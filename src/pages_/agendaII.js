@@ -83,25 +83,17 @@ const Agenda = () => {
                                             <td>{t('agendaII:functions.function2')}</td>
                                         </tr>
                                         <tr>
-                                            <td className="middle hour" rowspan="3">12:00</td>
-                                            <td><a href="#id3"></a>
+                                            <td className="middle hour" rowspan="2">12:00</td>
+                                            <td><a href="#id3">dr hab. Piotr Rzymski</a>
                                             </td>
                                             <td>{t('agendaII:functions.function3')}
                                             </td>
                                         </tr>
                                         <tr>
 
-                                            <td><a href="#id4"></a></td>
+                                            <td><a href="#id4">Anna Krzyszowska-Kamińska</a></td>
 
                                             <td>{t('agendaII:functions.function4')}
-                                            </td>
-                                        </tr>
-                                        <tr>
-
-                                            <td><a href="#id5"></a>
-                                            </td>
-
-                                            <td>{t('agendaII:functions.function5')}
                                             </td>
                                         </tr>
 
@@ -259,7 +251,7 @@ const Agenda = () => {
 
                                     <li id="id10" className="person">
                                         <div className="imageWrapper">
-                                            <img src="/images/persons/fh2/chlipala.jpeg"/>
+                                            <img src="/images/persons/fh2/chlipala.jpg"/>
                                         </div>
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaII:personList.person10.name')}</h2>

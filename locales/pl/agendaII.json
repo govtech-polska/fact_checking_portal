@@ -17,8 +17,8 @@
   "functions": {
     "function1":"prof., Bar Ilan University, Doradca Min. Zdrowia z Izraela",
     "function2":"naukowiec",
-    "function3":" ",
-    "function4":" ",
+    "function3":"biolog medyczny i środowiskowy",
+    "function4":"lekarz",
     "function5":" ",
     "function6":"pielęgniarka",
     "function7":"aktor",
@@ -42,11 +42,11 @@
       "description": "Dziennikarz naukowy i fizyk, doktor nauk fizycznych, popularyzator nauki. Prowadził między innymi program „Sonda 2” w TVP i „Pytania z kosmosu” w radiowej Trójce. Szef działu naukowego w „Gościu Niedzielnym”. Autor książki „Nauka − po prostu. Wywiady z wybitnymi”, która została uznana za najlepszą książkę popularnonaukową sezonu 2010/2011."
     },
     "person3": {
-      "name": " ",
+      "name": "dr hab. Piotr Rzymski",
       "description": " "
     },
     "person4": {
-      "name": " ",
+      "name": "Anna Krzyszowska-Kamińska",
       "description": " "
     },
     "person5": {

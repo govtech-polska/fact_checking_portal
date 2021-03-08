@@ -89,19 +89,32 @@ const ChallengeII = () => {
             </section>
 
 
-            <section className="s2">
+            <section className="s4" id="zostanfakehunterem">
               <div className="container-fluid">
                 <div className="row no-gutters">
+
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('challengeII:section13.title')}</h2>
-                      <p className="title">{t('challengeII:section13.subtitle')}</p>
+                      <h2 className="section">{t('challengeII:section4.title')}</h2>
+                      <p className="title">{t('challengeII:section4.subtitle')}</p>
                       <p>
-                        <Trans i18nKey="challengeII:section13.description" components={[<span/>]}/>
+                        <Trans i18nKey="challengeII:section4.description" />
                       </p>
+                      <p>
+                        <Trans i18nKey="challengeII:section4.description1" components={[<a className="link" href="https://www.facebook.com/PAPFakeHunter/" target="_blank"/>]}/>
+                      </p>
+                      <a
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="button"
+                          href="https://www.webankieta.pl/ankieta/603664/rejestracja-do-konkursu-fakehunterchallengeszczepienia.html"
+                      >
+                        {t('challengeII:section4.applyBtn')}
+                      </a>
                     </div>
                   </div>
                   <div className="col-lg-6">
+
                     <div className="iframeWrapper">
                       <iframe allowFullScreen frameBorder="0" height="350"
                               src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/0Yu4n9fq.html"
@@ -109,10 +122,17 @@ const ChallengeII = () => {
                               width="620"></iframe>
 
                     </div>
+
+
                   </div>
+
                 </div>
               </div>
             </section>
+
+
+
+
 
 
             <section className="s2">
@@ -177,39 +197,26 @@ const ChallengeII = () => {
             </section>
 
 
-            <section className="s4" id="zostanfakehunterem">
+            <section className="s2">
               <div className="container-fluid">
                 <div className="row no-gutters">
-
                   <div className="col-lg-6">
                     <div className="textWrapper">
-                      <h2 className="section">{t('challengeII:section4.title')}</h2>
-                      <p className="title">{t('challengeII:section4.subtitle')}</p>
+                      <h2 className="section">{t('challengeII:section13.title')}</h2>
+                      <p className="title">{t('challengeII:section13.subtitle')}</p>
                       <p>
-                        <Trans i18nKey="challengeII:section4.description" />
+                        <Trans i18nKey="challengeII:section13.description" components={[<span/>]}/>
                       </p>
-                      <p>
-                        <Trans i18nKey="challengeII:section4.description1" components={[<a className="link" href="https://www.facebook.com/PAPFakeHunter/" target="_blank"/>]}/>
-                      </p>
-                      <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="button"
-                          href="https://www.webankieta.pl/ankieta/603664/rejestracja-do-konkursu-fakehunterchallengeszczepienia.html"
-                      >
-                        {t('challengeII:section4.applyBtn')}
-                      </a>
                     </div>
                   </div>
                   <div className="col-lg-6">
                     <div className="imageWrapper">
-                      <img src="/images/image3.png" alt=""/>
-                      <div className="author">
-                        luismolinero / contrastwerkstatt / Rido / Asier / Adobe Stock
-                      </div>
-                    </div>
-                  </div>
+                      <img src="/images/image2.png" alt=""/>
 
+                    </div>
+
+
+                  </div>
                 </div>
               </div>
             </section>
