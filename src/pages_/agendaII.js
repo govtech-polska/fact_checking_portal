@@ -184,11 +184,11 @@ const Agenda = () => {
                                         </tr>
                                         <tr>
                                             <td className="hour">13:30</td>
-                                            <td><a href="#id10">
+                                            <td><a href="#id15">
                                             </a>
                                             </td>
 
-                                            <td>{t('agendaII:functions.function10')}
+                                            <td>{t('agendaII:functions.function15')}
                                             </td>
                                         </tr>
 
@@ -254,6 +254,16 @@ const Agenda = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaII:personList.person7.name')}</h2>
                                             <p>{t('agendaII:personList.person7.description')}</p>
+                                        </div>
+                                    </li>
+
+                                    <li id="id10" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh2/chlipala.jpeg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaII:personList.person10.name')}</h2>
+                                            <p>{t('agendaII:personList.person10.description')}</p>
                                         </div>
                                     </li>
 

@@ -24,11 +24,12 @@
     "function7":"aktor",
     "function8":"lekarz",
     "function9":"aktor",
-    "function10":" ",
+    "function10":"Prawnik",
     "function11":"Prezes Polskiego Towarzystwa Chorób Cywilizacyjnych",
     "function12":"Vice Prezes Polskiego Towarzystwa Epidemiologów i Lekarzy Chorób Zakaźnych",
     "function13":"Past Prezes Polskiego Towarzystwa Alergologicznego",
-    "function14":"Konsultant krajowy w dziedzinie psychiatrii"
+    "function14":"Konsultant krajowy w dziedzinie psychiatrii",
+    "function15":" "
 
   },
   "personList": {
@@ -69,8 +70,8 @@
       "description": "Aktor teatralny i filmowy, reżyser, prezenter telewizyjny, artysta kabaretowy. Ukończył studia na Wydziale Aktorskim Państwowej Wyższej Szkoły Filmowej, Telewizyjnej i Teatralnej w Łodzi. Zagrał w ponad 60 filmach produkcji polskiej, austriackiej i niemieckiej. Jest wielokrotnym laureatem Złotej Kaczki i dwukrotnym zdobywcą Złotych Lwów Gdańskich. Rola w filmie „Psy 2. Ostatnia Krew” przyniosła mu nagrodę na Międzynarodowym Festiwalu Filmów w Valenciennes. Grał m.in. u Andrzeja Wajdy, Krzysztofa Kieślowskiego, Juliusza Machulskiego, Władysława Pasikowskiego. Znany z takich filmów jak: „Sztos”, „Chłopaki nie płaczą”, „Kariera Nikosia Dyzmy”, „Kiler”, „Ajlawju” czy „Szczęśliwego Nowego Jorku”. Ambasador rządowej akcji „Szczepimy się”, w której zachęca do szczepienia się przeciwko Covid-19."
     },
     "person10": {
-      "name": " ",
-      "description": " "
+      "name": "Michał Chlipała",
+      "description": "Prawnik i historyk. Pracownik Katedry Historii Medycyny Uniwersytetu Jagiellońskiego – Collegium Medicum."
     },
     "person11": {
       "name": "Dr hab. n. med. Filip Marcin Szymański ",
