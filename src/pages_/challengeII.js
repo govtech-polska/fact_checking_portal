@@ -120,8 +120,8 @@ const ChallengeII = () => {
 
                                     <div className="iframeWrapper">
                                         <iframe allowFullScreen frameBorder="0" height="350"
-                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/0Yu4n9fq.html"
-                                                title="II edycja konkursu #FakeHunter Challenge/Szczepienia w dniach 12-13 marca "
+                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/3a4Eynjj.html"
+                                                title="Konkurs #FakeHunter Challenge już za dwa dni"
                                                 width="620"></iframe>
 
                                     </div>
