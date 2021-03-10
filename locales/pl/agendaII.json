@@ -29,7 +29,7 @@
     "function12":"Wiceprezes Polskiego Towarzystwa Epidemiologów i Lekarzy Chorób Zakaźnych",
     "function13":"Past Prezes Polskiego Towarzystwa Alergologicznego",
     "function14":"Konsultant krajowy w dziedzinie psychiatrii",
-    "function15":" "
+    "function15":"Prodziekan Studium Magisterskiego, Szkoła Główna Handlowa"
 
   },
   "personList": {
@@ -88,6 +88,10 @@
     "person14": {
       "name": "Prof. Dr hab. N. med. Piotr Gałecki ",
       "description": "Psychiatra, seksuolog, nauczyciel akademicki. Absolwent Wojskowej Akademii Medycznej, kierownik Kliniki Psychiatrii Dorosłych Uniwersytetu Medycznego w Łodzi, wykładowca Krajowej Szkoły Sądownictwa i Prokuratury w Krakowie, pełni funkcję konsultanta krajowego w dziedzinie psychiatrii. Zainteresowania naukowe profesora Gałeckiego koncentrują się na szerzeniu wiedzy na temat przestrzegania praw pacjentów leczonych z powodu zaburzeń psychicznych oraz wokół biologicznych i genetycznych patomechanizmów chorób psychicznych, szczególnie depresji i schizofrenii."
+    },
+    "person15": {
+      "name": "dr Piotr Maszczyk",
+      "description": "Kierownik Zakładu Makroekonomii i Ekonomii Sektora Publicznego w Katedrze Ekonomii II Kolegium Gospodarki Światowej. Specjalizuje się w badaniach nad relacjami państwa i sektora przedsiębiorstw, instytucjonalnymi czynnikami wzrostu gospodarczego i zróżnicowaniem współczesnych modeli kapitalizmu. Autor i współautor blisko pięćdziesięciu monografii i artykułów naukowych. Wielokrotnie wyróżniany (nagrodami rektorskimi i wyróżnieniami przyznawanymi przez studentów) wykładowca na studiach licencjackich, magisterskich i doktorskich. Były pracownik Ministerstwa Finansów i Ministerstwa Rozwoju Regionalnego w randze radcy ministra."
     }
   }
 }
