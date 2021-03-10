@@ -597,6 +597,17 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 .advert{text-align: center; margin: 30px 0 0 0; padding: 0 15px;}
 .advert img{max-width: 100%;}
 
+
+.tableWrapperMainPage{}
+.tableWrapperMainPage table{font-size: 16px; border:0;}
+.tableWrapperMainPage table th{background: #dc371b; color:#fff; text-transform: uppercase; font-weight: 400; vertical-align: top; border-top:0; border-bottom:3px solid #dee2e6; font-size: 14px;}
+.tableWrapperMainPage table th:nth-child(1){border-left: 0;}
+.tableWrapperMainPage table th:nth-child(5){border-right: 0;}
+.tableWrapperMainPage table td:nth-child(1){border-left: 0;}
+.tableWrapperMainPage table td:nth-child(5){border-right: 0;}
+
+
+
 @media (max-width: 1199px) {
   .s1 .title {
     font-size: 115px;
