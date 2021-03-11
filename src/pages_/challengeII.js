@@ -89,10 +89,59 @@ const ChallengeII = () => {
                     </section>
 
 
+                    <section className="s2">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeII:section12.title')}</h2>
+                                        <p className="title">{t('challengeII:section12.subtitle')}</p>
+                                        <p>
+
+
+                                            <Trans i18nKey="challengeII:section12.description"
+                                                   components={[<a className="link" href="https://pap-mediaroom.pl"
+                                                                   target="_blank"/>]}/>
+
+                                        </p>
+
+
+                                        <span> <Trans i18nKey="challengeII:section12.button"
+                                                      components={[<a className="button" href="/agendaII"/>,
+                                                          <a className="button" href="/en/agendaII"/>]}/></span>
+
+
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+                                    <div className="iframeWrapper">
+                                        <iframe
+                                                webkitAllowFullScree mozallowfullscreen allowFullScreen
+                                                src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                                title="0" byline="0" portrait="0" width="640" height="360"
+                                                frameBorder="0" allow="autoplay"></iframe>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+
+
                     <section className="s4" id="zostanfakehunterem">
                         <div className="container-fluid">
                             <div className="row no-gutters">
+                                <div className="col-lg-6">
 
+                                    <div className="imageWrapper">
+                                        <img src="/images/image3.png" alt=""/>
+
+                                    </div>
+
+
+                                </div>
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
                                         <h2 className="section">{t('challengeII:section4.title')}</h2>
@@ -116,114 +165,45 @@ const ChallengeII = () => {
                                         </a>
                                     </div>
                                 </div>
-                                <div className="col-lg-6">
 
-                                    <div className="iframeWrapper">
-                                        <iframe allowFullScreen frameBorder="0" height="350"
-                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/3a4Eynjj.html"
-                                                title="Konkurs #FakeHunter Challenge już za dwa dni"
-                                                width="620"></iframe>
-
-                                    </div>
-
-
-                                </div>
 
                             </div>
                         </div>
                     </section>
+
 
 
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/prize.png" alt=""/>
-                                        <div className="author">
-                                            Ariel / Unsplash
-                                        </div>
-                                    </div>
 
-
-
-
-
-                                </div>
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section8.title')}</h2>
-                                        <p className="title">{t('challengeII:section8.subtitle')}</p>
+                                        <h2 className="section">{t('challengeII:section11.title')}</h2>
+                                        <p className="title">{t('challengeII:section11.subtitle')}</p>
                                         <p>
-                                            <Trans i18nKey="challengeII:section8.description" components={[<span/>]}/>
+                                            {t('challengeII:section11.description')}
                                         </p>
-                                        <p>
-                                            <Trans i18nKey="challengeII:section8.description1" components={[<span/>]}/>
-                                        </p>
-                                        <div className="dropdown link">
-                                            <button
-                                                className="dropdown-toggle buttonDropdown link"
-                                                type="button"
-                                                id="dropdownMenuButton"
-                                                data-toggle="dropdown"
-                                                aria-haspopup="true"
-                                                aria-expanded="false"
-                                            >
-                                                {t('challengeII:section8.link')}
-                                            </button>
-                                            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                                <a
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="dropdown-item"
-                                                    href="/attachments/regFH2pol.pdf"
-                                                >
-                                                    PL
-                                                </a>
-                                                <a
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="dropdown-item"
-                                                    href="/attachments/regFH2eng.pdf"
-                                                >
-                                                    EN
-                                                </a>
-                                            </div>
-                                        </div>
-
-
+                                        <a className="button"
+                                           rel="noopener noreferrer"
+                                           href="https://www.webankieta.pl/ankieta/603362/formularz-konkursowy-fakehunter-challengeszczepienia.html"
+                                        >
+                                            {t('challengeII:section11.button')}
+                                        </a>
                                     </div>
                                 </div>
 
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/mail.png" alt=""/>
+                                        <div className="author">Onlineprinters / Unsplash</div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </section>
 
-
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section13.title')}</h2>
-                                        <p className="title">{t('challengeII:section13.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeII:section13.description" components={[<span/>]}/>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image2.png" alt=""/>
-
-                                    </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-                    </section>
 
 
                     <section className="s4 diffrentButtons">
@@ -289,70 +269,109 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
+
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
+
+
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section12.title')}</h2>
-                                        <p className="title">{t('challengeII:section12.subtitle')}</p>
+                                        <h2 className="section">{t('challengeII:section8.title')}</h2>
+                                        <p className="title">{t('challengeII:section8.subtitle')}</p>
                                         <p>
-
-
-                                            <Trans i18nKey="challengeII:section12.description"
-                                                   components={[<a className="link" href="https://pap-mediaroom.pl"
-                                                                   target="_blank"/>]}/>
-
+                                            <Trans i18nKey="challengeII:section8.description" components={[<span/>]}/>
                                         </p>
-
-
-                                        <span> <Trans i18nKey="challengeII:section12.button"
-                                                      components={[<a className="button" href="/agendaII"/>,
-                                                          <a className="button" href="/en/agendaII"/>]}/></span>
+                                        <p>
+                                            <Trans i18nKey="challengeII:section8.description1" components={[<span/>]}/>
+                                        </p>
+                                        <div className="dropdown link">
+                                            <button
+                                                className="dropdown-toggle buttonDropdown link"
+                                                type="button"
+                                                id="dropdownMenuButton"
+                                                data-toggle="dropdown"
+                                                aria-haspopup="true"
+                                                aria-expanded="false"
+                                            >
+                                                {t('challengeII:section8.link')}
+                                            </button>
+                                            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                                <a
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="dropdown-item"
+                                                    href="/attachments/regFH2pol.pdf"
+                                                >
+                                                    PL
+                                                </a>
+                                                <a
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="dropdown-item"
+                                                    href="/attachments/regFH2eng.pdf"
+                                                >
+                                                    EN
+                                                </a>
+                                            </div>
+                                        </div>
 
 
                                     </div>
                                 </div>
-                                <div className="col-lg-6">
-                                    <div class="imageWrapper">
-                                        <img src="/images/micro.png" alt="mikrofon"/>
-
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
-
-
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
 
                                 <div className="col-lg-6">
                                     <div className="imageWrapper">
-                                        <img src="/images/mail.png" alt=""/>
-                                        <div className="author">Onlineprinters / Unsplash</div>
+                                        <img src="/images/prize.png" alt=""/>
+                                        <div className="author">
+                                            Ariel / Unsplash
+                                        </div>
                                     </div>
+
+
+
+
+
                                 </div>
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section11.title')}</h2>
-                                        <p className="title">{t('challengeII:section11.subtitle')}</p>
-                                        <p>
-                                            {t('challengeII:section11.description')}
-                                        </p>
-                                        <a className="button"
-                                           rel="noopener noreferrer"
-                                           href="https://www.webankieta.pl/ankieta/603362/formularz-konkursowy-fakehunter-challengeszczepienia.html"
-                                        >
-                                            {t('challengeII:section11.button')}
-                                        </a>
-                                    </div>
-                                </div>
+
+
                             </div>
                         </div>
                     </section>
+
+
+                    <section className="s2">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image2.png" alt=""/>
+
+                                    </div>
+
+
+                                </div>
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeII:section13.title')}</h2>
+                                        <p className="title">{t('challengeII:section13.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeII:section13.description" components={[<span/>]}/>
+                                        </p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+
+
+
+
+
+
+
 
                     <section className="s6">
                         <div className="container-fluid">
