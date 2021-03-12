@@ -432,6 +432,31 @@ const Agenda = () => {
                                         </li>
 
 
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z A. Krzyszowską-Kamińską oraz P. Rzymskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/PljfMg2h.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z A. Krzyszowską-Kamińską oraz P. Rzymskim"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z Anetą Łapińską</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/YnT6uu5A.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Anetą Łapińską"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+
                                     </ul></div>
 
                             </div>
