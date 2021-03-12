@@ -454,6 +454,16 @@ const Agenda = () => {
                                             </div>
 
 
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z aktorem Stanisławem Banasiukiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/d9QtDm8w.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z aktorem Stanisławem Banasiukiem"
+                                                        width="620"></iframe>
+                                            </div>
+
+
                                         </li>
 
 
