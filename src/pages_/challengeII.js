@@ -149,6 +149,30 @@ const ChallengeII = () => {
                                             <tbody>
                                             <tr>
                                                 <td>1.</td>
+                                                <td>Julia i Hubert</td>
+                                                <td>21</td>
+                                                <td>0</td>
+                                                <td>11</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>2.</td>
+                                                <td>Fire</td>
+                                                <td>11</td>
+                                                <td>0</td>
+                                                <td>2</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>3.</td>
+                                                <td>Kwintet Fortepianowy&nbsp;I</td>
+                                                <td>8</td>
+                                                <td>12</td>
+                                                <td>2</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>4.</td>
                                                 <td>m-hunter</td>
                                                 <td>7</td>
                                                 <td>0</td>
@@ -156,7 +180,15 @@ const ChallengeII = () => {
 
                                             </tr>
                                             <tr>
-                                                <td>2.</td>
+                                                <td>5.</td>
+                                                <td>Wronki</td>
+                                                <td>7</td>
+                                                <td>0</td>
+                                                <td>12</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>6.</td>
                                                 <td>Joanna Kubacka</td>
                                                 <td>6</td>
                                                 <td>0</td>
@@ -164,48 +196,16 @@ const ChallengeII = () => {
 
                                             </tr>
                                             <tr>
-                                                <td>3.</td>
-                                                <td>Kwintet Fortepianowy&nbsp;I</td>
-                                                <td>5</td>
-                                                <td>12</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>4.</td>
-                                                <td>Mariusz Węglarz</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>5.</td>
-                                                <td>Matii</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>8</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>6.</td>
-                                                <td>Humpty Dumpty</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
                                                 <td>7.</td>
-                                                <td>AlPy</td>
-                                                <td>0</td>
+                                                <td>Pączki</td>
+                                                <td>1</td>
                                                 <td>0</td>
                                                 <td>0</td>
 
                                             </tr>
                                             <tr>
                                                 <td>8.</td>
-                                                <td>Niepełnosprawność</td>
+                                                <td>AIPy</td>
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>0</td>
@@ -213,7 +213,7 @@ const ChallengeII = () => {
                                             </tr>
                                             <tr>
                                                 <td>9.</td>
-                                                <td>Karolina</td>
+                                                <td>Niepełnosprawność</td>
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>0</td>
@@ -221,7 +221,7 @@ const ChallengeII = () => {
                                             </tr>
                                             <tr>
                                                 <td>10.</td>
-                                                <td>SocialMediaProtectors</td>
+                                                <td>Oliwia</td>
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>0</td>
