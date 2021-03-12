@@ -48,7 +48,12 @@ const Agenda = () => {
 
                                 <p className="lead">{t('agendaII:subtitle')}</p>
 
+                                <a className="button center"
+                                   rel="noopener noreferrer"
+                                   href="#frames"
+                                >{t('agendaII:iframebutton')}
 
+                                </a>
 
                                 <div className="tableWrapper">
                                     <table className="table  table-bordered">
@@ -397,7 +402,21 @@ const Agenda = () => {
 
                                 </ul>
 
+                                <div id="frames" className="iframeList">
 
+                                    <h2 className="title">{t('agendaII:subtitle2')}</h2>
+                                    <ul>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z prof. C. Cohenem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/dr4WTqTB.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z prof. C. Cohenem"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li></ul></div>
 
                             </div>
                         </div>

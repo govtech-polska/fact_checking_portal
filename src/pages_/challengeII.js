@@ -129,7 +129,6 @@ const ChallengeII = () => {
                     </section>
 
 
-
                     <section className="s4" id="zostanfakehunterem">
                         <div className="container-fluid">
                             <div className="row no-gutters">

@@ -89,7 +89,12 @@
     "title": "Poprzednie edycje konkursu:",
     "link1": "<0>#FakeHunter Challenge</0>"
     },
-
+  "section15": {
+    "title": "TABELA WYNIKÓW",
+    "subtitle": "Możecie śledzić swoje wyniki!",
+    "description": "Chcemy, by uczestnicy rywalizacji mieli szansę śledzić postępy swoich prac.",
+    "description1": "Dlatego w trakcie trwania konkursu na bieżąco informujemy Was o wynikach cząstkowych <0>10 najlepszych łowców fake newsów</0>. Kilka razy w ciągu będziecie mogli sprawdzać aktualne dane, co pozwoli Wam zmobilizować siły do dalszej walki. Dołącz do rywalizacji i bądź najlepszy!"
+  },
 
 
   "contactForm": {

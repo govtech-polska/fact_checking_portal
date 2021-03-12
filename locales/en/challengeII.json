@@ -89,7 +89,12 @@
     "title": "Previous editions of the competition:",
     "link1": "<1>#FakeHunter Challenge</1>"
   },
-
+  "section15": {
+    "title": "SCOREBOARD",
+    "subtitle": "Follow your results!",
+    "description": "We would like all competition participants to have a chance to follow the progress of their work.",
+    "description1": "Therefore, during the competition, we keep you informed about the partial results of the <0>10 best fake news hunters</0>. Several times a day you will be able to check the current data, which will allow you to mobilize your strength for further fight. Join the contest and become the best!"
+  },
 
   "contactForm": {
     "name": "Name",
