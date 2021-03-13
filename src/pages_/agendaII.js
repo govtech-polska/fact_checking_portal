@@ -486,6 +486,26 @@ const Agenda = () => {
                                         </li>
 
 
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z Michałem Chlipałą</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/fzVs3iB5.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Michałem Chlipałą"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z Piotrem Maszczykiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/KfCMCYBL.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Piotrem Maszczykiem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul></div>
 
                             </div>
