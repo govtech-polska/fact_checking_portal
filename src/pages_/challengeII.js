@@ -350,6 +350,14 @@ const ChallengeII = () => {
                             <div className="row no-gutters">
 
                                 <div className="col-lg-6">
+
+                                    <div className="imageWrapper">
+                                        <img src="/images/image3.png" alt=""/>
+
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+
                                     <div className="textWrapper">
                                         <h2 className="section">{t('challengeII:section4.title')}</h2>
                                         <p className="title">{t('challengeII:section4.subtitle')}</p>
@@ -370,13 +378,6 @@ const ChallengeII = () => {
                                         >
                                             {t('challengeII:section4.applyBtn')}
                                         </a>
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-
-                                    <div className="imageWrapper">
-                                        <img src="/images/image3.png" alt=""/>
-
                                     </div>
 
 
