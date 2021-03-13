@@ -150,25 +150,25 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>Julia i Hubert</td>
-                                                <td>21</td>
+                                                <td>33</td>
                                                 <td>0</td>
-                                                <td>11</td>
+                                                <td>16</td>
 
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
                                                 <td>Fire</td>
-                                                <td>11</td>
+                                                <td>17</td>
                                                 <td>0</td>
-                                                <td>2</td>
+                                                <td>3</td>
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
                                                 <td>Kwintet Fortepianowy&nbsp;I</td>
-                                                <td>8</td>
+                                                <td>14</td>
                                                 <td>12</td>
-                                                <td>2</td>
+                                                <td>3</td>
 
                                             </tr>
                                             <tr>
@@ -181,14 +181,38 @@ const ChallengeII = () => {
                                             </tr>
                                             <tr>
                                                 <td>5.</td>
-                                                <td>Wronki</td>
+                                                <td>Pączki</td>
                                                 <td>7</td>
                                                 <td>0</td>
-                                                <td>12</td>
+                                                <td>2</td>
 
                                             </tr>
                                             <tr>
                                                 <td>6.</td>
+                                                <td>Wronki</td>
+                                                <td>7</td>
+                                                <td>0</td>
+                                                <td>13</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>7.</td>
+                                                <td>MŁ</td>
+                                                <td>7</td>
+                                                <td>0</td>
+                                                <td>2</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>8.</td>
+                                                <td>Zastrzyk Wiedzy</td>
+                                                <td>6</td>
+                                                <td>0</td>
+                                                <td>3</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>9.</td>
                                                 <td>Joanna Kubacka</td>
                                                 <td>6</td>
                                                 <td>0</td>
@@ -196,35 +220,11 @@ const ChallengeII = () => {
 
                                             </tr>
                                             <tr>
-                                                <td>7.</td>
-                                                <td>Pączki</td>
+                                                <td>10.</td>
+                                                <td>Klaudialb</td>
                                                 <td>1</td>
                                                 <td>0</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>8.</td>
-                                                <td>AIPy</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>9.</td>
-                                                <td>Niepełnosprawność</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>10.</td>
-                                                <td>Oliwia</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
+                                                <td>2</td>
 
                                             </tr>
 
