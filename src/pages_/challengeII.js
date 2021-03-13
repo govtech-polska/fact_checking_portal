@@ -150,40 +150,41 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>Julia i Hubert</td>
-                                                <td>36</td>
+                                                <td>64</td>
                                                 <td>0</td>
-                                                <td>16</td>
+                                                <td>33</td>
 
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
-                                                <td>Pączki</td>
-                                                <td>19</td>
+                                                <td>MŁ</td>
+                                                <td>39</td>
                                                 <td>0</td>
-                                                <td>6</td>
+                                                <td>27</td>
+
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
                                                 <td>Fire</td>
-                                                <td>19</td>
+                                                <td>20</td>
                                                 <td>0</td>
-                                                <td>4</td>
+                                                <td>7</td>
 
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
-                                                <td>Kwintet Fortepianowy I</td>
-                                                <td>14</td>
-                                                <td>12</td>
-                                                <td>3</td>
+                                                <td>Pączki</td>
+                                                <td>20</td>
+                                                <td>0</td>
+                                                <td>7</td>
 
                                             </tr>
                                             <tr>
                                                 <td>5.</td>
-                                                <td>MŁ</td>
-                                                <td>11</td>
-                                                <td>0</td>
+                                                <td>Kwintet Fortepianowy I</td>
+                                                <td>18</td>
+                                                <td>12</td>
                                                 <td>4</td>
 
                                             </tr>
