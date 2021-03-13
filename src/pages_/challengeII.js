@@ -115,11 +115,11 @@ const ChallengeII = () => {
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="iframeWrapper">
-                                        <iframe allowFullScreen frameBorder="0" height="350"
-                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/dr4WTqTB.html"
-                                                title="#FakeHunter Challenge/Szczepienia - rozmowa z prof. C. Cohenem"
-                                                width="620"></iframe>
-
+                                        <iframe
+                                            webkitAllowFullScree mozallowfullscreen allowFullScreen
+                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                            title="0" byline="0" portrait="0" width="640" height="360"
+                                            frameBorder="0" allow="autoplay"></iframe>
                                     </div>
                                 </div>
 
