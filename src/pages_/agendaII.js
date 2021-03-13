@@ -479,8 +479,8 @@ const Agenda = () => {
                                             <h5>#FakeHunter Challenge/Szczepienia - rozmowa z Cezarym Pazurą</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
-                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/OjNndVCZ.html"
-                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Jarosławem Pinkasem"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/RydI8ver.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Cezarym Pazurą"
                                                         width="620"></iframe>
                                             </div>
                                         </li>
