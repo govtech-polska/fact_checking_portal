@@ -391,12 +391,7 @@ const ChallengeII = () => {
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/mail.png" alt=""/>
-                                        <div className="author">Onlineprinters / Unsplash</div>
-                                    </div>
-                                </div>
+
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -413,7 +408,12 @@ const ChallengeII = () => {
                                         </a>
                                     </div>
                                 </div>
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/mail.png" alt=""/>
+                                        <div className="author">Onlineprinters / Unsplash</div>
+                                    </div>
+                                </div>
 
                             </div>
                         </div>
@@ -423,7 +423,12 @@ const ChallengeII = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image5.png" alt=""/>
+                                        <div className="author">strixcode / Adobe Stock</div>
+                                    </div>
+                                </div>
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
                                         <h2 className="section">{t('challengeII:section2.title')}</h2>
@@ -473,12 +478,7 @@ const ChallengeII = () => {
                                     </div>
                                 </div>
 
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image5.png" alt=""/>
-                                        <div className="author">strixcode / Adobe Stock</div>
-                                    </div>
-                                </div>
+
 
 
                             </div>
