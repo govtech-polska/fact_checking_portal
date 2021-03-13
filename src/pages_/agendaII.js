@@ -506,6 +506,24 @@ const Agenda = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - debata pt. &#34;Rok epidemii COVID-19 w Polsce&#34;</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/D9JsYPSv.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - debata pt. &#34;Rok epidemii COVID-19 w Polsce&#34;"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>Zakończenie #FakeHunter Challenge/Szczepienia</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/a83S6fJE.html"
+                                                        title="Zakończenie #FakeHunter Challenge/Szczepienia"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul></div>
 
                             </div>
