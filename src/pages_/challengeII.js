@@ -150,41 +150,41 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>Julia i Hubert</td>
-                                                <td>33</td>
+                                                <td>36</td>
                                                 <td>0</td>
                                                 <td>16</td>
 
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
-                                                <td>Fire</td>
-                                                <td>17</td>
+                                                <td>Pączki</td>
+                                                <td>19</td>
                                                 <td>0</td>
-                                                <td>3</td>
+                                                <td>6</td>
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
-                                                <td>Kwintet Fortepianowy&nbsp;I</td>
+                                                <td>Fire</td>
+                                                <td>19</td>
+                                                <td>0</td>
+                                                <td>4</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>4.</td>
+                                                <td>Kwintet Fortepianowy I</td>
                                                 <td>14</td>
                                                 <td>12</td>
                                                 <td>3</td>
 
                                             </tr>
                                             <tr>
-                                                <td>4.</td>
-                                                <td>m-hunter</td>
-                                                <td>7</td>
-                                                <td>0</td>
-                                                <td>1</td>
-
-                                            </tr>
-                                            <tr>
                                                 <td>5.</td>
-                                                <td>Pączki</td>
-                                                <td>7</td>
+                                                <td>MŁ</td>
+                                                <td>11</td>
                                                 <td>0</td>
-                                                <td>2</td>
+                                                <td>4</td>
 
                                             </tr>
                                             <tr>
@@ -197,10 +197,10 @@ const ChallengeII = () => {
                                             </tr>
                                             <tr>
                                                 <td>7.</td>
-                                                <td>MŁ</td>
+                                                <td>m-hunter</td>
                                                 <td>7</td>
                                                 <td>0</td>
-                                                <td>2</td>
+                                                <td>1</td>
 
                                             </tr>
                                             <tr>
@@ -222,7 +222,7 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>10.</td>
                                                 <td>Klaudialb</td>
-                                                <td>1</td>
+                                                <td>2</td>
                                                 <td>0</td>
                                                 <td>2</td>
 

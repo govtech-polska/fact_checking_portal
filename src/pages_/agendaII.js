@@ -407,15 +407,7 @@ const Agenda = () => {
                                     <h2 className="title">{t('agendaII:subtitle2')}</h2>
                                     <ul>
 
-                                        <li>
-                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z Cezarym Pazurą</h5>
-                                            <div className="iframeWrapper">
-                                                <iframe allowFullScreen frameBorder="0" height="350"
-                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/RydI8ver.html"
-                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Cezarym Pazurą"
-                                                        width="620"></iframe>
-                                            </div>
-                                        </li>
+
                                         <li>
                                             <h5>#FakeHunter Challenge/Szczepienia - rozmowa z prof. C. Cohenem</h5>
                                             <div className="iframeWrapper">
@@ -472,8 +464,25 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Szczepienia - rozmowa z aktorem Stanisławem Banasiukiem"
                                                         width="620"></iframe>
                                             </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z Jarosławem Pinkasem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/OjNndVCZ.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Jarosławem Pinkasem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
 
-
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Szczepienia - rozmowa z Cezarym Pazurą</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/OjNndVCZ.html"
+                                                        title="#FakeHunter Challenge/Szczepienia - rozmowa z Jarosławem Pinkasem"
+                                                        width="620"></iframe>
+                                            </div>
                                         </li>
 
 
