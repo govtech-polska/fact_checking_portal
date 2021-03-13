@@ -88,7 +88,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-                    <section className="s2"> /* TABELA WYNIKÓW */
+                    <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6 order-xl-1 order-lg-1 order-md-2 order-sm-2 order-2">
@@ -211,7 +211,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-                    <section className="s2"> /* EKSPERCKIE SPOTKANIA PAP */
+                    <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
@@ -250,7 +250,7 @@ const ChallengeII = () => {
                     </section>
 
 
-                    <section className="s2"> /* NAGRODY */
+                    <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -317,7 +317,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-                    <section className="s2"> /* KONKURS */
+                    <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -345,7 +345,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-                    <section className="s4" id="zostanfakehunterem"> /* ZOSTAŃ FAKEHUNTEREM I ZDOBĄDŹ NAGRODY */
+                    <section className="s4" id="zostanfakehunterem">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -387,7 +387,7 @@ const ChallengeII = () => {
                     </section>
 
 
-                    <section className="s2"> /* WYŚLIJ ZGŁOSZENIE KONKURSOWE */
+                    <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
@@ -418,7 +418,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-                    <section className="s4 diffrentButtons"> /* ZASADY KONKURSU */
+                    <section className="s4 diffrentButtons">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -485,7 +485,7 @@ const ChallengeII = () => {
                     </section>
 
 
-                    <section className="s6"> /* PARTNERZY */
+                    <section className="s6">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
@@ -526,7 +526,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-                    <section className="s2" id="oprojekcie"> /* O KONKURSIE */
+                    <section className="s2" id="oprojekcie">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -562,7 +562,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-                    <section className="s4" id="zweryfikowaneinformacje"> /* ZWERYFIKOWANE INFORMACJE */
+                    <section className="s4" id="zweryfikowaneinformacje">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -590,7 +590,7 @@ const ChallengeII = () => {
                             </div>
                         </div>
                     </section>
-                    <section className="s8" id="kontakt"> /* KONTAKT */
+                    <section className="s8" id="kontakt">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
