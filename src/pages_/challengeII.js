@@ -88,48 +88,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section12.title')}</h2>
-                                        <p className="title">{t('challengeII:section12.subtitle')}</p>
-                                        <p>
-
-
-                                            <Trans i18nKey="challengeII:section12.description"
-                                                   components={[<a className="link" href="https://pap-mediaroom.pl"
-                                                                   target="_blank"/>]}/>
-
-                                        </p>
-
-
-                                        <span> <Trans i18nKey="challengeII:section12.button"
-                                                      components={[<a className="button" href="/agendaII"/>,
-                                                          <a className="button" href="/en/agendaII"/>]}/></span>
-
-
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="iframeWrapper">
-                                        <iframe
-                                            webkitAllowFullScree mozallowfullscreen allowFullScreen
-                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
-                                            title="0" byline="0" portrait="0" width="640" height="360"
-                                            frameBorder="0" allow="autoplay"></iframe>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
-
-
-
-                    <section className="s2">
+                    <section className="s2"> /* TABELA WYNIKÓW */
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6 order-xl-1 order-lg-1 order-md-2 order-sm-2 order-2">
@@ -252,43 +211,38 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-
-
-                    <section className="s4" id="zostanfakehunterem">
+                    <section className="s2"> /* EKSPERCKIE SPOTKANIA PAP */
                         <div className="container-fluid">
                             <div className="row no-gutters">
-
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section4.title')}</h2>
-                                        <p className="title">{t('challengeII:section4.subtitle')}</p>
+                                        <h2 className="section">{t('challengeII:section12.title')}</h2>
+                                        <p className="title">{t('challengeII:section12.subtitle')}</p>
                                         <p>
-                                            <Trans i18nKey="challengeII:section4.description"/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeII:section4.description1"
-                                                   components={[<a className="link"
-                                                                   href="https://www.facebook.com/PAPFakeHunter/"
+
+
+                                            <Trans i18nKey="challengeII:section12.description"
+                                                   components={[<a className="link" href="https://pap-mediaroom.pl"
                                                                    target="_blank"/>]}/>
+
                                         </p>
-                                        <a
-                                            target="_blank"
-                                            rel="noopener noreferrer"
-                                            className="button"
-                                            href="https://www.webankieta.pl/ankieta/603664/rejestracja-do-konkursu-fakehunterchallengeszczepienia.html"
-                                        >
-                                            {t('challengeII:section4.applyBtn')}
-                                        </a>
+
+
+                                        <span> <Trans i18nKey="challengeII:section12.button"
+                                                      components={[<a className="button" href="/agendaII"/>,
+                                                          <a className="button" href="/en/agendaII"/>]}/></span>
+
+
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
-
-                                    <div className="imageWrapper">
-                                        <img src="/images/image3.png" alt=""/>
-
+                                    <div className="iframeWrapper">
+                                        <iframe
+                                            webkitAllowFullScree mozallowfullscreen allowFullScreen
+                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                            title="0" byline="0" portrait="0" width="640" height="360"
+                                            frameBorder="0" allow="autoplay"></iframe>
                                     </div>
-
-
                                 </div>
 
                             </div>
@@ -296,108 +250,7 @@ const ChallengeII = () => {
                     </section>
 
 
-
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/mail.png" alt=""/>
-                                        <div className="author">Onlineprinters / Unsplash</div>
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section11.title')}</h2>
-                                        <p className="title">{t('challengeII:section11.subtitle')}</p>
-                                        <p>
-                                            {t('challengeII:section11.description')}
-                                        </p>
-                                        <a className="button"
-                                           rel="noopener noreferrer"
-                                           href="https://www.webankieta.pl/ankieta/603362/formularz-konkursowy-fakehunter-challengeszczepienia.html"
-                                        >
-                                            {t('challengeII:section11.button')}
-                                        </a>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
-                    </section>
-
-
-
-                    <section className="s4 diffrentButtons">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeII:section2.title')}</h2>
-                                        <p className="title">{t('challengeII:section2.subtitle')}</p>
-                                        <p>{t('challengeII:section2.description')}</p>
-                                        <p>{t('challengeII:section2.description1')}</p>
-
-                                        <a
-                                            className="collapseButton collapsed"
-                                            data-toggle="collapse"
-                                            href="#collapseTwo"
-                                            role="button"
-                                            aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            <span>{t('challengeII:section2.button')}</span>
-                                        </a>
-
-                                        <div className="collapse" id="collapseTwo">
-                                            <p>{t('challengeII:section2.collapsed.description')}</p>
-                                        </div>
-
-                                        <div></div>
-
-                                        <a
-                                            className="collapseButton collapsed"
-                                            data-toggle="collapse"
-                                            href="#collapseThree"
-                                            role="button"
-                                            aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            <span>{t('challengeII:section2.button1')}</span>
-                                        </a>
-
-                                        <div className="collapse" id="collapseThree">
-                                            <p>
-
-                                                <Trans i18nKey="challengeII:section2.collapsed1.description1"
-                                                       components={[<a className="link"
-                                                                       href="/attachments/reguly_weryfikacji_faktow.pdf"
-                                                                       target="_blank"/>, <a className="link"
-                                                                                             href="/attachments/FH_Rules_of_Fact_Verification.pdf"
-                                                                                             target="_blank"/>]}/>
-                                            </p>
-                                        </div>
-
-
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image5.png" alt=""/>
-                                        <div className="author">strixcode / Adobe Stock</div>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
-                    </section>
-
-
-                    <section className="s2">
+                    <section className="s2"> /* NAGRODY */
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -464,8 +317,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-
-                    <section className="s2">
+                    <section className="s2"> /* KONKURS */
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -493,15 +345,147 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
+                    <section className="s4" id="zostanfakehunterem"> /* ZOSTAŃ FAKEHUNTEREM I ZDOBĄDŹ NAGRODY */
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeII:section4.title')}</h2>
+                                        <p className="title">{t('challengeII:section4.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeII:section4.description"/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeII:section4.description1"
+                                                   components={[<a className="link"
+                                                                   href="https://www.facebook.com/PAPFakeHunter/"
+                                                                   target="_blank"/>]}/>
+                                        </p>
+                                        <a
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="button"
+                                            href="https://www.webankieta.pl/ankieta/603664/rejestracja-do-konkursu-fakehunterchallengeszczepienia.html"
+                                        >
+                                            {t('challengeII:section4.applyBtn')}
+                                        </a>
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+
+                                    <div className="imageWrapper">
+                                        <img src="/images/image3.png" alt=""/>
+
+                                    </div>
 
 
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
 
 
+                    <section className="s2"> /* WYŚLIJ ZGŁOSZENIE KONKURSOWE */
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/mail.png" alt=""/>
+                                        <div className="author">Onlineprinters / Unsplash</div>
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeII:section11.title')}</h2>
+                                        <p className="title">{t('challengeII:section11.subtitle')}</p>
+                                        <p>
+                                            {t('challengeII:section11.description')}
+                                        </p>
+                                        <a className="button"
+                                           rel="noopener noreferrer"
+                                           href="https://www.webankieta.pl/ankieta/603362/formularz-konkursowy-fakehunter-challengeszczepienia.html"
+                                        >
+                                            {t('challengeII:section11.button')}
+                                        </a>
+                                    </div>
+                                </div>
 
 
+                            </div>
+                        </div>
+                    </section>
+
+                    <section className="s4 diffrentButtons"> /* ZASADY KONKURSU */
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
 
 
-                    <section className="s6">
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeII:section2.title')}</h2>
+                                        <p className="title">{t('challengeII:section2.subtitle')}</p>
+                                        <p>{t('challengeII:section2.description')}</p>
+                                        <p>{t('challengeII:section2.description1')}</p>
+
+                                        <a
+                                            className="collapseButton collapsed"
+                                            data-toggle="collapse"
+                                            href="#collapseTwo"
+                                            role="button"
+                                            aria-expanded="false"
+                                            aria-controls="collapseTwo">
+                                            <span>{t('challengeII:section2.button')}</span>
+                                        </a>
+
+                                        <div className="collapse" id="collapseTwo">
+                                            <p>{t('challengeII:section2.collapsed.description')}</p>
+                                        </div>
+
+                                        <div></div>
+
+                                        <a
+                                            className="collapseButton collapsed"
+                                            data-toggle="collapse"
+                                            href="#collapseThree"
+                                            role="button"
+                                            aria-expanded="false"
+                                            aria-controls="collapseTwo">
+                                            <span>{t('challengeII:section2.button1')}</span>
+                                        </a>
+
+                                        <div className="collapse" id="collapseThree">
+                                            <p>
+
+                                                <Trans i18nKey="challengeII:section2.collapsed1.description1"
+                                                       components={[<a className="link"
+                                                                       href="/attachments/reguly_weryfikacji_faktow.pdf"
+                                                                       target="_blank"/>, <a className="link"
+                                                                                             href="/attachments/FH_Rules_of_Fact_Verification.pdf"
+                                                                                             target="_blank"/>]}/>
+                                            </p>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image5.png" alt=""/>
+                                        <div className="author">strixcode / Adobe Stock</div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </section>
+
+
+                    <section className="s6"> /* PARTNERZY */
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
@@ -542,8 +526,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-
-                    <section className="s2" id="oprojekcie">
+                    <section className="s2" id="oprojekcie"> /* O KONKURSIE */
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -579,8 +562,7 @@ const ChallengeII = () => {
                         </div>
                     </section>
 
-
-                    <section className="s4" id="zweryfikowaneinformacje">
+                    <section className="s4" id="zweryfikowaneinformacje"> /* ZWERYFIKOWANE INFORMACJE */
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -608,7 +590,7 @@ const ChallengeII = () => {
                             </div>
                         </div>
                     </section>
-                    <section className="s8" id="kontakt">
+                    <section className="s8" id="kontakt"> /* KONTAKT */
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
