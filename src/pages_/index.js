@@ -108,17 +108,7 @@ const Index = ({pinned, hashtags, categories}) => {
                 <CommonHead/>
             </Head>
             <Layout>
-
-
-
-                            <div className="advert">
-                                <a href="https://fakehunter.pap.pl/challengeII"><img
-                                    src="/images/baner750x200.png"/></a>
-                            </div>
-
-
-
-                <Categories activeCategory={category} initialData={categories}/>
+              <Categories activeCategory={category} initialData={categories}/>
                 <Header>
                     <Container>
                         <Pinned initialData={pinned}/>
