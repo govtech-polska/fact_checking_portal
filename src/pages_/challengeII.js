@@ -109,7 +109,7 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>Julia i Hubert</td>
-                                                <td>81</td>
+                                                <td>82</td>
                                                 <td>58</td>
                                                 <td>34</td>
 
@@ -117,43 +117,44 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>2.</td>
                                                 <td>MŁ</td>
-                                                <td>58</td>
+                                                <td>62</td>
                                                 <td>0</td>
-                                                <td>54</td>
+                                                <td>55</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
                                                 <td>Fire</td>
-                                                <td>31</td>
+                                                <td>32</td>
                                                 <td>1</td>
-                                                <td>5</td>
+                                                <td>8</td>
 
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
                                                 <td>Kwintet Fortepianowy I</td>
                                                 <td>23</td>
-                                                <td>36</td>
-                                                <td>5</td>
+                                                <td>25</td>
+                                                <td>16</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>5.</td>
-                                                <td>Pączki</td>
-                                                <td>20</td>
-                                                <td>8</td>
-                                                <td>7</td>
+                                                <td>Wronki</td>
+                                                <td>23</td>
+                                                <td>0</td>
+                                                <td>43</td>
+
 
                                             </tr>
                                             <tr>
                                                 <td>6.</td>
-                                                <td>Wronki</td>
-                                                <td>11</td>
-                                                <td>0</td>
+                                                <td>Pączki</td>
                                                 <td>20</td>
+                                                <td>8</td>
+                                                <td>7</td>
 
                                             </tr>
                                             <tr>
@@ -166,26 +167,27 @@ const ChallengeII = () => {
                                             </tr>
                                             <tr>
                                                 <td>8.</td>
-                                                <td>Zastrzyk Wiedzy</td>
-                                                <td>6</td>
-                                                <td>4</td>
-                                                <td>3</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>9.</td>
                                                 <td>Joanna Kubacka</td>
                                                 <td>6</td>
                                                 <td>2</td>
                                                 <td>3</td>
 
+
+                                            </tr>
+                                            <tr>
+                                                <td>9.</td>
+                                                <td>Zastrzyk Wiedzy</td>
+                                                <td>6</td>
+                                                <td>3</td>
+                                                <td>4</td>
+
                                             </tr>
                                             <tr>
                                                 <td>10.</td>
-                                                <td>Marsz do Nauki2</td>
-                                                <td>4</td>
-                                                <td>8</td>
-                                                <td>0</td>
+                                                <td>Michał Kędzierski</td>
+                                                <td>5</td>
+                                                <td>11</td>
+                                                <td>2</td>
 
                                             </tr>
 
