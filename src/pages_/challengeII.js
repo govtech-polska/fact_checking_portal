@@ -109,85 +109,85 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>Julia i Hubert</td>
-                                                <td>82</td>
-                                                <td>58</td>
-                                                <td>34</td>
+                                                <td>178</td>
+                                                <td>0</td>
+                                                <td>76</td>
 
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
-                                                <td>MŁ</td>
-                                                <td>62</td>
+                                                <td>Kwintet Fortepianowy I</td>
+                                                <td>76</td>
                                                 <td>0</td>
-                                                <td>55</td>
+                                                <td>33</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
-                                                <td>Fire</td>
-                                                <td>32</td>
-                                                <td>1</td>
-                                                <td>8</td>
+                                                <td>MŁ</td>
+                                                <td>75</td>
+                                                <td>0</td>
+                                                <td>68</td>
 
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
-                                                <td>Kwintet Fortepianowy I</td>
-                                                <td>23</td>
-                                                <td>25</td>
-                                                <td>16</td>
+                                                <td>Wronki</td>
+                                                <td>71</td>
+                                                <td>0</td>
+                                                <td>195</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>5.</td>
-                                                <td>Wronki</td>
-                                                <td>23</td>
+                                                <td>Michał Kędzierski</td>
+                                                <td>60</td>
                                                 <td>0</td>
-                                                <td>43</td>
+                                                <td>40</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>6.</td>
-                                                <td>Pączki</td>
-                                                <td>20</td>
-                                                <td>8</td>
-                                                <td>7</td>
+                                                <td>Fire</td>
+                                                <td>54</td>
+                                                <td>0</td>
+                                                <td>9</td>
 
                                             </tr>
                                             <tr>
                                                 <td>7.</td>
-                                                <td>m-hunter</td>
-                                                <td>7</td>
+                                                <td>Pączki</td>
+                                                <td>48</td>
                                                 <td>0</td>
-                                                <td>1</td>
+                                                <td>16</td>
 
                                             </tr>
                                             <tr>
                                                 <td>8.</td>
-                                                <td>Joanna Kubacka</td>
-                                                <td>6</td>
-                                                <td>2</td>
-                                                <td>3</td>
+                                                <td>Zastrzyk Wiedzy</td>
+                                                <td>25</td>
+                                                <td>0</td>
+                                                <td>9</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>9.</td>
-                                                <td>Zastrzyk Wiedzy</td>
+                                                <td>Marsz dla Nauki2</td>
+                                                <td>23</td>
+                                                <td>0</td>
                                                 <td>6</td>
-                                                <td>3</td>
-                                                <td>4</td>
 
                                             </tr>
                                             <tr>
                                                 <td>10.</td>
-                                                <td>Michał Kędzierski</td>
-                                                <td>5</td>
-                                                <td>11</td>
-                                                <td>2</td>
+                                                <td>Joanna Kubacka</td>
+                                                <td>18</td>
+                                                <td>0</td>
+                                                <td>3</td>
 
                                             </tr>
 
@@ -240,11 +240,10 @@ const ChallengeII = () => {
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="iframeWrapper">
-                                        <iframe
-                                            webkitAllowFullScree mozallowfullscreen allowFullScreen
-                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
-                                            title="0" byline="0" portrait="0" width="640" height="360"
-                                            frameBorder="0" allow="autoplay"></iframe>
+                                        <iframe allowFullScreen frameBorder="0" height="350"
+                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/dr4WTqTB.html"
+                                                title="#FakeHunter Challenge/Szczepienia - rozmowa z prof. C. Cohenem"
+                                                width="620"></iframe>
                                     </div>
                                 </div>
 
