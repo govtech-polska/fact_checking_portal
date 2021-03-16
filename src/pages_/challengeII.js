@@ -109,85 +109,85 @@ const ChallengeII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>Julia i Hubert</td>
-                                                <td>178</td>
-                                                <td>0</td>
-                                                <td>76</td>
+                                                <td>187</td>
+                                                <td>68</td>
+                                                <td>79</td>
 
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
-                                                <td>Kwintet Fortepianowy I</td>
-                                                <td>76</td>
-                                                <td>0</td>
-                                                <td>33</td>
+                                                <td>MŁ</td>
+                                                <td>176</td>
+                                                <td>134</td>
+                                                <td>136</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
-                                                <td>MŁ</td>
-                                                <td>75</td>
-                                                <td>0</td>
-                                                <td>68</td>
+                                                <td>Wronki</td>
+                                                <td>127</td>
+                                                <td>146</td>
+                                                <td>264</td>
 
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
-                                                <td>Wronki</td>
-                                                <td>71</td>
-                                                <td>0</td>
-                                                <td>195</td>
+                                                <td>Kwintet Fortepianowy I</td>
+                                                <td>116</td>
+                                                <td>61</td>
+                                                <td>48</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>5.</td>
-                                                <td>Michał Kędzierski</td>
-                                                <td>60</td>
-                                                <td>0</td>
-                                                <td>40</td>
+                                                <td>Fire</td>
+                                                <td>76</td>
+                                                <td>22</td>
+                                                <td>12</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>6.</td>
-                                                <td>Fire</td>
-                                                <td>54</td>
-                                                <td>0</td>
-                                                <td>9</td>
+                                                <td>Arti Weber</td>
+                                                <td>63</td>
+                                                <td>129</td>
+                                                <td>36</td>
 
                                             </tr>
                                             <tr>
                                                 <td>7.</td>
-                                                <td>Pączki</td>
-                                                <td>48</td>
-                                                <td>0</td>
-                                                <td>16</td>
+                                                <td>Michał Kędzierski</td>
+                                                <td>63</td>
+                                                <td>9</td>
+                                                <td>5</td>
 
                                             </tr>
                                             <tr>
                                                 <td>8.</td>
-                                                <td>Zastrzyk Wiedzy</td>
-                                                <td>25</td>
-                                                <td>0</td>
-                                                <td>9</td>
+                                                <td>Pączki</td>
+                                                <td>61</td>
+                                                <td>39</td>
+                                                <td>20</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>9.</td>
-                                                <td>Marsz dla Nauki2</td>
-                                                <td>23</td>
+                                                <td>Zastrzyk Wiedzy</td>
+                                                <td>32</td>
                                                 <td>0</td>
-                                                <td>6</td>
+                                                <td>15</td>
 
                                             </tr>
                                             <tr>
                                                 <td>10.</td>
-                                                <td>Joanna Kubacka</td>
-                                                <td>18</td>
-                                                <td>0</td>
-                                                <td>3</td>
+                                                <td>Marsz dla Nauki2</td>
+                                                <td>23</td>
+                                                <td>1</td>
+                                                <td>6</td>
 
                                             </tr>
 
