@@ -108,69 +108,71 @@ const ChallengeII = () => {
                                             <tbody>
                                             <tr>
                                                 <td>1.</td>
-                                                <td>Julia i Hubert</td>
-                                                <td>192</td>
-                                                <td>62</td>
-                                                <td>80</td>
+
+                                                <td>MŁ</td>
+                                                <td>210</td>
+                                                <td>61</td>
+                                                <td>175</td>
 
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
-                                                <td>MŁ</td>
-                                                <td>187</td>
-                                                <td>106</td>
-                                                <td>153</td>
+                                                <td>Julia i Hubert</td>
+                                                <td>198</td>
+                                                <td>47</td>
+                                                <td>89</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
                                                 <td>Wronki</td>
-                                                <td>151</td>
-                                                <td>57</td>
-                                                <td>329</td>
+                                                <td>160</td>
+                                                <td>0</td>
+                                                <td>377</td>
 
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
                                                 <td>Kwintet Fortepianowy I</td>
-                                                <td>125</td>
-                                                <td>50</td>
-                                                <td>50</td>
+                                                <td>149</td>
+                                                <td>25</td>
+                                                <td>51</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>5.</td>
-                                                <td>Fire</td>
-                                                <td>79</td>
-                                                <td>16</td>
-                                                <td>15</td>
+                                                <td>Pączki</td>
+                                                <td>85</td>
+                                                <td>0</td>
+                                                <td>35</td>
 
 
                                             </tr>
                                             <tr>
                                                 <td>6.</td>
-                                                <td>Pączki</td>
-                                                <td>65</td>
-                                                <td>34</td>
-                                                <td>21</td>
+                                                <td>Fire</td>
+                                                <td>81</td>
+                                                <td>14</td>
+                                                <td>15</td>
 
                                             </tr>
                                             <tr>
                                                 <td>7.</td>
-                                                <td>Michał Kędzierski</td>
+                                                <td>Arti Weber</td>
+
                                                 <td>63</td>
-                                                <td>8</td>
-                                                <td>6</td>
+                                                <td>129</td>
+                                                <td>36</td>
 
                                             </tr>
                                             <tr>
                                                 <td>8.</td>
-                                                <td>Arti Weber</td>
+                                                <td>Michał Kędzierski</td>
                                                 <td>63</td>
-                                                <td>129</td>
-                                                <td>36</td>
+                                                <td>8</td>
+                                                <td>6</td>
 
 
                                             </tr>
