@@ -524,6 +524,16 @@ const Agenda = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+
+                                        <li>
+                                            <h5>Ogłoszenie wyników konkursu #FakeHunter Challenge/Szczepienia</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/w1jynx3Y.html"
+                                                        title="Ogłoszenie wyników konkursu #FakeHunter Challenge/Szczepienia "
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul></div>
 
                             </div>
