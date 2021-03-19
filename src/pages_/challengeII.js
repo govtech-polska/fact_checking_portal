@@ -91,112 +91,14 @@ const ChallengeII = () => {
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-                                <div className="col-lg-6 order-xl-1 order-lg-1 order-md-2 order-sm-2 order-2">
-                                    <div className="tableWrapperMainPage">
-                                        <table className="table  table-bordered">
-                                            <thead>
-                                            <tr>
-                                                <th>
-                                                    LP.
-                                                </th>
-                                                <th>Nick lub nazwa zespołu</th>
-                                                <th>suma punktów z wszystkich konkurencji</th>
-                                                <th>oczekuje na weryfikacje</th>
-                                                <th>zweryfikowane negatywnie</th>
-                                            </tr>
-                                            </thead>
-                                            <tbody>
-                                            <tr>
-                                                <td>1.</td>
-
-                                                <td>MŁ</td>
-                                                <td>210</td>
-                                                <td>61</td>
-                                                <td>175</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>2.</td>
-                                                <td>Julia i Hubert</td>
-                                                <td>198</td>
-                                                <td>47</td>
-                                                <td>89</td>
-
-
-                                            </tr>
-                                            <tr>
-                                                <td>3.</td>
-                                                <td>Wronki</td>
-                                                <td>160</td>
-                                                <td>0</td>
-                                                <td>377</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>4.</td>
-                                                <td>Kwintet Fortepianowy I</td>
-                                                <td>149</td>
-                                                <td>25</td>
-                                                <td>51</td>
-
-
-                                            </tr>
-                                            <tr>
-                                                <td>5.</td>
-                                                <td>Pączki</td>
-                                                <td>85</td>
-                                                <td>0</td>
-                                                <td>35</td>
-
-
-                                            </tr>
-                                            <tr>
-                                                <td>6.</td>
-                                                <td>Fire</td>
-                                                <td>81</td>
-                                                <td>14</td>
-                                                <td>15</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>7.</td>
-                                                <td>Arti Weber</td>
-
-                                                <td>63</td>
-                                                <td>129</td>
-                                                <td>36</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>8.</td>
-                                                <td>Michał Kędzierski</td>
-                                                <td>63</td>
-                                                <td>8</td>
-                                                <td>6</td>
-
-
-                                            </tr>
-                                            <tr>
-                                                <td>9.</td>
-                                                <td>Zastrzyk Wiedzy</td>
-                                                <td>32</td>
-                                                <td>0</td>
-                                                <td>15</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>10.</td>
-                                                <td>Marsz dla Nauki2</td>
-                                                <td>23</td>
-                                                <td>0</td>
-                                                <td>7</td>
-
-                                            </tr>
-
-                                            </tbody>
-                                        </table>
+                                <div className="col-lg-6">
+                                    <div className="iframeWrapper">
+                                        <iframe
+                                            webkitAllowFullScree mozallowfullscreen allowFullScreen
+                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                            title="0" byline="0" portrait="0" width="640" height="360"
+                                            frameBorder="0" allow="autoplay"></iframe>
                                     </div>
-
 
                                 </div>
                                 <div className="col-lg-6 order-xl-2 order-lg-2 order-md-1 order-sm-1 order-1">
