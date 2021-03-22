@@ -391,6 +391,11 @@ const About = () => {
                           <img src="/images/play.png" alt="Play"/>
                         </a>
                       </li>
+                      <li className="play">
+                        <a target="_blank" rel="noopener noreferrer" href="https://pgnig.pl/">
+                          <img src="/images/pgnig.png" alt="PGNIG"/>
+                        </a>
+                      </li>
                       <li className="info">
                         <h5 className="title">
                           <a href="#kontakt">{t('about:section5.joinBtn')}</a>
