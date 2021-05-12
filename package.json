@@ -16,7 +16,7 @@
     "js-cookie": "^2.2.1",
     "next": "9.5.1",
     "next-translate": "^0.17.1",
-    "nodemailer": "^6.4.11",
+    "nodemailer": "^6.4.16",
     "qs": "^6.9.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
