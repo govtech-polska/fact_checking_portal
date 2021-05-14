@@ -364,11 +364,7 @@ const About = () => {
                           <img src="/images/aws_logo.png" alt="AWS"/>
                         </a>
                       </li>
-                      <li className="demagog">
-                        <a target="_blank" rel="noopener noreferrer" href="https://demagog.org.pl/">
-                          <img src="/images/demagog_logo.png" alt="Demagog"/>
-                        </a>
-                      </li>
+
                       <li className="obywatele">
                         <a
                             target="_blank"
