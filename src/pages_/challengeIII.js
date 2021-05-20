@@ -232,11 +232,8 @@ const challengeIII = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
-                                    <div className="iframeWrapper">
-                                        <iframe allowFullScreen frameBorder="0" height="350"
-                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/dr4WTqTB.html"
-                                                title="#FakeHunter Challenge/Szczepienia - rozmowa z prof. C. Cohenem"
-                                                width="620"></iframe>
+                                    <div className="imageWrapper">
+                                        <img src="/images/micro.png" alt=""/>
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
@@ -246,16 +243,23 @@ const challengeIII = () => {
                                         <p>
 
 
-                                            <Trans i18nKey="challengeIII:section12.description"
+                                            <Trans i18nKey="challengeIII:section12.description" />
+
+                                        </p>
+
+                                        <p>
+
+
+                                            <Trans i18nKey="challengeIII:section12.description1"
                                                    components={[<a className="link" href="https://pap-mediaroom.pl"
                                                                    target="_blank"/>]}/>
 
                                         </p>
 
 
-                                        <span> <Trans i18nKey="challengeIII:section12.button"
-                                                      components={[<a className="button" href="/agendaII"/>,
-                                                          <a className="button" href="/en/agendaII"/>]}/></span>
+                                     <span> <Trans i18nKey="challengeIII:section12.button"
+                                                      components={[<a className="button" href="/agendaIII"/>,
+                                                          <a className="button" href="/en/agendaIII"/>]}/></span>
 
 
                                     </div>
@@ -523,6 +527,9 @@ const challengeIII = () => {
                                             <li><Trans i18nKey="challengeIII:section14.link1"
                                                        components={[<a className="link" href="/challenge"/>,
                                                            <a className="link" href="/en/challenge"/>]}/></li>
+                                            <li><Trans i18nKey="challengeIII:section14.link2"
+                                                       components={[<a className="link" href="/challengeII"/>,
+                                                           <a className="link" href="/en/challengeII"/>]}/></li>
                                         </ul>
 
                                     </div>

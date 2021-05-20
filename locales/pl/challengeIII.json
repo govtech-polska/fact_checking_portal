@@ -1,5 +1,5 @@
 {
-  "title": "FakeHunter <0/> <1> Challenge/Szczepienia</1>",
+  "title": "FakeHunter <0/> <1> Challenge/Gospodarka</1>",
   "follow": "Śledź nas: ",
   "quote": "Podejmij wyzwanie i dołącz do walki z fake newsami,<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to, co czytają inni.",
   "section1": {
@@ -12,7 +12,7 @@
     "link": "Uszczegółowienie kategorii konkursowych",
     "title": "ZASADY KONKURSU",
     "subtitle": "Zasady rywalizacji ",
-    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczbie od 1 do 5 członków. ",
+    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczbie od 1 do 5 członków. ",
     "description1":"Konkurs składa się z dwóch konkurencji:",
     "button": "Polowanie na fake newsy (fake news hunt)",
     "collapsed": {
@@ -31,6 +31,7 @@
       "description3": "Konkurencja ta polega na wyśledzeniu, za pomocą dostępnych narzędzi internetowych i programistycznych, pierwotnego, rzeczywistego źródła fałszywej informacji, zweryfikowanej jako fake news w serwisie #FakeHunter lub przez jury, przedstawienia dowodów i materiałów o tym świadczących."
     }
   },
+
   "section3": {
     "title": "Zweryfikowane informacje",
     "subtitle": "Zobacz, co już sprawdziliśmy",
@@ -39,8 +40,8 @@
   },
   "section4": {
     "title": "Zostań fakehunterem i zdobądź nagrody",
-    "subtitle": "Dołącz do walki z fake newsami w dniach 12-13 marca",
-    "description": "Zarejestruj się już dziś! W konkursie mogą brać udział zespoły liczące od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji. ",
+    "subtitle": "Dołącz do walki z fake newsami w dniach 11 i 12 czerwca ",
+    "description": "Zarejestruj się już dziś! W konkursie mogą brać udział zespoły składające od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji. ",
     "description1": "Podejmij wyzwanie i dołącz razem z nami do walki z fake newsami tworząc świat bez ściemy. Dziel się informacjami o fejkach, udzielaj się w dyskusjach, obserwuj profil <0>fakehunter.pap.pl</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
     "applyBtn": "ZGŁOŚ SIĘ DO KONKURSU!"
   },
@@ -54,8 +55,8 @@
     "link": "Regulamin",
     "title": "Nagrody",
     "subtitle": "Atrakcyjne nagrody pieniężne!",
-    "description": "Każdy, kto weźmie udział w konkursie #FakeHunter Challenge/Szczepienia ma szansę wygrać atrakcyjne nagrody finansowe.<0> Za I miejsca na podium - 6 tys. zł, za II miejsce - 4 tys. zł, za III miejsce - 2 tys. zł.</0> Zasady są proste – wygrywają zespoły z największą liczbą punktów. Prace konkursowe można przesyłać w dwóch kategoriach.",
-    "description1":"Nad przebiegiem konkursu i oceną zgłoszeń czuwa jury. <0>Zwycięzców poznamy 19 marca.</0>"
+    "description": "Każdy, kto weźmie udział w konkursie #FakeHunter Challenge ma szansę wygrać atrakcyjne nagrody finansowe. <0>Za I miejsca na podium - 6 tys. zł, za II miejsce - 4 tys. zł, za III miejsce - 2 tys. zł</0>. Zasady są proste – wygrywają zespoły z największą liczbą punktów. Prace konkursowe można przesyłać w dwóch kategoriach.",
+    "description1":"Nad przebiegiem konkursu i oceną zgłoszeń czuwa jury. <0>Zwycięzców poznamy 18 czerwca.</0> "
   },
   "section9": {
     "title": "Partnerzy",
@@ -76,18 +77,20 @@
   },
   "section12": {
     "title": "EKSPERCKIE SPOTKANIA PAP",
-    "subtitle": "Zależy nam na tym, by w temacie szczepionek wybrzmiał głos specjalistów walczących na froncie covidowym. Badania naukowe i wiedza lekarska są orężem w walce z fałszywymi informacjami.",
-    "description": "Dwudniowym zmaganiom konkursowym będzie towarzyszył cykl spotkań z lekarzami, pielęgniarkami, naukowcami. Porozmawiamy o ich doświadczeniach i codziennych zmaganiach w walce z wirusem SARS-CoV-2, obalimy mity w temacie skuteczności i bezpieczeństwa szczepionek. Wśród naszych gości pojawią się także osoby publiczne, które opowiedzą o swoim zaangażowaniu w społeczną akcję szczepień. Transmisja live spotkań na <0>pap-mediaroom.pl </0>",
+    "subtitle": "Chcemy walczyć z dezinformacją i dać szansę społeczeństwu na zapoznanie się i zrozumienie technologii, które pomagają chronić środowisko, korzystnie wpływają na gospodarkę oraz nasze życie. ",
+    "description": "Dwudniowym zmaganiom konkursowym będzie towarzyszył cykl spotkań z naukowcami, lekarzami, specjalistami od energetyki i telekomunikacji. Porozmawiamy m.in. o efektywności energetycznej jaką daje sieć piątej generacji, zastosowaniu w medycynie, tworzeniu inteligentnych miast i domów, gdzie zautomatyzowane systemy będą dostosowywać zużycie ogrzewania, światła czy wody do naszych potrzeb, wspierając proekologiczne postawy społeczeństwa. Obalimy mity dotyczące negatywnego wpływu promieniowania elektromagnetycznych na ludzkie życie i zdrowie.",
+    "description1": "Transmisja live spotkań na: <0>pap-mediaroom.pl</0> oraz fakehunter.pap.pl",
     "button": "<0>ZOBACZ AGENDĘ SPOTKAŃ</0>"
   },
   "section13": {
     "title": "KONKURS",
-    "subtitle": "II edycja konkursu #FakeHunter Challenge/Szczepienia w dniach 12-13 marca ",
-    "description": "Do konkursu <0>#FakeHunter Challenge/Szczepienia</0> zapraszamy wszystkich, którzy chcą razem z nami propagować ideę dostępu do wiarygodnych i rzetelnych informacji. Tematem przewodnim II edycji konkursu są szczepienia przeciw Covid-19. W ciągu dwóch dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fake newsy z zakresu m.in.: bezpieczeństwa i skuteczności szczepionek, powikłań poszczepiennych. Chcemy walczyć z dezinformacją i dać szansę społeczeństwu, by decyzję o zaszczepieniu podejmowali na podstawie faktów, a nie domysłów."
+    "subtitle": "III edycja konkursu #FakeHunter Challenge/Gospodarka w dniach 11-12 czerwca",
+    "description": "Do konkursu <0>#FakeHunter Challenge</0> zapraszamy wszystkich, którzy chcą razem z nami propagować ideę dostępu do wiarygodnych i rzetelnych informacji. III edycji konkursu skupiona będzie na tematach gospodarczych: telekomunikacji i energetyce. W ciągu dwóch dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fake newsy z zakresu m.in.: wpływu technologii 5G oraz fal elektromagnetycznych na ludzkie zdrowie, odnawialnych źródeł energii, oddziaływania elektrowni węglowych na środowisko."
   },
   "section14": {
     "title": "Poprzednie edycje konkursu:",
-    "link1": "<0>#FakeHunter Challenge</0>"
+    "link1": "<0>#FakeHunter Challenge</0>",
+    "link2": "<0>#FakeHunter Challenge/Szczepienia</0>"
     },
   "section15": {
     "title": "ZOSTAŃ FAKEHUNTEREM I ZDOBĄDŹ NAGRODY",
