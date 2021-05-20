@@ -1,0 +1,111 @@
+{
+  "title": "FakeHunter <0/>  Challenge/Vaccinations",
+  "follow": "Follow us: ",
+  "quote": "„Take the challenge and join the fight against fake news by creating a network without fake. You also have an influence on what others read.”",
+  "section1": {
+    "title": "About the challenge",
+    "subtitle": "What is fake news and why is it so dangerous?",
+    "description": "In cyberspace, false information, popularly known as fakes, is appearing more and more often on a scale larger than you think. They pertain to many areas of life, consciously or without being misleading. Anyone can be a victim of disinformation or even fraud. Without realizing what fake news is and how powerful it is, we believe what we read and watch too easily. The time of the coronavirus pandemic has shown the importance of the fight against false information. People started to believe that 5G technology causes Covid-19 disease and cancer, vaccines cause autism, and wearing face masks can be dangerous to your health. The victims of information scams on the Internet are, among others, ordinary people, public figures, companies whose market value is destroyed due to fake news.",
+    "button": "We have plenty of examples of fake news!"
+  },
+  "section2": {
+    "link": "Detailed competition categories",
+    "title": "COMPETITION'S RULES",
+    "subtitle": "About the competition",
+    "description": "The competition is open to all Internet users over the age of 13 who speak Polish. The points from the works qualified and assessed by the jury are added up. Before that, you should register and decide on the composition of the team. Teams from 1 to 5 members may participate in the competition.",
+    "description1":"The competition consists of two categories:",
+    "button": "Fake news hunt",
+    "collapsed": {
+      "description": "In this competition the number of entries entered into the FakeHunter system from the area of the thematic categories provided for in the competition, which the jury deems verifiable, is scored."
+    },
+    "button1": "Fact checking challenge",
+    "collapsed1": {
+      "description1": "This competition is a combination of fake hunt competition with the verification of applications carried out by the competition participants, issuing verdicts and preparation of fact checking reports in accordance with the <1>#FakeHunter system fact checking rules</1>."
+    },
+    "button2": "Improve FakeHuntra",
+    "collapsed2": {
+      "description2": "According to the 'Policy of corrections' of the system, participants of the competition can verify reports already published on the #FakeHunter website from the beginning of its existence and present alternative verdicts and sources."
+    },
+    "button3": "Find the real source of fake news",
+    "collapsed3": {
+      "description3": "This competition consists in tracing, using the available Internet and programming tools, the original, real source of the fake news, verified as fake news on the #FakeHunter website or by the jury, presenting evidence and materials proving it. By fake news we mean information or a claim that can be verified with facts. Competition is not subject to opinions."
+    }
+  },
+  "section3": {
+    "title": "Verified informations",
+    "subtitle": "See what we've already checked",
+    "description": "Here you will find all verified information reported to us by Internet users. Find out what was real and what was wrong about the coronavirus, and use this source to rectify false information when you spot it.",
+    "verifiedNewsBtn": "Discover"
+  },
+  "section4": {
+    "title": "Become fakehunter and win awards",
+    "subtitle": "Join the fight against fake news on March 12th-13th",
+    "description": "Sign up today! Teams of 1 to 5 people can participate in the competition. Points are awarded for reporting untrue information or preparing a fact-check report based on credible sources of information.",
+    "description1": "Take the challenge and join us in the fight against fake news, creating a world without fake. Share information about fakes, participate in discussions, follow the profile of <0>fakehunter.pap.pl</0> and convince others to do so. It is also up to you what they read and how they react to this information.",
+    "applyBtn": "REGISTER FOR THE COMPETITION!"
+  },
+  "section7": {
+    "title": "Contact",
+    "subtitle": "We are waiting for your message",
+    "description": "Are you interested in our project? Do you need more information about it? Or maybe you want to support us, but you don't know how yet? If so, simply send us a message using email <0>fakehunter@pap.pl</0>. Let's be in touch!",
+    "applyBtn": "Sing up"
+  },
+  "section8": {
+    "link": "Regulations",
+    "title": "Awards",
+    "subtitle": "Attractive cash prizes!",
+    "description": "Everyone who takes part in the #FakeHunter Challenge/Vaccinations competition has a chance to win attractive financial prizes. <0>For the first place on the podium - 6,000 PLN, for the second place - 4 thousand PLN, for the third place - 2 thousand PLN. The rules are simple - the team with the most points wins</0>. Competition works can be submitted in two categories.",
+    "description1":"The jury supervises the course of the competition and the evaluation of the entries. <0>The winners will be announced on March 19th.</0>"
+  },
+  "section9": {
+    "title": "Partners",
+    "subtitle": "They support our action",
+    "description": "The great commitment of our partners helped us organize the event, so important from the point of view of the fight against disinformation. We appreciate this cooperation and thank you all for supporting the project, which helps cleanse the web of false and misleading information"
+  },
+  "section10": {
+    "title": "GovTech Festival",
+    "subtitle": "GovTech Festival, November marked by digitization",
+    "description": "GovTech Festival, November marked by digitization #FakeHunter Challenge/Vaccinations is one of the key events of the November GovTech Festival, a series of online events that can be attended by anyone interested. Throughout the month, as part of the GovTech Festival, webinars, workshops and hackathons will be organized, which aim to break analogue barriers, educate and open the society to new opportunities related to digitization. The participation in all events is free of charge",
+    "button": "SEE THE FESTIVAL PAGE"
+  },
+  "section11": {
+    "title": "Send your contest application",
+    "subtitle": "Submit fake info, report or information about the source of the false information",
+    "description": "Have you registered yourself or your team? Cool! You are ready to submit competition entries from 0:01 on 12/03 to 11:00 on 14/03. Use the form below, providing the same email address as provided on the registration form.",
+    "button": "Submit a report verifying the reported false information"
+  },
+  "section12": {
+    "title": "EXPERT MEETINGS WITH PAP",
+    "subtitle": "We want to hear the voice of specialists fighting on the covid front in the subject of vaccines. Scientific research and medical knowledge are a weapon in the fight against false information.",
+    "description": "The two-day competition will be accompanied by a series of meetings with doctors, nurses and scientists. We will talk about their experiences and everyday struggles in the fight against the SARS-CoV-2 virus, and we will debunk myths about the effectiveness and safety of vaccines. Our guests will also include public figures who will talk about their involvement in the public vaccination campaign. Live broadcast of the meetings at <0>pap-mediaroom.pl</0>",
+    "button": "<1>SEE THE MEETING AGENDA</1>"
+  },
+  "section13": {
+    "title": "CONTEST ",
+    "subtitle": "2nd edition of the #FakeHunter Challenge/Vaccinations on March 12th-13th",
+    "description": "We invite everyone who wants to join us in promoting the idea of access to credible and reliable information to the #FakeHunter Challenge competition.<0> The main topic of the 2nd edition of the competition is vaccination against Covid-19.</0> Within two days, registered people, acting independently or in teams, will be able to report fake news on, such topics as, vaccine safety and effectiveness, vaccine complications. We want to fight disinformation and give the society a chance to make decisions about vaccination on the basis of facts, not guesswork."
+  },
+  "section14": {
+    "title": "Previous editions of the competition:",
+    "link1": "<1>#FakeHunter Challenge</1>"
+  },
+  "section15": {
+    "title": "CONTEST RESULTS",
+    "subtitle": "#FakeHunter Challenge / Vaccinations has been settled!",
+    "description": "Meet the winners of #FakeHunter Challenge / Vaccinations, a competition that took place on March 12th -14th in Warsaw.",
+    "description1": "During the 3 days of competition, over 2,000 reports were submitted! The participants fought for attractive prizes."
+  },
+
+  "contactForm": {
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "topic": "Subject",
+    "message": "Content",
+    "send": "Send",
+    "successMsg": "Your massage has been sent!",
+    "errorMsg": "We coudn't send your massage!"
+  },
+  "more": "More",
+  "less": "Less"
+}

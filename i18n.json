@@ -9,12 +9,14 @@
     "/o-projekcie": ["about"],
     "/challenge":["challenge"],
     "/challengeII":["challengeII"],
+    "/challengeIII":["challengeIII"],
     "/zespol": ["team"],
     "/dla-programistow": ["developers"],
     "rgx:/plugins/*": ["developers", "verified"],
     "/": ["verified"],
     "/raport/[id]": ["verified"],
     "/agenda": ["agenda"],
-    "/agendaII": ["agendaII"]
+    "/agendaII": ["agendaII"],
+    "/agendaIII": ["agendaIII"]
   }
 }
