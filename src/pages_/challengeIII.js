@@ -147,7 +147,7 @@ const challengeIII = () => {
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="button"
-                                            href="https://www.webankieta.pl/ankieta/603664/rejestracja-do-konkursu-fakehunterchallengeszczepienia.html"
+                                            href="https://www.webankieta.pl/ankieta/631302/rejestracja-do-konkursu-fakehunterchallengegospodarka.html"
                                         >
                                             {t('challengeIII:section4.applyBtn')}
                                         </a>
@@ -195,7 +195,7 @@ const challengeIII = () => {
                                                     target="_blank"
                                                     rel="noopener noreferrer"
                                                     className="dropdown-item"
-                                                    href="/attachments/regFH2pol.pdf"
+                                                    href="/attachments/challengeIII/reg_pl.pdf"
                                                 >
                                                     PL
                                                 </a>
@@ -203,7 +203,7 @@ const challengeIII = () => {
                                                     target="_blank"
                                                     rel="noopener noreferrer"
                                                     className="dropdown-item"
-                                                    href="/attachments/regFH2eng.pdf"
+                                                    href="/attachments/challengeIII/reg_en.pdf"
                                                 >
                                                     EN
                                                 </a>
@@ -285,7 +285,7 @@ const challengeIII = () => {
                                         </p>
                                         <a className="button"
                                            rel="noopener noreferrer"
-                                           href="https://www.webankieta.pl/ankieta/603362/formularz-konkursowy-fakehunter-challengeszczepienia.html"
+                                           href="https://www.webankieta.pl/ankieta/631346/formularz-konkursowy-fakehunter-challengegospodarka.html"
                                         >
                                             {t('challengeIII:section11.button')}
                                         </a>
