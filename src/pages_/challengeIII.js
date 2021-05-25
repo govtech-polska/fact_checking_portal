@@ -257,9 +257,6 @@ const challengeIII = () => {
                                         </p>
 
 
-                                     <span> <Trans i18nKey="challengeIII:section12.button"
-                                                      components={[<a className="button" href="/agendaIII"/>,
-                                                          <a className="button" href="/en/agendaIII"/>]}/></span>
 
 
                                     </div>
@@ -388,22 +385,13 @@ const challengeIII = () => {
                                     <ul className="logoWrapper">
 
 
-                                        <li className="wykop">
-                                            <a target="_blank" rel="noopener noreferrer" href="https://www.wykop.pl/">
-                                                <img src="/images/wykopLogo.png" alt="Wykop"/>
-                                            </a>
-                                        </li>
                                         <li className="festiwal">
                                             <a target="_blank" rel="noopener noreferrer"
                                                href="https://www.gov.pl/web/govtech">
                                                 <img src="/images/govtech_logo.svg" alt="Festiwal"/>
                                             </a>
                                         </li>
-                                        <li className="wykop">
-                                            <a target="_blank" rel="noopener noreferrer" href="https://wsei.edu.pl//">
-                                                <img src="/images/1_wsei_full_color.jpg" alt="wsei"/>
-                                            </a>
-                                        </li>
+
                                     </ul>
                                 </div>
 
