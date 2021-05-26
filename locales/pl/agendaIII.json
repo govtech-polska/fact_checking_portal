@@ -5,93 +5,30 @@
   "subtitle2": " Obejrzyj spotkania, które już się odbyły",
   "iframebutton": " Obejrzyj spotkania, które już się odbyły",
   "table": {
-    "tableTitle": "PIĄTEK 12.03.2021",
-    "tableTitle2": "Sobota 13.03.2020",
+    "tableTitle": "PIĄTEK 11.06.2021",
+    "tableTitle2": "Sobota 12.06.2021",
     "tableTh": "Godzina",
     "tableTh1": "Imię",
     "tableTh2": "i nazwisko",
     "tableTh3": "Funkcja",
-    "tableMainTitle1": "Otwarcie #FakeHunter Challenge/Szczepienia",
-    "tableMainTitle2": "Zakończenie #FakeHunter Challenge/Szczepienia"
+    "tableMainTitle1": "Otwarcie #FakeHunter Challenge/Gospodarka",
+    "tableMainTitle2": "Zakończenie #FakeHunter Challenge/Gospodarka"
   },
   "functions": {
-    "function1":"prof., Bar Ilan University, Doradca Min. Zdrowia z Izraela",
-    "function2":"naukowiec",
-    "function3":"biolog medyczny i środowiskowy",
-    "function4":"specjalistka medycyny rodzinnej",
-    "function5":" ",
-    "function6":"pielęgniarka",
-    "function7":"aktor",
-    "function8":"lekarz",
-    "function9":"aktor",
-    "function10":"historyk",
-    "function11":"Prezes Polskiego Towarzystwa Chorób Cywilizacyjnych",
-    "function12":"Wiceprezes Polskiego Towarzystwa Epidemiologów i Lekarzy Chorób Zakaźnych",
-    "function13":"Past Prezes Polskiego Towarzystwa Alergologicznego",
-    "function14":"Konsultant krajowy w dziedzinie psychiatrii",
-    "function15":"Prodziekan Studium Magisterskiego, Szkoła Główna Handlowa"
+    "function1":"publicysta",
+    "function2":"polityk, biochemik, nauczyciel akademickiiiii"
+
 
   },
   "personList": {
     "person1": {
-      "name": "Cyrille Cohen",
-      "description": "Profesor na Uniwersytecie Bar-Ilan, jednej z wiodących uczelni Izraela, doradca ministra zdrowia ds. szczepionek przeciwko koronawirusowi. Obecnie jest szefem Laboratorium Immunologii Nowotworu na Wydziale Nauk Przyrodniczych im. Miny i Everarda Goodmanów. Pracuje nad metodą leczenia raka zwaną immunoterapią, polegającą na mobilizowaniu układu odpornościowego pacjenta do walki z nowotworem."
+      "name": "Grzegorz Kuczyński",
+      "description": "Pisze o Rosji i obszarze postsowieckim, specjalizuje się w tematyce służb specjalnych. Absolwent historii (Uniwersytet w Białymstoku) i specjalistycznych studiów wschodnich (Uniwersytet Warszawski). Ekspert Warsaw Institute, autor książek “Jak zabijają Rosjanie Ofiary rosyjskich służb od Trockiego do Litwinienki” i “Tron we krwi. Sekrety polityki Kremla”"
     },
     "person2": {
-      "name": "Tomasz Rożek",
-      "description": "Dziennikarz naukowy i fizyk, doktor nauk fizycznych, popularyzator nauki. Prowadził między innymi program „Sonda 2” w TVP i „Pytania z kosmosu” w radiowej Trójce. Szef działu naukowego w „Gościu Niedzielnym”. Autor książki „Nauka − po prostu. Wywiady z wybitnymi”, która została uznana za najlepszą książkę popularnonaukową sezonu 2010/2011."
-    },
-    "person3": {
-      "name": "dr hab. Piotr Rzymski",
-      "description": "Naukowiec, biolog, wykładowca i popularyzator nauki, wykładowca akademicki, adiunkt w Zakładzie Medycyny Środowiskowej Uniwersytetu Medycznego w Poznaniu. Zajmuje się interdyscyplinarnymi badaniami. Jest autorem ponad 150 publikacji naukowych z zakresu biologii medycznej i środowiskowej, w tym ponad 10 dotyczących pandemii COVID-19. Wchodzi w skład grupy eksperckiej \"Nauka przeciw pandemii\". Stypendysta Fundacji na Rzecz Nauki Polskiej i MNiSW, ekspert unijnej Agencji Wykonawczej ds. Badań Naukowych, ambasador międzynarodowej sieci naukowej Universal Scientific Education and Research Network (USERN) w Polsce. Jest publicystą naukowym tygodnika \"Polityka\" z zakresu medycyny, genetyki, nauk środowiskowych i bezpieczeństwa żywności.\n "
-    },
-    "person4": {
-      "name": "Anna Krzyszowska-Kamińska",
-      "description": "Specjalista medycyny rodzinnej. Od 20 lat prowadzi swoją praktykę, której misją jest profilaktyka a dopiero potem leczenie. Profilaktyka jest skuteczna, łatwa i  dużo tańsza niż leczenie."
-    },
-    "person5": {
-      "name": " ",
-      "description": " "
-    },
-    "person6": {
-      "name": "mgr Aneta Łapińska",
-      "description": "Specjalista ds. epidemiologii w Wojewódzkim Szpitalu Zespolonym im. J. Śniadeckiego w Białymstoku. Na co dzień zajmuje się konsultacją pacjentów z zakażeniem, szkoleniem personelu w zakresie epidemiologii i zakażeń szpitalnych oraz koordynacją szczepień. Od 26 lat pracuje jako pielęgniarka m.in. na bloku operacyjnym."
-    },
-    "person7": {
-      "name": "Stanisław Banasiuk",
-      "description": "Absolwent PWST w Warszawie. Początkowo związany z Teatrem Polskim we Wrocławiu pod dyrekcją Jerzego Grzegorzewskiego, Teatrem Współczesnym Kazimierza Brauna oraz Teatrem Narodowym, w którym spędził 9 sezonów teatralnych. Przez 4 sezony związany był także z Teatrem POSK w Londynie, gdzie zagrał w sumie w 9 premierach teatralnych, ważnych dla patriotów-emigrantów z czasów II wojny światowej, m.in. w „Wigilii generała” przedstawiającej historię gen. Okulickiego. \nAktualnie współpracuje z Videoteatrem  Piotra Lachmana i Jolanty Lothe oraz Teatrem WARSawy i Teatrem Capitol. \n"
-    },
-    "person8": {
-      "name": "Dr hab. n. med. Jarosław Jan Pinkas ",
-      "description": "Profesor Centrum Medycznego Kształcenia Podyplomowego, Dyrektor Szkoły Zdrowia Publicznego CMKP - Dziekan, Członek Komitetu Zdrowia Publicznego Polskiej Akademii Nauk, Konsultant Krajowy w dziedzinie zdrowia publicznego. Lekarz, menedżer, specjalista \nw dziedzinie chirurgii ogólnej, medycyny rodzinnej i zdrowia publicznego, nauczyciel akademicki. \nW latach 2005-2007 podsekretarz stanu w Ministerstwie Zdrowia, w latach 2015-2017 sekretarz stanu w Ministerstwie Zdrowia, w latach 2017-2018 sekretarz stanu w Kancelarii Premiera. W latach 2018-2020 Główny Inspektor Sanitarny.\n"
-    },
-    "person9": {
-      "name": "Cezary Pazura",
-      "description": "Aktor teatralny i filmowy, reżyser, prezenter telewizyjny, artysta kabaretowy. Ukończył studia na Wydziale Aktorskim Państwowej Wyższej Szkoły Filmowej, Telewizyjnej i Teatralnej w Łodzi. Zagrał w ponad 60 filmach produkcji polskiej, austriackiej i niemieckiej. Jest wielokrotnym laureatem Złotej Kaczki i dwukrotnym zdobywcą Złotych Lwów Gdańskich. Rola w filmie „Psy 2. Ostatnia Krew” przyniosła mu nagrodę na Międzynarodowym Festiwalu Filmów w Valenciennes. Grał m.in. u Andrzeja Wajdy, Krzysztofa Kieślowskiego, Juliusza Machulskiego, Władysława Pasikowskiego. Znany z takich filmów jak: „Sztos”, „Chłopaki nie płaczą”, „Kariera Nikosia Dyzmy”, „Kiler”, „Ajlawju” czy „Szczęśliwego Nowego Jorku”. Ambasador rządowej akcji „Szczepimy się”, w której zachęca do szczepienia się przeciwko Covid-19."
-    },
-    "person10": {
-      "name": "Michał Chlipała",
-      "description": "Prawnik i historyk. Pracownik Katedry Historii Medycyny Uniwersytetu Jagiellońskiego – Collegium Medicum."
-    },
-    "person11": {
-      "name": "Dr hab. n. med. Filip Marcin Szymański ",
-      "description": "Kardiolog, prezes Polskiego Towarzystwa Chorób Cywilizacyjnych, kierownik Pracowni Prewencji Chorób Układu Sercowo-Naczyniowego I Katedry i Kliniki Kardiologii Warszawskiego Uniwersytetu Medycznego. Specjalizuje się w nieinwazyjnej diagnostyce kardiologicznej, głównie w nieklasycznych czynnikach ryzyka chorób układu krążenia. Został wyróżniony licznymi nagrodami, m.in. Polskiego Towarzystwa Nadciśnienia Tętniczego, Polskiego Towarzystwa Kardiologicznego."
-    },
-    "person12": {
-      "name": "prof. dr hab. n. med. Krzysztof Tomasiewicz ",
-      "description": "Specjalista chorób zakaźnych, hepatolog, wiceprezes Polskiego Towarzystwa Epidemiologów i Lekarzy Chorób Zakaźnych, profesor Uniwersytetu Medycznego w Lublinie, kierownik Kliniki Chorób Zakaźnych Samodzielnego Publicznego Szpitala Klinicznego nr 1 w Lublinie, redaktor naczelny Clinical and Experimental Hepatology, członek zespołów eksperckich leczenia wirusowych zapaleń wątroby i stłuszczeniowych chorób wątroby."
-    },
-    "person13": {
-      "name": "Prof. Piotr Kuna ",
-      "description": "Specjalista w dziedzinie alergologii i chorób wewnętrznych, kierownik II Katedry Chorób Wewnętrznych i Kliniki Chorób Wewnętrznych, Astmy i Alergii Uniwersytetu Medycznego w Łodzi, past prezes Polskiego Towarzystwa Alergologicznego."
-    },
-    "person14": {
-      "name": "Prof. Dr hab. N. med. Piotr Gałecki ",
-      "description": "Psychiatra, seksuolog, nauczyciel akademicki. Absolwent Wojskowej Akademii Medycznej, kierownik Kliniki Psychiatrii Dorosłych Uniwersytetu Medycznego w Łodzi, wykładowca Krajowej Szkoły Sądownictwa i Prokuratury w Krakowie, pełni funkcję konsultanta krajowego w dziedzinie psychiatrii. Zainteresowania naukowe profesora Gałeckiego koncentrują się na szerzeniu wiedzy na temat przestrzegania praw pacjentów leczonych z powodu zaburzeń psychicznych oraz wokół biologicznych i genetycznych patomechanizmów chorób psychicznych, szczególnie depresji i schizofrenii."
-    },
-    "person15": {
-      "name": "dr Piotr Maszczyk",
-      "description": "Kierownik Zakładu Makroekonomii i Ekonomii Sektora Publicznego w Katedrze Ekonomii II Kolegium Gospodarki Światowej. Specjalizuje się w badaniach nad relacjami państwa i sektora przedsiębiorstw, instytucjonalnymi czynnikami wzrostu gospodarczego i zróżnicowaniem współczesnych modeli kapitalizmu. Autor i współautor blisko pięćdziesięciu monografii i artykułów naukowych. Wielokrotnie wyróżniany (nagrodami rektorskimi i wyróżnieniami przyznawanymi przez studentów) wykładowca na studiach licencjackich, magisterskich i doktorskich. Były pracownik Ministerstwa Finansów i Ministerstwa Rozwoju Regionalnego w randze radcy ministra."
+      "name": "Piotr Naimski",
+      "description": "Polski polityk, biochemik, nauczyciel akademicki, działacz opozycji w okresie PRL, publicysta, były wiceminister gospodarki, poseł na Sejm VII i VIII kadencji, od 2015 sekretarz stanu w Kancelarii Prezesa Rady Ministrów, Pełnomocnik Rządu ds. Strategicznej Infrastruktury Energetycznej."
     }
+
   }
 }

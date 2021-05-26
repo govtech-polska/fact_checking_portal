@@ -5,92 +5,28 @@
   "subtitle2": "Watch the past meetings",
   "iframebutton": "Watch the past meetings",
   "table": {
-    "tableTitle": "FRIDAY 12.03.2021",
-    "tableTitle2": "Saturday 13.03.2021",
+    "tableTitle": "FRIDAY 11.06.2021",
+    "tableTitle2": "Saturday 12.06.2021",
     "tableTh": "Hour",
     "tableTh1": "Name",
     "tableTh2": "and surname",
     "tableTh3": "Function",
-    "tableMainTitle1": "Opening #FakeHunter Challenge/Vaccinations",
-    "tableMainTitle2": "Ending #FakeHunter Challenge/Vaccinations"
+    "tableMainTitle1": "Opening #FakeHunter Challenge/Economy",
+    "tableMainTitle2": "Ending #FakeHunter Challenge/Economy"
   },
   "functions": {
-    "function1":"Bar-Ilan University professor; member of Health Ministry advisory committee",
-    "function2":"scientist",
-    "function3":"medical and environmental biologist",
-    "function4":"Family medicine specialist",
-    "function5":" ",
-    "function6":"nurse",
-    "function7":"actor",
-    "function8":"former Chief Sanitary Inspector",
-    "function9":"actor",
-    "function10":"historian",
-    "function11":"president of the Polish Society of Civilization Diseases",
-    "function12":"vice-president of the Polish Association of Epidemiologists and Infectiologists",
-    "function13":"former president of the Polish Society of Allergology",
-    "function14":"national consultant in the field of psychiatry",
-    "function15":"Deputy Dean of Master's Studies, Warsaw School of Economics"
+    "function1":"publicist",
+    "function2":"politician, biochemist, academic teacher"
+
   },
   "personList": {
     "person1": {
-      "name": "Cyrille Cohen",
-      "description": "A Bar-Ilan University professor, one of Israel's leading institutions of higher education and member of a Health Ministry advisory committee on coronavirus vaccines. Prof. Cohen currently heads at the Laboratory of Tumor Immunology, The Mina and Everard Goodman Faculty of Life Sciences. He does research in immunology, immunotherapy and cancer research, focused at the engineering of the immune response."
+      "name": "Grzegorz Kuczyński",
+      "description": "Writes about Russia and the post-Soviet area, specializes in secret services. A graduate of history (University of Białystok) and specialist Eastern studies (University of Warsaw). An expert of the Warsaw Institute, author of the books \"How the Russians are killing Victims of the Russian services from Trotsky to Litvinenko\" and \"The throne in blood. Secrets of the Kremlin's policy \""
     },
     "person2": {
-      "name": "Tomasz Rożek",
-      "description": "Science journalist and physicist, doctor of physical sciences, popularizer of science. He hosted, among others, the program \"Sonda 2\" on TVP and \"Questions from the cosmos\" on the Polish Radio Trójka. Head of the research department in \"Sunday Guest\". The author of the book \"Science - simply. Interviews with eminent ”, which was recognized as the best popular science book of the 2010/2011 season."
-    },
-    "person3": {
-      "name": "dr hab. Piotr Rzymski",
-      "description": "Scientist, biologist, lecturer and popularizer of science, academic lecturer, assistant professor at the Department of Environmental Medicine at the Medical University of Poznań. He is involved in interdisciplinary research. He has written over 150 scientific publications in the field of medical and environmental biology, including over 10 on the COVID-19 pandemic. He is also a member of the \"Science against pandemic\" expert group; a scholarship holder of the Foundation for Polish Science and the Ministry of Science and Higher Education; an expert of the EU Scientific Research Executive Agency and the ambassador of the Universal Scientific Education and Research Network (USERN) in Poland. He works also as scientific journalist for the \"Polityka\" weekly in the field of medicine, genetics, environmental science and food safety."
-    },
-    "person4": {
-      "name": "Anna Krzyszowska-Kamińska",
-      "description": "Family medicine specialist. For 20 years she has been running her practice, the mission of which is prevention and only then treatment. Prophylaxis is effective, easy and much cheaper than treatment."
-    },
-    "person5": {
-      "name": " ",
-      "description": " "
-    },
-    "person6": {
-      "name": "M.Sc. Aneta Łapińska",
-      "description": "Epidemiology specialist at the Jędrzej Śniadecki Regional Integrated Hospital in Białystok. On a daily basis, she deals with consulting patients with infection, training staff in epidemiology and nosocomial infections, and coordinating vaccinations. For 26 years she has been working as a nurse, incl. the operating theater. "
-    },
-    "person7": {
-      "name": "Stanisław Banasiuk",
-      "description": "A graduate of the PWST in Warsaw. Initially associated with the Polish Theater in Wrocław under the direction of Jerzy Grzegorzewski, Kazimierz Braun's Contemporary Theater and the National Theater, where he spent 9 theater seasons. For 4 seasons, he was also associated with the POSK Theater in London, where he played in a total of 9 theater premieres, important for patriots-emigrants from World War II, incl. in \"General's Eve\" presenting the story of General Okulicki.Currently, he collaborates with Piotr Lachman and Jolanta Lothe's Videotheatre, as well as WARSawa Theater and Capitol Theater. "
-    },
-    "person8": {
-      "name": "Dr hab. n. med. Jarosław Jan Pinkas ",
-      "description": "Professor of the Medical Center of Postgraduate Education, Director of the Public Health School of CMKP - Dean, Member of the Public Health Committee of the Polish Academy of Sciences, National Consultant in the field of public health. Doctor, manager, specialist in the field of general surgery, family medicine and public health and university teacher.Between 2005-2007, undersecretary of state in the Ministry of Health, from 2015 - 2017, secretary of state in the Ministry of Health, in 2017-2018, secretary of state in the Chancellery of the Prime Minister. Between 2018-2020, the Chief Sanitary Inspector. \n "
-    },
-    "person9": {
-      "name": "Cezary Pazura",
-      "description": "Theater and film actor, director, TV presenter, cabaret artist. He graduated from the Acting Department of the The Leon Schiller National Film School in Łódz. He has starred in over 60 Polish, Austrian and German films. He is a multiple winner of the Golden Duck and two-time winner of the Golden Lions (The Gdynia Film Festival). His role in the film \"Pigs 2: The Last Blood\" brought him an award at the International Film Festival in Valenciennes. He played, among others in films of Andrzej Wajda, Krzysztof Kieślowski, Juliusz Machulski, Władysław Pasikowski. He gained fame in such films as: \"Sztos\", \"Boys Don't Cry\", \"The Career of Nikos Dyzma\", \"Kiler\", \"Ajlawju\" or \"Happy New York\". He is also the Ambassador of the government campaign \"We vaccinate\", in which he encourages to vaccinations against Covid-19."
-    },
-    "person10": {
-      "name": "Michał Chlipała",
-      "description": "Lawyer and historian. Employee of the Department of the History of Medicine at the Jagiellonian University’s - Collegium Medicum.\n\n"
-    },
-    "person11": {
-      "name": "Dr hab. n. med. Filip Marcin Szymański ",
-      "description": "Cardiologist, president of the Polish Society of Civilization Diseases, head of the Laboratory of Prevention of Cardiovascular Diseases at the First Chair and Clinic of Cardiology at the Medical University of Warsaw. Dr. Szymański specializes in non-invasive cardiological diagnostics, mainly in non-classical risk factors for cardiovascular diseases and has been awarded by numerous organizations, among others  Polish Society of Hypertension, Polish Society of Cardiology."
-    },
-    "person12": {
-      "name": "prof. dr hab. n. med. Krzysztof Tomasiewicz",
-      "description": "Infectious disease specialist, hepatologist, vice-president of the Polish Association of Epidemiologists and Infectiologists, professor at the Medical University of Lublin, head of the Infectious Diseases Clinic of the Independent Public Clinical Hospital No. 1 in Lublin, editor-in-chief of Clinical and Experimental Hepatology, member of expert teams for the treatment of viral hepatitis of all types as well as  steatohepatitis."
-    },
-    "person13": {
-      "name": "Prof. Piotr Kuna",
-      "description": "Specialist in the field of allergology and internal diseases, head of the 2nd Chair of Internal Medicine and the Clinic of Internal Diseases, Asthma and Allergy at the Medical University of Lodz, former president of the Polish Society of Allergology."
-    },
-    "person14": {
-      "name": "Prof. Dr hab. Piotr Gałecki, MD, PhD ",
-      "description": "Psychiatrist, sexologist, academic teacher. A graduate of the Military Medical Academy, head of the Clinic for Adult Psychiatry at the Medical University of Lodz, lecturer at the National School of Judiciary and Public Prosecution in Krakow. Prof. Gałecki  also works as the national consultant in the field of psychiatry. Professor Gałecki's research interests focus on raising awareness  about the observance of the rights of patients treated for mental disorders and around the biological and genetic pathomechanisms of mental illness, especially depression and schizophrenia."
-    },
-    "person15": {
-      "name": "dr Piotr Maszczyk",
-      "description": "Head of the Department of Macroeconomics and Public Sector Economics at the Department of Economics II of the Collegium of World Economy. Dr Maszczyk specializes in research on the relations between the state and the enterprise sector, institutional factors of economic growth and the differentiation of contemporary models of capitalism. He is author and co-author of nearly fifty monographs and scientific articles. Dr. Maszczyk has been repeatedly awarded with rector's awards and distinctions by students even as lecturer at bachelor's, master's and doctoral studies. He is a former employee of the Ministry of Finance and the Ministry of Regional Development in the rank of minister's adviser."
+      "name": "Piotr Naimski",
+      "description": "Polish politician, biochemist, academic teacher, opposition activist during the People's Republic of Poland, publicist, former deputy economy minister, member of the Sejm of the 7th and 8th term, from 2015 secretary of state in the Chancellery of the Prime Minister, Government Plenipotentiary for Strategic Energy Infrastructure."
     }
   }
 }
