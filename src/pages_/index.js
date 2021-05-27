@@ -123,7 +123,7 @@ const Index = ({pinned, hashtags, categories}) => {
                     </FiltersWrapper>
 
                     <div className="advert">
-                        <a href="https://fakehunter.pap.pl/challengeII"><img
+                        <a href="https://fakehunter.pap.pl/challengeIII"><img
                             src="/images/750x200_FHIII.png"/></a>
                     </div>
 
