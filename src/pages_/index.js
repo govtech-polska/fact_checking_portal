@@ -114,10 +114,20 @@ const Index = ({pinned, hashtags, categories}) => {
                         <Pinned initialData={pinned}/>
                     </Container>
                 </Header>
+
+
+
                 <Container>
                     <FiltersWrapper>
                         <Hashtags initialData={hashtags}/>
                     </FiltersWrapper>
+
+                    <div className="advert">
+                        <a href="https://fakehunter.pap.pl/challengeII"><img
+                            src="/images/750x200_FHIII.png"/></a>
+                    </div>
+
+
                     <section>
                         <TitleWrapper>
                             <FeedTitle hashtag={query['tags[]']} category={category}/>
@@ -132,6 +142,9 @@ const Index = ({pinned, hashtags, categories}) => {
                         />
                     </section>
                 </Container>
+
+
+
             </Layout>
         </>
     )
