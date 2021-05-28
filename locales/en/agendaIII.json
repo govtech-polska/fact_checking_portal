@@ -16,7 +16,8 @@
   },
   "functions": {
     "function1":"publicist",
-    "function2":"politician, biochemist, academic teacher"
+    "function2":"politician, biochemist, academic teacher",
+    "function3":"NASA, scientist, space probe designer"
 
   },
   "personList": {
@@ -27,6 +28,10 @@
     "person2": {
       "name": "Piotr Naimski",
       "description": "Polish politician, biochemist, academic teacher, opposition activist during the People's Republic of Poland, publicist, former deputy economy minister, member of the Sejm of the 7th and 8th term, from 2015 secretary of state in the Chancellery of the Prime Minister, Government Plenipotentiary for Strategic Energy Infrastructure."
+    },
+    "person3": {
+      "name": "Artur B. Chmielewski",
+      "description": "Worked almost every possible space job.  He built space instruments, developed interplanetary spacecraft, managed billion-dollar missions, and developed a lab to construct a space telescope the size of a football stadium.  His missions traveled to the Sun, Mars, Jupiter, Saturn and landed on a comet. He worked on getting space images of cryo-volcanoes, black holes and extrasolar planets.  Art worked on software, hardware, was a consultant to Hollywood movies, and designed space sculptures. He is employed by the California Institute of Technology at JPL – a NASA Center in Pasadena, California, which is responsible for robotic space flights.\nHe worked with the Polish Space Agency, Polish universities and firms to develop the first Polish interplanetary mission.  Through his private company Spartan Space he is helping Polish space companies to enter the U.S. market and Polish students to get summer jobs at NASA.\nHowever, no matter how much he is able to accomplish in space exploration, in Poland he is known for being the son of Papcio Chmiel – the author of popular comics “Tytus, Romek i A’Tomek.”\n"
     }
   }
 }

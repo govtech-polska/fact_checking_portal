@@ -16,7 +16,8 @@
   },
   "functions": {
     "function1":"publicysta",
-    "function2":"polityk, biochemik, nauczyciel akademickiiiii"
+    "function2":"polityk, biochemik, nauczyciel akademicki",
+    "function3":"NASA, naukowiec, konstruktor sond kosmicznych"
 
 
   },
@@ -28,7 +29,10 @@
     "person2": {
       "name": "Piotr Naimski",
       "description": "Polski polityk, biochemik, nauczyciel akademicki, działacz opozycji w okresie PRL, publicysta, były wiceminister gospodarki, poseł na Sejm VII i VIII kadencji, od 2015 sekretarz stanu w Kancelarii Prezesa Rady Ministrów, Pełnomocnik Rządu ds. Strategicznej Infrastruktury Energetycznej."
+    },
+    "person3": {
+      "name": "Artur B. Chmielewski ",
+      "description": "Pracował przy wielu projektach i misjach kosmicznych. Budował instrumenty kosmiczne, opracowywał międzyplanetarne statki kosmiczne, zarządzał misjami wartymi miliardy dolarów i projektował laboratorium do budowy teleskopu kosmicznego wielkości stadionu piłkarskiego. Jego misje dotarły na Słońce, Marsa, Jowisza, Saturna i wylądowały na komecie. Pracował nad uzyskaniem kosmicznych zdjęć krio-wulkanów, czarnych dziur i planet pozasłonecznych. Pan Chmielewski pracował nad oprogramowaniem i sprzętem, był konsultantem przy hollywoodzkich filmach i projektował rzeźby kosmiczne. Jest zatrudniony przez California Institute of Technology w JPL - centrum NASA w Pasadenie w Kalifornii, które odpowiada za zrobotyzowane loty kosmiczne.\nWspółpracował z Polską Agencją Kosmiczną, polskimi uczelniami i firmami przy tworzeniu pierwszej polskiej misji międzyplanetarnej. Poprzez swoją prywatną firmę Spartan Space pomaga polskim firmom kosmicznym wejść na rynek amerykański, a polskim studentom w zdobyciu wakacyjnej pracy w NASA.\nJednak bez względu na to, jak wiele jest w stanie osiągnąć w eksploracji kosmosu, w Polsce znany jest jako syn Papcia Chmiela - autora popularnych komiksów „Tytus, Romek i A’Tomek”.\n"
     }
-
   }
 }
