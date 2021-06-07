@@ -82,8 +82,21 @@ const Agenda = () => {
                                             <td><a href="#">Grzegorz Religa</a></td>
                                             <td>{t('agendaIII:functions.function2')}</td>
                                         </tr>
+
                                         <tr>
-                                            <td className="middle hour" rowSpan="3">12:00</td>
+
+
+                                                <td className="middle hour" rowSpan="4">12:00</td>
+
+                                            <td className="debateName" colSpan="2">
+
+                                                {t('agendaIII:table.debate1')}</td>
+
+
+                                        </tr>
+
+                                        <tr>
+
                                             <td><a href="#id5">Józef Orzeł</a>
                                             </td>
                                             <td>{t('agendaIII:functions.function5')}
@@ -118,7 +131,7 @@ const Agenda = () => {
                                         <tr>
                                             <td className="hour">14:00
                                             </td>
-                                            <td><a href="#">Emilian Kamiński</a>
+                                            <td><a href="#id7">Emilian Kamiński</a>
 
                                             </td>
                                             <td>{t('agendaIII:functions.function7')}
@@ -164,46 +177,56 @@ const Agenda = () => {
 
                                         <tr>
                                             <td className="hour">11:00</td>
-                                            <td><a href="#">Andrzej Kisielewicz
+                                            <td><a href="#id8">Andrzej Kisielewicz
                                             </a>
                                             </td>
 
-                                            <td>{t('agendaII:functions.function9')}
+                                            <td>{t('agendaIII:functions.function8')}
                                             </td>
                                         </tr>
 
 
+                                        <tr>
 
+
+                                            <td className="middle hour" rowSpan="2">12:00</td>
+
+                                            <td className="debateName" colSpan="2">
+
+                                                {t('agendaIII:table.debate2')}</td>
+
+
+                                        </tr>
 
 
                                         <tr>
-                                            <td className="middle hour">12:00</td>
-                                            <td><a href="#">Tomasz Nowacki</a>
+
+                                            <td><a href="#id9">Tomasz Nowacki</a>
 
                                             </td>
 
-                                            <td>{t('agendaII:functions.function11')}
+                                            <td>{t('agendaIII:functions.function9')}
 
                                             </td>
                                         </tr>
 
                                         <tr>
                                             <td className="hour">13:00</td>
-                                            <td><a href="#">Andrzej Kisielewicz
+                                            <td><a href="#">
                                             </a>
                                             </td>
 
-                                            <td>{t('agendaII:functions.function9')}
+                                            <td>
                                             </td>
                                         </tr>
 
                                         <tr>
                                             <td className="hour">14:00</td>
-                                            <td><a href="#">Marek Wroński
+                                            <td><a href="#id10">Marek Wroński
                                             </a>
                                             </td>
 
-                                            <td>{t('agendaII:functions.function9')}
+                                            <td>{t('agendaIII:functions.function10')}
                                             </td>
                                         </tr>
 
@@ -231,7 +254,15 @@ const Agenda = () => {
                                 <h2 className="subtitle">{t('agendaIII:subtitle1')}</h2>
 
                                 <ul className="personList">
-
+                                    <li id="id3" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/3.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person3.name')}</h2>
+                                            <p>{t('agendaIII:personList.person3.description')}</p>
+                                        </div>
+                                    </li>
                                     <li id="id1" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/1.png"/>
@@ -239,6 +270,15 @@ const Agenda = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaIII:personList.person1.name')}</h2>
                                             <p>{t('agendaIII:personList.person1.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id6" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/6.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person6.name')}</h2>
+                                            <p>{t('agendaIII:personList.person6.description')}</p>
                                         </div>
                                     </li>
                                     <li id="id2" className="person">
@@ -250,24 +290,11 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person2.description')}</p>
                                         </div>
                                     </li>
-                                    <li id="id3" className="person">
-                                        <div className="imageWrapper">
-                                            <img src="/images/persons/fh3/3.jpg"/>
-                                        </div>
-                                        <div className="textWrapper">
-                                            <h2 className="name">{t('agendaIII:personList.person3.name')}</h2>
-                                            <p>{t('agendaIII:personList.person3.description')}</p>
-                                        </div>
-                                    </li>
-                                    <li id="id4" className="person">
-                                        <div className="imageWrapper">
-                                            <img src="/images/persons/fh3/4.png"/>
-                                        </div>
-                                        <div className="textWrapper">
-                                            <h2 className="name">{t('agendaIII:personList.person4.name')}</h2>
-                                            <p>{t('agendaIII:personList.person4.description')}</p>
-                                        </div>
-                                    </li>
+
+
+
+
+
 
                                     <li id="id5" className="person">
                                         <div className="imageWrapper">
@@ -279,13 +306,13 @@ const Agenda = () => {
                                         </div>
                                     </li>
 
-                                    <li id="id6" className="person">
+                                    <li id="id4" className="person">
                                         <div className="imageWrapper">
-                                            <img src="/images/persons/fh3/6.png"/>
+                                            <img src="/images/persons/fh3/4.png"/>
                                         </div>
                                         <div className="textWrapper">
-                                            <h2 className="name">{t('agendaIII:personList.person6.name')}</h2>
-                                            <p>{t('agendaIII:personList.person6.description')}</p>
+                                            <h2 className="name">{t('agendaIII:personList.person4.name')}</h2>
+                                            <p>{t('agendaIII:personList.person4.description')}</p>
                                         </div>
                                     </li>
 

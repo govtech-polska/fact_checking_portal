@@ -37,6 +37,9 @@ body {
 .article .personList .person .textWrapper p{margin:0 0 10px 0;}
 .article .personList .person:after{content:""; display: block; clear:both;}
 
+.debateName{font-weight: 700; text-align: center;}
+
+
 .iframeWrapper{ position: sticky;
   top: 0px;
   overflow: hidden;
