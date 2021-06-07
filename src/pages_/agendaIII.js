@@ -49,6 +49,182 @@ const Agenda = () => {
                                 <p className="lead">{t('agendaIII:subtitle')}</p>
 
 
+                                <div className="tableWrapper">
+                                    <table className="table  table-bordered">
+                                        <thead>
+                                        <tr>
+                                            <th className="main" colSpan="3"
+                                                scope="col">{t('agendaIII:table.tableTitle')}
+                                            </th>
+
+                                        </tr>
+                                        <tr>
+                                            <th scope="col">{t('agendaIII:table.tableTh')}</th>
+                                            <th className="name"
+                                                scope="col">{t('agendaIII:table.tableTh1')} {t('agendaIII:table.tableTh2')}</th>
+                                            <th scope="col">{t('agendaIII:table.tableTh3')}</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td className="hour">9:50</td>
+                                            <td className="center"
+                                                colSpan="2">{t('agendaIII:table.tableMainTitle1')}</td>
+
+                                        </tr>
+                                        <tr>
+                                            <td className="hour">10:00</td>
+                                            <td><a href="#id2">Piotr Naimski</a></td>
+                                            <td>{t('agendaIII:functions.function2')}</td>
+                                        </tr>
+                                        <tr>
+                                            <td className="hour">11:00</td>
+                                            <td><a href="#">Grzegorz Religa</a></td>
+                                            <td>{t('agendaIII:functions.function2')}</td>
+                                        </tr>
+                                        <tr>
+                                            <td className="middle hour" rowSpan="3">12:00</td>
+                                            <td><a href="#id5">Józef Orzeł</a>
+                                            </td>
+                                            <td>{t('agendaIII:functions.function5')}
+                                            </td>
+                                        </tr>
+                                        <tr>
+
+                                            <td><a href="#id4">Małgorzata Zakrzewska</a></td>
+
+                                            <td>{t('agendaIII:functions.function4')}
+                                            </td>
+                                        </tr>
+                                        <tr>
+
+                                            <td><a href="#id6">Dr Leszek Mellibruda</a></td>
+
+                                            <td>{t('agendaIII:functions.function6')}
+                                            </td>
+                                        </tr>
+
+
+                                        <tr>
+                                            <td className="hour">13:00
+                                            </td>
+                                            <td><a href="#id1">Grzegorz Kuczyński</a>
+                                            </td>
+
+                                            <td>{t('agendaIII:functions.function1')}
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td className="hour">14:00
+                                            </td>
+                                            <td><a href="#">Emilian Kamiński</a>
+
+                                            </td>
+                                            <td>{t('agendaIII:functions.function7')}
+
+
+                                            </td>
+                                        </tr>
+
+
+                                        </tbody>
+                                    </table>
+                                </div>
+
+
+                                <div className="tableWrapper">
+                                    <table className="table  table-bordered ">
+                                        <thead>
+                                        <tr>
+                                            <th className="main" colSpan="3"
+                                                scope="col">{t('agendaIII:table.tableTitle2')}
+                                            </th>
+
+                                        </tr>
+                                        <tr>
+                                            <th className="hour" scope="col">{t('agendaIII:table.tableTh')}</th>
+                                            <th className="name"
+                                                scope="col">{t('agendaIII:table.tableTh1')} {t('agendaIII:table.tableTh2')}</th>
+                                            <th scope="col">{t('agendaIII:table.tableTh3')}</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td className="hour">10:00</td>
+                                            <td><a href="#id3">Artur Chmielewski </a>
+
+
+                                            </td>
+
+                                            <td>{t('agendaIII:functions.function3')}
+
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td className="hour">11:00</td>
+                                            <td><a href="#">Andrzej Kisielewicz
+                                            </a>
+                                            </td>
+
+                                            <td>{t('agendaII:functions.function9')}
+                                            </td>
+                                        </tr>
+
+
+
+
+
+                                        <tr>
+                                            <td className="middle hour">12:00</td>
+                                            <td><a href="#">Tomasz Nowacki</a>
+
+                                            </td>
+
+                                            <td>{t('agendaII:functions.function11')}
+
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td className="hour">13:00</td>
+                                            <td><a href="#">Andrzej Kisielewicz
+                                            </a>
+                                            </td>
+
+                                            <td>{t('agendaII:functions.function9')}
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td className="hour">14:00</td>
+                                            <td><a href="#">Marek Wroński
+                                            </a>
+                                            </td>
+
+                                            <td>{t('agendaII:functions.function9')}
+                                            </td>
+                                        </tr>
+
+
+
+
+
+
+
+                                        <tr>
+                                            <td className="hour">14:40</td>
+                                            <td className="center" colSpan="3">{t('agendaIII:table.tableMainTitle2')}
+                                            </td>
+
+                                        </tr>
+
+
+                                        </tbody>
+                                    </table>
+                                </div>
+
 
 
 
