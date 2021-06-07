@@ -17,7 +17,10 @@
   "functions": {
     "function1":"publicist",
     "function2":"politician, biochemist, academic teacher",
-    "function3":"NASA, scientist, space probe designer"
+    "function3":"NASA, scientist, space probe designer",
+    "function4":"Chief Corporate Communications Officer",
+    "function5":"Polish politician, PhD in philosophy, manager, Member of Parliament of the first term",
+    "function6":"Psycholog społeczny"
 
   },
   "personList": {
@@ -32,6 +35,18 @@
     "person3": {
       "name": "Artur B. Chmielewski",
       "description": "Worked almost every possible space job.  He built space instruments, developed interplanetary spacecraft, managed billion-dollar missions, and developed a lab to construct a space telescope the size of a football stadium.  His missions traveled to the Sun, Mars, Jupiter, Saturn and landed on a comet. He worked on getting space images of cryo-volcanoes, black holes and extrasolar planets.  Art worked on software, hardware, was a consultant to Hollywood movies, and designed space sculptures. He is employed by the California Institute of Technology at JPL – a NASA Center in Pasadena, California, which is responsible for robotic space flights.\nHe worked with the Polish Space Agency, Polish universities and firms to develop the first Polish interplanetary mission.  Through his private company Spartan Space he is helping Polish space companies to enter the U.S. market and Polish students to get summer jobs at NASA.\nHowever, no matter how much he is able to accomplish in space exploration, in Poland he is known for being the son of Papcio Chmiel – the author of popular comics “Tytus, Romek i A’Tomek.”\n"
+    },
+    "person4": {
+      "name": "Małgorzata Zakrzewska",
+      "description": "Is a member of the Executive Committee of P4 sp.z o.o. (\"Play\") since April 2021. She is also the Director of the Corporate Communication Department. She is responsible for corporate communication, government and institutional relations as well as internal communication. She joined Play in November 2005, where she held various managerial and expert positions in the areas of administration, corporate relations, public affairs and corporate communication. Before joining Play, she coordinated the activities of the Merrill Lynch branch in Warsaw from January 2000. In the years 2019-2020 she was a member of the Board of Directors of the European Competitive Telecommunications Association. She is also the Vice-President of the Telecommunications Operators Section at the Polish Chamber of Electronics and Telecommunications and is appointed by the Prime Minister to the Council for Digitization - an advisory body to the government of the Republic of Poland. She studied media and communications at the University of New South Wales in Sydney, Australia, graduated in political science and holds an Advanced Management diploma from IESE Business School, University of Navarra. She is also a graduate of International Baccalaureate, United World College of South East Asia in Singapore."
+    },
+    "person5": {
+      "name": "Józef Orzeł",
+      "description": "Polish politician, PhD in philosophy, manager, Member of Parliament of the first term. In 1990, he was among the founders of the Center Agreement. He deals with expert activities in the field of digitization. Since 1997, he has been the vice-president of the \"Cities on the Internet\" Association.\n \nIn 2007 he founded with Rafał Ziemkiewicz and runs the conservative Ronin Club. He is the chairman of the board of the Reduta Dobrego Imienia - Polish League against Defamation Foundation, the chairman of the board of the Ronin Club Foundation and Fundacja im. Maciej Rybiński. In 2017, he became a member of the Council of the Polish National Foundation, and in 2019 the chairman of the Digitization Council operating at the Minister of Digital Affairs."
+    },
+    "person6": {
+      "name": "Dr. Leszek Mellibruda",
+      "description": "Social psychologist. Author of 80 scientific publications and over 250 popular science publications. He has extensive professional experience, actively participated in 40 scientific conventions and congresses. For 6 years he was a lecturer at the University of Social Sciences and Humanities (IKAR project). In 2011/2012 he was an advisor to the Minister of National Education. He cooperated with the National Council of Legal Advisers (advisor to the Presidium) and the National Council of Bailiffs (advisor to the President, cooperation with spokespersons of Bailiff Chambers). He completed postgraduate studies, incl. at Johns Hopkins University, Baltimore, USA. He is a consultant of the European Entrepreneurship Forum and an expert of the European Integration Club. From 2014, visiting professor Center for Advanced Studies (lecturer in psychology for doctoral students of the Warsaw University of Technology). From 2020, a professor at the Radom University of Economics."
     }
   }
 }

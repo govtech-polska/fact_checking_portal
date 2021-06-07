@@ -17,7 +17,10 @@
   "functions": {
     "function1":"publicysta",
     "function2":"polityk, biochemik, nauczyciel akademicki",
-    "function3":"NASA, naukowiec, konstruktor sond kosmicznych"
+    "function3":"NASA, naukowiec, konstruktor sond kosmicznych",
+    "function4":"Chief Corporate Communications Officer",
+    "function5":"Polski polityk, dr filozofii, menedżer, poseł na Sejm I kadencji",
+    "function6":"Psycholog społeczny"
 
 
   },
@@ -33,6 +36,18 @@
     "person3": {
       "name": "Artur B. Chmielewski ",
       "description": "Pracował przy wielu projektach i misjach kosmicznych. Budował instrumenty kosmiczne, opracowywał międzyplanetarne statki kosmiczne, zarządzał misjami wartymi miliardy dolarów i projektował laboratorium do budowy teleskopu kosmicznego wielkości stadionu piłkarskiego. Jego misje dotarły na Słońce, Marsa, Jowisza, Saturna i wylądowały na komecie. Pracował nad uzyskaniem kosmicznych zdjęć krio-wulkanów, czarnych dziur i planet pozasłonecznych. Pan Chmielewski pracował nad oprogramowaniem i sprzętem, był konsultantem przy hollywoodzkich filmach i projektował rzeźby kosmiczne. Jest zatrudniony przez California Institute of Technology w JPL - centrum NASA w Pasadenie w Kalifornii, które odpowiada za zrobotyzowane loty kosmiczne.\nWspółpracował z Polską Agencją Kosmiczną, polskimi uczelniami i firmami przy tworzeniu pierwszej polskiej misji międzyplanetarnej. Poprzez swoją prywatną firmę Spartan Space pomaga polskim firmom kosmicznym wejść na rynek amerykański, a polskim studentom w zdobyciu wakacyjnej pracy w NASA.\nJednak bez względu na to, jak wiele jest w stanie osiągnąć w eksploracji kosmosu, w Polsce znany jest jako syn Papcia Chmiela - autora popularnych komiksów „Tytus, Romek i A’Tomek”.\n"
+    },
+    "person4": {
+      "name": "Małgorzata Zakrzewska",
+      "description": " jest członkiem Komitetu Wykonawczego P4 sp. z o.o. („Play”) od kwietnia 2021 r. Pełni również funkcję Dyrektora Departamentu Komunikacji Korporacyjnej. Jest odpowiedzialna za komunikację korporacyjną, relacje rządowe i instytucjonalne oraz komunikację wewnętrzną. Dołączyła do Play w listopadzie 2005 roku, gdzie pełniła różne stanowiska kierownicze i eksperckie w obszarze administracji, relacji korporacyjnych, public affairs i komunikacji korporacyjnej. Przed dołączeniem do Play koordynowała działalność oddziału Merrill Lynch w Warszawie od stycznia 2000 r. W latach 2019-2020 zasiadała w Radzie Dyrektorów European Competitive Telecommunications Association. Pełni również funkcję Wiceprzewodniczącej Sekcji Operatorów Telekomunikacyjnych w Krajowej Izbie Elektroniki i Telekomunikacji oraz jest powołana przez Prezesa Rady Ministrów do Rady do Spraw Cyfryzacji - organu doradczego rządu Rzeczpospolitej Polskiej. Studiowała media i komunikację na University of New South Wales w Sydney w Australii, ukończyła kierunek nauk politycznych oraz posiada dyplom Advanced Management z IESE Business School, University of Navarra. Jest także absolwentką International Baccalaureate, United World College of South East Asia w Singapurze."
+    },
+    "person5": {
+      "name": "Józef Orzeł",
+      "description": "Polski polityk, dr filozofii, menedżer, poseł na Sejm I kadencji. W 1990 znalazł się wśród założycieli Porozumienia Centrum. Zajmuje się działalnością ekspercką w zakresie cyfryzacji. Od 1997 jest wiceprezesem Stowarzyszenia „Miasta w Internecie”. \n \nW 2007 założył z Rafałem Ziemkiewiczem i prowadzi konserwatywny Klub Ronina. Jest Przewodniczącym rady Fundacji Reduta Dobrego Imienia – Polska Liga przeciw Zniesławieniom, prezesem zarządu Fundacji Klubu Ronina i Fundacji im. Macieja Rybińskiego. W 2017 został członkiem Rady Polskiej Fundacji Narodowej, a w 2019 przewodniczącym Rady do Spraw Cyfryzacji działającej przy ministrze cyfryzacji."
+    },
+    "person6": {
+      "name": "Dr Leszek Mellibruda",
+      "description": "Psycholog społeczny. Autor 80 publikacji naukowych i ponad 250 publikacji popularnonaukowych. Posiada bogate doświadczenie zawodowe, aktywnie uczestniczył w 40 zjazdach i kongresach naukowych. Przez 6 lat był wykładowcą w Szkole Wyższej Psychologii Społecznej (Projekt IKAR). W 2011/2012 był Doradcą Ministra Edukacji Narodowej. Współpracował z Krajową Radą Radców Prawnych (doradca Prezydium) i Krajową Radą Komorniczą (doradca Prezesa, współpraca z Rzecznikami Izb Komorniczych). Odbył studia podyplomowe m.in. w Johns Hopkins University, Baltimore w USA. Jest konsultantem Europejskiego Forum Przedsiębiorczości i ekspertem Klubu Integracji Europejskiej. Od 2014 r visiting professor Center for Advanced Studies (wykładowca psychologii dla doktorantów Politechniki Warszawskiej). Od 2020 Profesor Wyższej Szkoły Handlowej w Radomiu.  "
     }
   }
 }

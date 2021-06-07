@@ -83,7 +83,35 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person3.description')}</p>
                                         </div>
                                     </li>
+                                    <li id="id4" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/4.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person4.name')}</h2>
+                                            <p>{t('agendaIII:personList.person4.description')}</p>
+                                        </div>
+                                    </li>
 
+                                    <li id="id5" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/5.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person5.name')}</h2>
+                                            <p>{t('agendaIII:personList.person5.description')}</p>
+                                        </div>
+                                    </li>
+
+                                    <li id="id6" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/6.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person6.name')}</h2>
+                                            <p>{t('agendaIII:personList.person6.description')}</p>
+                                        </div>
+                                    </li>
 
                                 </ul>
 
