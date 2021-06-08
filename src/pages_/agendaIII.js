@@ -79,8 +79,8 @@ const Agenda = () => {
                                         </tr>
                                         <tr>
                                             <td className="hour">11:00</td>
-                                            <td><a href="#">Grzegorz Religa</a></td>
-                                            <td>{t('agendaIII:functions.function2')}</td>
+                                            <td><a href="#id11">Grzegorz Religa</a></td>
+                                            <td>{t('agendaIII:functions.function11')}</td>
                                         </tr>
 
                                         <tr>

@@ -14,19 +14,20 @@
     "tableMainTitle1": "Opening #FakeHunter Challenge/Economy",
     "tableMainTitle2": "Ending #FakeHunter Challenge/Economy",
     "debate1": "DEBATE: Impact of fake news on social behavior - how dangerous misinformation can be",
-    "debate2": "DEBATE: Nuclear power plants in Poland - can it be successful? What problems does this project encounter"
+    "debate2": "DEBATE: How much will nuclear energy cost us and is it really more expensive than green energy?"
   },
   "functions": {
     "function1":"Publicist",
-    "function2":"Politician, biochemist, academic teacher",
-    "function3":"NASA, scientist, space probe designer",
-    "function4":"Chief Corporate Communications Officer",
-    "function5":"Polish politician, PhD in philosophy, manager, Member of Parliament of the first term",
-    "function6":"Social psychologist",
+    "function2":"Secretary of State, Government Plenipotentiary for Strategic Energy Infrastructure",
+    "function3":"Scientist",
+    "function4":"Director of the Play Corporate Communication Department",
+    "function5":"Chairman of the Digitization Council",
+    "function6":"Social and business psychologist",
     "function7":"Actor",
     "function8":"Professor of mathematics, specialist in artificial intelligence",
     "function9":"Director of the Department of Nuclear Energy, Ministry of Climate and Environment",
-    "function10":"Scientist, professor at the Kalisz Academy on Faculty of Health Sciences"
+    "function10":"Scientist, professor at the Kalisz Academy, Faculty of Health Sciences",
+    "function11":"Cardiac surgeon"
 
   },
   "personList": {
