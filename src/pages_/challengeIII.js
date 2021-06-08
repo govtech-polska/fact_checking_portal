@@ -440,20 +440,6 @@ const challengeIII = () => {
                             </div>
                         </div>
                     </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                     <section className="s4" id="zweryfikowaneinformacje">
                         <div className="container-fluid">
                             <div className="row no-gutters">

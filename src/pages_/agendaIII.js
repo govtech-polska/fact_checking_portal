@@ -263,6 +263,16 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person3.description')}</p>
                                         </div>
                                     </li>
+                                    <li id="id7" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/7.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person7.name')}</h2>
+                                            <p>{t('agendaIII:personList.person7.description')}</p>
+                                        </div>
+                                    </li>
+
                                     <li id="id1" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/1.png"/>
@@ -281,6 +291,9 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person6.description')}</p>
                                         </div>
                                     </li>
+
+
+
                                     <li id="id2" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/2.png"/>
@@ -305,6 +318,27 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person5.description')}</p>
                                         </div>
                                     </li>
+
+                                    <li id="id11" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/11.jpeg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person11.name')}</h2>
+                                            <p>{t('agendaIII:personList.person11.description')}</p>
+                                        </div>
+                                    </li>
+
+                                    <li id="id10" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh3/10.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIII:personList.person10.name')}</h2>
+                                            <p>{t('agendaIII:personList.person10.description')}</p>
+                                        </div>
+                                    </li>
+
 
                                     <li id="id4" className="person">
                                         <div className="imageWrapper">
