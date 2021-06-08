@@ -237,7 +237,7 @@ const Agenda = () => {
 
 
                                         <tr>
-                                            <td className="hour">14:40</td>
+                                            <td className="hour">14:30</td>
                                             <td className="center" colSpan="3">{t('agendaIII:table.tableMainTitle2')}
                                             </td>
 

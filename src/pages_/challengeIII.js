@@ -256,7 +256,9 @@ const challengeIII = () => {
 
                                         </p>
 
-
+                                        <span> <Trans i18nKey="challengeIII:section12.button"
+                                                      components={[<a className="button" href="/agendaIII"/>,
+                                                          <a className="button" href="/en/agendaIII"/>]}/></span>
 
 
                                     </div>
