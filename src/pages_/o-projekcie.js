@@ -187,6 +187,14 @@ const About = () => {
                             >
                               Chrome
                             </a>
+                            <a
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="dropdown-item"
+                                href="https://addons.mozilla.org/pl/firefox/addon/fakehunter-pap-pl/"
+                            >
+                              FireFox
+                            </a>
                           </div>
                         </div>
                       </div>
