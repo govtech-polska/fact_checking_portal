@@ -22,13 +22,14 @@
     "function3":"NASA employee",
     "function4":"Director of the Play Corporate Communication Department",
     "function5":"Chairman of the Digitization Council",
-    "function6":"Social and business psychologist",
+    "function6":"Professor of WSH in Radom",
     "function7":"Actor",
     "function8":"Professor of mathematics, specialist in artificial intelligence",
     "function9":"Director of the Department of Nuclear Energy, Ministry of Climate and Environment",
     "function10":"Expert in the pathology of science",
     "function11":"Cardiac surgeon",
-    "function12":"Vice President of the Management Board of PGNiG SA for Operations"
+    "function12":"Vice President of the Management Board of PGNiG SA for Operations",
+    "function13":"President of the Jagiellonian Institute, entrepreneur"
 
   },
   "personList": {
@@ -79,6 +80,10 @@
     "person12": {
       "name": "Robert Perkowski",
       "description": "Robert Perkowski is an economist, local government official, doctor of economic sciences. He is a graduate of postgraduate studies in \"management analyst\" of the Institute of Organization and Management in Industry \"ORGMASZ\", where he completed International Doctoral Studies. The doctoral dissertation was opened and conducted at the Institute of Economic Sciences of the Polish Academy of Sciences. At the Private School of Business and Administration in Warsaw, he completed full-time master's studies in two specializations: marketing and management as well as finance and banking. He is the author of over a dozen scientific articles.  \n \nHe has been gaining professional experience since 2001 by completing an internship in the financial department of “Dacon Corp. LTD ”at Queen's University, Canada. Then, in 2002, he started working in the Ministry of Justice, where he dealt with, inter alia, developing financial plans for the wages of the Prison Service. In the period 2006-2018 he was the Mayor of the City of Ząbki. At the same time, he was the president of one of the self-government corporations “Związek Samorządów Polskich”, he also provided training services and obtained the mandate of a commune and poviat council.  \n \nIn the Management Board of PGNiG SA since March 2019, he is the Vice President for Operations. \n"
+    },
+    "person13": {
+      "name": "Marcin Roszkowski",
+      "description": " president of the Jagiellonian Institute, entrepreneur, previously also: researcher at the Institute of Political Science of the Polish Academy of Sciences, lecturer at Collegium Civitas, director of the Department of Communication and Promotion of the National Bank of Poland, head of the PR department and spokesman for the Warsaw Uprising Museum and deputy director of the International Affairs Office at the Chancellery of the President of the Republic of Poland. Main research areas: renewable energy, strategic studies and international relations."
     }
   }
 }
