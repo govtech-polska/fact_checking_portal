@@ -27,7 +27,8 @@
     "function8":"Professor of mathematics, specialist in artificial intelligence",
     "function9":"Director of the Department of Nuclear Energy, Ministry of Climate and Environment",
     "function10":"Expert in the pathology of science",
-    "function11":"Cardiac surgeon"
+    "function11":"Cardiac surgeon",
+    "function12":"Vice President of the Management Board of PGNiG SA for Operations"
 
   },
   "personList": {
@@ -74,6 +75,10 @@
     "person11": {
       "name": "Grzegorz Zbigniew Religa, MD, PhD ",
       "description": "Cardiac surgeon, son of professor Zbigniew Religa, graduate of the Medical Academy in Warsaw. After completing a postgraduate internship at the Skłodowska-Curie Oncology Center, since 1992, he worked as an assistant at the Third Surgery Clinic of the Medical University of Warsaw. In 1997 he obtained a specialization in the field of general surgery. In the same year he started working as an assistant and then assistant professor at the Institute of Cardiology in Warsaw. Since 2003, a specialist in the field of cardiosurgery, and since 2011 - the head of the mechanical heart support team. Currently, he is the head of the Department of Cardiac Surgery at the WSS im. Bieganski in Lodz.\n"
+    },
+    "person12": {
+      "name": "Robert Perkowski",
+      "description": "Robert Perkowski is an economist, local government official, doctor of economic sciences. He is a graduate of postgraduate studies in \"management analyst\" of the Institute of Organization and Management in Industry \"ORGMASZ\", where he completed International Doctoral Studies. The doctoral dissertation was opened and conducted at the Institute of Economic Sciences of the Polish Academy of Sciences. At the Private School of Business and Administration in Warsaw, he completed full-time master's studies in two specializations: marketing and management as well as finance and banking. He is the author of over a dozen scientific articles.  \n \nHe has been gaining professional experience since 2001 by completing an internship in the financial department of “Dacon Corp. LTD ”at Queen's University, Canada. Then, in 2002, he started working in the Ministry of Justice, where he dealt with, inter alia, developing financial plans for the wages of the Prison Service. In the period 2006-2018 he was the Mayor of the City of Ząbki. At the same time, he was the president of one of the self-government corporations “Związek Samorządów Polskich”, he also provided training services and obtained the mandate of a commune and poviat council.  \n \nIn the Management Board of PGNiG SA since March 2019, he is the Vice President for Operations. \n"
     }
   }
 }

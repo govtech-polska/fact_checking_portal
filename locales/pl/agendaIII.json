@@ -27,7 +27,8 @@
     "function8":"Profesor matematyki, specjalista od sztucznej inteligencji",
     "function9":"Dyrektor Departamentu Energii Jądrowej, Ministerstwo Klimatu i Środowiska",
     "function10":"Ekspert ds. patologii nauki, profesor na Akademii Kaliskiej, na Wydziale Nauk o Zdrowiu ",
-    "function11":"Kardiochirurg"
+    "function11":"Kardiochirurg",
+    "function12":"Wiceprezes Zarządu PGNiG SA ds. Operacyjnych"
 
 
   },
@@ -75,6 +76,10 @@
     "person11": {
       "name": "dr n. med. Grzegorz Zbigniew Religa",
       "description": "Kardiochirurg, syn profesora Zbigniewa Religi, absolwent Akademii Medycznej w Warszawie. Po odbyciu stażu podyplomowego w Centrum Onkologii im. Skłodowskiej - Curie od 1992 roku pracował jako asystent w III Klinice Chirurgii Akademii Medycznej w Warszawie. W 1997 r. uzyskał specjalizację w dziedzinie chirurgii ogólnej. W tym samym roku rozpoczął pracę jako asystent, a następnie adiunkt w Instytucie Kardiologii w Warszawie. Od 2003 roku specjalistą w dziedzinie kardiochirurgii, a od 2011 roku - kierownikiem zespołu mechanicznego wspomagania serca. Obecnie pełni funkcję ordynatora Oddziału Kardiochirurgii w WSS im. Biegańskiego w Łodzi.\n"
+    },
+    "person12": {
+      "name": "Robert Perkowski",
+      "description": "Robert Perkowski jest ekonomistą, samorządowcem, doktorem nauk ekonomicznych. Jest absolwentem studiów podyplomowych “analityka zarządzania” Instytutu Organizacji i Zarządzania w Przemyśle “ORGMASZ”, w którym ukończył Międzynarodowe Studia Doktoranckie. Przewód doktorski został otwarty i przeprowadzony w Instytucie Nauk Ekonomicznych Polskiej Akademii Nauk. W Prywatnej Wyższej Szkole Businessu i Administracji, w Warszawie ukończył dzienne studia magisterskie na dwóch specjalizacjach: marketing i kierowanie oraz finanse i bankowość. Jest autorem kilkunastu artykułów naukowych. \n\nDoświadczenie zawodowe zdobywał od 2001 r. odbywając staż w departamencie finansowym firmy “Dacon Corp. LTD” przy Queen’s University w Kanadzie. Następnie w 2002 r. rozpoczął pracę w resorcie sprawiedliwości, gdzie zajmował się m.in. opracowywaniem projektów planów finansowych w zakresie płac Służby Więziennej. W okresie 2006-2018 pełnił funkcję Burmistrza Miasta Ząbki. Jednocześnie pełnił funkcję prezesa jednej z korporacji samorządowych “Związek Samorządów Polskich”, świadczył również usługi szkoleniowe oraz uzyskał mandat radnego gminnego i powiatowego.  \nW Zarządzie PGNiG SA od marca 2019 roku, pełni funkcję Wiceprezesa ds. Operacyjnych. \n"
     }
   }
 }
