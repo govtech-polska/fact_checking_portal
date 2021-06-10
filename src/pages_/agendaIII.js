@@ -86,7 +86,7 @@ const Agenda = () => {
                                         <tr>
 
 
-                                                <td className="middle hour" rowSpan="5">12:00</td>
+                                                <td className="middle hour" rowSpan="4">12:00</td>
 
                                             <td className="debateName" colSpan="2">
 
@@ -117,13 +117,7 @@ const Agenda = () => {
                                             </td>
                                         </tr>
 
-                                        <tr>
 
-                                            <td><a href="#id13">Marcin Roszkowski</a></td>
-
-                                            <td>{t('agendaIII:functions.function13')}
-                                            </td>
-                                        </tr>
 
 
                                         <tr>
@@ -197,7 +191,7 @@ const Agenda = () => {
                                         <tr>
 
 
-                                            <td className="middle hour" rowSpan="2">12:00</td>
+                                            <td className="middle hour" rowSpan="3">12:00</td>
 
                                             <td className="debateName" colSpan="2">
 
@@ -215,6 +209,14 @@ const Agenda = () => {
 
                                             <td>{t('agendaIII:functions.function9')}
 
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+
+                                            <td><a href="#id13">Marcin Roszkowski</a></td>
+
+                                            <td>{t('agendaIII:functions.function13')}
                                             </td>
                                         </tr>
 
