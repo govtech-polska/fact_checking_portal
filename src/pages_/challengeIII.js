@@ -42,7 +42,7 @@ const challengeIII = () => {
                 />
             </Head>
             <Layout>
-                <div className={`challenge-project ${isEn ? 'en' : ''}`}>
+                <div className={`challenge-project challangeIII ${isEn ? 'en' : ''}`}>
                     <section className="s1">
                         <div className="container">
                             <div className="row">
@@ -54,6 +54,8 @@ const challengeIII = () => {
                             </div>
                             <div className="row">
                                 <div className="col-xl-12">
+
+
                                     <div className="followUs">
                                         <h4>{t('challengeIII:follow')}</h4>
                                         <ul>
@@ -95,23 +97,40 @@ const challengeIII = () => {
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIII:section13.title')}</h2>
-                                        <p className="title">{t('challengeIII:section13.subtitle')}</p>
+                                        <h2 className="section">{t('challengeIII:section12.title')}</h2>
+                                        <p className="title">{t('challengeIII:section12.subtitle')}</p>
                                         <p>
-                                            <Trans i18nKey="challengeIII:section13.description" components={[<span/>]}/>
+
+
+                                            <Trans i18nKey="challengeIII:section12.description"/>
+
                                         </p>
+
+                                        <p>
+
+
+                                            <Trans i18nKey="challengeIII:section12.description1"
+                                                   components={[<a className="link" href="https://pap-mediaroom.pl"
+                                                                   target="_blank"/>]}/>
+
+                                        </p>
+
+                                        <span> <Trans i18nKey="challengeIII:section12.button"
+                                                      components={[<a className="button" href="/agendaIII"/>,
+                                                          <a className="button" href="/en/agendaIII"/>]}/></span>
+
+
                                     </div>
                                 </div>
-
                                 <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image2.png" alt=""/>
-
+                                    <div className="iframeWrapper">
+                                        <iframe
+                                            webkitAllowFullScreen mozallowfullscreen allowFullScreen
+                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                            title="0" byline="0" portrait="0" width="640" height="360"
+                                            frameBorder="0" allow="autoplay"></iframe>
                                     </div>
-
-
                                 </div>
-
 
                             </div>
                         </div>
@@ -160,115 +179,6 @@ const challengeIII = () => {
                         </div>
                     </section>
 
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-
-
-
-
-
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIII:section8.title')}</h2>
-                                        <p className="title">{t('challengeIII:section8.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeIII:section8.description" components={[<span/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeIII:section8.description1" components={[<span/>]}/>
-                                        </p>
-                                        <div className="dropdown link">
-                                            <button
-                                                className="dropdown-toggle buttonDropdown link"
-                                                type="button"
-                                                id="dropdownMenuButton"
-                                                data-toggle="dropdown"
-                                                aria-haspopup="true"
-                                                aria-expanded="false"
-                                            >
-                                                {t('challengeIII:section8.link')}
-                                            </button>
-                                            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                                <a
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="dropdown-item"
-                                                    href="/attachments/challengeIII/reg_pl.pdf"
-                                                >
-                                                    PL
-                                                </a>
-                                                <a
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="dropdown-item"
-                                                    href="/attachments/challengeIII/reg_en.pdf"
-                                                >
-                                                    EN
-                                                </a>
-                                            </div>
-                                        </div>
-
-
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/prize.png" alt=""/>
-                                        <div className="author">
-                                            Ariel / Unsplash
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
-
-
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/micro.png" alt=""/>
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIII:section12.title')}</h2>
-                                        <p className="title">{t('challengeIII:section12.subtitle')}</p>
-                                        <p>
-
-
-                                            <Trans i18nKey="challengeIII:section12.description" />
-
-                                        </p>
-
-                                        <p>
-
-
-                                            <Trans i18nKey="challengeIII:section12.description1"
-                                                   components={[<a className="link" href="https://pap-mediaroom.pl"
-                                                                   target="_blank"/>]}/>
-
-                                        </p>
-
-                                        <span> <Trans i18nKey="challengeIII:section12.button"
-                                                      components={[<a className="button" href="/agendaIII"/>,
-                                                          <a className="button" href="/en/agendaIII"/>]}/></span>
-
-
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
-                    </section>
-
 
                     <section className="s2">
                         <div className="container-fluid">
@@ -290,12 +200,14 @@ const challengeIII = () => {
                                         </a>
                                     </div>
                                 </div>
+
                                 <div className="col-lg-6">
                                     <div className="imageWrapper">
                                         <img src="/images/mail.png" alt=""/>
                                         <div className="author">Onlineprinters / Unsplash</div>
                                     </div>
                                 </div>
+
 
                             </div>
                         </div>
@@ -305,6 +217,7 @@ const challengeIII = () => {
                     <section className="s4 diffrentButtons">
                         <div className="container-fluid">
                             <div className="row no-gutters">
+
 
                                 <div className="col-lg-6">
                                     <div className="imageWrapper">
@@ -360,6 +273,99 @@ const challengeIII = () => {
 
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                    </section>
+
+
+                    <section className="s2">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIII:section8.title')}</h2>
+                                        <p className="title">{t('challengeIII:section8.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeIII:section8.description" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeIII:section8.description1" components={[<span/>]}/>
+                                        </p>
+                                        <div className="dropdown link">
+                                            <button
+                                                className="dropdown-toggle buttonDropdown link"
+                                                type="button"
+                                                id="dropdownMenuButton"
+                                                data-toggle="dropdown"
+                                                aria-haspopup="true"
+                                                aria-expanded="false"
+                                            >
+                                                {t('challengeIII:section8.link')}
+                                            </button>
+                                            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                                <a
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="dropdown-item"
+                                                    href="/attachments/challengeIII/reg_pl.pdf"
+                                                >
+                                                    PL
+                                                </a>
+                                                <a
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="dropdown-item"
+                                                    href="/attachments/challengeIII/reg_en.pdf"
+                                                >
+                                                    EN
+                                                </a>
+                                            </div>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/prize.png" alt=""/>
+                                        <div className="author">
+                                            Ariel / Unsplash
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+
+                    <section className="s2">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image2.png" alt=""/>
+
+                                    </div>
+
+
+                                </div>
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIII:section13.title')}</h2>
+                                        <p className="title">{t('challengeIII:section13.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeIII:section13.description" components={[<span/>]}/>
+                                        </p>
+                                    </div>
+                                </div>
 
 
 
@@ -398,8 +404,6 @@ const challengeIII = () => {
                                 </div>
 
 
-
-
                             </div>
                         </div>
                     </section>
@@ -411,11 +415,13 @@ const challengeIII = () => {
 
 
                                 <div className="col-lg-6">
-                                    <div className="iframeWrapper"> <iframe height="400px"
-                                                                            src="https://www.youtube.com/embed/Q_trVUFPNCI"
-                                                                            frameBorder="0"
-                                                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                                            allowFullScreen></iframe></div>
+                                    <div className="iframeWrapper">
+                                        <iframe height="400px"
+                                                src="https://www.youtube.com/embed/Q_trVUFPNCI"
+                                                frameBorder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowFullScreen></iframe>
+                                    </div>
 
                                 </div>
 
@@ -434,9 +440,6 @@ const challengeIII = () => {
                                         </a>
                                     </div>
                                 </div>
-
-
-
 
 
                             </div>
@@ -463,10 +466,6 @@ const challengeIII = () => {
                                         <div className="author">Alejandro Escamilla / Unsplash</div>
                                     </div>
                                 </div>
-
-
-
-
 
 
                             </div>

@@ -39,6 +39,8 @@ body {
 
 .debateName{font-weight: 700; text-align: center;}
 
+/*.challangeIII section:nth-child(3) .col-lg-6:nth-child(1){float:right;}
+.challangeIII section:nth-child(3) .col-lg-6:nth-child(2){float:left;}*/
 
 .iframeWrapper{ position: sticky;
   top: 0px;
