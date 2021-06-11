@@ -49,6 +49,14 @@ const Agenda = () => {
                                 <p className="lead">{t('agendaIII:subtitle')}</p>
 
 
+                                <a className="button center"
+                                   rel="noopener noreferrer"
+                                   href="#frames"
+                                >{t('agendaIII:iframebutton')}
+
+                                </a>
+
+
                                 <div className="tableWrapper">
                                     <table className="table  table-bordered">
                                         <thead>
@@ -406,9 +414,55 @@ const Agenda = () => {
                                 </ul>
 
 
+                                <div id="frames" className="iframeList">
+
+                                    <h2 className="title">{t('agendaIII:subtitle2')}</h2>
+                                    <ul>
+
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - otwarcie</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/YVOZ3bhr.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - otwarcie"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Piotrem Naimskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/QxLHJlBH.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - rozmowa z Piotrem Naimskim"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - rozmowa z dr Grzegorzem Religą</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/ZFOKiq9M.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - rozmowa z dr Grzegorzem Religą"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
 
 
 
+                                    </ul>
+
+                                </div>
 
 
                             </div>
