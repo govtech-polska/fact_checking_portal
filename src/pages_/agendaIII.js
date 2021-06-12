@@ -459,6 +459,56 @@ const Agenda = () => {
                                         </li>
 
 
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - debata pt. &#34;Wpływ fake newsów na zachowania społeczne – jak groźna może być dezinformacja&#34;</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/Tg8SSeC1.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - debata pt. &#34;Wpływ fake newsów na zachowania społeczne – jak groźna może być dezinformacja&#34;"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Grzegorzem Kuczyńskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/CkCOgASF.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - rozmowa z Grzegorzem Kuczyńskim"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Emilianem Kamińskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/ZJl5YiO8.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - rozmowa z Emilianem Kamińskim"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Arturem Chmielewskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/maYizoXs.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - rozmowa z Arturem Chmielewskim"
+                                                        width="620"></iframe>
+                                            </div>
+
+
+                                        </li>
+
+
 
                                     </ul>
 
