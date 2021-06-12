@@ -48,14 +48,12 @@ const Agenda = () => {
 
                                 <p className="lead">{t('agendaIII:subtitle')}</p>
 
-
                                 <a className="button center"
                                    rel="noopener noreferrer"
                                    href="#frames"
                                 >{t('agendaIII:iframebutton')}
 
                                 </a>
-
 
                                 <div className="tableWrapper">
                                     <table className="table  table-bordered">
@@ -78,13 +76,14 @@ const Agenda = () => {
                                             <td className="hour">9:50</td>
                                             <td className="center"
                                                 colSpan="2">{t('agendaIII:table.tableMainTitle1')}</td>
-
                                         </tr>
+
                                         <tr>
                                             <td className="hour">10:00</td>
                                             <td><a href="#id2">Piotr Naimski</a></td>
                                             <td>{t('agendaIII:functions.function2')}</td>
                                         </tr>
+
                                         <tr>
                                             <td className="hour">11:00</td>
                                             <td><a href="#id11">Grzegorz Religa</a></td>
@@ -92,69 +91,50 @@ const Agenda = () => {
                                         </tr>
 
                                         <tr>
-
-
                                             <td className="middle hour" rowSpan="4">12:00</td>
-
                                             <td className="debateName" colSpan="2">
-
                                                 {t('agendaIII:table.debate1')}</td>
-
-
                                         </tr>
 
                                         <tr>
-
                                             <td><a href="#id5">Józef Orzeł</a>
                                             </td>
                                             <td>{t('agendaIII:functions.function5')}
                                             </td>
                                         </tr>
+
                                         <tr>
-
                                             <td><a href="#id4">Małgorzata Zakrzewska</a></td>
-
                                             <td>{t('agendaIII:functions.function4')}
                                             </td>
                                         </tr>
+
                                         <tr>
-
                                             <td><a href="#id6">Dr Leszek Mellibruda</a></td>
-
                                             <td>{t('agendaIII:functions.function6')}
                                             </td>
                                         </tr>
-
-
-
 
                                         <tr>
                                             <td className="hour">13:00
                                             </td>
                                             <td><a href="#id1">Grzegorz Kuczyński</a>
                                             </td>
-
                                             <td>{t('agendaIII:functions.function1')}
-
                                             </td>
                                         </tr>
+
                                         <tr>
                                             <td className="hour">14:00
                                             </td>
                                             <td><a href="#id7">Emilian Kamiński</a>
-
                                             </td>
                                             <td>{t('agendaIII:functions.function7')}
-
-
                                             </td>
                                         </tr>
-
-
                                         </tbody>
                                     </table>
                                 </div>
-
 
                                 <div className="tableWrapper">
                                     <table className="table  table-bordered ">
@@ -163,7 +143,6 @@ const Agenda = () => {
                                             <th className="main" colSpan="3"
                                                 scope="col">{t('agendaIII:table.tableTitle2')}
                                             </th>
-
                                         </tr>
                                         <tr>
                                             <th className="hour" scope="col">{t('agendaIII:table.tableTh')}</th>
@@ -176,12 +155,8 @@ const Agenda = () => {
                                         <tr>
                                             <td className="hour">10:00</td>
                                             <td><a href="#id3">Artur Chmielewski </a>
-
-
                                             </td>
-
                                             <td>{t('agendaIII:functions.function3')}
-
                                             </td>
                                         </tr>
 
@@ -190,40 +165,25 @@ const Agenda = () => {
                                             <td><a href="#id8">Andrzej Kisielewicz
                                             </a>
                                             </td>
-
                                             <td>{t('agendaIII:functions.function8')}
                                             </td>
                                         </tr>
 
-
                                         <tr>
-
-
                                             <td className="middle hour" rowSpan="3">12:00</td>
-
                                             <td className="debateName" colSpan="2">
-
                                                 {t('agendaIII:table.debate2')}</td>
-
-
                                         </tr>
 
-
                                         <tr>
-
                                             <td><a href="#id9">Tomasz Nowacki</a>
-
                                             </td>
-
                                             <td>{t('agendaIII:functions.function9')}
-
                                             </td>
                                         </tr>
 
                                         <tr>
-
                                             <td><a href="#id13">Marcin Roszkowski</a></td>
-
                                             <td>{t('agendaIII:functions.function13')}
                                             </td>
                                         </tr>
@@ -233,7 +193,6 @@ const Agenda = () => {
                                             <td><a href="id12">Robert Perkowski
                                             </a>
                                             </td>
-
                                             <td>{t('agendaIII:functions.function12')}
                                             </td>
                                         </tr>
@@ -243,34 +202,20 @@ const Agenda = () => {
                                             <td><a href="#id10">Marek Wroński
                                             </a>
                                             </td>
-
                                             <td>{t('agendaIII:functions.function10')}
                                             </td>
                                         </tr>
-
-
-
-
-
-
 
                                         <tr>
                                             <td className="hour">14:30</td>
                                             <td className="center" colSpan="3">{t('agendaIII:table.tableMainTitle2')}
                                             </td>
-
                                         </tr>
-
-
                                         </tbody>
                                     </table>
                                 </div>
 
-
-
-
                                 <h2 className="subtitle">{t('agendaIII:subtitle1')}</h2>
-
                                 <ul className="personList">
                                     <li id="id3" className="person">
                                         <div className="imageWrapper">
@@ -301,7 +246,6 @@ const Agenda = () => {
                                         </div>
                                     </li>
 
-
                                     <li id="id1" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/1.png"/>
@@ -311,6 +255,7 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person1.description')}</p>
                                         </div>
                                     </li>
+
                                     <li id="id6" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/6.png"/>
@@ -320,8 +265,6 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person6.description')}</p>
                                         </div>
                                     </li>
-
-
 
                                     <li id="id2" className="person">
                                         <div className="imageWrapper">
@@ -343,9 +286,6 @@ const Agenda = () => {
                                         </div>
                                     </li>
 
-
-
-
                                     <li id="id5" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/5.png"/>
@@ -365,7 +305,6 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person12.description')}</p>
                                         </div>
                                     </li>
-
 
                                     <li id="id11" className="person">
                                         <div className="imageWrapper">
@@ -387,7 +326,6 @@ const Agenda = () => {
                                         </div>
                                     </li>
 
-
                                     <li id="id10" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/10.jpg"/>
@@ -398,9 +336,6 @@ const Agenda = () => {
                                         </div>
                                     </li>
 
-
-
-
                                     <li id="id4" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh3/4.png"/>
@@ -410,16 +345,12 @@ const Agenda = () => {
                                             <p>{t('agendaIII:personList.person4.description')}</p>
                                         </div>
                                     </li>
-
                                 </ul>
 
 
                                 <div id="frames" className="iframeList">
-
                                     <h2 className="title">{t('agendaIII:subtitle2')}</h2>
                                     <ul>
-
-
                                         <li>
                                             <h5>#FakeHunter Challenge/Gospodarka - otwarcie</h5>
                                             <div className="iframeWrapper">
@@ -428,10 +359,7 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - otwarcie"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
-
 
                                         <li>
                                             <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Piotrem Naimskim</h5>
@@ -441,10 +369,7 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - rozmowa z Piotrem Naimskim"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
-
 
                                         <li>
                                             <h5>#FakeHunter Challenge/Gospodarka - rozmowa z dr Grzegorzem Religą</h5>
@@ -454,10 +379,7 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - rozmowa z dr Grzegorzem Religą"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
-
 
                                         <li>
                                             <h5>#FakeHunter Challenge/Gospodarka - debata pt. &#34;Wpływ fake newsów na zachowania społeczne – jak groźna może być dezinformacja&#34;</h5>
@@ -467,8 +389,6 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - debata pt. &#34;Wpływ fake newsów na zachowania społeczne – jak groźna może być dezinformacja&#34;"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
 
                                         <li>
@@ -479,8 +399,6 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - rozmowa z Grzegorzem Kuczyńskim"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
 
                                         <li>
@@ -491,10 +409,7 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - rozmowa z Emilianem Kamińskim"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
-
 
                                         <li>
                                             <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Arturem Chmielewskim</h5>
@@ -504,8 +419,6 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - rozmowa z Arturem Chmielewskim"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
 
                                         <li>
@@ -516,8 +429,6 @@ const Agenda = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - rozmowa z Andrzejem Kisielewiczem"
                                                         width="620"></iframe>
                                             </div>
-
-
                                         </li>
 
                                         <li>
@@ -542,8 +453,6 @@ const Agenda = () => {
                                     </ul>
 
                                 </div>
-
-
                             </div>
                         </div>
                     </div>
