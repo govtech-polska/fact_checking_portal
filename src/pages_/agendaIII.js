@@ -94,7 +94,7 @@ const Agenda = () => {
                                         <tr>
 
 
-                                                <td className="middle hour" rowSpan="4">12:00</td>
+                                            <td className="middle hour" rowSpan="4">12:00</td>
 
                                             <td className="debateName" colSpan="2">
 
