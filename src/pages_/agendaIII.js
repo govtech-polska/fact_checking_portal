@@ -508,7 +508,17 @@ const Agenda = () => {
 
                                         </li>
 
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Andrzejem Kisielewiczem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/d782evwC.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - rozmowa z Andrzejem Kisielewiczem"
+                                                        width="620"></iframe>
+                                            </div>
 
+
+                                        </li>
 
                                     </ul>
 
