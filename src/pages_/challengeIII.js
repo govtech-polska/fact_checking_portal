@@ -159,30 +159,38 @@ const challengeIII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>123szukam</td>
-                                                <td>8</td>
+                                                <td>25</td>
                                                 <td>0</td>
-                                                <td>3</td>
+                                                <td>14</td>
 
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
                                                 <td>Julia Gaj</td>
-                                                <td>6</td>
-                                                <td>0</td>
-                                                <td>2</td>
+                                                <td>7</td>
+                                                <td>7</td>
+                                                <td>3</td>
 
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
-                                                <td>Kumciolek
-                                                </td>
-                                                <td>6</td>
+                                                <td>Bucki</td>
+                                                <td>7</td>
+                                                <td>3</td>
                                                 <td>0</td>
-                                                <td>11</td>
 
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
+                                                <td>Kumciolek
+                                                </td>
+                                                <td>7</td>
+                                                <td>0</td>
+                                                <td>16</td>
+
+                                            </tr>
+                                            <tr>
+                                                <td>5.</td>
                                                 <td>Atomówki
                                                 </td>
                                                 <td>0</td>
@@ -191,17 +199,8 @@ const challengeIII = () => {
 
                                             </tr>
                                             <tr>
-                                                <td>5.</td>
-                                                <td>sebastian&nbsp;przystański
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
                                                 <td>6.</td>
-                                                <td>Tomasz Ranik
+                                                <td>Karolina Groch
                                                 </td>
                                                 <td>0</td>
                                                 <td>0</td>
@@ -210,7 +209,7 @@ const challengeIII = () => {
                                             </tr>
                                             <tr>
                                                 <td>7.</td>
-                                                <td>Milena Kłos
+                                                <td>m-hunter
                                                 </td>
                                                 <td>0</td>
                                                 <td>0</td>
@@ -219,15 +218,6 @@ const challengeIII = () => {
                                             </tr>
                                             <tr>
                                                 <td>8.</td>
-                                                <td>GC
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-
-                                            </tr>
-                                            <tr>
-                                                <td>9.</td>
                                                 <td>coleopter
                                                 </td>
                                                 <td>0</td>
@@ -236,8 +226,17 @@ const challengeIII = () => {
 
                                             </tr>
                                             <tr>
+                                                <td>9.</td>
+                                                <td>johnnymakaronni
+                                                </td>
+                                                <td>0</td>
+                                                <td>0</td>
+                                                <td>0</td>
+
+                                            </tr>
+                                            <tr>
                                                 <td>10.</td>
-                                                <td>JM
+                                                <td>Jan Sabadasz
                                                 </td>
                                                 <td>0</td>
                                                 <td>0</td>
