@@ -450,6 +450,16 @@ const Agenda = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - rozmowa z Markiem Wrońskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/LRRrYTXb.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - rozmowa z Markiem Wrońskim"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul>
 
                                 </div>
