@@ -460,6 +460,16 @@ const Agenda = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Gospodarka - zakończenie</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/LxCG2kVk.html"
+                                                        title="#FakeHunter Challenge/Gospodarka - zakończenie"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul>
 
                                 </div>

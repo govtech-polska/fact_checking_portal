@@ -163,26 +163,23 @@ const challengeIII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>123szukam</td>
-                                                <td>25</td>
+                                                <td>43</td>
                                                 <td>0</td>
-                                                <td>14</td>
-
+                                                <td>17</td>
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
-                                                <td>Julia Gaj</td>
-                                                <td>7</td>
-                                                <td>7</td>
+                                                <td>Bucki</td>
+                                                <td>9</td>
                                                 <td>3</td>
-
+                                                <td>0</td>
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
-                                                <td>Bucki</td>
+                                                <td>Julia Gaj</td>
+                                                <td>8</td>
                                                 <td>7</td>
                                                 <td>3</td>
-                                                <td>0</td>
-
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
@@ -191,7 +188,6 @@ const challengeIII = () => {
                                                 <td>7</td>
                                                 <td>0</td>
                                                 <td>16</td>
-
                                             </tr>
                                             <tr>
                                                 <td>5.</td>
@@ -200,7 +196,6 @@ const challengeIII = () => {
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>1</td>
-
                                             </tr>
                                             <tr>
                                                 <td>6.</td>
@@ -209,7 +204,6 @@ const challengeIII = () => {
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>0</td>
-
                                             </tr>
                                             <tr>
                                                 <td>7.</td>
@@ -218,7 +212,6 @@ const challengeIII = () => {
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>0</td>
-
                                             </tr>
                                             <tr>
                                                 <td>8.</td>
@@ -227,7 +220,6 @@ const challengeIII = () => {
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>0</td>
-
                                             </tr>
                                             <tr>
                                                 <td>9.</td>
@@ -236,7 +228,6 @@ const challengeIII = () => {
                                                 <td>0</td>
                                                 <td>0</td>
                                                 <td>0</td>
-
                                             </tr>
                                             <tr>
                                                 <td>10.</td>
