@@ -163,26 +163,42 @@ const challengeIII = () => {
                                             <tr>
                                                 <td>1.</td>
                                                 <td>123szukam</td>
-                                                <td>43</td>
-                                                <td>0</td>
-                                                <td>17</td>
+                                                <td>45</td>
+                                                <td>76</td>
+                                                <td>18</td>
                                             </tr>
                                             <tr>
                                                 <td>2.</td>
                                                 <td>Bucki</td>
-                                                <td>9</td>
-                                                <td>3</td>
+                                                <td>10</td>
+                                                <td>15</td>
                                                 <td>0</td>
                                             </tr>
                                             <tr>
                                                 <td>3.</td>
                                                 <td>Julia Gaj</td>
-                                                <td>8</td>
-                                                <td>7</td>
-                                                <td>3</td>
+                                                <td>9</td>
+                                                <td>29</td>
+                                                <td>5</td>
                                             </tr>
                                             <tr>
                                                 <td>4.</td>
+                                                <td>m-hunter
+                                                </td>
+                                                <td>8</td>
+                                                <td>2</td>
+                                                <td>2</td>
+                                            </tr>
+                                            <tr>
+                                                <td>5.</td>
+                                                <td>M&A
+                                                </td>
+                                                <td>7</td>
+                                                <td>7</td>
+                                                <td>2</td>
+                                            </tr>
+                                            <tr>
+                                                <td>6.</td>
                                                 <td>Kumciolek
                                                 </td>
                                                 <td>7</td>
@@ -190,7 +206,23 @@ const challengeIII = () => {
                                                 <td>16</td>
                                             </tr>
                                             <tr>
-                                                <td>5.</td>
+                                                <td>7.</td>
+                                                <td>Velho
+                                                </td>
+                                                <td>2</td>
+                                                <td>4</td>
+                                                <td>2</td>
+                                            </tr>
+                                            <tr>
+                                                <td>8.</td>
+                                                <td>Angelina Kadorkina
+                                                </td>
+                                                <td>0</td>
+                                                <td>0</td>
+                                                <td>1</td>
+                                            </tr>
+                                            <tr>
+                                                <td>9.</td>
                                                 <td>Atomówki
                                                 </td>
                                                 <td>0</td>
@@ -198,40 +230,8 @@ const challengeIII = () => {
                                                 <td>1</td>
                                             </tr>
                                             <tr>
-                                                <td>6.</td>
-                                                <td>Karolina Groch
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                            </tr>
-                                            <tr>
-                                                <td>7.</td>
-                                                <td>m-hunter
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                            </tr>
-                                            <tr>
-                                                <td>8.</td>
-                                                <td>coleopter
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                            </tr>
-                                            <tr>
-                                                <td>9.</td>
-                                                <td>johnnymakaronni
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                            </tr>
-                                            <tr>
                                                 <td>10.</td>
-                                                <td>Jan Sabadasz
+                                                <td>Iza Napiórkowska
                                                 </td>
                                                 <td>0</td>
                                                 <td>0</td>
