@@ -91,6 +91,37 @@ const challengeIII = () => {
                     </section>
 
 
+
+
+
+                    <section className="s2">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/fh3nagrody.png" alt="nagrody" />
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIII:section15.title')}</h2>
+                                        <p className="title">{t('challengeIII:section15.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeIII:section15.description" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeIII:section15.description1" components={[<span/>]}/>
+                                        </p>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </section>
+
+
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
@@ -124,11 +155,15 @@ const challengeIII = () => {
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="iframeWrapper">
-                                       <iframe
+                                        {/*<iframe
                                             webkitAllowFullScreen mozallowfullscreen allowFullScreen
                                             src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
                                             title="0" byline="0" portrait="0" width="640" height="360"
-                                            frameBorder="0" allow="autoplay"></iframe>
+                                            frameBorder="0" allow="autoplay"></iframe>*/}
+                                        <iframe allowFullScreen frameBorder="0" height="350"
+                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/maYizoXs.html"
+                                                title="#FakeHunter Challenge/Gospodarka - rozmowa z Arturem Chmielewskim"
+                                                width="620"></iframe>
 
 
 
@@ -139,131 +174,19 @@ const challengeIII = () => {
                         </div>
                     </section>
 
-
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-
-                                <div className="col-lg-6 order-xl-1 order-lg-1 order-md-2 order-sm-2 order-2">
-                                    <div className="tableWrapperMainPage">
-                                        <table className="table  table-bordered">
-                                            <thead>
-                                            <tr>
-                                                <th>
-                                                    LP.
-                                                </th>
-                                                <th>Nick lub nazwa zespołu</th>
-                                                <th>suma punktów z wszystkich konkurencji</th>
-                                                <th>oczekuje na weryfikacje</th>
-                                                <th>zweryfikowane negatywnie</th>
-                                            </tr>
-                                            </thead>
-                                            <tbody>
-                                            <tr>
-                                                <td>1.</td>
-                                                <td>123szukam</td>
-                                                <td>45</td>
-                                                <td>76</td>
-                                                <td>18</td>
-                                            </tr>
-                                            <tr>
-                                                <td>2.</td>
-                                                <td>Bucki</td>
-                                                <td>10</td>
-                                                <td>15</td>
-                                                <td>0</td>
-                                            </tr>
-                                            <tr>
-                                                <td>3.</td>
-                                                <td>Julia Gaj</td>
-                                                <td>9</td>
-                                                <td>29</td>
-                                                <td>5</td>
-                                            </tr>
-                                            <tr>
-                                                <td>4.</td>
-                                                <td>m-hunter
-                                                </td>
-                                                <td>8</td>
-                                                <td>2</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>5.</td>
-                                                <td>M&A
-                                                </td>
-                                                <td>7</td>
-                                                <td>7</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>6.</td>
-                                                <td>Kumciolek
-                                                </td>
-                                                <td>7</td>
-                                                <td>0</td>
-                                                <td>16</td>
-                                            </tr>
-                                            <tr>
-                                                <td>7.</td>
-                                                <td>Velho
-                                                </td>
-                                                <td>2</td>
-                                                <td>4</td>
-                                                <td>2</td>
-                                            </tr>
-                                            <tr>
-                                                <td>8.</td>
-                                                <td>Angelina Kadorkina
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>1</td>
-                                            </tr>
-                                            <tr>
-                                                <td>9.</td>
-                                                <td>Atomówki
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>1</td>
-                                            </tr>
-                                            <tr>
-                                                <td>10.</td>
-                                                <td>Iza Napiórkowska
-                                                </td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                                <td>0</td>
-                                            </tr>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
-                                <div className="col-lg-6 order-xl-2 order-lg-2 order-md-1 order-sm-1 order-1">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIII:section15.title')}</h2>
-                                        <p className="title">{t('challengeIII:section15.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeIII:section15.description" components={[<span/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeIII:section15.description1" components={[<span/>]}/>
-                                        </p>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
-                    </section>
 
 
                     <section className="s4" id="zostanfakehunterem">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
+                                <div className="col-lg-6">
 
+                                    <div className="imageWrapper">
+                                        <img src="/images/image3.png" alt=""/>
+
+                                    </div>
+                                </div>
                                 <div className="col-lg-6">
 
                                     <div className="textWrapper">
@@ -290,13 +213,7 @@ const challengeIII = () => {
 
 
                                 </div>
-                                <div className="col-lg-6">
 
-                                    <div className="imageWrapper">
-                                        <img src="/images/image3.png" alt=""/>
-
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </section>
@@ -309,12 +226,7 @@ const challengeIII = () => {
 
 
 
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/mail.png" alt=""/>
-                                        <div className="author">Onlineprinters / Unsplash</div>
-                                    </div>
-                                </div>
+
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -331,6 +243,14 @@ const challengeIII = () => {
                                         </a>
                                     </div>
                                 </div>
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/mail.png" alt=""/>
+                                        <div className="author">Onlineprinters / Unsplash</div>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                     </section>
@@ -339,7 +259,12 @@ const challengeIII = () => {
                     <section className="s4 diffrentButtons">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image5.png" alt=""/>
+                                        <div className="author">strixcode / Adobe Stock</div>
+                                    </div>
+                                </div>
 
 
                                 <div className="col-lg-6">
@@ -390,12 +315,7 @@ const challengeIII = () => {
 
                                     </div>
                                 </div>
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image5.png" alt=""/>
-                                        <div className="author">strixcode / Adobe Stock</div>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </section>
@@ -404,14 +324,7 @@ const challengeIII = () => {
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/prize.png" alt=""/>
-                                        <div className="author">
-                                            Ariel / Unsplash
-                                        </div>
-                                    </div>
-                                </div>
+
 
 
                                 <div className="col-lg-6">
@@ -459,7 +372,14 @@ const challengeIII = () => {
                                     </div>
                                 </div>
 
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/prize.png" alt=""/>
+                                        <div className="author">
+                                            Ariel / Unsplash
+                                        </div>
+                                    </div>
+                                </div>
 
                             </div>
                         </div>
@@ -470,7 +390,14 @@ const challengeIII = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image2.png" alt=""/>
 
+                                    </div>
+
+
+                                </div>
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -481,14 +408,7 @@ const challengeIII = () => {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image2.png" alt=""/>
 
-                                    </div>
-
-
-                                </div>
 
                             </div>
                         </div>
@@ -498,6 +418,17 @@ const challengeIII = () => {
                     <section className="s6">
                         <div className="container-fluid">
                             <div className="row no-gutters">
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIII:section9.title')}</h2>
+                                        <p className="title">{t('challengeIII:section9.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeIII:section9.description" components={[<span/>]}/>
+                                        </p>
+                                    </div>
+                                </div>
+
                                 <div className="col-lg-6">
                                     <ul className="logoWrapper">
 
@@ -511,17 +442,6 @@ const challengeIII = () => {
 
                                     </ul>
                                 </div>
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIII:section9.title')}</h2>
-                                        <p className="title">{t('challengeIII:section9.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeIII:section9.description" components={[<span/>]}/>
-                                        </p>
-                                    </div>
-                                </div>
-
-
 
 
                             </div>
@@ -532,6 +452,19 @@ const challengeIII = () => {
                     <section className="s2" id="oprojekcie">
                         <div className="container-fluid">
                             <div className="row no-gutters">
+
+
+                                <div className="col-lg-6">
+                                    <div className="iframeWrapper">
+                                        <iframe height="400px"
+                                                src="https://www.youtube.com/embed/Q_trVUFPNCI"
+                                                frameBorder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowFullScreen></iframe>
+                                    </div>
+
+                                </div>
+
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
                                         <h2 className="section">{t('challengeIII:section1.title')}</h2>
@@ -548,19 +481,6 @@ const challengeIII = () => {
                                     </div>
                                 </div>
 
-                                <div className="col-lg-6">
-                                    <div className="iframeWrapper">
-                                        <iframe height="400px"
-                                                src="https://www.youtube.com/embed/Q_trVUFPNCI"
-                                                frameBorder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowFullScreen></iframe>
-                                    </div>
-
-                                </div>
-
-
-
 
                             </div>
                         </div>
@@ -569,12 +489,7 @@ const challengeIII = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image4.png" alt=""/>
-                                        <div className="author">Alejandro Escamilla / Unsplash</div>
-                                    </div>
-                                </div>
+
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -587,7 +502,12 @@ const challengeIII = () => {
                                     </div>
                                 </div>
 
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image4.png" alt=""/>
+                                        <div className="author">Alejandro Escamilla / Unsplash</div>
+                                    </div>
+                                </div>
 
 
                             </div>
