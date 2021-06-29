@@ -17,6 +17,7 @@
     "/raport/[id]": ["verified"],
     "/agenda": ["agenda"],
     "/agendaII": ["agendaII"],
-    "/agendaIII": ["agendaIII"]
+    "/agendaIII": ["agendaIII"],
+    "/dolacz-do-partnerow": ["dolacz-do-partnerow"]
   }
 }

@@ -201,6 +201,14 @@ body {
   color: #dc371b;
   font-weight: 700;
 }
+
+.textWrapper li{margin:0 0 30px 0;}
+
+.textWrapper li span {
+  color: #dc371b;
+  font-weight: 700;
+}
+
 .textWrapper .subtitle {
   font-weight: 700;
   font-size: 20px;
