@@ -45,10 +45,6 @@ const dolaczDoPartnerow = () => {
                 <div className={`challenge-project challangeIII ${isEn ? 'en' : ''}`}>
 
 
-
-
-
-
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
@@ -66,45 +62,51 @@ const dolaczDoPartnerow = () => {
 
                                         <h1 className="title">{t('dolacz-do-partnerow:section1.title')}</h1>
                                         <p>
-                                            <Trans i18nKey="dolacz-do-partnerow:section1.description1" components={[<span/>]}/>
+                                            <Trans i18nKey="dolacz-do-partnerow:section1.description1"
+                                                   components={[<span/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="dolacz-do-partnerow:section1.description2" components={[<span/>]}/>
+                                            <Trans i18nKey="dolacz-do-partnerow:section1.description2"
+                                                   components={[<span/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="dolacz-do-partnerow:section1.description3" components={[<span/>]}/>
+                                            <Trans i18nKey="dolacz-do-partnerow:section1.description3"
+                                                   components={[<span/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="dolacz-do-partnerow:section1.description4" components={[<span/>]}/>
+                                            <Trans i18nKey="dolacz-do-partnerow:section1.description4"
+                                                   components={[<span/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="dolacz-do-partnerow:section1.description5" components={[<span/>]}/>
+                                            <Trans i18nKey="dolacz-do-partnerow:section1.description5"
+                                                   components={[<span/>]}/>
                                         </p>
 
-<ul>
-    <li>
-        <Trans i18nKey="dolacz-do-partnerow:section1.description6" components={[<span/>]}/>
-    </li>
-    <li>
-        <Trans i18nKey="dolacz-do-partnerow:section1.description7" components={[<span/>]}/>
-    </li>
-    <li>
-        <Trans i18nKey="dolacz-do-partnerow:section1.description8" components={[<span/>]}/>
-    </li>
-    <li>
-        <Trans i18nKey="dolacz-do-partnerow:section1.description9" components={[<span/>]}/>
-    </li>
+                                        <ul>
+                                            <li>
+                                                <Trans i18nKey="dolacz-do-partnerow:section1.description6"
+                                                       components={[<span/>]}/>
+                                            </li>
+                                            <li>
+                                                <Trans i18nKey="dolacz-do-partnerow:section1.description7"
+                                                       components={[<span/>]}/>
+                                            </li>
+                                            <li>
+                                                <Trans i18nKey="dolacz-do-partnerow:section1.description8"
+                                                       components={[<span/>]}/>
+                                            </li>
+                                            <li>
+                                                <Trans i18nKey="dolacz-do-partnerow:section1.description9"
+                                                       components={[<span/>]}/>
+                                            </li>
 
 
-
-</ul>
-
-
-
+                                        </ul>
 
 
                                         <p>
-                                            <Trans i18nKey="dolacz-do-partnerow:section1.description10" components={[<span/>]}/>
+                                            <Trans i18nKey="dolacz-do-partnerow:section1.description10"
+                                                   components={[<span/>]}/>
                                         </p>
 
 
@@ -116,17 +118,34 @@ const dolaczDoPartnerow = () => {
                         </div>
                     </section>
 
+                    <section className="s2">
 
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <p>
+                                            <Trans i18nKey="dolacz-do-partnerow:section2.partner1"
+                                                   components={[<span/>]}/>
+                                        </p>
 
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper play">
+                                        <a href="#"><img src="/images/partners/1.png" alt="Play"/></a>
 
-
-
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
 
 
                 </div>
             </Layout>
         </>
-    )
+)
 }
 
 export default dolaczDoPartnerow
