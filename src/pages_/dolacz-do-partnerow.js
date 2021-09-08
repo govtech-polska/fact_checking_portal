@@ -43,23 +43,16 @@ const dolaczDoPartnerow = () => {
             </Head>
             <Layout>
                 <div className={`challenge-project challangeIII ${isEn ? 'en' : ''}`}>
-
-
                     <section className="s2">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
                                     <div className="imageWrapper">
-
                                         <img src="/images/partners/partners.png" alt=""/>
-
                                     </div>
-
                                 </div>
-
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
-
                                         <h1 className="title">{t('dolacz-do-partnerow:section1.title')}</h1>
                                         <p>
                                             <Trans i18nKey="dolacz-do-partnerow:section1.description1"
@@ -109,39 +102,12 @@ const dolaczDoPartnerow = () => {
                                                    components={[<span/>]}/>
                                         </p>
 
-
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
-                    </section>
-
-                    <section className="s2">
-
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <p>
-                                            <Trans i18nKey="dolacz-do-partnerow:section2.partner1"
-                                                   components={[<span/>]}/>
-                                        </p>
-
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper play">
-                                        <a href="#"><img src="/images/partners/1.png" alt="Play"/></a>
-
+<a className="button" href="/partnerzy"><Trans i18nKey="dolacz-do-partnerow:section1.description11"/></a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
-
-
                 </div>
             </Layout>
         </>
