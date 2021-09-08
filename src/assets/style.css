@@ -907,7 +907,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 .partners{margin: 10px 0 0 0;}
 .partners .partner{border-bottom: 1px solid #F1F1F1; padding: 30px 0;}
 .partners .partner:after{clear: both; content: ""; display: block;}
-.partners .partner .imageWrapper{float: left; width: 200px;}
+.partners .partner .imageWrapper{float: left; width: 200px; margin: 0;}
 .partners .partner .imageWrapper img{width: 100%; height: auto; display: inline-block}
 .partners .partner .textWrapper{float:right; padding: 0; width: calc(100% - 230px);}
 .partners .partner .textWrapper p{margin: 0;}
