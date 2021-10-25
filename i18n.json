@@ -10,6 +10,7 @@
     "/challenge":["challenge"],
     "/challengeII":["challengeII"],
     "/challengeIII":["challengeIII"],
+    "/challengeIV":["challengeIV"],
     "/zespol": ["team"],
     "/dla-programistow": ["developers"],
     "rgx:/plugins/*": ["developers", "verified"],
@@ -18,6 +19,7 @@
     "/agenda": ["agenda"],
     "/agendaII": ["agendaII"],
     "/agendaIII": ["agendaIII"],
+    "/agendaIV": ["agendaIV"],
     "/dolacz-do-partnerow": ["dolacz-do-partnerow"],
     "/partnerzy": ["partnerzy"]
   }
