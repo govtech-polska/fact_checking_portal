@@ -44,39 +44,58 @@ const partnerzy = () => {
             <Layout>
                 <div className={`partners ${isEn ? 'en' : ''}`}>
                     <section className="s2 partners">
-                        <div className="container">
-                            <div className="row">
-                                <div className="col-lg-12">
-                                    <div className="partner">
-                                        <div className="imageWrapper">
-                                            <a href="#"><img src="/images/partners/1.png" alt="Play"/></a></div>
-                                        <div className="textWrapper">
-                                            <p>
-                                                <Trans i18nKey="partnerzy:section1.partner1"
-                                                       components={[<span/>]}/>
-                                            </p>
-                                        </div>
+                        <div className="container-fluid">
+
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
+
+                                    <div className="imageWrapper">
+
+                                        <img src="/images/partners/people-blob.png" alt="Play"/>
                                     </div>
 
                                 </div>
-                                <div className="col-lg-12">
-                                    <div className="partner">
-                                        <div className="imageWrapper">
-                                            <a href="#"><img src="/images/partners/pgnig_logo.png" alt="PGNIG"/></a></div>
-                                        <div className="iframeWrapper">
-                                            <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/fJ3yfSyZ.html" title="PGNiG_film_korporacyjny"
-                                                    width="620"></iframe>
-                                        </div>
-                                        <div className="textWrapper">
-                                            <p>
-                                                <Trans i18nKey="partnerzy:section1.partner2"
-                                                       components={[<span/>]}/>
-                                            </p>
-                                        </div>
+                                <div className="col-lg-6">
+
+                                    <div className="textWrapper">
+                                       <div className="textWrapperImg"> <img src="/images/partners/1.png" alt="Play"/></div>
+                                        <p>
+                                            <Trans i18nKey="partnerzy:section1.partner1"
+                                                   components={[<span/>]}/>
+                                        </p>
                                     </div>
 
                                 </div>
                             </div>
+
+
+                            <div className="row no-gutters">
+
+                                <div className="col-lg-6">
+
+                                    <div className="textWrapper">
+                                        <div className="textWrapperImg"><img src="/images/partners/pgnig_logo.png" alt="PGNIG"/></div>
+                                        <p>
+                                            <Trans i18nKey="partnerzy:section1.partner2"
+                                                   components={[<span/>]}/>
+                                        </p>
+                                    </div>
+
+                                </div>
+                                <div className="col-lg-6">
+
+                                    <div className="iframeWrapper">
+                                        <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/fJ3yfSyZ.html" title="PGNiG_film_korporacyjny"
+                                                width="620"></iframe></div>
+
+                                </div>
+                            </div>
+
+
+
+
+
+
                         </div>
                     </section>
                 </div>

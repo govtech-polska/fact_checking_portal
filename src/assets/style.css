@@ -903,7 +903,9 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
     margin-bottom: 70px;
 }
 
-
+.partners .textWrapper .textWrapperImg{text-align: center; margin: 0 0 10px 0;}
+.partners .imageWrapper{max-width: 100%; width: auto;}
+/*
 .partners{margin: 10px 0 0 0;}
 .partners .partner{border-bottom: 1px solid #F1F1F1; padding: 30px 0;}
 .partners .partner:after{clear: both; content: ""; display: block;}
@@ -913,3 +915,5 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 .partners .partner .textWrapper p{margin: 0;}
 
 .partners .partner .iframeWrapper{position: relative; top:inherit; text-align: center; margin: 0 0 20px 0;}
+
+ */
