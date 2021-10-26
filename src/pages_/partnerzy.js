@@ -45,7 +45,7 @@ const partnerzy = () => {
                 <div className={`partners ${isEn ? 'en' : ''}`}>
                     <section className="s2 partners">
                         <div className="container">
-                            <div className="row no-gutters">
+                            <div className="row">
                                 <div className="col-lg-12">
                                     <div className="partner">
                                         <div className="imageWrapper">
@@ -57,6 +57,24 @@ const partnerzy = () => {
                                             </p>
                                         </div>
                                     </div>
+
+                                </div>
+                                <div className="col-lg-12">
+                                    <div className="partner">
+                                        <div className="imageWrapper">
+                                            <a href="#"><img src="/images/partners/pgnig_logo.png" alt="PGNIG"/></a></div>
+                                        <div className="iframeWrapper">
+                                            <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/fJ3yfSyZ.html" title="PGNiG_film_korporacyjny"
+                                                    width="620"></iframe>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <p>
+                                                <Trans i18nKey="partnerzy:section1.partner2"
+                                                       components={[<span/>]}/>
+                                            </p>
+                                        </div>
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
