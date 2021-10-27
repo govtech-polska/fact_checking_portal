@@ -402,7 +402,12 @@ const About = () => {
                       </li>
                       <li className="info">
                         <h5 className="title">
-                          <a href="#kontakt">{t('about:section5.joinBtn')}</a>
+
+
+                          <span> <Trans i18nKey="about:section5.joinBtn"
+                                        components={[<a className="" href="/dolacz-do-partnerow"/>,
+                                          <a className="" href="/en/dolacz-do-partnerow"/>]}/></span>
+
                         </h5>
                       </li>
 

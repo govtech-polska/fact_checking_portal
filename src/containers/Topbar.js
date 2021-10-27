@@ -168,7 +168,7 @@ const menuItems = (isFirefox = false, t) => [
     label: t('common:nav.team')
   },
   {
-    href: '/o-projekcie#partnerzy',
+    href: '/dolacz-do-partnerow',
     label: t('common:nav.partners')
   },
   {
