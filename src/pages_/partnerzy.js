@@ -51,14 +51,14 @@ const partnerzy = () => {
 
                                     <div className="imageWrapper">
 
-                                        <img src="/images/partners/people-blob.png" alt="Play"/>
+                                        <a href="https://www.play.pl/"><img src="/images/partners/people-blob.png" alt="Play"/></a>
                                     </div>
 
                                 </div>
                                 <div className="col-lg-6">
 
                                     <div className="textWrapper">
-                                       <div className="textWrapperImg"> <img src="/images/partners/1.png" alt="Play"/></div>
+                                       <div className="textWrapperImg"> <a href="https://pgnig.pl/"><img src="/images/partners/1.png" alt="Play"/></a></div>
                                         <p>
                                             <Trans i18nKey="partnerzy:section1.partner1"
                                                    components={[<span/>]}/>
