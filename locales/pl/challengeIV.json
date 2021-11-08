@@ -12,23 +12,18 @@
     "link": "Uszczegółowienie kategorii konkursowych",
     "title": "ZASADY KONKURSU",
     "subtitle": "Zasady rywalizacji ",
-    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczbie od 1 do 5 członków. ",
+    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczbie od 1 do 5 członków. ",
     "description1":"Konkurs składa się z dwóch konkurencji:",
-    "button": "Polowanie na fake newsy (fake news hunt)",
+    "description2":"- polowanie na fake newsy",
+    "description3":"- fact checking challenge",
+    "button": "Kategorie konkursowe \"FakeHunter Challenge - Uwaga! Oszust\":",
     "collapsed": {
-      "description": "W tej konkurencji punktowana jest liczba wprowadzonych do systemu FakeHuntera zgłoszeń z obszaru przewidzianych w konkursie kategorii tematycznych, które jury uzna za możliwe do zweryfikowania."
-    },
-    "button1": "Fact checking challenge",
-    "collapsed1": {
-      "description1": "Konkurencja ta stanowi połączenie konkurencji polowania na fejki z przeprowadzaną przez uczestników konkursu weryfikacją zgłoszeń, wydawaniem werdyktów i przygotowaniem raportów fact checkingowych zgodnie z <0>regułami weryfikacji faktów systemu #FakeHunter.</0>"
-    },
-    "button2": "Popraw FakeHuntra",
-    "collapsed2": {
-      "description2": "Zgodnie z „Polityką korekt” systemu uczestnicy rywalizacji mogą weryfikować raporty już opublikowane w serwisie internetowym #FakeHunter od początku jego istnienia i przedstawić alternatywne werdykty i źródła."
-    },
-    "button3": "Znajdź prawdziwe źródło informacji",
-    "collapsed3": {
-      "description3": "Konkurencja ta polega na wyśledzeniu, za pomocą dostępnych narzędzi internetowych i programistycznych, pierwotnego, rzeczywistego źródła fałszywej informacji, zweryfikowanej jako fake news w serwisie #FakeHunter lub przez jury, przedstawienia dowodów i materiałów o tym świadczących."
+      "description": "<0>Zdrowie i uroda</0> - oszustwa lekowe, oszukańczy uzdrowiciele, cudowne terapie, diety i inne recepty na błyskawiczne odchudzanie, metody walki z łysieniem, siwieniem, upiększaniem ciała i powiększanie różnych jego części.",
+      "description1": "<0>Gospodarka i biznes</0> - oferty handlowe, propozycje biznesowe, fałszowanie dokumentów, danych firmowych.",
+      "description2": "<0>Finanse i bankowość</0> - wszelkiego rodzaju oferty i obietnice uzyskania korzyści finansowych, nadzwyczajnych zysków, próby wyłudzenia danych do logowania do kont bankowych.",
+      "description3": "<0>Tożsamość</0> - kradzieże tożsamości, podszywanie się pod osoby, firmy i organizacje, fałszywe strony i wszelkiego rodzaju publikacje pod ukradzioną tożsamością.",
+      "description4": "<0>Bezpieczeństwo</0> - oszustwa naruszające bezpieczeństwo obywateli i państwa.",
+      "description5": "<0>Oszustwa</0> z zakresu wyżej wymienionych kategorii, które nie mają charakteru satyryczno-rozrywkowego, nie są parodiami, pastiszami, pamfletami, humorystycznymi memami i oczywistymi żartami."
     }
   },
 
@@ -40,9 +35,10 @@
   },
   "section4": {
     "title": "Zostań fakehunterem i zdobądź nagrody",
-    "subtitle": "Dołącz do walki z fake newsami w dniach 11 - 13 czerwca ",
-    "description": "Zarejestruj się już dziś! W konkursie mogą brać udział zespoły liczące od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji. ",
-    "description1": "Podejmij wyzwanie i dołącz razem z nami do walki z fake newsami tworząc świat bez ściemy. Dziel się informacjami o fejkach, udzielaj się w dyskusjach, obserwuj profil <0>fakehunter.pap.pl</0> i przekonuj do tego innych. Od Ciebie też zależy co oni czytają i jak na te informacje reagują.",
+    "subtitle": "Dołącz do walki z fake newsami w dniach 3 - 5 grudnia",
+    "description": "Zarejestruj się już dziś! Czekamy na Ciebie!",
+    "description1": "Zgodnie z regulaminem w konkursie mogą brać udział zespoły składające od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji.",
+    "description2": "Dołącz razem z nami do walki z oszustami internetowymi.  Dzieląc się i przekazując informacje na temat szkodliwych praktyk w tym temacie, masz szansę ustrzec innych od wpadnięcia w pułapkę oszustwa.",
     "applyBtn": "ZGŁOŚ SIĘ DO KONKURSU!"
   },
   "section7": {
@@ -52,11 +48,13 @@
     "applyBtn": "Aplikuj"
   },
   "section8": {
-    "link": "Regulamin",
     "title": "Nagrody",
-    "subtitle": "Atrakcyjne nagrody pieniężne!",
-    "description": "Każdy, kto weźmie udział w konkursie #FakeHunter Challenge/Gospodarka ma szansę wygrać atrakcyjne nagrody finansowe. <0>Za I miejsca na podium - 6 tys. zł, za II miejsce - 4 tys. zł, za III miejsce - 2 tys. zł</0>. Zasady są proste – wygrywają zespoły z największą liczbą punktów. Prace konkursowe można przesyłać w dwóch kategoriach.",
-    "description1":"Nad przebiegiem konkursu i oceną zgłoszeń czuwa jury. <0>Zwycięzców poznamy 18 czerwca.</0> "
+    "subtitle": "Dla najlepszych atrakcyjne nagrody pieniężne!",
+    "description": "Weź udział w rywalizacji i wygraj jedną z atrakcyjnych nagród finansowych. Od Ciebie zależy, czy chcesz działać w zespole, czy samodzielnie. A recepta na wygraną jest prosta – im więcej zgłoszonych i prawidłowo ocenionych przez jury prac, tym więcej punktów i miejsce na podium.",
+    "description1":"<0>I miejsca - 15 tys. zł, II miejsce - 10 tys. zł, III miejsce - 5 tys. zł.</0> ",
+    "description2":"Zgłoszenia będą oceniane przez jury składające się ze specjalistów - redaktorów i dziennikarzy portalu Fake Hunter, którzy na co dzień zajmują się weryfikacją fałszywych i zmanipulowanych informacji publikowanych w sieci. ",
+    "description3":"<0>Zwycięzców poznamy 10 grudnia.</0>",
+    "link": "Regulamin"
   },
   "section9": {
     "title": "Partnerzy",
@@ -72,20 +70,22 @@
   "section11": {
     "title": "Wyślij zgłoszenie konkursowe",
     "subtitle": "Prześlij info o fejku, raport lub informację o źródle fałszywej informacji",
-    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w terminie od 0:01 11.06 do 11:00 w dniu 13.06 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
+    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w terminie od 00:01 03.12 do 11:00 05.12 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
     "button": "Prześlij raport weryfikujący zgłoszoną fałszywą informację"
   },
   "section12": {
     "title": "EKSPERCKIE SPOTKANIA PAP",
-    "subtitle": "Chcemy walczyć z dezinformacją i dać szansę społeczeństwu na zapoznanie się i zrozumienie technologii, które pomagają chronić środowisko, korzystnie wpływają na gospodarkę oraz nasze życie. ",
-    "description": "Dwudniowym zmaganiom konkursowym będzie towarzyszył cykl spotkań z naukowcami, lekarzami, specjalistami od energetyki i telekomunikacji. Porozmawiamy m.in. o efektywności energetycznej jaką daje sieć piątej generacji, zastosowaniu w medycynie, tworzeniu inteligentnych miast i domów, gdzie zautomatyzowane systemy będą dostosowywać zużycie ogrzewania, światła czy wody do naszych potrzeb, wspierając proekologiczne postawy społeczeństwa.  Obalimy mity dotyczące negatywnego wpływu promieniowania elektromagnetycznego na ludzkie życie i zdrowie.",
-    "description1": "Transmisja live spotkań na: <0>pap-mediaroom.pl</0> oraz fakehunter.pap.pl",
+    "subtitle": "Oszustwa internetowe dotyczą coraz większej liczby osób. Chcemy uzbroić społeczeństwo w wiedzę na temat tego, jak nie dać się oszukać i co zrobić w sytuacji zagrożenia.",
+    "description": "Trzydniowym zmaganiom konkursowym będzie towarzyszył cykl eksperckich rozmów i debat transmitowanych live na <0>https://fakehunter.pap.pl</0> . Zaproszeni goście wytłumaczą nam  jakimi mechanizmami posługują się złodzieje, by np. wyłudzić dane do logowania do kont bankowych, społecznościowych czy systemów zarządzania danymi osobowymi.",
+    "description1": "Porozmawiamy o tym, jak rozpoznać fałszywą informację, jak ustrzec się przez oszustwem i gdzie możemy szukać pomocy. Wśród zaproszonych gości będą m.in. eksperci z dziedziny cyberbezpieczeństwa, psychologii, lekarze i osoby publiczne, których wizerunek bezprawnie wykorzystano w celach przestępczych. ",
     "button": "<0>ZOBACZ AGENDĘ SPOTKAŃ</0>"
   },
   "section13": {
     "title": "KONKURS",
-    "subtitle": "III edycja konkursu #FakeHunter Challenge/Gospodarka w dniach 11-13 czerwca",
-    "description": "Do konkursu <0>#FakeHunter Challenge/Gospodarka</0> zapraszamy wszystkich, którzy chcą razem z nami propagować ideę dostępu do wiarygodnych i rzetelnych informacji. III edycja konkursu skupiona będzie na tematach gospodarczych: telekomunikacji i energetyce. W ciągu dwóch dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fake newsy z zakresu m.in.: wpływu technologii 5G oraz fal elektromagnetycznych na ludzkie zdrowie, odnawialnych źródeł energii, oddziaływania elektrowni węglowych na środowisko."
+    "subtitle": "IV edycja konkursu #FakeHunter Challenge - Uwaga! Oszust, 3-5 grudnia",
+    "description": "Do konkursu <0>#FakeHunter Challenge</0> zapraszamy wszystkich, którym zależy na propagowaniu idei dostępu do wiarygodnych i rzetelnych informacji. Razem z Wami chcemy uświadamiać społeczeństwu, jak wielka jest skala fake newsów i zagrożenia, które niosą ze sobą kłamliwe treści opakowane w taki sposób, by skłonić odbiorców do uwierzenia w ich prawdziwość.",
+    "description1": "<0>Tematem przewodnim IV edycji konkursu będą oszustwa w cyberprzestrzeni, które dotyczą branży: energetycznej, telekomunikacyjnej, finansowej, opieki zdrowotnej, kosmetycznej.</0>",
+    "description2": "W ciągu trzech dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fałszywe informacje publikowane w sieci z zakresu m.in.: ofert handlowych, propozycji biznesowych, podszywania się pod firmy lub osoby w celu wyłudzenia danych personalnych, praktyk lekarskich, cudownych diet i lekarstw."
   },
   "section14": {
     "title": "Poprzednie edycje konkursu:",
