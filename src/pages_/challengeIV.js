@@ -259,7 +259,8 @@ const challengeIV = () => {
                                         </p>
                                         <a className="button"
                                            rel="noopener noreferrer"
-                                           href="https://www.webankieta.pl/ankieta/631346/formularz-konkursowy-fakehunter-challengegospodarka.html"
+                                           href="
+https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challengeuwaga-oszust.html"
                                         >
                                             {t('challengeIV:section11.button')}
                                         </a>
