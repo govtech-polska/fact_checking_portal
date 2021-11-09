@@ -12,7 +12,7 @@
     "link": "Uszczegółowienie kategorii konkursowych",
     "title": "ZASADY KONKURSU",
     "subtitle": "Zasady rywalizacji ",
-    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczbie od 1 do 5 członków. ",
+    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczące od 1 do 5 członków. ",
     "description1":"Konkurs składa się z dwóch konkurencji:",
     "description2":"- polowanie na fake newsy",
     "description3":"- fact checking challenge",
@@ -38,7 +38,7 @@
     "subtitle": "Dołącz do walki z fake newsami w dniach 3 - 5 grudnia",
     "description": "Zarejestruj się już dziś! Czekamy na Ciebie!",
     "description1": "Zgodnie z regulaminem w konkursie mogą brać udział zespoły składające od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji.",
-    "description2": "Dołącz razem z nami do walki z oszustami internetowymi.  Dzieląc się i przekazując informacje na temat szkodliwych praktyk w tym temacie, masz szansę ustrzec innych od wpadnięcia w pułapkę oszustwa.",
+    "description2": "Dołącz razem z nami do walki z oszustwami internetowymi.  Dzieląc się i przekazując informacje na temat szkodliwych praktyk w tym temacie, masz szansę ustrzec innych od wpadnięcia w pułapkę oszustwa.",
     "applyBtn": "ZGŁOŚ SIĘ DO KONKURSU!"
   },
   "section7": {
@@ -51,7 +51,7 @@
     "title": "Nagrody",
     "subtitle": "Dla najlepszych atrakcyjne nagrody pieniężne!",
     "description": "Weź udział w rywalizacji i wygraj jedną z atrakcyjnych nagród finansowych. Od Ciebie zależy, czy chcesz działać w zespole, czy samodzielnie. A recepta na wygraną jest prosta – im więcej zgłoszonych i prawidłowo ocenionych przez jury prac, tym więcej punktów i miejsce na podium.",
-    "description1":"<0>I miejsca - 15 tys. zł, II miejsce - 10 tys. zł, III miejsce - 5 tys. zł.</0> ",
+    "description1":"<0>I miejsce - 15 tys. zł, II miejsce - 10 tys. zł, III miejsce - 5 tys. zł.</0> ",
     "description2":"Zgłoszenia będą oceniane przez jury składające się ze specjalistów - redaktorów i dziennikarzy portalu Fake Hunter, którzy na co dzień zajmują się weryfikacją fałszywych i zmanipulowanych informacji publikowanych w sieci. ",
     "description3":"<0>Zwycięzców poznamy 10 grudnia.</0>",
     "link": "Regulamin"
