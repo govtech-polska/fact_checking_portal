@@ -21,6 +21,7 @@
     "/agendaIII": ["agendaIII"],
     "/agendaIV": ["agendaIV"],
     "/dolacz-do-partnerow": ["dolacz-do-partnerow"],
-    "/partnerzy": ["partnerzy"]
+    "/partnerzy": ["partnerzy"],
+    "/edukacja": ["edukacja"]
   }
 }

@@ -1,0 +1,28 @@
+{
+  "title": "Dołącz do walki <0/> <1>z dezinformacją</1>",
+  "follow": "Śledź nas: ",
+  "quote": "„Prawdą jest zawsze to, co się dzieje, <0/> a nie nasza opowieść o tym, <1/> co się powinno dziać.”",
+  "section1": {
+    "title": "O projekcie",
+    "subtitle": "Wezwanie do walki z dezinformacją!",
+    "description": "to społeczny projekt weryfikacji treści publikowanych w internecie, uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2."
+  },
+  "section7": {
+    "title": "Kontakt",
+    "subtitle": "Czekamy na twoją wiadomość",
+    "description": "Jesteś zainteresowany naszym projektem? Potrzebujesz więcej informacji na jego temat? A może chcesz nas wesprzeć, ale jeszcze nie wiesz jak? Jeśli tak, wyślij nam wiadomość na adres email: <0>fakehunter@pap.pl</0> Bądźmy w kontakcie!",
+    "applyBtn": "Aplikuj"
+  },
+  "contactForm": {
+    "name": "Imię",
+    "surname": "Nazwisko",
+    "email": "Email",
+    "topic": "Temat",
+    "message": "Treść",
+    "send": "Wyślij",
+    "successMsg": "Twoja wiadomość została wysłana.",
+    "errorMsg": "Nie udało się wysłać wiadomości."
+  },
+  "more": "Więcej",
+  "less": "Mniej"
+}

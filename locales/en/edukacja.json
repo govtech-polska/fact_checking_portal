@@ -1,0 +1,29 @@
+{
+  "title": "Join the fight <0/><1>against disinformation</1>",
+  "follow": "Follow us: ",
+  "quote": "„The truth is always what is happening,<0/> and not our story about<1/> what should be happening.”",
+  "section1": {
+    "title": "About the project",
+    "subtitle": "The call to combat disinformation!",
+    "description": "is a community-based project for verifying content published on the Internet, launched by the Polish Press Agency (PAP) together with GovTech Polska. It aims to demystify and refute false information related to the SARS-CoV-2 virus."
+
+  },
+  "section7": {
+    "title": "Contact",
+    "subtitle": "We are waiting for your message",
+    "description": "Are you interested in our project? Do you need more information about it? Or maybe you want to support us, but you do not know how? If so, simply send us a message using email <0>fakehunter@pap.pl</0>. Let us be in touch!",
+    "applyBtn": "Apply"
+  },
+  "contactForm": {
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email address",
+    "topic": "Subject",
+    "message": "Message content",
+    "send": "Send",
+    "successMsg": "Your message has been successfully submitted.",
+    "errorMsg": "Your message has not been submitted!"
+  },
+  "more": "More",
+  "less": "Less"
+}
