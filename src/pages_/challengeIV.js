@@ -54,8 +54,6 @@ const challengeIV = () => {
                             </div>
                             <div className="row">
                                 <div className="col-xl-12">
-
-
                                     <div className="followUs">
                                         <h4>{t('challengeIV:follow')}</h4>
                                         <ul>
@@ -91,91 +89,39 @@ const challengeIV = () => {
                     </section>
 
 
-
-
-
-                    <section className="s2">
+                    <section className="s2" id="konkurs">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
+
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIV:section13.title')}</h2>
+                                        <p className="title">{t('challengeIV:section13.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeIV:section13.description" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeIV:section13.description1" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeIV:section13.description2" components={[<span/>]}/>
+                                        </p>
+                                    </div>
+                                </div>
                                 <div className="col-lg-6">
                                     <div className="imageWrapper">
-                                        <img src="/images/fh3nagrody.png" alt="nagrody" />
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIV:section15.title')}</h2>
-                                        <p className="title">{t('challengeIV:section15.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeIV:section15.description" components={[<span/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeIV:section15.description1" components={[<span/>]}/>
-                                        </p>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                        </div>
-                    </section>
-
-
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIV:section12.title')}</h2>
-                                        <p className="title">{t('challengeIV:section12.subtitle')}</p>
-                                        <p>
-
-
-                                            <Trans i18nKey="challengeIV:section12.description"/>
-
-                                        </p>
-
-                                        <p>
-
-
-                                            <Trans i18nKey="challengeIV:section12.description1"
-                                                   components={[<a className="link" href="https://pap-mediaroom.pl"
-                                                                   target="_blank"/>]}/>
-
-                                        </p>
-
-                                        <span> <Trans i18nKey="challengeIV:section12.button"
-                                                      components={[<a className="button" href="/agendaIV"/>,
-                                                          <a className="button" href="/en/agendaIV"/>]}/></span>
-
+                                        <img src="/images/image2.png" alt=""/>
 
                                     </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="iframeWrapper">
-                                        {/*<iframe
-                                            webkitAllowFullScreen mozallowfullscreen allowFullScreen
-                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
-                                            title="0" byline="0" portrait="0" width="640" height="360"
-                                            frameBorder="0" allow="autoplay"></iframe>*/}
-                                        <iframe allowFullScreen frameBorder="0" height="350"
-                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/maYizoXs.html"
-                                                title="#FakeHunter Challenge/Gospodarka - rozmowa z Arturem Chmielewskim"
-                                                width="620"></iframe>
 
 
-
-                                    </div>
                                 </div>
 
                             </div>
                         </div>
                     </section>
-
-
-
                     <section className="s4" id="zostanfakehunterem">
                         <div className="container-fluid">
                             <div className="row no-gutters">
@@ -196,16 +142,16 @@ const challengeIV = () => {
                                             <Trans i18nKey="challengeIV:section4.description"/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="challengeIV:section4.description1"
-                                                   components={[<a className="link"
-                                                                   href="https://www.facebook.com/PAPFakeHunter/"
-                                                                   target="_blank"/>]}/>
+                                            <Trans i18nKey="challengeIV:section4.description1"/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeIV:section4.description2"/>
                                         </p>
                                         <a
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="button"
-                                            href="https://www.webankieta.pl/ankieta/631302/rejestracja-do-konkursu-fakehunterchallengegospodarka.html"
+                                            href="https://www.webankieta.pl/ankieta/678116/rejestracja-do-konkursu-fakehunterchallengeuwaga-oszust.html"
                                         >
                                             {t('challengeIV:section4.applyBtn')}
                                         </a>
@@ -219,109 +165,10 @@ const challengeIV = () => {
                     </section>
 
 
-                    <section className="s2">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
 
 
 
-
-
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIV:section11.title')}</h2>
-                                        <p className="title">{t('challengeIV:section11.subtitle')}</p>
-                                        <p>
-                                            {t('challengeIV:section11.description')}
-                                        </p>
-                                        <a className="button"
-                                           rel="noopener noreferrer"
-                                           href="https://www.webankieta.pl/ankieta/631346/formularz-konkursowy-fakehunter-challengegospodarka.html"
-                                        >
-                                            {t('challengeIV:section11.button')}
-                                        </a>
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/mail.png" alt=""/>
-                                        <div className="author">Onlineprinters / Unsplash</div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
-
-
-                    <section className="s4 diffrentButtons">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image5.png" alt=""/>
-                                        <div className="author">strixcode / Adobe Stock</div>
-                                    </div>
-                                </div>
-
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIV:section2.title')}</h2>
-                                        <p className="title">{t('challengeIV:section2.subtitle')}</p>
-                                        <p>{t('challengeIV:section2.description')}</p>
-                                        <p>{t('challengeIV:section2.description1')}</p>
-
-                                        <a
-                                            className="collapseButton collapsed"
-                                            data-toggle="collapse"
-                                            href="#collapseTwo"
-                                            role="button"
-                                            aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            <span>{t('challengeIV:section2.button')}</span>
-                                        </a>
-
-                                        <div className="collapse" id="collapseTwo">
-                                            <p>{t('challengeIV:section2.collapsed.description')}</p>
-                                        </div>
-
-                                        <div></div>
-
-                                        <a
-                                            className="collapseButton collapsed"
-                                            data-toggle="collapse"
-                                            href="#collapseThree"
-                                            role="button"
-                                            aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            <span>{t('challengeIV:section2.button1')}</span>
-                                        </a>
-
-                                        <div className="collapse" id="collapseThree">
-                                            <p>
-
-                                                <Trans i18nKey="challengeIV:section2.collapsed1.description1"
-                                                       components={[<a className="link"
-                                                                       href="/attachments/reguly_weryfikacji_faktow.pdf"
-                                                                       target="_blank"/>, <a className="link"
-                                                                                             href="/attachments/FH_Rules_of_Fact_Verification.pdf"
-                                                                                             target="_blank"/>]}/>
-                                            </p>
-                                        </div>
-
-
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
-
-
-                    <section className="s2">
+                    <section className="s2" id="nagrody">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -337,36 +184,42 @@ const challengeIV = () => {
                                         <p>
                                             <Trans i18nKey="challengeIV:section8.description1" components={[<span/>]}/>
                                         </p>
-                                        <div className="dropdown link">
-                                            <button
-                                                className="dropdown-toggle buttonDropdown link"
-                                                type="button"
-                                                id="dropdownMenuButton"
-                                                data-toggle="dropdown"
-                                                aria-haspopup="true"
-                                                aria-expanded="false"
-                                            >
-                                                {t('challengeIV:section8.link')}
-                                            </button>
-                                            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                                <a
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="dropdown-item"
-                                                    href="/attachments/challengeIII/reg_pl.pdf"
-                                                >
-                                                    PL
-                                                </a>
-                                                <a
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="dropdown-item"
-                                                    href="/attachments/challengeIII/reg_en.pdf"
-                                                >
-                                                    EN
-                                                </a>
-                                            </div>
-                                        </div>
+                                        <p>
+                                            <Trans i18nKey="challengeIV:section8.description2" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeIV:section8.description3" components={[<span/>]}/>
+                                        </p>
+                                        {/*<div className="dropdown link">*/}
+                                        {/*    <button*/}
+                                        {/*        className="dropdown-toggle buttonDropdown link"*/}
+                                        {/*        type="button"*/}
+                                        {/*        id="dropdownMenuButton"*/}
+                                        {/*        data-toggle="dropdown"*/}
+                                        {/*        aria-haspopup="true"*/}
+                                        {/*        aria-expanded="false"*/}
+                                        {/*    >*/}
+                                        {/*        {t('challengeIV:section8.link')}*/}
+                                        {/*    </button>*/}
+                                        {/*    <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">*/}
+                                        {/*        <a*/}
+                                        {/*            target="_blank"*/}
+                                        {/*            rel="noopener noreferrer"*/}
+                                        {/*            className="dropdown-item"*/}
+                                        {/*            href="/attachments/challengeIII/reg_pl.pdf"*/}
+                                        {/*        >*/}
+                                        {/*            PL*/}
+                                        {/*        </a>*/}
+                                        {/*        <a*/}
+                                        {/*            target="_blank"*/}
+                                        {/*            rel="noopener noreferrer"*/}
+                                        {/*            className="dropdown-item"*/}
+                                        {/*            href="/attachments/challengeIII/reg_en.pdf"*/}
+                                        {/*        >*/}
+                                        {/*            EN*/}
+                                        {/*        </a>*/}
+                                        {/*    </div>*/}
+                                        {/*</div>*/}
 
 
                                     </div>
@@ -385,27 +238,107 @@ const challengeIV = () => {
                         </div>
                     </section>
 
-
-                    <section className="s2">
+                    <section className="s2" id="wyslij_zgloszenie">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
+
                                 <div className="col-lg-6">
                                     <div className="imageWrapper">
-                                        <img src="/images/image2.png" alt=""/>
-
+                                        <img src="/images/mail.png" alt=""/>
+                                        <div className="author">Onlineprinters / Unsplash</div>
                                     </div>
-
-
                                 </div>
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
-                                        <h2 className="section">{t('challengeIV:section13.title')}</h2>
-                                        <p className="title">{t('challengeIV:section13.subtitle')}</p>
+                                        <h2 className="section">{t('challengeIV:section11.title')}</h2>
+                                        <p className="title">{t('challengeIV:section11.subtitle')}</p>
                                         <p>
-                                            <Trans i18nKey="challengeIV:section13.description" components={[<span/>]}/>
+                                            {t('challengeIV:section11.description')}
                                         </p>
+                                        <a className="button"
+                                           rel="noopener noreferrer"
+                                           href="https://www.webankieta.pl/ankieta/631346/formularz-konkursowy-fakehunter-challengegospodarka.html"
+                                        >
+                                            {t('challengeIV:section11.button')}
+                                        </a>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </section>
+                    <section className="s4 diffrentButtons" id="zasady_rywalizacji">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIV:section2.title')}</h2>
+                                        <p className="title">{t('challengeIV:section2.subtitle')}</p>
+                                        <p>{t('challengeIV:section2.description')}</p>
+                                        <p><strong>{t('challengeIV:section2.description1')}</strong>
+                                        <br />
+
+                                            {t('challengeIV:section2.description2')}
+                                            <br />
+                                            {t('challengeIV:section2.description3')}
+
+                                        </p>
+
+
+
+                                        <a
+                                            className="collapseButton collapsed"
+                                            data-toggle="collapse"
+                                            href="#collapseTwo"
+                                            role="button"
+                                            aria-expanded="false"
+                                            aria-controls="collapseTwo">
+                                            <span>{t('challengeIV:section2.button')}</span>
+                                        </a>
+
+                                        <div className="collapse" id="collapseTwo">
+                                            <ul>
+                                                <li>
+                                                    <Trans i18nKey="challengeIV:section2.collapsed.description" components={[<span/>]}/>
+                                                </li>
+                                                <li>
+                                                    <Trans i18nKey="challengeIV:section2.collapsed.description1" components={[<span/>]}/>
+                                                </li>
+                                                <li>
+                                                    <Trans i18nKey="challengeIV:section2.collapsed.description2" components={[<span/>]}/>
+                                                </li>
+                                                <li>
+                                                    <Trans i18nKey="challengeIV:section2.collapsed.description3" components={[<span/>]}/>
+                                                </li>
+                                                <li>
+                                                    <Trans i18nKey="challengeIV:section2.collapsed.description4" components={[<span/>]}/>
+                                                </li>
+                                                <li>
+                                                    <Trans i18nKey="challengeIV:section2.collapsed.description5" components={[<span/>]}/>
+                                                </li>
+                                            </ul>
+
+                                        </div>
+
+                                        <div></div>
+
+
+
+
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image5.png" alt=""/>
+                                        <div className="author">strixcode / Adobe Stock</div>
                                     </div>
                                 </div>
 
@@ -414,8 +347,65 @@ const challengeIV = () => {
                         </div>
                     </section>
 
+                    <section className="s2" id="eksperckie_spotkania">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
 
-                    <section className="s6">
+
+                                <div className="col-lg-6">
+                                    <div className="iframeWrapper">
+                                        {/*<iframe
+                                            webkitAllowFullScreen mozallowfullscreen allowFullScreen
+                                            src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                            title="0" byline="0" portrait="0" width="640" height="360"
+                                            frameBorder="0" allow="autoplay"></iframe>*/}
+                                        <iframe allowFullScreen frameBorder="0" height="350"
+                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/maYizoXs.html"
+                                                title="#FakeHunter Challenge/Gospodarka - rozmowa z Arturem Chmielewskim"
+                                                width="620"></iframe>
+
+
+
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIV:section12.title')}</h2>
+                                        <p className="title">{t('challengeIV:section12.subtitle')}</p>
+
+                                        <p>
+
+
+                                            <Trans i18nKey="challengeIV:section12.description"
+                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                   target="_blank"/>]}/>
+
+                                        </p>
+
+
+                                        <p>
+
+
+                                            <Trans i18nKey="challengeIV:section12.description1"/>
+
+                                        </p>
+
+
+
+                                        {/*<span> <Trans i18nKey="challengeIV:section12.button"*/}
+                                        {/*              components={[<a className="button" href="/agendaIV"/>,*/}
+                                        {/*                  <a className="button" href="/en/agendaIV"/>]}/></span>*/}
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+
+
+                    <section className="s6" id="partnerzy">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -447,9 +437,7 @@ const challengeIV = () => {
                             </div>
                         </div>
                     </section>
-
-
-                    <section className="s2" id="oprojekcie">
+                    <section className="s2" id="o_konkursie">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
@@ -532,6 +520,36 @@ const challengeIV = () => {
                             </div>
                         </div>
                     </section>
+
+
+
+                    {/*<section className="s2" id="wyniki_konkursu">*/}
+                    {/*    <div className="container-fluid">*/}
+                    {/*        <div className="row no-gutters">*/}
+
+                    {/*            <div className="col-lg-6">*/}
+                    {/*                <div className="imageWrapper">*/}
+                    {/*                    <img src="/images/fh3nagrody.png" alt="nagrody" />*/}
+                    {/*                </div>*/}
+                    {/*            </div>*/}
+                    {/*            <div className="col-lg-6">*/}
+                    {/*                <div className="textWrapper">*/}
+                    {/*                    <h2 className="section">{t('challengeIV:section15.title')}</h2>*/}
+                    {/*                    <p className="title">{t('challengeIV:section15.subtitle')}</p>*/}
+                    {/*                    <p>*/}
+                    {/*                        <Trans i18nKey="challengeIV:section15.description" components={[<span/>]}/>*/}
+                    {/*                    </p>*/}
+                    {/*                    <p>*/}
+                    {/*                        <Trans i18nKey="challengeIV:section15.description1" components={[<span/>]}/>*/}
+                    {/*                    </p>*/}
+                    {/*                </div>*/}
+                    {/*            </div>*/}
+
+
+                    {/*        </div>*/}
+                    {/*    </div>*/}
+                    {/*</section>*/}
+
 
                     <section>
                         <div className="container">
