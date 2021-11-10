@@ -461,7 +461,7 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                                         <p>
                                             {t('challengeIV:section1.description')}
                                         </p>
-                                        <a className="button"
+                                        <a target="_blank" className="button"
                                            rel="noopener noreferrer"
                                            href="/"
                                         >

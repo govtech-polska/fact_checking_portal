@@ -14,13 +14,13 @@
     "subtitle": "Zasady rywalizacji ",
     "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczące od 1 do 5 członków. ",
     "description1":"Konkurs składa się z dwóch konkurencji:",
-    "description2":"- polowanie na fake newsy",
-    "description3":"- fact checking challenge",
+    "description2":"- polowanie na fake newsy - zgłaszanie oszustw",
+    "description3":"- fact checking challenge - przygotowywanie i przesyłanie raportów weryfikujących",
     "button": "Kategorie konkursowe \"#FakeHunter Challenge - Uwaga! Oszust\":",
     "collapsed": {
       "description": "<0>Zdrowie i uroda</0> - oszustwa lekowe, oszukańczy uzdrowiciele, cudowne terapie, diety i inne recepty na błyskawiczne odchudzanie, metody walki z łysieniem, siwieniem, upiększaniem ciała i powiększanie różnych jego części.",
-      "description1": "<0>Gospodarka i biznes</0> - oferty handlowe, propozycje biznesowe, fałszowanie dokumentów, danych firmowych.",
-      "description2": "<0>Finanse i bankowość</0> - wszelkiego rodzaju oferty i obietnice uzyskania korzyści finansowych, nadzwyczajnych zysków, próby wyłudzenia danych do logowania do kont bankowych.",
+      "description1": "<0>Gospodarka i biznes</0> - oszukańcze oferty handlowe, propozycje biznesowe, fałszowanie dokumentów, danych firmowych.",
+      "description2": "<0>Finanse i bankowość</0> - wszelkiego rodzaju wprowadzające w błąd oferty i fałszywe obietnice uzyskania korzyści finansowych, nadzwyczajnych zysków, próby wyłudzenia danych do logowania do kont bankowych i innych usług tego rodzaju.",
       "description3": "<0>Tożsamość</0> - kradzieże tożsamości, podszywanie się pod osoby, firmy i organizacje, fałszywe strony i wszelkiego rodzaju publikacje pod ukradzioną tożsamością.",
       "description4": "<0>Bezpieczeństwo</0> - oszustwa naruszające bezpieczeństwo obywateli i państwa.",
       "description5": "<0>Oszustwa</0> z zakresu wyżej wymienionych kategorii, które nie mają charakteru satyryczno-rozrywkowego, nie są parodiami, pastiszami, pamfletami, humorystycznymi memami i oczywistymi żartami."
@@ -85,7 +85,7 @@
     "subtitle": "IV edycja konkursu #FakeHunter Challenge - Uwaga! Oszust, 3-5 grudnia",
     "description": "Do konkursu <0>#FakeHunter Challenge</0> zapraszamy wszystkich, którym zależy na propagowaniu idei dostępu do wiarygodnych i rzetelnych informacji. Razem z Wami chcemy uświadamiać społeczeństwu, jak wielka jest skala fake newsów i zagrożenia, które niosą ze sobą kłamliwe treści opakowane w taki sposób, by skłonić odbiorców do uwierzenia w ich prawdziwość.",
     "description1": "<0>Tematem przewodnim IV edycji konkursu będą oszustwa w cyberprzestrzeni, które dotyczą branży: energetycznej, telekomunikacyjnej, finansowej, opieki zdrowotnej, kosmetycznej.</0>",
-    "description2": "W ciągu trzech dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fałszywe informacje publikowane w sieci z zakresu m.in.: ofert handlowych, propozycji biznesowych, podszywania się pod firmy lub osoby w celu wyłudzenia danych personalnych, praktyk lekarskich, cudownych diet i lekarstw."
+    "description2": "W ciągu trzech dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fałszywe informacje publikowane w sieci z zakresu m.in.: ofert handlowych, propozycji biznesowych, podszywania się pod firmy lub osoby w celu wyłudzenia danych personalnych, praktyk lekarskich, cudownych diet i lekarstw. Zgłoszenia konkursowe wyraźnie nie mogą mieć charakteru satyrycznego, żartobliwego, oraz ewidentnie nie mieć charakteru memu lub pastiszu."
   },
   "section14": {
     "title": "Poprzednie edycje konkursu:",

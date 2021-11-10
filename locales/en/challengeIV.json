@@ -14,13 +14,13 @@
     "subtitle": "About the competition",
     "description": "The competition is open to all Internet users over 13 years of age who can speak Polish or English. Points from the works qualified and assessed by the jury are added up. Before that, you must register and decide on the composition of the team. Teams from 1 to 5 members can participate in the competition.",
     "description1":"The competition consists of two parts:",
-    "description2":"- hunting for fake news",
-    "description3":"- fact checking challenge",
+    "description2":"- fake news hunting - reporting scams",
+    "description3":"- fact checking challenge - preparing and submitting verification reports",
     "button": "\"#FakeHunter Challenge - Note! Scammer\" contest categories:",
     "collapsed": {
       "description": "<0>Health and Beauty</0> - drug fraud, deceptive healers, miracle therapies, diets and other instant weight loss recipes, methods of combating hair loss, graying, beautifying the body and enlarging its various parts.",
-      "description1": "<0>Economy and business</0> - commercial offers, business proposals, falsification of documents and company data.",
-      "description2": "<0>Finance and banking</0> - all kinds of offers and promises of financial benefits, extraordinary profits, attempts to obtain bank account login credentials.",
+      "description1": "<0>Economy and business</0> - fraudulent trade offers, business proposals, falsification of documents and company data.",
+      "description2": "<0>Finance and banking</0> - All kinds of misleading offers and false promises of financial gain, windfall profits, phishing of login details for bank accounts and other similar services.",
       "description3": "<0>Identity</0> - identity theft, impersonation of individuals, companies and organizations, fake websites and all kinds of publications under a stolen identity",
       "description4": "<0>Security</0> - frauds violating the security of citizens and the state.",
       "description5": "<0>Fraud</0> in the above-mentioned categories that are not satirical or entertaining in nature, are not parodies, pastiches, pamphlets, humorous memes and obvious jokes."
@@ -84,7 +84,7 @@
     "subtitle": "4th edition of #FakeHunter Challenge - Note! Scammer, December 3-5th",
     "description": "We invite everyone who wants to promote the idea of access to credible and reliable information to the <0>#FakeHunter Challenge</0> competition. Together with you, we want to make the public aware of the scale of fake news and the dangers of deceptive content packed in such a way as to make the recipients believe in its truthfulness.",
     "description1": "<0>The theme of the 4th edition of the competition will be frauds in cyberspace that relate to the energy, telecommunications, financial, healthcare and cosmetics industries.</0>",
-    "description2": "Within three days, registered people, acting independently or in teams, will be able to report false information published on the network in the field of, among others: commercial offers, business proposals, impersonating companies or persons in order to obtain personal data, medical practices, miracles diets and medications."
+    "description2": "Within three days, registered people, acting independently or in teams, will be able to report false information published on the network in the field of, among others: commercial offers, business proposals, impersonating companies or persons in order to obtain personal data, medical practices, miracles diets and medications. Competition entries clearly cannot be satirical, playful, or obviously have the nature of meme or pastiche."
   },
   "section14": {
     "title": "Previous editions of the competition:",
