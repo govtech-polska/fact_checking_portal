@@ -190,36 +190,36 @@ const challengeIV = () => {
                                         <p>
                                             <Trans i18nKey="challengeIV:section8.description3" components={[<span/>]}/>
                                         </p>
-                                        {/*<div className="dropdown link">*/}
-                                        {/*    <button*/}
-                                        {/*        className="dropdown-toggle buttonDropdown link"*/}
-                                        {/*        type="button"*/}
-                                        {/*        id="dropdownMenuButton"*/}
-                                        {/*        data-toggle="dropdown"*/}
-                                        {/*        aria-haspopup="true"*/}
-                                        {/*        aria-expanded="false"*/}
-                                        {/*    >*/}
-                                        {/*        {t('challengeIV:section8.link')}*/}
-                                        {/*    </button>*/}
-                                        {/*    <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">*/}
-                                        {/*        <a*/}
-                                        {/*            target="_blank"*/}
-                                        {/*            rel="noopener noreferrer"*/}
-                                        {/*            className="dropdown-item"*/}
-                                        {/*            href="/attachments/challengeIII/reg_pl.pdf"*/}
-                                        {/*        >*/}
-                                        {/*            PL*/}
-                                        {/*        </a>*/}
-                                        {/*        <a*/}
-                                        {/*            target="_blank"*/}
-                                        {/*            rel="noopener noreferrer"*/}
-                                        {/*            className="dropdown-item"*/}
-                                        {/*            href="/attachments/challengeIII/reg_en.pdf"*/}
-                                        {/*        >*/}
-                                        {/*            EN*/}
-                                        {/*        </a>*/}
-                                        {/*    </div>*/}
-                                        {/*</div>*/}
+                                        <div className="dropdown link">
+                                            <button
+                                                className="dropdown-toggle buttonDropdown link"
+                                                type="button"
+                                                id="dropdownMenuButton"
+                                                data-toggle="dropdown"
+                                                aria-haspopup="true"
+                                                aria-expanded="false"
+                                            >
+                                                {t('challengeIV:section8.link')}
+                                            </button>
+                                            <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                                <a
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="dropdown-item"
+                                                    href="/attachments/challengeIV/reg_pl.pdf"
+                                                >
+                                                    PL
+                                                </a>
+                                                <a
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="dropdown-item"
+                                                    href="/attachments/challengeIV/reg_en.pdf"
+                                                >
+                                                    EN
+                                                </a>
+                                            </div>
+                                        </div>
 
 
                                     </div>
