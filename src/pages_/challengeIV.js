@@ -42,7 +42,7 @@ const challengeIV = () => {
                 />
             </Head>
             <Layout>
-                <div className={`challenge-project challangeIII ${isEn ? 'en' : ''}`}>
+                <div className={`challenge-project challangeIV ${isEn ? 'en' : ''}`}>
                     <section className="s1">
                         <div className="container">
                             <div className="row">

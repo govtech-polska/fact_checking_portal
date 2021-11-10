@@ -1,5 +1,5 @@
 {
-  "title": "FakeHunter <0/> <1> Challenge/Uwaga! Oszust!</1>",
+  "title": "#FakeHunter  Challenge <0/> - Uwaga! Oszust",
   "follow": "Śledź nas: ",
   "quote": "Podejmij wyzwanie i dołącz do walki z fake newsami,<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to, co czytają inni.",
   "section1": {
@@ -16,7 +16,7 @@
     "description1":"Konkurs składa się z dwóch konkurencji:",
     "description2":"- polowanie na fake newsy",
     "description3":"- fact checking challenge",
-    "button": "Kategorie konkursowe \"FakeHunter Challenge - Uwaga! Oszust\":",
+    "button": "Kategorie konkursowe \"#FakeHunter Challenge - Uwaga! Oszust\":",
     "collapsed": {
       "description": "<0>Zdrowie i uroda</0> - oszustwa lekowe, oszukańczy uzdrowiciele, cudowne terapie, diety i inne recepty na błyskawiczne odchudzanie, metody walki z łysieniem, siwieniem, upiększaniem ciała i powiększanie różnych jego części.",
       "description1": "<0>Gospodarka i biznes</0> - oferty handlowe, propozycje biznesowe, fałszowanie dokumentów, danych firmowych.",
@@ -64,7 +64,7 @@
   "section10": {
     "title": "GovTech Festival",
     "subtitle": "GovTech Festival, czyli listopad pod znakiem cyfryzacji",
-    "description": "#FakeHunter Challenge/Szczepienia to jedno z kluczowych wydarzeń odbywającego się w listopadzie GovTech Festival, czyli cyklu wydarzeń online, w których może wziąć udział każdy zainteresowany. Przez cały miesiąc w ramach GovTech Festival organizowane są webinaria, warsztaty i hackathony, które mają na celu przełamywanie analogowych barier, edukowanie i otwieranie społeczeństwa na nowe możliwości związane z cyfryzacją i digitalizacją. Udział we wszystkich wydarzeniach jest bezpłatny.",
+    "description": "#FakeHunter Challenge - Uwaga! Oszust to jedno z kluczowych wydarzeń odbywającego się w listopadzie GovTech Festival, czyli cyklu wydarzeń online, w których może wziąć udział każdy zainteresowany. Przez cały miesiąc w ramach GovTech Festival organizowane są webinaria, warsztaty i hackathony, które mają na celu przełamywanie analogowych barier, edukowanie i otwieranie społeczeństwa na nowe możliwości związane z cyfryzacją i digitalizacją. Udział we wszystkich wydarzeniach jest bezpłatny.",
     "button": "ZOBACZ STRONĘ FESTIWALU"
   },
   "section11": {
@@ -95,8 +95,8 @@
     },
   "section15": {
     "title": "WYNIKI KONKURSU",
-    "subtitle": "#FakeHunter Challenge/Gospodarka rozstrzygnięty!",
-    "description": "Poznajcie zwycięzców #FakeHunter Challenge/Gospodarka konkursu, który odbył się 11 – 13 czerwca w Warszawie.\nW ciągu 3 dni rywalizacji, napłynęło ponad 500 zgłoszeń! Uczestnicy walczyli o atrakcyjne nagrody.",
+    "subtitle": "#FakeHunter Challenge - Uwaga! Oszust rozstrzygnięty!",
+    "description": "Poznajcie zwycięzców #FakeHunter Challenge - Uwaga! Oszust konkursu, który odbył się 11 – 13 czerwca w Warszawie.\nW ciągu 3 dni rywalizacji, napłynęło ponad 500 zgłoszeń! Uczestnicy walczyli o atrakcyjne nagrody.",
     "description1": " "
 
   },
