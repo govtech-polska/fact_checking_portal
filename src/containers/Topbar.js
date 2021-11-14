@@ -172,8 +172,8 @@ const menuItems = (isFirefox = false, t) => [
     label: t('common:nav.partners')
   },
   {
-    href: '/challengeIII',
-    label: t('common:nav.challengeIII')
+    href: '/challengeIV',
+    label: t('common:nav.challengeIV')
   }
 ]
 
