@@ -5,85 +5,51 @@
   "subtitle2": "Watch the past meetings",
   "iframebutton": "Watch the past meetings",
   "table": {
-    "tableTitle": "FRIDAY 11.06.2021",
-    "tableTitle2": "Saturday 12.06.2021",
+    "tableTitle": "FRIDAY 03.12.2021",
+    "tableTitle2": "Saturday 04.12.2021",
     "tableTh": "Hour",
     "tableTh1": "Name",
     "tableTh2": "and surname",
     "tableTh3": "Function",
-    "tableMainTitle1": "Opening #FakeHunter Challenge/Economy",
-    "tableMainTitle2": "Ending #FakeHunter Challenge/Economy",
-    "debate1": "DEBATE: Impact of fake news on social behavior - how dangerous misinformation can be",
-    "debate2": "DEBATE: How much will nuclear energy cost us and is it really more expensive than green energy?"
+    "tableMainTitle1": "Opening #FakeHunter Challenge - Note! Scammer",
+    "tableMainTitle2": "Ending #FakeHunter Challenge - Note! Scammer",
+    "debate1": "DEBATE",
+    "debate2": " "
   },
   "functions": {
-    "function1":"Publicist",
-    "function2":"Secretary of State, Government Plenipotentiary for Strategic Energy Infrastructure",
-    "function3":"NASA employee",
-    "function4":"Director of the Play Corporate Communication Department",
-    "function5":"Chairman of the Digitization Council",
-    "function6":"Professor of WSH in Radom",
-    "function7":"Actor",
-    "function8":"Professor of mathematics, specialist in artificial intelligence",
-    "function9":"Director of the Department of Nuclear Energy, Ministry of Climate and Environment",
-    "function10":"Expert in the pathology of science",
-    "function11":"Cardiac surgeon",
-    "function12":"Vice President of the Management Board of PGNiG SA for Operations",
-    "function13":"President of the Jagiellonian Institute, entrepreneur"
-
+    "function1":"Author of the book \"How not to be cheated on the Internet\"",
+    "function2":"Doctor of social sciences in the field of media sciences",
+    "function3":"Security expert",
+    "function4":"Vice-Dean of the Master's Study, Warsaw School of Economics",
+    "function5":"Doctor of humanities",
+    "function6":"Psychologist",
+    "function7":" ",
+    "function8":"Physician, gastrolog / Prof. cardiac surgeon"
   },
   "personList": {
     "person1": {
-      "name": "Grzegorz Kuczyński",
-      "description": "Writes about Russia and the post-Soviet area, specializes in secret services. A graduate of history (University of Białystok) and specialist Eastern studies (University of Warsaw). An expert of the Warsaw Institute, author of the books \"How the Russians are killing Victims of the Russian services from Trotsky to Litvinenko\" and \"The throne in blood. Secrets of the Kremlin's policy \""
+      "name": "Agnieszka Bujała",
+      "description": "Has been working in the social media industry for many years, and she also runs her own ITentego agency, where she deals with brand image on the Internet. She is the author of the book  \"How not to get cheated on the Internet\", in which she explains the ways of manipulating network users. As she writes, for years she has been meeting behind the scenes with the biggest names on the Internet and with people who work in it on a daily basis and she knows exactly what they are hiding from Internet users."
     },
     "person2": {
-      "name": "Piotr Naimski",
-      "description": "Polish politician, biochemist, academic teacher, opposition activist during the People's Republic of Poland, publicist, former deputy economy minister, member of the Sejm of the 7th and 8th term, from 2015 secretary of state in the Chancellery of the Prime Minister, Government Plenipotentiary for Strategic Energy Infrastructure."
+      "name": "Ilona Dąbrowska",
+      "description": "Doctor of social sciences in the field of media sciences, specializing in social media and e-communication and their social and cultural implications. In her research and publications, she addresses, inter alia, the problem of hate speech, internet hate and deep fakes. Assistant professor at the Department of Journalism, Institute of Social Communication and Media Sciences at the Faculty of Political Science and Journalism at the Maria Curie-Skłodowska University in Lublin."
     },
     "person3": {
-      "name": "Artur B. Chmielewski",
-      "description": "Worked almost every possible space job.  He built space instruments, developed interplanetary spacecraft, managed billion-dollar missions, and developed a lab to construct a space telescope the size of a football stadium.  His missions traveled to the Sun, Mars, Jupiter, Saturn and landed on a comet. He worked on getting space images of cryo-volcanoes, black holes and extrasolar planets.  Art worked on software, hardware, was a consultant to Hollywood movies, and designed space sculptures. He is employed by the California Institute of Technology at JPL – a NASA Center in Pasadena, California, which is responsible for robotic space flights.\nHe worked with the Polish Space Agency, Polish universities and firms to develop the first Polish interplanetary mission.  Through his private company Spartan Space he is helping Polish space companies to enter the U.S. market and Polish students to get summer jobs at NASA.\nHowever, no matter how much he is able to accomplish in space exploration, in Poland he is known for being the son of Papcio Chmiel – the author of popular comics “Tytus, Romek i A’Tomek.”\n"
+      "name": "Marcin Maj",
+      "description": "Security expert at the website niebezpiecznik.pl"
     },
     "person4": {
-      "name": "Małgorzata Zakrzewska",
-      "description": "Is a member of the Executive Committee of P4 sp.z o.o. (\"Play\") since April 2021. She is also the Director of the Corporate Communication Department. She is responsible for corporate communication, government and institutional relations as well as internal communication. She joined Play in November 2005, where she held various managerial and expert positions in the areas of administration, corporate relations, public affairs and corporate communication. Before joining Play, she coordinated the activities of the Merrill Lynch branch in Warsaw from January 2000. In the years 2019-2020 she was a member of the Board of Directors of the European Competitive Telecommunications Association. She is also the Vice-President of the Telecommunications Operators Section at the Polish Chamber of Electronics and Telecommunications and is appointed by the Prime Minister to the Council for Digitization - an advisory body to the government of the Republic of Poland. She studied media and communications at the University of New South Wales in Sydney, Australia, graduated in political science and holds an Advanced Management diploma from IESE Business School, University of Navarra. She is also a graduate of International Baccalaureate, United World College of South East Asia in Singapore."
+      "name": "Dr Piotr Maszczyk ",
+      "description": "Kierownik Zakładu Makroekonomii i Ekonomii Sektora Publicznego w Katedrze Ekonomii II Kolegium Gospodarki Światowej. Specjalizuje się w badaniach nad relacjami państwa i sektora przedsiębiorstw, instytucjonalnymi czynnikami wzrostu gospodarczego i zróżnicowaniem współczesnych modeli kapitalizmu. Autor i współautor blisko pięćdziesięciu monografii i artykułów naukowych. Wielokrotnie wyróżniany (nagrodami rektorskimi i wyróżnieniami przyznawanymi przez studentów) wykładowca na studiach licencjackich, magisterskich i doktorskich. Były pracownik Ministerstwa Finansów i Ministerstwa Rozwoju Regionalnego w randze radcy ministra."
     },
     "person5": {
-      "name": "Józef Orzeł",
-      "description": "Polish politician, PhD in philosophy, manager, Member of Parliament of the first term. In 1990, he was among the founders of the Center Agreement. He deals with expert activities in the field of digitization. Since 1997, he has been the vice-president of the \"Cities on the Internet\" Association.\n \nIn 2007 he founded with Rafał Ziemkiewicz and runs the conservative Ronin Club. He is the chairman of the board of the Reduta Dobrego Imienia - Polish League against Defamation Foundation, the chairman of the board of the Ronin Club Foundation and Fundacja im. Maciej Rybiński. In 2017, he became a member of the Council of the Polish National Foundation, and in 2019 the chairman of the Digitization Council operating at the Minister of Digital Affairs."
+      "name": "Piotr Potejko",
+      "description": "doctor of humanities, lawyer, educator. Assistant professor at the Department of Internal Security at the Faculty of Political Science and International Studies at the University of Warsaw. Colonel, officer, long-term director of the Department of Classified Information Protection and the Central Training Center of the Internal Security Agency. An expert and participant in the work of parliamentary committees, a representative of the Prime Minister in the field of processing and initiating international agreements, and a representative of Polish side at meetings of  NATO and European Union Security Committee in Brussels. Controller and expert in the field of information security in Polish diplomatic missions."
     },
     "person6": {
-      "name": "Dr. Leszek Mellibruda",
-      "description": "Social psychologist. Author of 80 scientific publications and over 250 popular science publications. He has extensive professional experience, actively participated in 40 scientific conventions and congresses. For 6 years he was a lecturer at the University of Social Sciences and Humanities (IKAR project). In 2011/2012 he was an advisor to the Minister of National Education. He cooperated with the National Council of Legal Advisers (advisor to the Presidium) and the National Council of Bailiffs (advisor to the President, cooperation with spokespersons of Bailiff Chambers). He completed postgraduate studies, incl. at Johns Hopkins University, Baltimore, USA. He is a consultant of the European Entrepreneurship Forum and an expert of the European Integration Club. From 2014, visiting professor Center for Advanced Studies (lecturer in psychology for doctoral students of the Warsaw University of Technology). From 2020, a professor at the Radom University of Economics."
-    },
-    "person7": {
-      "name": "Emilian Kamiński",
-      "description": "Actor, director, founder of the Atut Foundation and the Kamienica Theater, where he is the director. He graduated with honors from the State Higher School of Theater in Warsaw. He made his stage debut at Teatr na Woli as Paweł in \"The First Day of Freedom\" directed by Tadeusz Łomnicki. He started as a director at the Ateneum Theater in Warsaw, with which he was associated for 13 years. He made guest appearances in Warsaw theaters: Komedia, Rozmaitości, and Powszechny im. Zygmunt Hübner, Musical Roma, Studio Buffo. He also performed at the National Theater. Also known for his film and television roles, incl. the painter in the film adaptation of the novel by Kornel Makuszyński \"Madness of Ms Ewa\" or stork in the comedies by Jacek Bromski \"U Pana Boga w ogródku\" and \"U Pana Boga za miedzią\".\n"
-    },
-    "person8": {
-      "name": "Prof. Andrzej Kisielewicz",
-      "description": "Mathematician specializing in algebra, combinatorics and logic. A graduate of the Faculty of Mathematics and Computer Science at the University of Wrocław, he obtained a PhD in mathematics from the Polish Academy of Sciences in Warsaw. Professor at the Wrocław University of Technology. Author of over seventy scientific publications in the field of mathematics, logic and computer science in foreign journals, as well as three books in Polish. Winner of two of the world's most prestigious research scholarships: the Alexander von Humboldt scholarship and the Fulbright scholarship."
-    },
-    "person9": {
-      "name": "Tomasz Nowacki",
-      "description": "Director of the Department of Nuclear Energy, Ministry of Climate and Environment"
-    },
-    "person10": {
-      "name": "Dr hab. n. med. Marek Wroński",
-      "description": "Physician-anaesthesiologist, expert in pathology of science, from 2013 associate professor at the Medical Faculty of the State University of Applied Sciences in Kalisz (currently the Kaliska Academy, Faculty of Health Sciences), previously the Scientific Integrity Officer of the Medical University of Warsaw, and in 1989-2007 a researcher at Staten Island University Hospital in New York and the University of Medicine & Dentistry of New Jersey in Newark. For over 20 years he has been dealing with scientific misconduct and violations of good academic practices and ethics in science, a publicist and journalist of the monthly \"Forum Akademickie\", where he runs the monthly series \"From the Archive of Scientific Dishonesty\"."
-    },
-    "person11": {
-      "name": "Grzegorz Zbigniew Religa, MD, PhD ",
-      "description": "Cardiac surgeon, son of professor Zbigniew Religa, graduate of the Medical Academy in Warsaw. After completing a postgraduate internship at the Skłodowska-Curie Oncology Center, since 1992, he worked as an assistant at the Third Surgery Clinic of the Medical University of Warsaw. In 1997 he obtained a specialization in the field of general surgery. In the same year he started working as an assistant and then assistant professor at the Institute of Cardiology in Warsaw. Since 2003, a specialist in the field of cardiosurgery, and since 2011 - the head of the mechanical heart support team. Currently, he is the head of the Department of Cardiac Surgery at the WSS im. Bieganski in Lodz.\n"
-    },
-    "person12": {
-      "name": "Robert Perkowski",
-      "description": "Robert Perkowski is an economist, local government official, doctor of economic sciences. He is a graduate of postgraduate studies in \"management analyst\" of the Institute of Organization and Management in Industry \"ORGMASZ\", where he completed International Doctoral Studies. The doctoral dissertation was opened and conducted at the Institute of Economic Sciences of the Polish Academy of Sciences. At the Private School of Business and Administration in Warsaw, he completed full-time master's studies in two specializations: marketing and management as well as finance and banking. He is the author of over a dozen scientific articles.  \n \nHe has been gaining professional experience since 2001 by completing an internship in the financial department of “Dacon Corp. LTD ”at Queen's University, Canada. Then, in 2002, he started working in the Ministry of Justice, where he dealt with, inter alia, developing financial plans for the wages of the Prison Service. In the period 2006-2018 he was the Mayor of the City of Ząbki. At the same time, he was the president of one of the self-government corporations “Związek Samorządów Polskich”, he also provided training services and obtained the mandate of a commune and poviat council.  \n \nIn the Management Board of PGNiG SA since March 2019, he is the Vice President for Operations. \n"
-    },
-    "person13": {
-      "name": "Marcin Roszkowski",
-      "description": " president of the Jagiellonian Institute, entrepreneur, previously also: researcher at the Institute of Political Science of the Polish Academy of Sciences, lecturer at Collegium Civitas, director of the Department of Communication and Promotion of the National Bank of Poland, head of the PR department and spokesman for the Warsaw Uprising Museum and deputy director of the International Affairs Office at the Chancellery of the President of the Republic of Poland. Main research areas: renewable energy, strategic studies and international relations."
+      "name": "Tomasz Witkowski",
+      "description": "Doctor of psychology, writer, columnist, skeptic. Author of over a dozen books published in Poland and the USA, including the Forbidden Psychology trilogy. He has published several dozen scientific articles and several hundred popular science articles in the country, among others in Polityka, Plus Minus, Newsweek and abroad in BPS Research Digest, Areo Magazine, Quillette, Skeptical Inquirer. Founder of the Polish Skeptics Club. He worked scientifically at two universities in Poland and two in Germany."
     }
   }
 }

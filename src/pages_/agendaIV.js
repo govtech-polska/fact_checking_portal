@@ -56,7 +56,7 @@ const AgendaIV = () => {
                                 */}
 
 
-                                {/*
+
 
 
                                 <div className="tableWrapper">
@@ -64,7 +64,7 @@ const AgendaIV = () => {
                                         <thead>
                                         <tr>
                                             <th className="main" colSpan="3"
-                                                scope="col">{t('agendaIV:table.tableTitle')}
+                                                scope="col"><strong>{t('agendaIV:table.tableTitle')}</strong>
                                             </th>
 
                                         </tr>
@@ -79,50 +79,50 @@ const AgendaIV = () => {
                                         <tr>
                                             <td className="hour">9:50</td>
                                             <td className="center"
-                                                colSpan="2">{t('agendaIV:table.tableMainTitle1')}</td>
+                                                colSpan="2"><strong>{t('agendaIV:table.tableMainTitle1')}</strong></td>
                                         </tr>
 
                                         <tr>
                                             <td className="hour">10:00</td>
-                                            <td><a href="#id2">Piotr Naimski</a></td>
-                                            <td>{t('agendaIV:functions.function2')}</td>
+                                            <td><a href="#id3">Marcin Maj</a></td>
+                                            <td>{t('agendaIV:functions.function3')}</td>
                                         </tr>
 
                                         <tr>
                                             <td className="hour">11:00</td>
-                                            <td><a href="#id11">Grzegorz Religa</a></td>
-                                            <td>{t('agendaIV:functions.function11')}</td>
+                                            <td><a href="#id5">Piotr Potejko</a></td>
+                                            <td>{t('agendaIV:functions.function5')}</td>
                                         </tr>
 
                                         <tr>
-                                            <td className="middle hour" rowSpan="4">12:00</td>
+                                            <td className="middle hour" rowSpan="1">12:00</td>
                                             <td className="debateName" colSpan="2">
                                                 {t('agendaIV:table.debate1')}</td>
                                         </tr>
 
-                                        <tr>
-                                            <td><a href="#id5">Józef Orzeł</a>
+                                        {/*  <tr>
+                                            <td><a href="#"></a>
                                             </td>
-                                            <td>{t('agendaIV:functions.function5')}
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td><a href="#id4">Małgorzata Zakrzewska</a></td>
-                                            <td>{t('agendaIV:functions.function4')}
+                                            <td>
                                             </td>
                                         </tr>
 
                                         <tr>
-                                            <td><a href="#id6">Dr Leszek Mellibruda</a></td>
-                                            <td>{t('agendaIV:functions.function6')}
+                                            <td><a href="#"></a></td>
+                                            <td>
                                             </td>
                                         </tr>
+
+                                        <tr>
+                                            <td><a href="#"></a></td>
+                                            <td>
+                                            </td>
+                                        </tr> */}
 
                                         <tr>
                                             <td className="hour">13:00
                                             </td>
-                                            <td><a href="#id1">Grzegorz Kuczyński</a>
+                                            <td><a href="#id1">Agnieszka Bujała</a>
                                             </td>
                                             <td>{t('agendaIV:functions.function1')}
                                             </td>
@@ -131,31 +131,155 @@ const AgendaIV = () => {
                                         <tr>
                                             <td className="hour">14:00
                                             </td>
-                                            <td><a href="#id7">Emilian Kamiński</a>
+                                            <td><a href="#id4">Piotr Maszczyk</a>
                                             </td>
-                                            <td>{t('agendaIV:functions.function7')}
+                                            <td>{t('agendaIV:functions.function4')}
                                             </td>
                                         </tr>
                                         </tbody>
                                     </table>
                                 </div>
 
-                                */}
 
-                                {/*
+                                <div className="tableWrapper">
+                                    <table className="table  table-bordered">
+                                        <thead>
+                                        <tr>
+                                            <th className="main" colSpan="3"
+                                                scope="col"><strong>{t('agendaIV:table.tableTitle2')}</strong>
+                                            </th>
+
+                                        </tr>
+                                        <tr>
+                                            <th scope="col">{t('agendaIV:table.tableTh')}</th>
+                                            <th className="name"
+                                                scope="col">{t('agendaIV:table.tableTh1')} {t('agendaIV:table.tableTh2')}</th>
+                                            <th scope="col">{t('agendaIV:table.tableTh3')}</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+
+
+                                        <tr>
+                                            <td className="hour">10:00</td>
+                                            <td><a href="#id2">Ilona dąbrowska</a></td>
+                                            <td>{t('agendaIV:functions.function2')}</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td className="hour">11:00</td>
+                                            <td><a href="#id6">Tomasz Witkowski</a></td>
+                                            <td>{t('agendaIV:functions.function6')}</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td className="middle hour" rowSpan="1">12:00</td>
+                                            <td className="debateName" colSpan="2">
+                                                {t('agendaIV:table.debate2')}</td>
+                                        </tr>
+
+                                        {/*  <tr>
+                                            <td><a href="#"></a>
+                                            </td>
+                                            <td>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td><a href="#"></a></td>
+                                            <td>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td><a href="#"></a></td>
+                                            <td>
+                                            </td>
+                                        </tr> */}
+
+                                        <tr>
+                                            <td className="hour">13:00
+                                            </td>
+                                            <td><a href="#id7">Łowca Szarlatanów</a>
+                                            </td>
+                                            <td>{t('agendaIV:functions.function7')}
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td className="hour">14:00
+                                            </td>
+                                            <td><a href="#id8">Arkadiusz Dednarczuk / Mariusz Kuśmierczyk</a>
+                                            </td>
+                                            <td>{t('agendaIV:functions.function8')}
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td className="hour">14:40</td>
+                                            <td className="center"
+                                                colSpan="2"><strong>{t('agendaIV:table.tableMainTitle2')}</strong></td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
 
                                 <h2 className="subtitle">{t('agendaIV:subtitle1')}</h2>
                                 <ul className="personList">
+                                    <li id="id1" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/1.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person1.name')}</h2>
+                                            <p>{t('agendaIV:personList.person1.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id2" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/2.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person2.name')}</h2>
+                                            <p>{t('agendaIV:personList.person2.description')}</p>
+                                        </div>
+                                    </li>
                                     <li id="id3" className="person">
                                         <div className="imageWrapper">
-                                            <img src="/images/persons/fh3/3.jpg"/>
+                                            <img src="/images/persons/fh4/3.jpg"/>
                                         </div>
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaIV:personList.person3.name')}</h2>
                                             <p>{t('agendaIV:personList.person3.description')}</p>
                                         </div>
                                     </li>
-                                </ul>*/}
+                                    <li id="id4" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/4.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person4.name')}</h2>
+                                            <p>{t('agendaIV:personList.person4.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id5" className="person noImage">
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person5.name')}</h2>
+                                            <p>{t('agendaIV:personList.person5.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id6" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/6.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person6.name')}</h2>
+                                            <p>{t('agendaIV:personList.person6.description')}</p>
+                                        </div>
+                                    </li>
+                                </ul>
+
+
 
                                 {/*
                                 <div id="frames" className="iframeList">
