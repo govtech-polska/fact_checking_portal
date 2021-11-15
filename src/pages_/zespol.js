@@ -120,10 +120,6 @@ const Team = () => {
                     <p>{t('team:data.15.description')}</p>
                   </li>
                   <li>
-                    <strong>{t('team:data.16.name')}</strong>
-                    <p>{t('team:data.16.description')}</p>
-                  </li>
-                  <li>
                     <strong>{t('team:data.17.name')}</strong>
                     <p>{t('team:data.17.description')}</p>
                   </li>
