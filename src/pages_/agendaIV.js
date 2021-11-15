@@ -209,7 +209,7 @@ const AgendaIV = () => {
                                         <tr>
                                             <td className="hour">14:00
                                             </td>
-                                            <td><a href="#id8">Arkadiusz Dednarczuk / Mariusz Kuśmierczyk</a>
+                                            <td><a href="#id8">Arkadiusz Bednarczuk / Mariusz Kuśmierczyk</a>
                                             </td>
                                             <td>{t('agendaIV:functions.function8')}
                                             </td>
@@ -242,6 +242,12 @@ const AgendaIV = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaIV:personList.person2.name')}</h2>
                                             <p>{t('agendaIV:personList.person2.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id7" className="person noImage">
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person7.name')}</h2>
+                                            <p>{t('agendaIV:personList.person7.description')}</p>
                                         </div>
                                     </li>
                                     <li id="id3" className="person">

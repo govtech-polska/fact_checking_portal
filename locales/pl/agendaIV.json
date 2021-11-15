@@ -23,7 +23,7 @@
     "function4":"Prodziekan Studium Magisterskiego, Szkoła Główna Handlowa",
     "function5":"Doktor nauk humanistycznych",
     "function6":"Psycholog",
-    "function7":" ",
+    "function7":"Założyciel oraz twórca strony Łowca Szarlatanów na Facebooku",
     "function8":"Lekarz, gastrolog / Prof. kardiochirurg"
 
 
@@ -52,6 +52,10 @@
     "person6": {
       "name": "Tomasz Witkowski",
       "description": "Doktor psychologii, pisarz, publicysta, sceptyk. Autor kilkunastu książek wydanych w Polsce i USA, w tym trylogii Zakazana psychologia. Opublikował kilkadziesiąt artykułów naukowych i kilkaset popularnonaukowych w kraju m. in. w Polityce, Plus Minus, Newsweek i za granicą w BPS Research Digest, Areo Magazine, Quillette, Skeptical Inquirer. Założyciel Klubu Sceptyków Polskich. Pracował naukowo na dwóch uniwersytetach w Polsce i dwóch w Niemczech. "
+    },
+    "person7": {
+      "name": "Łowca Szarlatanów",
+      "description": "Założyciel oraz twórca strony Łowca Szarlatanów na Facebooku (https://www.facebook.com/lowcaszarlatanow) zajmującej się napiętnowaniem pseudonauki oraz osób czerpiących zyski w oparciu o fakenewsy, dezinformacje oraz tzn. medycynę alternatywną. Skupia się głównie na osobach oferujących niesprawdzone i szkodliwe terapie oraz metody leczenia jak również gadżety i przedmioty którym przypisywane są niezwykłe właściwości lecznicze. Publikuje informacje o fakenewsach i teoriach spiskowych związanych ze szczepionkami, pandemią Covid-19, rzekomą szkodliwością sieci 5G i wielu innych obszarach."
     }
 
   }
