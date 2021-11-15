@@ -262,7 +262,10 @@ const AgendaIV = () => {
                                             <p>{t('agendaIV:personList.person4.description')}</p>
                                         </div>
                                     </li>
-                                    <li id="id5" className="person noImage">
+                                    <li id="id5" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/5.jpg"/>
+                                        </div>
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaIV:personList.person5.name')}</h2>
                                             <p>{t('agendaIV:personList.person5.description')}</p>
