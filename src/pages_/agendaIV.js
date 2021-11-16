@@ -162,7 +162,7 @@ const AgendaIV = () => {
 
                                         <tr>
                                             <td className="hour">10:00</td>
-                                            <td><a href="#id2">Ilona dąbrowska</a></td>
+                                            <td><a href="#id2">Ilona Dąbrowska</a></td>
                                             <td>{t('agendaIV:functions.function2')}</td>
                                         </tr>
 
