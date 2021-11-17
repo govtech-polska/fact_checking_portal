@@ -24,7 +24,8 @@
     "function5":"Doctor of humanities",
     "function6":"Psychologist",
     "function7":"The founder and creator of the website Charlatan Hunter on Facebook",
-    "function8":"Physician, gastrolog / Prof. cardiac surgeon"
+    "function8":"Physician, gastrolog",
+    "function9":"Prof. cardiac surgeon"
   },
   "personList": {
     "person1": {
@@ -54,6 +55,14 @@
     "person7": {
       "name": "Charlatan Hunter",
       "description": "The founder and creator of the website Charlatan Hunter on Facebook (https://www.facebook.com/lowcaszarlatanow) opposing pseudoscience and people profiting from fake news, disinformation and the so called alternative medicine. It focuses mainly on people offering untested and harmful therapies and methods of treatment, as well as gadgets and items that are credited with remarkable healing properties. The website publishes information on fake news and conspiracy theories related to vaccines, the Covid-19 pandemic, the alleged harmfulness of the 5G network and many other areas."
+    },
+    "person8": {
+      "name": "Arkadiusz Bednarczuk",
+      "description": "Doctor, gastroenterologist. In 2008 he specialized in the field of internal medicine, and in 2001 -  in the field of gastroenterology.\nHe is professionally associated with the Endoscopy Laboratory at the Department of Internal Diseases and Gastroenterology with the Subdivision for Treatment of Inflammatory Bowel Diseases at the Central Clinical Hospital of the Ministry of Internal Affairs and Administration in Warsaw. He consults patients struggling with diseases within the digestive system. Performs diagnostic tests, including endoscopic examinations. In his practice, he also uses endoscopic capsules.\n"
+    },
+    "person9": {
+      "name": "Mariusz Kuśmierczyk",
+      "description": "Polish cardiac surgeon and clinical transplantologist, professor of medical sciences, head of the Department of Cardiac Surgery and Transplantology of the Institute of Cardiology of the Primate of the Millennium Cardinal Stefan Wyszynski in Warsaw-Anin. He specializes in cardiac surgery, clinical transplantology and general surgery."
     }
   }
 }

@@ -24,7 +24,8 @@
     "function5":"Doktor nauk humanistycznych",
     "function6":"Psycholog",
     "function7":"Założyciel oraz twórca strony Łowca Szarlatanów na Facebooku",
-    "function8":"Lekarz, gastrolog / Prof. kardiochirurg"
+    "function8":"Lekarz, gastrolog",
+    "function9":"Prof. kardiochirurg"
 
 
   },
@@ -56,7 +57,16 @@
     "person7": {
       "name": "Łowca Szarlatanów",
       "description": "Założyciel oraz twórca strony Łowca Szarlatanów na Facebooku (https://www.facebook.com/lowcaszarlatanow) zajmującej się napiętnowaniem pseudonauki oraz osób czerpiących zyski w oparciu o fakenewsy, dezinformacje oraz tzn. medycynę alternatywną. Skupia się głównie na osobach oferujących niesprawdzone i szkodliwe terapie oraz metody leczenia jak również gadżety i przedmioty którym przypisywane są niezwykłe właściwości lecznicze. Publikuje informacje o fakenewsach i teoriach spiskowych związanych ze szczepionkami, pandemią Covid-19, rzekomą szkodliwością sieci 5G i wielu innych obszarach."
+    },
+    "person8": {
+      "name": "Arkadiusz Bednarczuk",
+      "description": "Lekarz, gastrolog. W 2008 roku uzyskał specjalizację w dziedzinie chorób wewnętrznych, a w 2001 roku – specjalizację w zakresie gastroenterologii.\nZawodowo związany jest z Pracownią Endoskopową w Klinice Chorób Wewnętrznych i Gastroenterologii z Pododdziałem Leczenia Nieswoistych Chorób Zapalnych Jelit w Centralnym Szpitalu Klinicznym MSWiA w Warszawie. Konsultuje pacjentów borykających się z chorobami w obrębie układu pokarmowego. Wykonuje badania diagnostyczne, w tym badania endoskopowe. W swojej praktyce wykorzystuje również kapsułki endoskopowe.\n"
+    },
+    "person9": {
+      "name": "Mariusz Kuśmierczyk",
+      "description": "Polski kardiochirurg i transplantolog kliniczny, profesor nauk medycznych, kierownik Kliniki Kardiochirurgii i Transplantologii Instytutu Kardiologii im. Prymasa Tysiąclecia Kardynała Stefana Wyszyńskiego w Warszawie-Aninie \nSpecjalizuje się w Kardiochirurgii, Transplantologii klinicznej oraz Chirurgii ogólnej.\n"
     }
+
 
   }
 }
