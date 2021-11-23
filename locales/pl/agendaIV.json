@@ -25,7 +25,8 @@
     "function6":"Psycholog",
     "function7":"Założyciel oraz twórca strony Łowca Szarlatanów na Facebooku",
     "function8":"Lekarz, gastrolog",
-    "function9":"Prof. kardiochirurg"
+    "function9":"Prof. kardiochirurg",
+    "function10":"Neurobiolog"
 
 
   },
@@ -65,8 +66,10 @@
     "person9": {
       "name": "Mariusz Kuśmierczyk",
       "description": "Polski kardiochirurg i transplantolog kliniczny, profesor nauk medycznych, kierownik Kliniki Kardiochirurgii i Transplantologii Instytutu Kardiologii im. Prymasa Tysiąclecia Kardynała Stefana Wyszyńskiego w Warszawie-Aninie \nSpecjalizuje się w Kardiochirurgii, Transplantologii klinicznej oraz Chirurgii ogólnej.\n"
+    },
+    "person10": {
+      "name": "Dr Paweł M. Boguszewski",
+      "description": "Neurobiolog, kierownik Pracowni Metod Behawioralnych w Instytucie Nenckiego Polskiej Akademii Nauk. Zajmuje się badaniami behawioralnymi w modelach wykorzystywanych w naukach podstawowych i biomedycznych. Jego zainteresowania obejmują mechanizmy zachowań afektywnych i eksploracyjnych wraz z korelatami neuronalnymi oraz automatyzacją procesów analizy danych. Studiował biologię na Uniwersytecie Warszawskim, tytuł doktora uzyskał w Instytucie Nenckiego PAN, staż podoktorski odbył na Yale University, USA. Prywatnie jest pasjonatem programowania, żeglarstwa i popularyzacji nauki"
     }
-
-
   }
 }
