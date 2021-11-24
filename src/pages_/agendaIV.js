@@ -186,9 +186,9 @@ const AgendaIV = () => {
                                         <tr>
                                             <td className="hour">13:00
                                             </td>
-                                            <td><a href="#id7">Łowca Szarlatanów</a>
+                                            <td><a href="#id7"></a>
                                             </td>
-                                            <td>{t('agendaIV:functions.function7')}
+                                            <td>
                                             </td>
                                         </tr>
 
@@ -257,12 +257,12 @@ const AgendaIV = () => {
                                             <p>{t('agendaIV:personList.person9.description')}</p>
                                         </div>
                                     </li>
-                                    <li id="id7" className="person noImage">
+                                    {/*<li id="id7" className="person noImage">
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaIV:personList.person7.name')}</h2>
                                             <p>{t('agendaIV:personList.person7.description')}</p>
                                         </div>
-                                    </li>
+                                    </li>*/}
                                     <li id="id3" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh4/3.jpg"/>
