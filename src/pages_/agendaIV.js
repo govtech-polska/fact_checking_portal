@@ -256,6 +256,15 @@ const AgendaIV = () => {
                                             <p>{t('agendaIV:personList.person2.description')}</p>
                                         </div>
                                     </li>
+                                    <li id="id12" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/12.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person12.name')}</h2>
+                                            <p>{t('agendaIV:personList.person12.description')}</p>
+                                        </div>
+                                    </li>
                                     <li id="id9" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh4/9.jpg"/>
@@ -290,6 +299,15 @@ const AgendaIV = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaIV:personList.person4.name')}</h2>
                                             <p>{t('agendaIV:personList.person4.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id13" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/13.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person13.name')}</h2>
+                                            <p>{t('agendaIV:personList.person13.description')}</p>
                                         </div>
                                     </li>
                                     <li id="id5" className="person">
