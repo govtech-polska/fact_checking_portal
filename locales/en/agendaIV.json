@@ -13,7 +13,7 @@
     "tableTh3": "Function",
     "tableMainTitle1": "Opening #FakeHunter Challenge - Note! Scammer",
     "tableMainTitle2": "Ending #FakeHunter Challenge - Note! Scammer",
-    "debate1": "DEBATE",
+    "debate1": "DEBATE: Frauds of the disinformation era - how not to fall into the trap of abuse.",
     "debate2": " "
   },
   "functions": {
@@ -26,7 +26,10 @@
     "function7":"Doctor of Laws",
     "function8":"Physician, gastrolog",
     "function9":"Prof. cardiac surgeon",
-    "function10":"Neurobiologist"
+    "function10":"Neurobiologist",
+    "function11":"Deputy Director of GovTech Polska Programme in the Prime Minister's Office",
+    "function12":"Ekspert edukacji z wykorzystaniem nowych technologii Fundacja PFR",
+    "function13":"Rzecznik Prasowy PGNiG"
   },
   "personList": {
     "person1": {
@@ -68,6 +71,10 @@
     "person10": {
       "name": "Dr Paweł M. Boguszewski",
       "description": "Neurobiolog, kierownik Pracowni Metod Behawioralnych w Instytucie Nenckiego Polskiej Akademii Nauk. Zajmuje się badaniami behawioralnymi w modelach wykorzystywanych w naukach podstawowych i biomedycznych. Jego zainteresowania obejmują mechanizmy zachowań afektywnych i eksploracyjnych wraz z korelatami neuronalnymi oraz automatyzacją procesów analizy danych. Studiował biologię na Uniwersytecie Warszawskim, tytuł doktora uzyskał w Instytucie Nenckiego PAN, staż podoktorski odbył na Yale University, USA. Prywatnie jest pasjonatem programowania, żeglarstwa i popularyzacji nauki"
+    },
+    "person11": {
+      "name": "Antoni Rytel",
+      "description": "An economist and computer scientist specialising in financial applications of artificial intelligence and cyber security, currently studying and working as a Research Assistant at American Stanford University, where he carries out projects in cooperation with NASA, Google and Hoover Institution. He gained his experience during internships in Polish and foreign financial institutions and in the United States Congress as a winner of the TFLF programme. Winner of Olympic Games, competitions and distinctions. He has been involved in innovations in the public sector since 2017, when, as a winner of the \"Tax Leaders\" competition, he became one of the MinFinTech project coordinators in the Ministry of Finance. He holds the position of Deputy Director of GovTech Polska Programme in the Prime Minister's Office."
     }
   }
 }

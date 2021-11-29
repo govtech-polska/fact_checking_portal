@@ -95,7 +95,7 @@ const AgendaIV = () => {
                                         </tr>
 
                                         <tr>
-                                            <td className="hour">12:00
+                                            <td className="hour">11:30
                                             </td>
                                             <td><a href="#id10">Dr Paweł M. Boguszewski</a>
                                             </td>
@@ -103,7 +103,32 @@ const AgendaIV = () => {
                                             </td>
                                         </tr>
 
+                                        <tr>
+                                            <td className="middle hour" rowSpan="4">12:00</td>
+                                            <td className="debateName" colSpan="2">
+                                                {t('agendaIV:table.debate1')}</td>
+                                        </tr>
 
+                                        <tr>
+                                            <td><a href="#id11">Antoni Rytel</a>
+                                            </td>
+                                            <td>{t('agendaIV:functions.function11')}
+                                            </td>
+                                        </tr>
+
+
+
+                                        <tr>
+                                            <td><a href="#id12">Łukasz Dzieran</a></td>
+                                            <td>{t('agendaIV:functions.function12')}
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td><a href="#id13">Rafał Pazura</a></td>
+                                            <td>{t('agendaIV:functions.function13')}
+                                            </td>
+                                        </tr>
 
                                         <tr>
                                             <td className="hour">13:00
@@ -274,6 +299,15 @@ const AgendaIV = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaIV:personList.person5.name')}</h2>
                                             <p>{t('agendaIV:personList.person5.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id11" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh4/11.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaIV:personList.person11.name')}</h2>
+                                            <p>{t('agendaIV:personList.person11.description')}</p>
                                         </div>
                                     </li>
                                     <li id="id6" className="person">

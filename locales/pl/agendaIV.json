@@ -13,7 +13,7 @@
     "tableTh3": "Funkcja",
     "tableMainTitle1": "Otwarcie #FakeHunter Challenge - Uwaga! Oszust",
     "tableMainTitle2": "Zakończenie #FakeHunter Challenge - Uwaga! Oszust",
-    "debate1": "DEBATA",
+    "debate1": "DEBATA: Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć.",
     "debate2": " "
   },
   "functions": {
@@ -26,7 +26,10 @@
     "function7":"Doktor nauk prawnych",
     "function8":"Lekarz, gastrolog",
     "function9":"Prof. kardiochirurg",
-    "function10":"Neurobiolog"
+    "function10":"Neurobiolog",
+    "function11":"Wicedyrektor Programu GovTech Polska w Kancelarii Premiera",
+    "function12":"Ekspert edukacji z wykorzystaniem nowych technologii Fundacja PFR",
+    "function13":"Rzecznik Prasowy PGNiG"
 
 
   },
@@ -70,6 +73,10 @@
     "person10": {
       "name": "Dr Paweł M. Boguszewski",
       "description": "Neurobiolog, kierownik Pracowni Metod Behawioralnych w Instytucie Nenckiego Polskiej Akademii Nauk. Zajmuje się badaniami behawioralnymi w modelach wykorzystywanych w naukach podstawowych i biomedycznych. Jego zainteresowania obejmują mechanizmy zachowań afektywnych i eksploracyjnych wraz z korelatami neuronalnymi oraz automatyzacją procesów analizy danych. Studiował biologię na Uniwersytecie Warszawskim, tytuł doktora uzyskał w Instytucie Nenckiego PAN, staż podoktorski odbył na Yale University, USA. Prywatnie jest pasjonatem programowania, żeglarstwa i popularyzacji nauki"
+    },
+    "person11": {
+      "name": "Antoni Rytel",
+      "description": "Ekonomista i informatyk specjalizujący się w finansowych zastosowaniach sztucznej inteligencji oraz cyberbezpieczeństwie, obecnie studiujący i pracujący naukowo jako Research Assistant na amerykańskim Stanford University gdzie realizuje projekty m.in. we współpracy z NASA, Google czy Hoover Institution. Doświadczenie zdobywał podczas staży w polskich i zagranicznych instytucjach finansowych oraz w Kongresie Stanów Zjednoczonych jako laureat programu TFLF. Laureat olimpiad, konkursów i wyróżnień. Innowacjami w sektorze publicznym zajmuje się od 2017 roku, kiedy jako laureat konkursu “Podatkowi Liderzy” został jednym z koordynatorów projektu MinFinTech w Ministerstwie Finansów. Pełni społecznie funkcję wicedyrektora Programu GovTech Polska w Kancelarii Premiera."
     }
   }
 }
