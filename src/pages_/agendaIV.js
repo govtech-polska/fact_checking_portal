@@ -184,9 +184,9 @@ const AgendaIV = () => {
                                         </tr>
 
                                         <tr>
-                                            <td className="middle hour" rowSpan="1">12:00</td>
-                                            <td className="debateName" colSpan="2">
-                                                {t('agendaIV:table.debate2')}</td>
+                                            <td className="hour">12:00</td>
+                                            <td><a href="#id14">Mariusz Kurczyk</a></td>
+                                            <td>{t('agendaIV:functions.function14')}</td>
                                         </tr>
 
 
@@ -209,7 +209,7 @@ const AgendaIV = () => {
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td className="hour">14:40</td>
+                                            <td className="hour">14:30</td>
                                             <td className="center"
                                                 colSpan="2"><strong>{t('agendaIV:table.tableMainTitle2')}</strong></td>
                                         </tr>
