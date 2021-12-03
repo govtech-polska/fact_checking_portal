@@ -146,13 +146,7 @@ const challengeIV = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
-                                <div className="col-lg-6">
 
-                                    <div className="imageWrapper">
-                                        <img src="/images/image3.png" alt=""/>
-
-                                    </div>
-                                </div>
                                 <div className="col-lg-6">
 
                                     <div className="textWrapper">
@@ -179,7 +173,13 @@ const challengeIV = () => {
 
 
                                 </div>
+                                <div className="col-lg-6">
 
+                                    <div className="imageWrapper">
+                                        <img src="/images/image3.png" alt=""/>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -296,7 +296,14 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/prize.png" alt=""/>
+                                        <div className="author">
+                                            Ariel / Unsplash
+                                        </div>
+                                    </div>
+                                </div>
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -349,14 +356,7 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                                     </div>
                                 </div>
 
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/prize.png" alt=""/>
-                                        <div className="author">
-                                            Ariel / Unsplash
-                                        </div>
-                                    </div>
-                                </div>
+
 
                             </div>
                         </div>
