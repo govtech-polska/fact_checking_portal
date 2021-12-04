@@ -341,11 +341,11 @@ const AgendaIV = () => {
 
 
 
-                                {/*
+
                                 <div id="frames" className="iframeList">
                                     <h2 className="title">{t('agendaIV:subtitle2')}</h2>
                                     <ul>
-                                        <li>
+                                        {/*<li>
                                             <h5>#FakeHunter Challenge/Gospodarka - otwarcie</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
@@ -353,11 +353,65 @@ const AgendaIV = () => {
                                                         title="#FakeHunter Challenge/Gospodarka - otwarcie"
                                                         width="620"></iframe>
                                             </div>
+                                        </li>*/}
+                                        <li>
+                                            <h5>#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Marcinem Majem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/WsZiB40w.html"
+                                                        title="#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Marcinem Majem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Piotrem Potejko</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/XSn4guqF.html"
+                                                        title="#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Piotrem Potejko"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Pawłem M. Boguszewskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/cmXvLB0m.html"
+                                                        title="#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Pawłem M. Boguszewskim"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge - Uwaga! Oszust - debata pt. "Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć"</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/5bndKaO5.html"
+                                                        title="#FakeHunter Challenge - Uwaga! Oszust - debata pt. &#34;Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć&#34;"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Agnieszką Bujałą</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/lhqFOmWp.html"
+                                                        title="#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Agnieszką Bujałą"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Piotrem Maszczykiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/VDfN3GSQ.html"
+                                                        title="#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Piotrem Maszczykiem"
+                                                        width="620"></iframe>
+                                            </div>
                                         </li>
                                     </ul>
 
 
-                                </div> */}
+                                </div>
 
                             </div>
                         </div>
