@@ -88,6 +88,36 @@ const challengeIV = () => {
                         </div>
                     </section>
 
+
+                    <section className="s4" id="wyniki_konkursu">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+
+                                <div className="col-lg-6">
+
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeIV:section15.title')}</h2>
+                                        <p className="title">{t('challengeIV:section15.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeIV:section15.description"/>
+                                        </p>
+                                    </div>
+
+
+                                </div>
+                                <div className="col-lg-6">
+
+                                    <div className="imageWrapper">
+                                        <img src="/images/plansza.png" alt=""/>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+
                     <section className="s2" id="eksperckie_spotkania">
                         <div className="container-fluid">
                             <div className="row no-gutters">
