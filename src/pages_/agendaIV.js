@@ -444,6 +444,24 @@ const AgendaIV = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Arkadiuszem Bednarczukiem oraz Mariuszem Kuśmierczykiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/0xA8u5zw.html"
+                                                        title="#FakeHunter Challenge - Uwaga! Oszust - rozmowa z Arkadiuszem Bednarczukiem oraz Mariuszem Kuśmierczykiem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>Ogłoszenie wyników #FH Challenge – Uwaga! Oszust</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/VaQ8PlPn.html"
+                                                        title="Ogłoszenie wyników #FH Challenge – Uwaga! Oszust"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul>
 
 
