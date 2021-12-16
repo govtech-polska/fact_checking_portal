@@ -104,8 +104,6 @@ const partnerzy = () => {
                                 <div className="col-lg-6">
 
                                     <div className="textWrapper">
-                                        <div className="textWrapperImg">
-                                            <a href="https://www.play.pl/"></a></div>
                                         <p>
                                             <Trans i18nKey="partnerzy:section1.partner3"
                                                    components={[<span/>]}/>
