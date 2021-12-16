@@ -71,9 +71,7 @@ const partnerzy = () => {
 
 
                             <div className="row no-gutters">
-
                                 <div className="col-lg-6">
-
                                     <div className="textWrapper">
                                         <div className="textWrapperImg">
                                             <a href="https://pgnig.pl/"><img src="/images/partners/pgnig_logo.png" alt="PGNIG"/></a></div>
@@ -94,7 +92,33 @@ const partnerzy = () => {
                             </div>
 
 
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
 
+                                    <div className="imageWrapper">
+
+                                        <img src="/images/partners/dook.jpg" alt="dook"/>
+                                    </div>
+
+                                </div>
+                                <div className="col-lg-6">
+
+                                    <div className="textWrapper">
+                                        <div className="textWrapperImg">
+                                            <a href="https://www.play.pl/"></a></div>
+                                        <p>
+                                            <Trans i18nKey="partnerzy:section1.partner3"
+                                                   components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="partnerzy:section1.partner3a"
+                                                   components={[<a className="link" href="https://dook.pro"
+                                                                   target="_blank"/>]}/>
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </div>
 
 
 
