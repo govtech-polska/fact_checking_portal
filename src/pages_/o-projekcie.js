@@ -383,18 +383,6 @@ const About = () => {
                                alt="Obywatele zdrowo zaangaĹźowani"/>
                         </a>
                       </li>
-                      <li className="pfizer">
-                        <a target="_blank" rel="noopener noreferrer"
-                           href="https://pactt.pl/akademia">
-                          <img src="/images/logo_akademia-pactt-pfizer.jpg"
-                               alt="Akademia Pactt Pfizer"/>
-                        </a>
-                      </li>
-                      <li className="play">
-                        <a target="_blank" rel="noopener noreferrer" href="https://www.play.pl/">
-                          <img src="/images/play.png" alt="Play"/>
-                        </a>
-                      </li>
                       <li className="play">
                         <a target="_blank" rel="noopener noreferrer" href="https://pgnig.pl/">
                           <img src="/images/pgnig.png" alt="PGNIG"/>
