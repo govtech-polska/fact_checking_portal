@@ -1,0 +1,115 @@
+{
+  "title": "#FakeHunter  Challenge <0/> - Uwaga! Oszust",
+  "follow": "Śledź nas: ",
+  "quote": "Podejmij wyzwanie i dołącz do walki z fake newsami,<0/>tworząc sieć bez ściemy. Ty też masz wpływ na to, co czytają inni.",
+  "section1": {
+    "title": "O konkursie",
+    "subtitle": "Czym jest fake news i dlaczego jest tak groźny?",
+    "description": "W cyberprzestrzeni coraz częściej pojawiają się i to na skalę większą niż myślisz, fałszywe informacje, popularnie zwane fejkami. Dotyczą one wielu dziedzin życia, świadomie lub nie wprowadzając w błąd. Każdy może być ofiarą dezinformacji lub wręcz oszustwa. Nie zdając sobie sprawy z tego, czym są fake newsy i jaką mają siłę rażenia, zbyt łatwo wierzymy w to, co czytamy i oglądamy. O tym, jak ważna jest walka z fałszywymi informacjami pokazał czas pandemii koronawirusa. W sieci zaczęły masowo pojawiać się informacje, że technologia 5G wywołuje chorobę Covid-19 i raka, szczepienia powodują autyzm, a noszenie maseczek może być groźne dla zdrowia. Ofiarami oszustw informacyjnych w internecie padają m.in. zwykli ludzie, osoby publiczne, firmy, których wartość rynkowa z powodu fake newsów jest niszczona.",
+    "button": "Przykładów fake newsów mamy mnóstwo!"
+  },
+  "section2": {
+    "link": "Uszczegółowienie kategorii konkursowych",
+    "title": "ZASADY KONKURSU",
+    "subtitle": "Zasady rywalizacji ",
+    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczące od 1 do 5 członków. ",
+    "description1":"Konkurs składa się z dwóch konkurencji:",
+    "description2":"- polowanie na fake newsy - zgłaszanie oszustw",
+    "description3":"- fact checking challenge - przygotowywanie i przesyłanie raportów weryfikujących",
+    "button": "Kategorie konkursowe \"#FakeHunter Challenge - Uwaga! Oszust\":",
+    "collapsed": {
+      "description": "<0>Zdrowie i uroda</0> - oszustwa lekowe, oszukańczy uzdrowiciele, cudowne terapie, diety i inne recepty na błyskawiczne odchudzanie, metody walki z łysieniem, siwieniem, upiększaniem ciała i powiększanie różnych jego części.",
+      "description1": "<0>Gospodarka i biznes</0> - oszukańcze oferty handlowe, propozycje biznesowe, fałszowanie dokumentów, danych firmowych.",
+      "description2": "<0>Finanse i bankowość</0> - wszelkiego rodzaju wprowadzające w błąd oferty i fałszywe obietnice uzyskania korzyści finansowych, nadzwyczajnych zysków, próby wyłudzenia danych do logowania do kont bankowych i innych usług tego rodzaju.",
+      "description3": "<0>Tożsamość</0> - kradzieże tożsamości, podszywanie się pod osoby, firmy i organizacje, fałszywe strony i wszelkiego rodzaju publikacje pod ukradzioną tożsamością.",
+      "description4": "<0>Bezpieczeństwo</0> - oszustwa naruszające bezpieczeństwo obywateli i państwa.",
+      "description5": "<0>Oszustwa</0> z zakresu wyżej wymienionych kategorii, które nie mają charakteru satyryczno-rozrywkowego, nie są parodiami, pastiszami, pamfletami, humorystycznymi memami i oczywistymi żartami."
+    }
+  },
+
+  "section3": {
+    "title": "Zweryfikowane informacje",
+    "subtitle": "Zobacz, co już sprawdziliśmy",
+    "description": "W tym miejscu znajdziesz wszystkie zweryfikowane informacje zgłoszone do nas przez internautów. Przekonaj się, jakie treści były prawdziwe, a jakie nie i wykorzystaj to źródło do prostowania fałszywych informacji, gdy je zauważysz.",
+    "verifiedNewsBtn": "Zobacz"
+  },
+  "section4": {
+    "title": "Zostań fakehunterem i zdobądź nagrody",
+    "subtitle": "Dołącz do walki z fake newsami w dniach 3 - 5 grudnia",
+    "description": "Zarejestruj się już dziś! Czekamy na Ciebie!",
+    "description1": "Zgodnie z regulaminem w konkursie mogą brać udział zespoły liczące od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji.",
+    "description2": "Dołącz razem z nami do walki z oszustwami internetowymi.  Dzieląc się i przekazując informacje na temat szkodliwych praktyk w tym temacie, masz szansę ustrzec innych od wpadnięcia w pułapkę oszustwa.",
+    "applyBtn": "ZGŁOŚ SIĘ DO KONKURSU!"
+  },
+  "section7": {
+    "title": "Kontakt",
+    "subtitle": "Czekamy na twoją wiadomość",
+    "description": "Zapisz się, by jako pierwszy otrzymać szczegóły akcji – rodzaj nagród, zasady rywalizacji, szczegółowy czas trwania. Masz pytania? Jesteś zainteresowany naszym projektem i chciałbyś dopytać? A może chcesz dołączyć do partnerów inicjatywy i chcesz dać nam o tym znać? Jeśli tak, wyślij nam wiadomość na adres email: <0>fakehunter@pap.pl</0>. Bądźmy w kontakcie!",
+    "applyBtn": "Aplikuj"
+  },
+  "section8": {
+    "title": "Nagrody",
+    "subtitle": "Dla najlepszych atrakcyjne nagrody pieniężne!",
+    "description": "Weź udział w rywalizacji i wygraj jedną z atrakcyjnych nagród finansowych. Od Ciebie zależy, czy chcesz działać w zespole, czy samodzielnie. A recepta na wygraną jest prosta – im więcej zgłoszonych i prawidłowo ocenionych przez jury prac, tym więcej punktów i miejsce na podium.",
+    "description1":"<0>I miejsce - 15 tys. zł, II miejsce - 10 tys. zł, III miejsce - 5 tys. zł.</0> ",
+    "description2":"Zgłoszenia będą oceniane przez jury składające się ze specjalistów - redaktorów i dziennikarzy portalu Fake Hunter, którzy na co dzień zajmują się weryfikacją fałszywych i zmanipulowanych informacji publikowanych w sieci. ",
+    "description3":"<0>Zwycięzców poznamy 10 grudnia.</0>",
+    "link": "Regulamin"
+  },
+  "section9": {
+    "title": "Partnerzy",
+    "subtitle": "Wspierają naszą akcję",
+    "description": "Wielkie zaangażowanie partnerów pomogło nam w zorganizowaniu wydarzenia, tak ważnego z punktu widzenia walki z dezinformacją. Cenimy sobie tę współpracę i dziękujemy, że wspieracie projekt, który pomaga oczyszczać sieć z fałszywych i wprowadzających w błąd informacji."
+  },
+  "section10": {
+    "title": "GovTech Festival",
+    "subtitle": "GovTech Festival, czyli listopad pod znakiem cyfryzacji",
+    "description": "#FakeHunter Challenge - Uwaga! Oszust to jedno z kluczowych wydarzeń odbywającego się w listopadzie GovTech Festival, czyli cyklu wydarzeń online, w których może wziąć udział każdy zainteresowany. Przez cały miesiąc w ramach GovTech Festival organizowane są webinaria, warsztaty i hackathony, które mają na celu przełamywanie analogowych barier, edukowanie i otwieranie społeczeństwa na nowe możliwości związane z cyfryzacją i digitalizacją. Udział we wszystkich wydarzeniach jest bezpłatny.",
+    "button": "ZOBACZ STRONĘ FESTIWALU"
+  },
+  "section11": {
+    "title": "Wyślij zgłoszenie konkursowe",
+    "subtitle": "Prześlij info o fejku, raport lub informację o źródle fałszywej informacji",
+    "description": "Zarejestrowałeś siebie lub zespół? Ekstra! Jesteś gotowy, by w terminie od 00:01 03.12 do 11:00 05.12 przesyłać zgłoszenia konkursowe. Użyj poniższego formularza, podając ten sam adres email, jaki został wskazany w formularzu rejestracyjnym",
+    "button": "Prześlij raport weryfikujący zgłoszoną fałszywą informację"
+  },
+  "section12": {
+    "title": "EKSPERCKIE SPOTKANIA PAP",
+    "subtitle": "Oszustwa internetowe dotyczą coraz większej liczby osób. Chcemy uzbroić społeczeństwo w wiedzę na temat tego, jak nie dać się oszukać i co zrobić w sytuacji zagrożenia.",
+    "description": "Trzydniowym zmaganiom konkursowym będzie towarzyszył cykl eksperckich rozmów i debat transmitowanych live na <0>https://fakehunter.pap.pl</0> . Zaproszeni goście wytłumaczą nam  jakimi mechanizmami posługują się złodzieje, by np. wyłudzić dane do logowania do kont bankowych, społecznościowych czy systemów zarządzania danymi osobowymi.",
+    "description1": "Porozmawiamy o tym, jak rozpoznać fałszywą informację, jak ustrzec się przez oszustwem i gdzie możemy szukać pomocy. Wśród zaproszonych gości będą m.in. eksperci z dziedziny cyberbezpieczeństwa, psychologii, lekarze i osoby publiczne, których wizerunek bezprawnie wykorzystano w celach przestępczych. ",
+    "button": "<0>ZOBACZ AGENDĘ SPOTKAŃ</0>"
+  },
+  "section13": {
+    "title": "KONKURS",
+    "subtitle": "IV edycja konkursu #FakeHunter Challenge - Uwaga! Oszust, 3-5 grudnia",
+    "description": "Do konkursu <0>#FakeHunter Challenge</0> zapraszamy wszystkich, którym zależy na propagowaniu idei dostępu do wiarygodnych i rzetelnych informacji. Razem z Wami chcemy uświadamiać społeczeństwu, jak wielka jest skala fake newsów i zagrożenia, które niosą ze sobą kłamliwe treści opakowane w taki sposób, by skłonić odbiorców do uwierzenia w ich prawdziwość.",
+    "description1": "<0>Tematem przewodnim IV edycji konkursu będą oszustwa w cyberprzestrzeni, które dotyczą branży: energetycznej, telekomunikacyjnej, finansowej, opieki zdrowotnej, kosmetycznej.</0>",
+    "description2": "W ciągu trzech dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fałszywe informacje publikowane w sieci z zakresu m.in.: ofert handlowych, propozycji biznesowych, podszywania się pod firmy lub osoby w celu wyłudzenia danych personalnych, praktyk lekarskich, cudownych diet i lekarstw. Zgłoszenia konkursowe nie mogą mieć charakteru satyrycznego, żartobliwego, nie mogą mieć cech ewidentnego memu lub pastiszu."
+  },
+  "section14": {
+    "title": "Poprzednie edycje konkursu:",
+    "link1": "<0>#FakeHunter Challenge</0>",
+    "link2": "<0>#FakeHunter Challenge/Szczepienia</0>",
+    "link3": "<0>#FakeHunter Challenge/Gospodarka</0>"
+    },
+  "section15": {
+    "title": "WYNIKI KONKURSU",
+    "subtitle": "#FakeHunter Challenge – Uwaga! Oszust",
+    "description": "Poznajcie zwycięzców #FakeHunter Challenge – Uwaga! Oszust konkursu, który odbył się w terminie 3 – 5 grudnia. W ciągu 3 dni rywalizacji, napłynęło ponad 1500 zgłoszeń i ponad 100 raportów! Uczestnicy walczyli o atrakcyjne nagrody."
+
+  },
+
+  "contactForm": {
+    "name": "Imię",
+    "surname": "Nazwisko",
+    "email": "Email",
+    "topic": "Temat",
+    "message": "Treść",
+    "send": "Wyślij",
+    "successMsg": "Twoja wiadomość została wysłana.",
+    "errorMsg": "Nie udało się wysłać wiadomości."
+  },
+  "more": "Więcej",
+  "less": "Mniej"
+}
