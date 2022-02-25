@@ -324,7 +324,7 @@ const About = () => {
                           target="_blank"
                           rel="noopener noreferrer"
                           className="button"
-                          href="https://zgloszenia.govtech.gov.pl/ankieta/512297/dolacz-do-korpusu-ludzi-walczacych-z-dezinformacja-towarzyszaca-epidemii-koronawirusa.html"
+                          href="https://form.govtech.gov.pl/ankieta/512297/dolacz-do-korpusu-ludzi-walczacych-z-dezinformacja-towarzyszaca-epidemii-koronawirusa.html"
                       >
                         {t('about:section4.applyBtn')}
                       </a>
