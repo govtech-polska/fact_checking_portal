@@ -89,33 +89,45 @@ const challengeV = () => {
                     </section>
 
 
-                    <section className="s4" id="wyniki_konkursu">
+                    <section className="s2" id="konkurs">
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
 
-                                <div className="col-lg-6">
 
+                                <div className="col-lg-6">
                                     <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section15.title')}</h2>
-                                        <p className="title">{t('challengeV:section15.subtitle')}</p>
+                                        <h2 className="section">{t('challengeV:section13.title')}</h2>
+                                        <p className="title">{t('challengeV:section13.subtitle')}</p>
                                         <p>
-                                            <Trans i18nKey="challengeV:section15.description"/>
+                                            <Trans i18nKey="challengeV:section13.description" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description1" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description2" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description3" components={[<span/>]}/>
                                         </p>
                                     </div>
-
-
                                 </div>
                                 <div className="col-lg-6">
-
                                     <div className="imageWrapper">
-                                        <img src="/images/wyniki.png" alt=""/>
+                                        <img src="/images/image2.png" alt=""/>
 
                                     </div>
+
+
                                 </div>
+
                             </div>
                         </div>
                     </section>
+
+
+
 
 
                     <section className="s2" id="eksperckie_spotkania">
@@ -124,17 +136,16 @@ const challengeV = () => {
 
 
                                 <div className="col-lg-6">
-                                    <div className="iframeWrapper">
+                                    {/* <div className="iframeWrapper">
                                         <iframe allowFullScreen frameBorder="0" height="350"
                                                 src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/xj1yZxmL.html"
                                                 title="#FakeHunter Challenge - Uwaga! Oszust - debata pt. &#34;Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć&#34;"
                                                 width="620"></iframe>
-                                        {/*<iframe webkitAllowFullScreen mozallowfullscreen allowfullscreen
-                                                src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05" title="0" byline="0" portrait="0" frameborder="0" allow="autoplay" width="640" height="360"></iframe>*/}
-                                    </div>
-                                    {/*<div className="imageWrapper">
-                                        <img src="/images/agenda_sobota.png" alt="eksperckie_spotkania"/>
+
                                     </div>*/}
+                                  <div className="imageWrapper">
+                                        <img src="/images/micro.png" alt="eksperckie_spotkania"/>
+                                    </div>
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -154,7 +165,9 @@ const challengeV = () => {
                                         <p>
 
 
-                                            <Trans i18nKey="challengeV:section12.description1"/>
+                                            <Trans i18nKey="challengeV:section12.description1"
+                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                   target="_blank"/>]}/>
 
                                         </p>
 
@@ -267,41 +280,7 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
 
 
 
-                                        <a
-                                            className="collapseButton collapsed"
-                                            data-toggle="collapse"
-                                            href="#collapseTwo"
-                                            role="button"
-                                            aria-expanded="false"
-                                            aria-controls="collapseTwo">
-                                            <span>{t('challengeV:section2.button')}</span>
-                                        </a>
 
-                                        <div className="collapse" id="collapseTwo">
-                                            <ul>
-                                                <li>
-                                                    <Trans i18nKey="challengeV:section2.collapsed.description" components={[<span/>]}/>
-                                                </li>
-                                                <li>
-                                                    <Trans i18nKey="challengeV:section2.collapsed.description1" components={[<span/>]}/>
-                                                </li>
-                                                <li>
-                                                    <Trans i18nKey="challengeV:section2.collapsed.description2" components={[<span/>]}/>
-                                                </li>
-                                                <li>
-                                                    <Trans i18nKey="challengeV:section2.collapsed.description3" components={[<span/>]}/>
-                                                </li>
-                                                <li>
-                                                    <Trans i18nKey="challengeV:section2.collapsed.description4" components={[<span/>]}/>
-                                                </li>
-                                                <li>
-                                                    <Trans i18nKey="challengeV:section2.collapsed.description5" components={[<span/>]}/>
-                                                </li>
-                                            </ul>
-
-                                        </div>
-
-                                        <div></div>
 
 
 
@@ -349,6 +328,19 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                                         <p>
                                             <Trans i18nKey="challengeV:section8.description3" components={[<span/>]}/>
                                         </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section8.description4" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section8.description5" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section8.description6" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section8.description7" components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                                                              target="_blank"/>]}/>
+                                        </p>
                                         <div className="dropdown link">
                                             <button
                                                 className="dropdown-toggle buttonDropdown link"
@@ -389,39 +381,7 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                             </div>
                         </div>
                     </section>
-                    <section className="s2" id="konkurs">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
 
-
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section13.title')}</h2>
-                                        <p className="title">{t('challengeV:section13.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section13.description" components={[<span/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section13.description1" components={[<span/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section13.description2" components={[<span/>]}/>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image2.png" alt=""/>
-
-                                    </div>
-
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
                     <section className="s6" id="partnerzy">
                         <div className="container-fluid">
                             <div className="row no-gutters">
