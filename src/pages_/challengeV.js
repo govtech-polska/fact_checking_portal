@@ -92,9 +92,6 @@ const challengeV = () => {
                     <section className="s2" id="konkurs">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-
-
-
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
                                         <h2 className="section">{t('challengeV:section13.title')}</h2>
@@ -116,68 +113,6 @@ const challengeV = () => {
                                 <div className="col-lg-6">
                                     <div className="imageWrapper">
                                         <img src="/images/image2.png" alt=""/>
-
-                                    </div>
-
-
-                                </div>
-
-                            </div>
-                        </div>
-                    </section>
-
-
-
-
-
-                    <section className="s2" id="eksperckie_spotkania">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-
-
-                                <div className="col-lg-6">
-                                    {/* <div className="iframeWrapper">
-                                        <iframe allowFullScreen frameBorder="0" height="350"
-                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/xj1yZxmL.html"
-                                                title="#FakeHunter Challenge - Uwaga! Oszust - debata pt. &#34;Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć&#34;"
-                                                width="620"></iframe>
-
-                                    </div>*/}
-                                  <div className="imageWrapper">
-                                        <img src="/images/micro.png" alt="eksperckie_spotkania"/>
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section12.title')}</h2>
-                                        <p className="title">{t('challengeV:section12.subtitle')}</p>
-
-                                        <p>
-
-
-                                            <Trans i18nKey="challengeV:section12.description"
-                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
-                                                                   target="_blank"/>]}/>
-
-                                        </p>
-
-
-                                        <p>
-
-
-                                            <Trans i18nKey="challengeV:section12.description1"
-                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
-                                                                   target="_blank"/>]}/>
-
-                                        </p>
-
-
-
-                                        <span> <Trans i18nKey="challengeV:section12.button"
-                                                      components={[<a className="button" href="/agendaIV"/>,
-                                                          <a className="button" href="/en/agendaIV"/>]}/></span>
-
-
                                     </div>
                                 </div>
                             </div>
@@ -186,8 +121,13 @@ const challengeV = () => {
                     <section className="s4" id="zostanfakehunterem">
                         <div className="container-fluid">
                             <div className="row no-gutters">
+                                <div className="col-lg-6">
 
+                                    <div className="imageWrapper">
+                                        <img src="/images/image3.png" alt=""/>
 
+                                    </div>
+                                </div>
                                 <div className="col-lg-6">
 
                                     <div className="textWrapper">
@@ -206,7 +146,7 @@ const challengeV = () => {
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="button"
-                                            href="https://www.webankieta.pl/ankieta/678116/rejestracja-do-konkursu-fakehunterchallengeuwaga-oszust.html"
+                                            href="https://www.webankieta.pl/ankieta/712620/rejestracja-do-konkursu-fakehunterchallenge-geopolityka.html"
                                         >
                                             {t('challengeV:section4.applyBtn')}
                                         </a>
@@ -214,87 +154,6 @@ const challengeV = () => {
 
 
                                 </div>
-                                <div className="col-lg-6">
-
-                                    <div className="imageWrapper">
-                                        <img src="/images/image3.png" alt=""/>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section className="s2" id="wyslij_zgloszenie">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-
-
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/mail.png" alt=""/>
-                                        <div className="author">Onlineprinters / Unsplash</div>
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section11.title')}</h2>
-                                        <p className="title">{t('challengeV:section11.subtitle')}</p>
-                                        <p>
-                                            {t('challengeV:section11.description')}
-                                        </p>
-                                        <a target="_blank" className="button"
-                                           rel="noopener noreferrer"
-                                           href="
-https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challengeuwaga-oszust.html"
-                                        >
-                                            {t('challengeV:section11.button')}
-                                        </a>
-                                    </div>
-                                </div>
-
-
-
-                            </div>
-                        </div>
-                    </section>
-                    <section className="s4 diffrentButtons" id="zasady_rywalizacji">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-
-
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section2.title')}</h2>
-                                        <p className="title">{t('challengeV:section2.subtitle')}</p>
-                                        <p>{t('challengeV:section2.description')}</p>
-                                        <p><strong>{t('challengeV:section2.description1')}</strong>
-                                            <br />
-
-                                            {t('challengeV:section2.description2')}
-                                            <br />
-                                            {t('challengeV:section2.description3')}
-
-                                        </p>
-
-
-
-
-
-
-
-
-                                    </div>
-                                </div>
-
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image5.png" alt=""/>
-                                        <div className="author">strixcode / Adobe Stock</div>
-                                    </div>
-                                </div>
-
 
                             </div>
                         </div>
@@ -303,14 +162,7 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/prize.png" alt=""/>
-                                        <div className="author">
-                                            Ariel / Unsplash
-                                        </div>
-                                    </div>
-                                </div>
+
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -376,12 +228,128 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                                     </div>
                                 </div>
 
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/prize.png" alt=""/>
+                                        <div className="author">
+                                            Ariel / Unsplash
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+                    <section className="s2" id="wyslij_zgloszenie">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/mail.png" alt=""/>
+                                        <div className="author">Onlineprinters / Unsplash</div>
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeV:section11.title')}</h2>
+                                        <p className="title">{t('challengeV:section11.subtitle')}</p>
+                                        <p>
+                                            {t('challengeV:section11.description')}
+                                        </p>
+                                        <a target="_blank" className="button"
+                                           rel="noopener noreferrer"
+                                           href="https://www.webankieta.pl/ankieta/712621/formularz-konkursowy-fakehunterchallenge-geopolityka.html"
+                                        >
+                                            {t('challengeV:section11.button')}
+                                        </a>
+                                    </div>
+                                </div>
+
 
 
                             </div>
                         </div>
                     </section>
+                    <section className="s4 diffrentButtons" id="zasady_rywalizacji">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
 
+
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeV:section2.title')}</h2>
+                                        <p className="title">{t('challengeV:section2.subtitle')}</p>
+                                        <p>{t('challengeV:section2.description')}</p>
+                                        <p><strong>{t('challengeV:section2.description1')}</strong>
+                                            <br />
+
+                                            {t('challengeV:section2.description2')}
+                                            <br />
+                                            {t('challengeV:section2.description3')}
+
+                                        </p>
+
+
+
+
+
+
+
+
+                                    </div>
+                                </div>
+
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image5.png" alt=""/>
+                                        <div className="author">strixcode / Adobe Stock</div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </section>
+                    <section className="s2" id="eksperckie_spotkania">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
+                                    {/* <div className="iframeWrapper">
+                                        <iframe allowFullScreen frameBorder="0" height="350"
+                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/xj1yZxmL.html"
+                                                title="#FakeHunter Challenge - Uwaga! Oszust - debata pt. &#34;Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć&#34;"
+                                                width="620"></iframe>
+
+                                    </div>*/}
+                                  <div className="imageWrapper">
+                                        <img src="/images/micro.png" alt="eksperckie_spotkania"/>
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeV:section12.title')}</h2>
+                                        <p className="title">{t('challengeV:section12.subtitle')}</p>
+                                        <p><Trans i18nKey="challengeV:section12.description"
+                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                   target="_blank"/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section12.description1"
+                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                   target="_blank"/>]}/>
+                                        </p>
+                                        <span> <Trans i18nKey="challengeV:section12.button"
+                                                      components={[<a className="button" href="/agendaV"/>,
+                                                          <a className="button" href="/en/agendaV"/>]}/></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
                     <section className="s6" id="partnerzy">
                         <div className="container-fluid">
                             <div className="row no-gutters">
@@ -545,6 +513,9 @@ https://www.webankieta.pl/ankieta/678124/formularz-konkursowy-fakehunter-challen
                                             <li><Trans i18nKey="challengeV:section14.link3"
                                                        components={[<a className="link" href="/challengeIII"/>,
                                                            <a className="link" href="/en/challengeIII"/>]}/></li>
+                                            <li><Trans i18nKey="challengeV:section14.link3"
+                                                       components={[<a className="link" href="/challengeIV"/>,
+                                                           <a className="link" href="/en/challengeIV"/>]}/></li>
                                         </ul>
 
                                     </div>

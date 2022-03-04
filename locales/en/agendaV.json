@@ -1,0 +1,73 @@
+{
+  "title": "Expert meetings online",
+  "subtitle": "We want to hear the voice of specialists and people who have experienced this phenomenon in the discussion about fake news and its impact on our lives. That is why we invite everyone to online meetings with experts who will tell, among others, about what fake news are, how to capture them, how they influence the shaping of the awareness of contemporary Internet users. Among our guests there will be also public figures who will share with us their experiences in dealing with the problem of false content about themselves.",
+  "subtitle1": "OUR SPEAKERS",
+  "subtitle2": "Watch the past meetings",
+  "iframebutton": "Watch the past meetings",
+  "table": {
+    "tableTitle": "FRIDAY 03.12.2021",
+    "tableTitle2": "Saturday 04.12.2021",
+    "tableTh": "Hour",
+    "tableTh1": "Name",
+    "tableTh2": "and surname",
+    "tableTh3": "Function",
+    "tableMainTitle1": "Opening #FakeHunter Challenge - Note! Scammer",
+    "tableMainTitle2": "Ending #FakeHunter Challenge - Note! Scammer",
+    "debate1": "DEBATE: Frauds of the disinformation era - how not to fall into the trap of abuse.",
+    "debate2": " "
+  },
+  "functions": {
+    "function1":"Author of the book \"How (not to be) cheated on the Internet\"",
+    "function2":"Doctor of social sciences in the field of media sciences",
+    "function3":"Security expert",
+    "function4":"Vice-Dean of the Master's Study, Warsaw School of Economics",
+    "function5":"Doctor of humanities",
+    "function6":"Psychologist",
+    "function7":"Doctor of Laws",
+    "function8":"Physician, gastrolog",
+    "function9":"Prof. cardiac surgeon",
+    "function10":"Neurobiologist",
+    "function11":"Deputy Director of GovTech Polska Programme in the Prime Minister's Office",
+    "function12":"Pracownik Centralnego Domu Technologii",
+    "function13":"Rzecznik Prasowy PGNiG",
+    "function14":"Biuro Komunikacji Społecznej Komendy Głównej Policji"
+  },
+  "personList": {
+    "person1": {
+      "name": "Dr Michał Jacek Baranowski ",
+      "description": "A historian specializing in the history of Rome, especially in the so-called crisis of the third century (235-284). His interests focus on ancient epidemics as well as around the ideology of power. He obtained his doctorate at the University of Szczecin. In recent years, he has been associated with the University of Białystok (2017-2018) and the University of Warsaw (2018-2021). Currently, he cooperates with the Sub Lupa Scientific Publishing House and the Global Scientific Platform Foundation."
+    },
+    "person2": {
+      "name": "Jakub Biernat ",
+      "description": "A journalist from TV Biełsat, has been fascinated by Belarus, the area of Eastern Europe and the former USSR for many years. A reporter, translator and traveler. He speaks Belarusian."
+    },
+    "person3": {
+      "name": "Marek Budzisz ",
+      "description": "Expert on Russia and the post-Soviet areas.\nHe graduated from the history department of the University of Warsaw, and currently works as a financial director in a private investment fund. In his youth, one of the opposition members of the Young Poland Movement. He worked as a journalist for Puls TV, Radio Plus and the Życie daily. Advisor to the minister, the head of the Prime Minister's office and to the minister of finance in the government of Jerzy Buzek.\nHe regularly publishes his analyzes on the post-Soviet areas at Salon 24, on his blog Wieści z Rosji, and in Tygodnik TVP, Nowa Konfederacja, Dziennik Gazeta Prawna, Rzeczy Wspólne, WGospodarce, and Gazeta Bankowa.\n"
+    },
+    "person4": {
+      "name": "Paweł Deląg",
+      "description": "Actor, director and film producer. A graduate of the PWST in Krakow. His first major role was in Steven Spielberg’s \"Schindler's List\". He made his stage debut alongside Krystyna Janda at the Powszechny Theater in Warsaw. He also performed at the Prezentacje Theatre and in Wrocław at the Współczesny Theater. He appeared, inter alia, in such films as: \"Młode wilki\", \"Quo Vadis\", \" Chłopaki nie płaczą\", \" Zróbmy sobie wnuka\", \"Sezon na leszcza\", \"Kochaj i rób co chcesz\" and \"Haker\". For many years he has appeared in foreign productions, including Russian, Belarusian and Ukrainian."
+    },
+    "person5": {
+      "name": "Olga Doleśniak - Harczuk",
+      "description": "Publicist, journalist, deputy editor-in-chief of the \"New Country\" monthly, expert on Germany at the Staszic Institute."
+    },
+    "person6": {
+      "name": "Grzegorz Kuczyński",
+      "description": "Writes about Russia and the post-Soviet area, specializes in secret services. A graduate of history (University of Białystok) and specialist Eastern studies (University of Warsaw). An expert of the Warsaw Institute, author of the books \"How the Russians are killing Victims of the Russian services from Trotsky to Litvinenko\" and \"The throne in blood. Secrets of the Kremlin's policy \""
+    },
+    "person7": {
+      "name": "Michał Marek",
+      "description": "Founder of the Foundation Center for Research on the Contemporary Security Environment, PhD student at the Faculty of International and Political Studies at the Jagiellonian University.\nAuthor of the scientific monograph \"Operation Ukraine. Disinformation campaigns, narratives, operational methods of Russian propaganda centers against the Ukrainian state between 2013-2019”.\nAuthor of scientific texts and analytical materials devoted to the issues of information security and the Russian hybrid war. Expert in identifying propaganda content and counteracting disinformation (with particular emphasis on the activity of the Russian Fed) and in security of Central and Eastern Europe (with particular emphasis on the territory of Ukraine).\n"
+    },
+    "person8": {
+      "name": "Roman Polko",
+      "description": "General, commando, two-time GROM commander, doctor of management. He directed foreign military and stabilization missions. He advised the President of the Capital City of Warsaw and the Minister of the Internal Affairs and Administration on combating terrorism and security. Former Deputy Head of the National Security Bureau. Currently, an educator for security and academic lecturer, member of the presidential Security and Defense Council.\n\n"
+    },
+    "person9": {
+      "name": "Maciej Świrski ",
+      "description": "– founder and the President of the Reduta Dobrego Imienia - Polish League Against Defamation Foundation, the Vice Chairman of the Supervisory Board of the Polish Press Agency, graduate of the Faculty of History at the University of Warsaw, PMTP University of Wisconsin (Milwaukee), MBA (Koźmiński Academy)."
+    }
+  }
+}
