@@ -5,71 +5,77 @@
   "subtitle2": " Obejrzyj spotkania, które już się odbyły",
   "iframebutton": " Obejrzyj spotkania, które już się odbyły",
   "table": {
-    "tableTitle": "PIĄTEK 25.03.2022",
+    "tableTitle1": "PIĄTEK 25.03.2022",
     "tableTitle2": "Sobota 26.03.2022",
     "tableTh": "Godzina",
     "tableTh1": "Imię",
     "tableTh2": "i nazwisko",
     "tableTh3": "Funkcja",
-    "tableMainTitle1": "Otwarcie #FakeHunter Challenge/Geopolityka",
-    "tableMainTitle2": "Zakończenie #FakeHunter Challenge/Geopolityka",
-    "debate1": "DEBATA: Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć.",
-    "debate2": " "
-  },
-  "functions": {
-    "function1":"Autorka książki pt \"Jak nie dać się oszukać w Internecie\" ",
-    "function2":"Doktor nauk społecznych w zakresie nauk o mediach",
-    "function3":"Ekspert ds. bezpieczeństwa w portalu niebezpiecznik.pl",
-    "function4":"Prodziekan Studium Magisterskiego, Szkoła Główna Handlowa",
-    "function5":"Doktor nauk humanistycznych",
-    "function6":"Psycholog",
-    "function7":"Doktor nauk prawnych",
-    "function8":"Lekarz, gastrolog",
-    "function9":"Prof. kardiochirurg",
-    "function10":"Neurobiolog",
-    "function11":"Wicedyrektor Programu GovTech Polska w Kancelarii Premiera",
-    "function12":"Pracownik Centralnego Domu Technologii",
-    "function13":"Rzecznik Prasowy PGNiG",
-    "function14":"Biuro Komunikacji Społecznej Komendy Głównej Policji"
-
-
+    "tableMainTitle1": "Rozpoczęcie #FakeHunter Challenge - Geopolityka",
+    "tableMainTitle2": "Zakończenie #FakeHunter Challenge - Geopolityka",
+    "debate1": " ",
+    "debate2": "DEBATA: Państwo, którego nie ma. Dezinformacja na temat Polski w światowym obiegu informacyjnym."
   },
   "personList": {
     "person1": {
       "name": "Dr Michał Jacek Baranowski ",
+      "function": "historyk",
       "description": "Historyk specjalizujący się w dziejach Rzymu, zwłaszcza w tzw. kryzysie III wieku (235-284). Jego zainteresowania koncentrują się na starożytnych epidemiach, a także wokół ideologii władzy. Doktorat obronił na Uniwersytecie Szczecińskim. W ostatnich latach związany z Uniwersytetem w Białymstoku (2017-2018) i Uniwersytetem Warszawskim (2018-2021). Aktualnie współpracuje z Wydawnictwem Naukowym Sub Lupa i fundacją Global Scientific Platform."
     },
     "person2": {
       "name": "Jakub Biernat",
+      "function": "dziennikarz, specjalista ds. wschodnich",
       "description": "Dziennikarz TV Biełsat, od lat fascynuje się Białorusią, obszarem Europy Wschodniej i d. ZSRR. Reportażysta, tłumacz i podróżnik. Mówi po białorusku."
     },
     "person3": {
       "name": "Marek Budzisz",
+      "function": "ekspert ds. wschodnich",
       "description": "Ekspert ds. Rosji i obszarów postsowieckich.\nUkończył wydział historii Uniwersytetu Warszawskiego, na co dzień pracuje jako dyrektor finansowy w prywatnym funduszu inwestycyjnym. W młodości jeden z uczestników opozycyjnego Ruchu Młodej Polski. Pracował jako dziennikarz w telewizji Puls, radiu Plus oraz w dzienniku Życie.\nDoradca ministra szefa kancelarii Premiera oraz ministra finansów w rządzie Jerzego Buzka.\nSwoje analizy na temat obszarów postsowieckich publikuje regularnie na Salonie 24, na swym blogu Wieści z Rosji, oraz w Tygodniku TVP, Nowej Konfederacji, Dzienniku Gazecie Prawnej, Rzeczach Wspólnych, WGospodarce, a także Gazecie Bankowej.\n"
     },
     "person4": {
       "name": "Paweł Deląg",
+      "function": "aktor",
       "description": "Aktor, reżyser oraz producent filmowy. Absolwent PWST w Krakowie. Pierwszą dużą rolę zagrał u Stevena Spielberga w \"Liście Schindlera\". Na deskach teatralnych zadebiutował u boku Krystyny Jandy w warszawskim Teatrze Powszechnym. Występował również w Teatrze Prezentacje czy we Wrocławiu w Teatrze Współczesnym. Pojawił się m.in. w takich filmach jak: \"Młode wilki\", \"Quo Vadis\", \" Chłopaki nie płaczą\", \" Zróbmy sobie wnuka\", \"Sezon na leszcza\", \"Kochaj i rób co chcesz\" oraz \"Haker\". Od wielu lat występuje w produkcjach zagranicznych m.in. rosyjskich, białoruskich i ukraińskich."
     },
     "person5": {
       "name": "Olga Doleśniak - Harczuk ",
+      "function": "dziennikarka, analityk Instytutu Staszica",
       "description": "Publicystka, dziennikarka, zastępca redaktora naczelnego miesięcznika Nowe Państwo\", ekspert ds. Niemiec Instytutu Staszica."
     },
     "person6": {
       "name": "Grzegorz Kuczyński",
+      "function": "analityk, publicysta",
       "description": "Pisze o Rosji i obszarze postsowieckim, specjalizuje się w tematyce służb specjalnych. Absolwent historii (Uniwersytet w Białymstoku) i specjalistycznych studiów wschodnich (Uniwersytet Warszawski). Ekspert Warsaw Institute, autor książek “Jak zabijają Rosjanie Ofiary rosyjskich służb od Trockiego do Litwinienki” i “Tron we krwi. Sekrety polityki Kremla”"
     },
     "person7": {
       "name": "Michał Marek ",
+      "function": "Uniwersytet Jagielloński",
       "description": "Założyciel Fundacji Centrum Badań nad Współczesnym Środowiskiem Bezpieczeństwa,  doktorant WSMiP Uniwersytetu Jagiellońskiego. \nAutor monografii naukowej „Operacja Ukraina. Kampanie dezinformacyjne, narracje, sposoby działania rosyjskich ośrodków propagandowych przeciwko państwu ukraińskiemu w okresie 2013-2019”.\nAutor tekstów naukowych i materiałów analitycznych poświęconych problematyce bezpieczeństwa informacyjnego oraz rosyjskiej wojny hybrydowej. Ekspert ds. identyfikacji treści propagandowych i przeciwdziałania dezinformacji (ze szczególnym uwzględnieniem aktywności Fed. Rosyjskiej) oraz ds. bezpieczeństwa na obszarze Europy Środkowo-Wschodniej (ze szczególnym uwzględnieniem terytorium Ukrainy).\n"
     },
     "person8": {
       "name": "Roman Polko ",
+      "function": "Generał, komandos, dwukrotny dowódca elitarnej jednostki GROM",
       "description": "Generał, komandos, dwukrotny dowódca GROM, doktor zarządzania. Kierował zagranicznymi misjami wojennymi i stabilizacyjnymi. Doradzał Prezydentowi Miasta Stołecznego Warszawy oraz Ministrowi Spraw Wewnętrznych i Administracji w sprawach zwalczania terroryzmu i bezpieczeństwa. Był zastępcą Szefa Biura Bezpieczeństwa Narodowego. Aktualnie edukator dla bezpieczeństwa i wykładowca akademicki,  członek prezydenckiej Rady Bezpieczeństwa i Obronności.  "
     },
     "person9": {
       "name": "Maciej Świrski ",
+      "function": "Reduta Dobrego Imienia",
       "description": "Prezes i założyciel Fundacji Reduta Dobrego Imienia – Polska Liga przeciw Zniesławieniom, przewodniczący Rady Nadzorczej Polskiej Agencji Prasowej, absolwent Wydziału Historii Uniwersytetu Warszawskiego, PMTP University of Wisconsin (Milwaukee), MBA (Akademia Koźmińskiego)."
+    },
+    "person10": {
+      "name": "Bogdan Pliszka ",
+      "function": "politolog, ekspert ds. terroryzmu, geopolityk",
+      "description": ""
+    },
+    "person11": {
+      "name": "Martyna Bildziukiewicz",
+      "function": "Head of East Stratcom Task Force, Unia Europejska",
+      "description": ""
+    },
+    "person12": {
+      "name": "Dominik Andrzejczuk",
+      "function": "inżynier, Atmos Ventures",
+      "description": ""
     }
   }
 }

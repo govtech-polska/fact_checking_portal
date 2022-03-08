@@ -59,12 +59,12 @@ const agendaV = () => {
 
 
 
-                                {/* <div className="tableWrapper">
+                                <div className="tableWrapper">
                                     <table className="table  table-bordered">
                                         <thead>
                                         <tr>
                                             <th className="main" colSpan="3"
-                                                scope="col"><strong>{t('agendaV:table.tableTitle')}</strong>
+                                                scope="col"><strong>{t('agendaV:table.tableTitle1')}</strong>
                                             </th>
 
                                         </tr>
@@ -84,68 +84,29 @@ const agendaV = () => {
 
                                         <tr>
                                             <td className="hour">10:00</td>
-                                            <td><a href="#id3">Marcin Maj</a></td>
-                                            <td>{t('agendaV:functions.function3')}</td>
+                                            <td><a href="#id6">{t('agendaV:personList.person6.name')}</a></td>
+                                            <td>{t('agendaV:personList.person6.function')}</td>
                                         </tr>
 
                                         <tr>
                                             <td className="hour">11:00</td>
-                                            <td><a href="#id5">Piotr Potejko</a></td>
-                                            <td>{t('agendaV:functions.function5')}</td>
+                                            <td><a href="#id7">{t('agendaV:personList.person7.name')}</a></td>
+                                            <td>{t('agendaV:personList.person7.function')}</td>
                                         </tr>
-
                                         <tr>
-                                            <td className="hour">11:30
-                                            </td>
-                                            <td><a href="#id10">Dr Paweł M. Boguszewski</a>
-                                            </td>
-                                            <td>{t('agendaV:functions.function10')}
-                                            </td>
+                                            <td className="hour">12:00</td>
+                                            <td><a href="#id11">{t('agendaV:personList.person11.name')}</a></td>
+                                            <td>{t('agendaV:personList.person11.function')}</td>
                                         </tr>
-
                                         <tr>
-                                            <td className="middle hour" rowSpan="4">12:00</td>
-                                            <td className="debateName" colSpan="2">
-                                                {t('agendaV:table.debate1')}</td>
+                                            <td className="hour">13:00</td>
+                                            <td><a href="#id8">{t('agendaV:personList.person8.name')}</a></td>
+                                            <td>{t('agendaV:personList.person8.function')}</td>
                                         </tr>
-
                                         <tr>
-                                            <td><a href="#id11">Antoni Rytel</a>
-                                            </td>
-                                            <td>{t('agendaV:functions.function11')}
-                                            </td>
-                                        </tr>
-
-
-
-                                        <tr>
-                                            <td><a href="#id12">Łukasz Dzieran</a></td>
-                                            <td>{t('agendaV:functions.function12')}
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td><a href="#id13">Rafał Pazura</a></td>
-                                            <td>{t('agendaV:functions.function13')}
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td className="hour">13:00
-                                            </td>
-                                            <td><a href="#id1">Agnieszka Bujała</a>
-                                            </td>
-                                            <td>{t('agendaV:functions.function1')}
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td className="hour">14:00
-                                            </td>
-                                            <td><a href="#id4">Piotr Maszczyk</a>
-                                            </td>
-                                            <td>{t('agendaV:functions.function4')}
-                                            </td>
+                                            <td className="hour">14:00</td>
+                                            <td><a href="#id2">{t('agendaV:personList.person2.name')}</a></td>
+                                            <td>{t('agendaV:personList.person2.function')}</td>
                                         </tr>
                                         </tbody>
                                     </table>
@@ -171,41 +132,62 @@ const agendaV = () => {
 
                                         <tr>
                                             <td className="hour">10:00</td>
-                                            <td><a href="#id2">Ilona Dąbrowska</a></td>
-                                            <td>{t('agendaV:functions.function2')}</td>
+                                            <td><a href="#id4">{t('agendaV:personList.person4.name')}</a></td>
+                                            <td>{t('agendaV:personList.person4.function')}</td>
                                         </tr>
-
                                         <tr>
                                             <td className="hour">11:00</td>
-                                            <td><a href="#id6">Tomasz Witkowski</a></td>
-                                            <td>{t('agendaV:functions.function6')}</td>
-                                        </tr>
-
-                                        <tr>
-                                            <td className="hour">12:00</td>
-                                            <td><a href="#id14">Mariusz Kurczyk</a></td>
-                                            <td>{t('agendaV:functions.function14')}</td>
+                                            <td><a href="#id12">{t('agendaV:personList.person12.name')}</a></td>
+                                            <td>{t('agendaV:personList.person12.function')}</td>
                                         </tr>
 
 
 
                                         <tr>
-                                            <td className="hour">13:00
-                                            </td>
-                                            <td><a href="#id7">Marcin Juwa</a>
-                                            </td>
-                                            <td>{t('agendaV:functions.function7')}
-                                            </td>
+                                            <td className="middle hour" rowSpan="4">12:00</td>
+                                            <td className="debateName" colSpan="2">
+                                                {t('agendaV:table.debate2')}</td>
                                         </tr>
 
                                         <tr>
-                                            <td className="hour">14:00
+                                            <td><a href="#id9">{t('agendaV:personList.person9.name')}</a>
                                             </td>
-                                            <td><a href="#id8">Arkadiusz Bednarczuk</a> / <a href="#id9">Mariusz Kuśmierczyk</a>
-                                            </td>
-                                            <td>{t('agendaV:functions.function8')} / {t('agendaV:functions.function9')}
+                                            <td>{t('agendaV:personList.person9.function')}
                                             </td>
                                         </tr>
+                                        <tr>
+                                            <td><a href="#id5">{t('agendaV:personList.person5.name')}</a>
+                                            </td>
+                                            <td>{t('agendaV:personList.person5.function')}
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="#id3">{t('agendaV:personList.person3.name')}</a>
+                                            </td>
+                                            <td>{t('agendaV:personList.person3.function')}
+                                            </td>
+                                        </tr>
+
+
+
+
+
+
+
+                                        <tr>
+                                            <td className="hour">13:00</td>
+                                            <td><a href="#id10">{t('agendaV:personList.person10.name')}</a></td>
+                                            <td>{t('agendaV:personList.person10.function')}</td>
+                                        </tr>
+
+
+                                        <tr>
+                                            <td className="hour">14:00</td>
+                                            <td><a href="#id1">{t('agendaV:personList.person1.name')}</a></td>
+                                            <td>{t('agendaV:personList.person1.function')}</td>
+                                        </tr>
+
+
                                         <tr>
                                             <td className="hour">14:30</td>
                                             <td className="center"
@@ -213,11 +195,20 @@ const agendaV = () => {
                                         </tr>
                                         </tbody>
                                     </table>
-                                </div>*/}
+                                </div>
 
 
                                 <h2 className="subtitle">{t('agendaV:subtitle1')}</h2>
                                 <ul className="personList">
+                                    {/*<li id="id12" className="person">
+                                        <div className="imageWrapper noImage">
+                                            <img src="/images/persons/fh5/12.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaV:personList.person12.name')}</h2>
+                                            <p>{t('agendaV:personList.person12.description')}</p>
+                                        </div>
+                                    </li>*/}
                                     <li id="id1" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh5/1.jpg"/>
@@ -236,6 +227,15 @@ const agendaV = () => {
                                             <p>{t('agendaV:personList.person2.description')}</p>
                                         </div>
                                     </li>
+                                    {/*<li id="id11" className="person">
+                                        <div className="imageWrapper noImage">
+                                            <img src="/images/persons/fh5/12.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaV:personList.person11.name')}</h2>
+                                            <p>{t('agendaV:personList.person11.description')}</p>
+                                        </div>
+                                    </li>*/}
                                     <li id="id3" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh5/3.jpg"/>
@@ -281,6 +281,15 @@ const agendaV = () => {
                                             <p>{t('agendaV:personList.person7.description')}</p>
                                         </div>
                                     </li>
+                                    {/*<li id="id9 className="person">
+                                        <div className="imageWrapper noImage">
+                                            <img src="/images/persons/fh5/9.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaV:personList.person9.name')}</h2>
+                                            <p>{t('agendaV:personList.person9.description')}</p>
+                                        </div>
+                                    </li>*/}
                                     <li id="id8" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh5/8.jpg"/>
