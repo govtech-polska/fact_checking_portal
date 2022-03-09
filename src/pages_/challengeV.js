@@ -376,8 +376,8 @@ const challengeV = () => {
                                         </li>
                                         <li className="festiwal">
                                             <a target="_blank" rel="noopener noreferrer"
-                                               href="https://www.gov.pl/web/govtech">
-                                                <img src="/images/partners/cyfrowa_polska_logo.png" alt="Festiwal"/>
+                                               href="https://cyfrowapolska.org/pl/">
+                                                <img src="/images/partners/cyfrowa_polska_logo.png" alt="cyfrowa polska"/>
                                             </a>
                                         </li>
 
