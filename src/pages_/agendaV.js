@@ -58,6 +58,60 @@ const agendaV = () => {
 
 
 
+                                <div className="tableWrapper">
+                                    <table className="table  table-bordered">
+                                        <thead>
+                                        <tr>
+                                            <th className="main" colSpan="3"
+                                                scope="col"><strong>{t('agendaV:table.tableTitle')}</strong>
+                                            </th>
+
+                                        </tr>
+                                        <tr>
+                                            <th scope="col">{t('agendaV:table.tableTh')}</th>
+                                            <th className="name"
+                                                scope="col">{t('agendaV:table.tableTh1')} {t('agendaV:table.tableTh2')}</th>
+                                            <th scope="col">{t('agendaV:table.tableTh3')}</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td className="hour">9:50</td>
+                                            <td className="center"
+                                                colSpan="2"><strong>{t('agendaV:table.tableMainTitle')}</strong></td>
+                                        </tr>
+
+                                        {/* <tr>
+                                            <td className="hour">10:00</td>
+                                            <td><a href="#id6">{t('agendaV:personList.person6.name')}</a></td>
+                                            <td>{t('agendaV:personList.person6.function')}</td>
+                                        </tr>
+
+                                        <tr>
+                                            <td className="hour">11:00</td>
+                                            <td><a href="#id7">{t('agendaV:personList.person7.name')}</a></td>
+                                            <td>{t('agendaV:personList.person7.function')}</td>
+                                        </tr>
+                                        <tr>
+                                            <td className="hour">12:00</td>
+                                            <td><a href="#id11">{t('agendaV:personList.person11.name')}</a></td>
+                                            <td>{t('agendaV:personList.person11.function')}</td>
+                                        </tr>
+                                        <tr>
+                                            <td className="hour">13:00</td>
+                                            <td><a href="#id8">{t('agendaV:personList.person8.name')}</a></td>
+                                            <td>{t('agendaV:personList.person8.function')}</td>
+                                        </tr>
+                                        <tr>
+                                            <td className="hour">14:00</td>
+                                            <td><a href="#id2">{t('agendaV:personList.person2.name')}</a></td>
+                                            <td>{t('agendaV:personList.person2.function')}</td>
+                                        </tr>*/}
+                                        </tbody>
+                                    </table>
+                                </div>
+
+
 
                                 <div className="tableWrapper">
                                     <table className="table  table-bordered">
@@ -76,11 +130,6 @@ const agendaV = () => {
                                         </tr>
                                         </thead>
                                         <tbody>
-                                        <tr>
-                                            <td className="hour">9:50</td>
-                                            <td className="center"
-                                                colSpan="2"><strong>{t('agendaV:table.tableMainTitle1')}</strong></td>
-                                        </tr>
 
                                         <tr>
                                             <td className="hour">10:00</td>

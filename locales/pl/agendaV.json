@@ -5,14 +5,16 @@
   "subtitle2": " Obejrzyj spotkania, które już się odbyły",
   "iframebutton": " Obejrzyj spotkania, które już się odbyły",
   "table": {
+    "tableTitle": "Czwarterk 24.03.2022",
     "tableTitle1": "PIĄTEK 25.03.2022",
     "tableTitle2": "Sobota 26.03.2022",
     "tableTh": "Godzina",
     "tableTh1": "Imię",
     "tableTh2": "i nazwisko",
     "tableTh3": "Funkcja",
-    "tableMainTitle1": "Rozpoczęcie #FakeHunter Challenge - Geopolityka",
-    "tableMainTitle2": "Zakończenie #FakeHunter Challenge - Geopolityka",
+    "tableMainTitle": "Rozpoczęcie #FakeHunter Challenge/Geopolityka",
+    "tableMainTitle1": " ",
+    "tableMainTitle2": "Zakończenie #FakeHunter Challenge/Geopolityka",
     "debate1": " ",
     "debate2": "DEBATA: Państwo, którego nie ma. Dezinformacja na temat Polski w światowym obiegu informacyjnym."
   },

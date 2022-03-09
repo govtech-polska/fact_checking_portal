@@ -5,16 +5,18 @@
   "subtitle2": "Watch the past meetings",
   "iframebutton": "Watch the past meetings",
   "table": {
-    "tableTitle": "FRIDAY 03.12.2021",
-    "tableTitle2": "Saturday 04.12.2021",
+    "tableTitle": "Thursday 24.03.2022",
+    "tableTitle1": "FRIDAY 25.03.2022",
+    "tableTitle2": "Saturday 26.03.2022",
     "tableTh": "Hour",
     "tableTh1": "Name",
     "tableTh2": "and surname",
     "tableTh3": "Function",
-    "tableMainTitle1": "Opening #FakeHunter Challenge - Note! Scammer",
-    "tableMainTitle2": "Ending #FakeHunter Challenge - Note! Scammer",
-    "debate1": "DEBATE: Frauds of the disinformation era - how not to fall into the trap of abuse.",
-    "debate2": " "
+    "tableMainTitle": "Opening #FakeHunter Challenge/Geopolitics",
+    "tableMainTitle1": " ",
+    "tableMainTitle2": "Ending #FakeHunter Challenge/Geopolitics",
+    "debate1": "",
+    "debate2": "DEBATE: Frauds of the disinformation era - how not to fall into the trap of abuse."
   },
   "personList": {
     "person1": {
