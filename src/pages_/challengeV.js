@@ -108,6 +108,9 @@ const challengeV = () => {
                                         <p>
                                             <Trans i18nKey="challengeV:section13.description3" components={[<span/>]}/>
                                         </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description4" components={[<span/>]}/>
+                                        </p>
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
@@ -342,6 +345,15 @@ const challengeV = () => {
                                                    components={[<a className="link" href="https://fakehunter.pap.pl"
                                                                    target="_blank"/>]}/>
                                         </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section12.description2"
+                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                   target="_blank"/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section12.description3" components={[<span/>]}/>
+                                        </p>
+
                                         <span> <Trans i18nKey="challengeV:section12.button"
                                                       components={[<a className="button" href="/agendaV"/>,
                                                           <a className="button" href="/en/agendaV"/>]}/></span>
@@ -519,7 +531,7 @@ const challengeV = () => {
                                             <li><Trans i18nKey="challengeV:section14.link3"
                                                        components={[<a className="link" href="/challengeIII"/>,
                                                            <a className="link" href="/en/challengeIII"/>]}/></li>
-                                            <li><Trans i18nKey="challengeV:section14.link3"
+                                            <li><Trans i18nKey="challengeV:section14.link4"
                                                        components={[<a className="link" href="/challengeIV"/>,
                                                            <a className="link" href="/en/challengeIV"/>]}/></li>
                                         </ul>

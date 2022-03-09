@@ -11,7 +11,7 @@
   "section2": {
     "title": "ZASADY KONKURSU",
     "subtitle": "Zasady rywalizacji ",
-    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu posługujących się językiem polskim lub angielskim, w wieku powyżej 13 lat. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły w liczbie od 1 do 5 członków. ",
+    "description": "Konkurs skierowany jest do wszystkich użytkowników internetu w wieku powyżej 13 lat posługujących się językiem polskim lub angielskim. Punkty z zakwalifikowanych i ocenionych przez jury prac sumują się. Wcześniej należy się zarejestrować i zdecydować o składzie osobowym zespołu. W rywalizacji udział mogą brać zespoły liczące od 1 do 5 członków. ",
     "description1":"Konkurs składa się z dwóch konkurencji:",
     "description2":"- polowanie na fake newsy",
     "description3":"- fact checking challenge"
@@ -25,9 +25,9 @@
   },
   "section4": {
     "title": "Zostań fakehunterem i zdobądź nagrody",
-    "subtitle": "Dołącz do walki z fake newsami w dniach 24 – 27 marca  ",
+    "subtitle": "Dołącz do walki z fake newsami w dniach 24 – 27 marca",
     "description": "Zarejestruj się już dziś! Czekamy na Ciebie!",
-    "description1": "Zgodnie z regulaminem w konkursie mogą brać udział zespoły składające od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji. ",
+    "description1": "Zgodnie z regulaminem w konkursie mogą brać udział zespoły liczące  od 1 do 5 osób. Punkty przyznawane są za zgłoszenie nieprawdziwej informacji lub przygotowanie raportu weryfikacji faktów opartego na wiarygodnych źródłach informacji.",
     "description2": "Dołącz razem z nami do walki z dezinformacją. Ty również masz wpływ na to, co czytają inni. Dziel się i udostępniaj w sieci wiarygodne i sprawdzone informacje.",
     "applyBtn": "ZGŁOŚ SIĘ DO KONKURSU!"
   },
@@ -39,15 +39,16 @@
   },
   "section8": {
     "title": "Nagrody",
-    "subtitle": "Dla najlepszych atrakcyjne nagrody pieniężne!",
-    "description": "Weź udział w rywalizacji i wygraj jedną z atrakcyjnych nagród finansowych. Od Ciebie zależy, czy chcesz działać w zespole, czy samodzielnie. A recepta na wygraną jest prosta – im więcej zgłoszonych i prawidłowo ocenionych przez jury prac, tym więcej punktów i miejsce na podium.",
-    "description1":"<0>I miejsca - 6 tys. zł, II miejsce - 4 tys. zł, III miejsce - 2 tys. zł. </0> ",
-    "description2":"Zgłoszenia będą oceniane przez jury składające się ze specjalistów - redaktorów i dziennikarzy portalu Fake Hunter, którzy na co dzień zajmują się weryfikacją fałszywych i zmanipulowanych informacji publikowanych w sieci. ",
-    "description3":"<0>Oprócz nagród pieniężnych mamy dla Was także nagrodę specjalną</0>",
-    "description4":"Co trzeba zrobić, by ją wygrać? Przesłać swoje pomysły, które pomogłyby nam zaangażować w walkę z dezinformacją i zainteresować tym tematem więcej internautów niż obecnie oraz wzbogacić i udoskonalić system FakeHunter. Czekamy także na pomysły tematyczne lub organizacyjne na kolejne edycje FakeHunter Challenge. Fake Hunter to projekt społeczny. Tworzymy go wspólnie z Wami i z Wami chcemy go również rozwijać i ulepszać. ",
-    "description5":"Podejmij wyzwanie i zgłoś swój pomysł!",
-    "description6":"<0>Zwycięzców konkursu poznamy 1 kwietnia o godz.12.00. </0>",
-    "description7":"Wyniki ogłosimy podczas transmisji live na <0>https://fakehunter.pap.pl</0>.",
+    "subtitle": "Dla najlepszych atrakcyjne nagrody pieniężne i rzeczowe! Bezpłatne warsztaty dla szkół!",
+    "description": "Weź udział w rywalizacji i wygraj jedną z atrakcyjnych nagród! \nOd Ciebie zależy, czy chcesz działać w zespole, czy samodzielnie. A recepta na wygraną jest prosta – im więcej zgłoszonych i prawidłowo ocenionych przez jury prac, tym więcej punktów i miejsce na podium.\n",
+    "description1":"<0>I miejsce - 8 tys. zł i komputer, II miejsce - 6 tys. zł, III miejsce - 3 tys. zł. </0> ",
+    "description2":"Do udziału w konkursie zachęcamy szkoły podstawowe, średnie oraz uczelnie wyższe. Dla pierwszych dwudziestu szkół, które zgłoszą chęć udziału w konkursie i zaangażują się w rywalizację, zorganizujemy bezpłatne warsztaty z weryfikacji informacji. Wśród ekspertów prowadzących warsztaty będą specjaliści z portalu FakeHunter, którzy na co dzień zajmują się weryfikacją fałszywych i zmanipulowanych informacji publikowanych w sieci oraz eksperci GovTech.",
+    "description3":"Liczymy na wasz wkład w walkę z dezinformacją!",
+    "description4":"<0>Do wygrania jest także nagroda specjalna……</0>",
+    "description5":"Co trzeba zrobić, by ją wygrać? Przesłać swoje pomysły, które pomogłyby nam zaangażować w walkę z dezinformacją i zainteresować tym tematem więcej internautów niż obecnie oraz wzbogacić i udoskonalić system FakeHunter. Czekamy także na pomysły tematyczne lub organizacyjne na kolejne edycje FakeHunter Challenge. FakeHunter to projekt społeczny. Tworzymy go wspólnie z Wami i z Wami chcemy go również rozwijać i ulepszać.",
+    "description6":"Podejmij wyzwanie i zgłoś swój pomysł!",
+    "description7":"<0>Zwycięzców konkursu poznamy 1 kwietnia o godz.12.00. </0>",
+    "description8":"Wyniki ogłosimy podczas transmisji live na <0>https://fakehunter.pap.pl</0>.",
     "link": "Regulamin"
   },
   "section9": {
@@ -69,19 +70,22 @@
   },
   "section12": {
     "title": "EKSPERCKIE SPOTKANIA PAP",
-    "subtitle": "Wojna także w sieci - jakie przekazy propagandowe i dezinformacyjne stosują Rosjanie? Polska za granicą – wizerunek w zagranicznych mediach. Jakie przekłamania na temat naszego kraju obserwujemy w mediach światowych?",
-    "description": "Naszymi gośćmi będą: dziennikarze, politolodzy, publicyści, analitycy zajmujący się sprawami międzynarodowymi. Porozmawiamy z nimi o konflikcie zbrojnym na Ukrainie, dezinformacji inspirowanej i prowadzonej przez Kreml. Postaramy się prześledzić skalę fake newsów, jakie pojawiają się na temat Polski w zagranicznej prasie i zastanowimy się razem z ekspertami, z czego to wynika i jak powinniśmy reagować. ",
-    "description1": "Rozmowy z zaproszonymi gośćmi będą transmitowane live na <0>https://fakehunter.pap.pl</0> podczas pierwszego i drugiego dnia trwania konkursu. Oglądajcie!",
+    "subtitle": "Wojna także w sieci - jakie przekazy propagandowe i dezinformacyjne stosują Rosjanie? Dzieci i młodzież – jak rozmawiać o wojnie i jak radzić sobie z emocjami?",
+    "description": "Zapraszamy na cykl interesujących rozmów i debat transmitowany live na <0>https://fakehunter.pap.pl</0>",
+    "description1": "Z naszymi gośćmi porozmawiamy o tym, jaki wpływ na uczniów szkół podstawowych i średnich mają wydarzenia za naszą wschodnią granicą, jak o tym rozmawiać z ukraińskimi rówieśnikami i radzić sobie z trudnymi emocjami. ",
+    "description2": "Wśród rozmówców będą także: dziennikarze, politolodzy, publicyści, analitycy zajmujący się sprawami międzynarodowymi. Porozmawiamy z nimi o wyniszczającej wojnie na Ukrainie, dezinformacji inspirowanej i prowadzonej przez Kreml, konsekwencjach gospodarczych dla całego świata. Postaramy się prześledzić skalę fake newsów, jakie pojawiają się na temat Polski w zagranicznej prasie i zastanowimy się razem z ekspertami, z czego to wynika i jak powinniśmy reagować. ",
+    "description3": "<0>Oglądajcie koniecznie!</0>",
 
     "button": "<0>ZOBACZ AGENDĘ SPOTKAŃ</0>"
   },
   "section13": {
     "title": "KONKURS",
     "subtitle": "V edycja konkursu #FakeHunter Challenge/Geopolityka w dniach 24-27 marca",
-    "description": "Do konkursu <0>#FakeHunter Challenge</0> zapraszamy wszystkich, którym zależy na propagowaniu idei dostępu do wiarygodnych i rzetelnych informacji. Codziennie jesteśmy narażani na niebezpieczeństwo związane z fałszywymi i zmanipulowanymi treściami dotyczącymi działań politycznych, militarnych, gospodarczych różnych krajów i ich następstw. Jest to szczególnie ważne teraz, gdy stajemy się świadkami rosyjskiej agresji na Ukrainę. Skala fake newsów mających na celu wywołanie niepokojów społecznych, wzbudzenie lęków i paniki na świecie, rozprzestrzenia się jak wirus.",
-    "description1": "Dlatego chcemy walczyć z dezinformacją! Dołączajcie do konkursu! Razem mamy większy wpływ na to, co czytają inni.",
-    "description2": "<0>Tematem przewodnim V edycji konkursu jest geopolityka, czyli działania państw obejmujące sferę polityczną, gospodarczą, militarną, dyplomatyczną oraz energetyczną.</0>",
-    "description3": "W ciągu trzech dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fałszywe informacje publikowane w sieci dotyczące m.in.: konfliktu zbrojnego na Ukrainie, rosyjskich działań militarnych i politycznych, napięć wokół Polski, Ukrainy, krajów bałtyckich, wizerunku polskiego państwa, zakłamywania historii Polski. "
+    "description": "Do konkursu #FakeHunter Challenge zapraszamy uczniów szkół podstawowych, szkół średnich, studentów, społeczność ukraińską oraz tych wszystkich, którym zależy na propagowaniu idei dostępu do wiarygodnych i rzetelnych informacji.",
+    "description1": "Codziennie jesteśmy narażani na niebezpieczeństwo związane z fałszywymi i zmanipulowanymi treściami dotyczącymi działań militarnych, politycznych, gospodarczych i ich następstw. Jest to szczególnie ważne teraz, gdy jesteśmy świadkami rosyjskiej agresji na Ukrainę. Skala fake newsów mających na celu wywołanie niepokojów społecznych, wzbudzenie lęków i  paniki na świecie, rozprzestrzenia się jak wirus.",
+    "description2": "Dlatego chcemy walczyć z dezinformacją! Dołączajcie do konkursu! Razem mamy większy wpływ na to, co czytają inni.",
+    "description3": "<0>Tematem przewodnim V edycji konkursu jest geopolityka, czyli działania państw obejmujące sferę polityczną, militarną, gospodarczą, dyplomatyczną oraz energetyczną.</0>",
+    "description4": "W ciągu czterech dni zarejestrowane osoby, działające samodzielnie lub w zespołach, będą mogły zgłaszać fałszywe informacje publikowane w sieci dotyczące m.in.: wojny na Ukrainie, rosyjskich działań militarnych i politycznych, pomocy udzielanej ukraińskim uchodźcom przez Polskę, konsekwencji gospodarczych wywołanych działaniami na Wschodzie. Ponadto, zakres tematyczny konkursu uwzględnia również treści związane z fałszowaniem wizerunku polskiego państwa oraz zakłamywania historii Polski. "
   },
   "section14": {
     "title": "Poprzednie edycje konkursu:",

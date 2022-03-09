@@ -39,15 +39,16 @@
   },
   "section8": {
     "title": "Awards",
-    "subtitle": "Attractive cash prizes for the best!",
+    "subtitle": "Attractive money and non-cash prizes for the best! Free workshops for schools!",
     "description": "Take part in the competition and win one of the attractive financial prizes. It is up to you whether you want to work in a team or on your own. And the recipe for winning is simple - the more works submitted and correctly assessed by the jury, the more points and the place on the podium.",
-    "description1":"<0>1st places - 6,000 PLN, 2nd place – 4,000 PLN, 3rd place – 2,000 PLN.</0> ",
-    "description2":"The entries will be assessed by a jury consisting of specialists - editors and journalists of the Fake Hunter portal, who verify false and manipulated information published on the web on a daily basis.",
-    "description3":"<0>In addition to cash prizes, we also have a special prize for you </0>",
-    "description4":"What does it take to win it? Submit your ideas that would help us to engage in the fight against disinformation and interest more Internet users than today, and enrich and improve the FakeHunter system. We are also waiting for thematic or organizational ideas for the next editions of the FakeHunter Challenge. Fake Hunter is a social project. We create it together with you and we want to develop and improve it with you.",
-    "description5":"Take up the challenge and submit your idea!",
-    "description6":"<0>The winners of the competition will be announced on April 1st at 12.00 p.m.</0>",
-    "description7":"We will announce the results during the live broadcast at <0>https://fakehunter.pap.pl</0>.",
+    "description1":"<0>1st place - 8,000 PLN & computer, 2nd place – 6,000 PLN, 3rd place – 3,000 PLN</0> ",
+    "description2":"We encourage elementary and secondary schools and universities to participate in the competition. We will organize free information verification workshops for the first twenty schools that will apply for the competition and become involved in the competition. Among the experts conducting the workshop will be specialists from the FakeHunter portal who verify false and manipulated information published on the web on a daily basis, and GovTech experts.",
+    "description3":"We count on your contribution to the fight against disinformation!",
+    "description4":"<0>In addition to cash prizes, we also have a special prize for you ……</0>",
+    "description5":"What does it take to win it? Submit your ideas that would help us to engage in the fight against disinformation and interest more Internet users than today, and enrich and improve the FakeHunter system. We are also waiting for thematic or organizational ideas for the next editions of the FakeHunter Challenge. Fake Hunter is a social project. We create it together with you and we want to develop and improve it with you.",
+    "description6":"Take up the challenge and submit your idea!",
+    "description7":"<0>The winners of the competition will be announced on April 1st at 12.00 p.m.</0>",
+    "description8":"We will announce the results during the live broadcast at <0>https://fakehunter.pap.pl</0>.",
     "link": "Regulations"
   },
   "section9": {
@@ -68,19 +69,22 @@
     "button": "Submit a report verifying the reported false information"
   },
   "section12": {
-    "title": "EXPERT MEETINGS WITH PAP",
-    "subtitle": "War takes place also online - what propaganda and disinformation messages are used by the Russians? Poland abroad - image in foreign media. What distortions about our country do we observe in the global media?",
-    "description": "Our guests will be: journalists, political scientists, publicists, analysts dealing with international affairs. We will talk with them about the armed conflict in Ukraine, disinformation inspired and led by the Kremlin. We will try to trace the scale of fake news that appears about Poland in the foreign press and we will consider together with experts what it results from and how we should react.",
-    "description1": "Conversations with invited guests will be broadcast live on <0>https://fakehunter.pap.pl</0> during the first and second day of the competition. Watch!",
+    "title": "PAP’S MEETINGS WITH EXPERTS",
+    "subtitle": "War takes place also online - what propaganda and disinformation messages are used by the Russians? Children and youth - how to talk about war and how to deal with difficult emotions?",
+    "description": "We invite you to a series of interesting conversations and debates broadcast live on  <0>https://fakehunter.pap.pl</0>",
+    "description1": "We will talk with our guests about the impact of the events behind our eastern border on primary and secondary school students, how to talk about it with Ukrainian peers and how to deal with difficult emotions.",
+    "description2": "The interviewees will also include journalists, political scientists, publicists, and analysts dealing with international affairs. We will talk to them about the devastating war in Ukraine, disinformation inspired and led by the Kremlin, economic consequences for the whole world. We will try to trace the scale of fake news that appears about Poland in the foreign press and we will consider together with experts what it results from and how we should react. ",
+    "description3": "<0>Be sure to watch!</0>",
     "button": "<1>SEE THE MEETING AGENDA</1>"
   },
   "section13": {
     "title": "CONTEST",
     "subtitle": "The 5th edition of the #FakeHunter Challenge/Geopolitics competition on March 24th -27th",
-    "description": "We invite everyone who wants to promote the idea of access to credible and reliable information to the <0>#FakeHunter Challenge</0> competition. Every day we are exposed to the danger of false and manipulated content concerning political, military and economic activities of various countries and their consequences. This is especially important now as we witness Russian aggression against Ukraine. The scale of fake news aimed at generating social unrest, arousing anxiety and panic in the world is spreading like a virus.",
-    "description1": "That's why we want to fight disinformation! Join the competition! Together, we have a stronger influence on what others read.",
-    "description2": "<0>The main theme of the 5th edition of the competition is geopolitics, i.e. the activities of countries covering the political, economic, military, diplomatic and energy spheres.</0>",
-    "description3": "Within three days, registered people, acting independently or in teams, will be able to report false information published on the Internet regarding, among others, the armed conflict in Ukraine, Russian military and political activities, tensions around Poland, Ukraine, the Baltic countries, the image of the Polish state , distorting the history of Poland."
+    "description": "We invite students of primary and secondary schools, students, the Ukrainian community and all those who want to promote the idea of access to credible and reliable information to the #FakeHunter Challenge competition.",
+    "description1": "Every day we are exposed to the danger of false and manipulated content concerning military, political and economic activities and their consequences. This is especially important now that we are witnessing Russian aggression against Ukraine. The scale of fake news aimed at generating social unrest, arousing anxiety and panic in the world is spreading like a virus.",
+    "description2": "That's why we want to fight disinformation! Join the competition! Together, we have a stronger influence on what others read.",
+    "description3": "<0>The main theme of the fifth edition of the competition is geopolitics, i.e. the activities of states covering the political, military, economic, diplomatic and energy spheres.</0>",
+    "description4": "Within four days, registered people, acting independently or in teams, will be able to report false information published on the Internet regarding, among others: the war in Ukraine, Russian military and political activities, aid provided to Ukrainian refugees by Poland, economic consequences caused by activities in the East . In addition, the thematic scope of the competition also includes content related to falsifying the image of the Polish state and distorting the history of Poland."
   },
   "section14": {
     "title": "Previous editions of the competition:",
