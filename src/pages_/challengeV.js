@@ -392,6 +392,12 @@ const challengeV = () => {
                                                 <img src="/images/partners/cyfrowa_polska_logo.png" alt="cyfrowa polska"/>
                                             </a>
                                         </li>
+                                        <li className="festiwal">
+                                            <a target="_blank" rel="noopener noreferrer"
+                                               href="https://cyfrowapolska.org/pl/">
+                                                <img src="/images/partners/ministerstwo_edukacji.png" alt="Ministerstwo edukacji"/>
+                                            </a>
+                                        </li>
 
                                     </ul>
                                 </div>
