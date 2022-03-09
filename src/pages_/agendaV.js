@@ -330,15 +330,15 @@ const agendaV = () => {
                                             <p>{t('agendaV:personList.person7.description')}</p>
                                         </div>
                                     </li>
-                                    {/*<li id="id9 className="person">
-                                        <div className="imageWrapper noImage">
-                                            <img src="/images/persons/fh5/9.jpg"/>
+                                    <li id="id10" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh5/10.jpg"/>
                                         </div>
                                         <div className="textWrapper">
-                                            <h2 className="name">{t('agendaV:personList.person9.name')}</h2>
-                                            <p>{t('agendaV:personList.person9.description')}</p>
+                                            <h2 className="name">{t('agendaV:personList.person10.name')}</h2>
+                                            <p>{t('agendaV:personList.person10.description')}</p>
                                         </div>
-                                    </li>*/}
+                                    </li>
                                     <li id="id8" className="person">
                                         <div className="imageWrapper">
                                             <img src="/images/persons/fh5/8.jpg"/>
