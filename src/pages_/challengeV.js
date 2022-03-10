@@ -372,6 +372,9 @@ const challengeV = () => {
                                         <p>
                                             <Trans i18nKey="challengeV:section9.description" components={[<span/>]}/>
                                         </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section9.description1" components={[<span/>]}/>
+                                        </p>
                                     </div>
                                 </div>
 
