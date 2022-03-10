@@ -193,8 +193,7 @@ const challengeV = () => {
                                             <Trans i18nKey="challengeV:section8.description6" components={[<span/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="challengeV:section8.description7" components={[<a className="link" href="https://fakehunter.pap.pl"
-                                                                                                              target="_blank"/>]}/>
+                                            <Trans i18nKey="challengeV:section8.description7" components={[<span/>]}/>
                                         </p>
                                         <div className="dropdown link">
                                             <button
@@ -394,7 +393,7 @@ const challengeV = () => {
                                         </li>
                                         <li className="festiwal">
                                             <a target="_blank" rel="noopener noreferrer"
-                                               href="https://cyfrowapolska.org/pl/">
+                                               href="https://www.gov.pl/web/edukacja-i-nauka">
                                                 <img src="/images/partners/ministerstwo_edukacji.png" alt="Ministerstwo edukacji"/>
                                             </a>
                                         </li>
