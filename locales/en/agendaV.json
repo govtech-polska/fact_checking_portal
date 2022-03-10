@@ -21,52 +21,52 @@
   "personList": {
     "person1": {
       "name": "Dr Michał Jacek Baranowski ",
-      "function": "historyk",
+      "function": "Historian",
       "description": "A historian specializing in the history of Rome, especially in the so-called crisis of the third century (235-284). His interests focus on ancient epidemics as well as around the ideology of power. He obtained his doctorate at the University of Szczecin. In recent years, he has been associated with the University of Białystok (2017-2018) and the University of Warsaw (2018-2021). Currently, he cooperates with the Sub Lupa Scientific Publishing House and the Global Scientific Platform Foundation."
     },
     "person2": {
       "name": "Jakub Biernat ",
-      "function": "journalist, specialist for eastern affairs",
+      "function": "TV Belsat journalist, reporter, translator and traveler",
       "description": "A journalist from TV Biełsat, has been fascinated by Belarus, the area of Eastern Europe and the former USSR for many years. A reporter, translator and traveler. He speaks Belarusian."
     },
     "person3": {
       "name": "Marek Budzisz ",
-      "function": "eastern expert",
+      "function": "Expert on Russia and the post-Soviet areas",
       "description": "Expert on Russia and the post-Soviet areas.\nHe graduated from the history department of the University of Warsaw, and currently works as a financial director in a private investment fund. In his youth, one of the opposition members of the Young Poland Movement. He worked as a journalist for Puls TV, Radio Plus and the Życie daily. Advisor to the minister, the head of the Prime Minister's office and to the minister of finance in the government of Jerzy Buzek.\nHe regularly publishes his analyzes on the post-Soviet areas at Salon 24, on his blog Wieści z Rosji, and in Tygodnik TVP, Nowa Konfederacja, Dziennik Gazeta Prawna, Rzeczy Wspólne, WGospodarce, and Gazeta Bankowa.\n"
     },
     "person4": {
       "name": "Paweł Deląg",
-      "function": "actor",
+      "function": "Actor, director and film producer",
       "description": "Actor, director and film producer. A graduate of the PWST in Krakow. His first major role was in Steven Spielberg’s \"Schindler's List\". He made his stage debut alongside Krystyna Janda at the Powszechny Theater in Warsaw. He also performed at the Prezentacje Theatre and in Wrocław at the Współczesny Theater. He appeared, inter alia, in such films as: \"Młode wilki\", \"Quo Vadis\", \" Chłopaki nie płaczą\", \" Zróbmy sobie wnuka\", \"Sezon na leszcza\", \"Kochaj i rób co chcesz\" and \"Haker\". For many years he has appeared in foreign productions, including Russian, Belarusian and Ukrainian."
     },
     "person5": {
       "name": "Olga Doleśniak - Harczuk",
-      "function": "journalist, analyst at the Staszic Institute",
+      "function": "Publicist, journalist, deputy editor-in-chief of the monthly \"New Country\"",
       "description": "Publicist, journalist, deputy editor-in-chief of the \"New Country\" monthly, expert on Germany at the Staszic Institute."
     },
     "person6": {
       "name": "Grzegorz Kuczyński",
-      "function": "analyst, publicist",
+      "function": "Analyst, publicist, specializing in secret services",
       "description": "Writes about Russia and the post-Soviet area, specializes in secret services. A graduate of history (University of Białystok) and specialist Eastern studies (University of Warsaw). An expert of the Warsaw Institute, author of the books \"How the Russians are killing Victims of the Russian services from Trotsky to Litvinenko\" and \"The throne in blood. Secrets of the Kremlin's policy \""
     },
     "person7": {
       "name": "Michał Marek",
-      "function": "Jagiellonian University",
+      "function": "Founder of the Foundation for Research on the Contemporary Security Environment, PhD student at WSMiP at the Jagiellonian University",
       "description": "Founder of the Foundation Center for Research on the Contemporary Security Environment, PhD student at the Faculty of International and Political Studies at the Jagiellonian University.\nAuthor of the scientific monograph \"Operation Ukraine. Disinformation campaigns, narratives, operational methods of Russian propaganda centers against the Ukrainian state between 2013-2019”.\nAuthor of scientific texts and analytical materials devoted to the issues of information security and the Russian hybrid war. Expert in identifying propaganda content and counteracting disinformation (with particular emphasis on the activity of the Russian Fed) and in security of Central and Eastern Europe (with particular emphasis on the territory of Ukraine).\n"
     },
     "person8": {
       "name": "Roman Polko",
-      "function": "General, commando, two-time commander of the elite GROM unit",
+      "function": "Former GROM commander and deputy head of the National Security Bureau, member of the President's Security and Defense Council",
       "description": "General, commando, two-time GROM commander, doctor of management. He directed foreign military and stabilization missions. He advised the President of the Capital City of Warsaw and the Minister of the Internal Affairs and Administration on combating terrorism and security. Former Deputy Head of the National Security Bureau. Currently, an educator for security and academic lecturer, member of the presidential Security and Defense Council.\n\n"
     },
     "person9": {
       "name": "Maciej Świrski ",
-      "function": "Good Name Redoubt",
+      "function": "President of the Reduta Dobrego Imienia - Polish League against Defamation Foundation",
       "description": "– founder and the President of the Reduta Dobrego Imienia - Polish League Against Defamation Foundation, the Vice Chairman of the Supervisory Board of the Polish Press Agency, graduate of the Faculty of History at the University of Warsaw, PMTP University of Wisconsin (Milwaukee), MBA (Koźmiński Academy)."
     },
     "person10": {
       "name": "Bogdan Pliszka ",
-      "function": "political scientist, terrorism expert, geopolitician",
+      "function": "Doctor of political science, assistant professor at the Department of Applied Social Sciences of the Silesian University of Technology",
       "description": "Graduate of sociology, doctor of political science. Assistant professor at the Department of Applied Social Sciences at the Silesian University of Technology. Mr. Pliszka deals in his work with the politics of religion, social development and geopolitics. He is keen on karate, travels and photography."
     },
     "person11": {
@@ -76,7 +76,7 @@
     },
     "person12": {
       "name": "Dominik Andrzejczuk",
-      "function": "engineer, Atmos Ventures",
+      "function": "physicist, engineer, partner at Atmos Venture",
       "description": "Physicist, engineer, partner at Atmos Venture, a venture capital fund investing in start-ups working on breakthrough technological solutions, born in Poland, raised in the USA, author of YouTube videos, incl. the ones about Poland as technological power."
     },
     "person13": {
