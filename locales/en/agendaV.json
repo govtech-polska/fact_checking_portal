@@ -72,12 +72,17 @@
     "person11": {
       "name": "Martyna Bildziukiewicz",
       "function": "Head of East Stratcom Task Force, European Union",
-      "description": ""
+      "description": "PhD in political science, head of the EU group for fighting against Russian disinformation - East StratCom Task Force, which has been operating since 2015; she runs the EUvsDisinfo project, graduate of the National School of Public Administration."
     },
     "person12": {
       "name": "Dominik Andrzejczuk",
       "function": "engineer, Atmos Ventures",
-      "description": ""
+      "description": "Physicist, engineer, partner at Atmos Venture, a venture capital fund investing in start-ups working on breakthrough technological solutions, born in Poland, raised in the USA, author of YouTube videos, incl. the ones about Poland as technological power."
+    },
+    "person13": {
+      "name": "Dominik Andrzejczuk",
+      "function": "(Polish)  Prime Minister’s High Representative for Government Technology - Head of the GovTech Centre, Plenipotentiary of the Minister of Education and Science for Digital Transformation ",
+      "description": "Leading expert in corporate finance and fund management. Having previously worked in consulting, in 2016 she became an advisor to the Minister of Economic Development. Responsible for management of the State's innovative projects portfolio, she spearheaded the MinFinTech programme as well as digital initiatives in the fields such as education or finance. In 2017 appointed an Advisor to the Prime Minister on Innovation Policy and Finance. Since the GovTech Polska Programme’s establishment in April 2018, she is serving as Head of the GovTech Polska Programme - Poland's largest initiative aimed at bringing and implementing the innovation and digital revolution to the Public Sector. She was appointed the Prime Minister’s High Representative for Government Technology in March 2020 and currently serving as Head of the GovTech Centre in the Chancellery of the Prime Minister. For her actions, she has received multiple awards, including Forbes 30 under 30, Digital Shape, the Digital Eagle award and the Innovation Eagle award. "
     }
   }
 }
