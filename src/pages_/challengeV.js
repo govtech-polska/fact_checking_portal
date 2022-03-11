@@ -320,13 +320,6 @@ const challengeV = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
-                                    {/* <div className="iframeWrapper">
-                                        <iframe allowFullScreen frameBorder="0" height="350"
-                                                src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/xj1yZxmL.html"
-                                                title="#FakeHunter Challenge - Uwaga! Oszust - debata pt. &#34;Oszustwa doby dezinformacji – jak nie wpaść w pułapkę nadużyć&#34;"
-                                                width="620"></iframe>
-
-                                    </div>*/}
                                   <div className="imageWrapper">
                                         <img src="/images/micro.png" alt="eksperckie_spotkania"/>
                                     </div>
