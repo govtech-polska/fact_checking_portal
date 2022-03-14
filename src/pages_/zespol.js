@@ -128,6 +128,10 @@ const Team = () => {
                     <strong>{t('team:data.19.name')}</strong>
                     <p>{t('team:data.19.description')}</p>
                   </li>
+                  <li>
+                    <strong>{t('team:data.20.name')}</strong>
+                    <p>{t('team:data.20.description')}</p>
+                  </li>
                 </ul>
 
 
