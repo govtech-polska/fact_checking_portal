@@ -122,10 +122,10 @@ const Index = ({pinned, hashtags, categories}) => {
                         <Hashtags initialData={hashtags}/>
                     </FiltersWrapper>
 
-                    {/*<div className="advert">
-                        <a href="https://fakehunter.pap.pl/challengeIII"><img
-                            src="/images/750x200_FHIII.png"/></a>
-                    </div>*/}
+                    <div className="advert">
+                        <a href="https://fakehunter.pap.pl/challengeV"><img
+                            src="/images/FH Geopolityka_750x200.gif"/></a>
+                    </div>
 
 
                     <section>
