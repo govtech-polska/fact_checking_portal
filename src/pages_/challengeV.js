@@ -347,8 +347,8 @@ const challengeV = () => {
                                         </p>
 
                                         <span> <Trans i18nKey="challengeV:section12.button"
-                                                      components={[<a className="button" href="/agendaV"/>,
-                                                          <a className="button" href="/en/agendaV"/>]}/></span>
+                                                      components={[<a target="_blank" className="button" href="/agendaV"/>,
+                                                          <a target="_blank" className="button" href="/en/agendaV"/>]}/></span>
                                     </div>
                                 </div>
                             </div>
