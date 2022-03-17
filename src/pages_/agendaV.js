@@ -104,8 +104,8 @@ const agendaV = () => {
                                         </tr>
                                         <tr>
                                             <td className="hour">12:00</td>
-                                            <td><a href="#id15">{t('agendaV:personList.person15.name')}</a></td>
-                                            <td>{t('agendaV:personList.person15.function')}</td>
+                                            <td><a href="#id16">{t('agendaV:personList.person16.name')}</a></td>
+                                            <td>{t('agendaV:personList.person16.function')}</td>
                                         </tr>
                                         {/*  <tr>
                                             <td className="hour">13:00</td>
