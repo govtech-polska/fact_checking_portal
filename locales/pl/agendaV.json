@@ -5,7 +5,7 @@
   "subtitle2": " Obejrzyj spotkania, które już się odbyły",
   "iframebutton": " Obejrzyj spotkania, które już się odbyły",
   "table": {
-    "tableTitle": "Czwarterk 24.03.2022",
+    "tableTitle": "Czwartek 24.03.2022",
     "tableTitle1": "PIĄTEK 25.03.2022",
     "tableTitle2": "Sobota 26.03.2022",
     "tableTh": "Godzina",
@@ -98,6 +98,11 @@
       "name": "Dorota Minta",
       "function": "Psycholog, psychoterapeuta",
       "description": "Jedna z najbardziej znanych i aktywnych polskich psychologów z kilkudziesięcioletnim doświadczeniem w prowadzeniu psychoterapii dzieci i dorosłych. Propagatorka wiedzy o PTG (Post-traumatic Growth - pozytywnej zmianie psychologicznej, jakiej możemy doświadczyć w wyniku przeciwności losu), aktywistka społeczna, mentorka młodych kobiet-liderek w ramach programu „Vital Voices” oraz prezeska fundacji STOMAlife, wspierającej osoby ze stomią . Obecnie aktywnie wspiera osoby zmagające się ze stresem w wyniku wojny w Ukrainie."
+    },
+    "person17": {
+      "name": "Marzenna Modrzewska-Michalczyk",
+      "function": "Dyrektor Zespołu Szkół Ekonomicznych im. A. i J. Vetterów w Lublinie",
+      "description": ""
     }
   }
 }

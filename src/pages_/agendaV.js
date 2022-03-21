@@ -111,12 +111,12 @@ const agendaV = () => {
                                             <td className="hour">13:00</td>
                                             <td><a href="#id8">{t('agendaV:personList.person8.name')}</a></td>
                                             <td>{t('agendaV:personList.person8.function')}</td>
-                                        </tr>
+                                        </tr>*/}
                                         <tr>
                                             <td className="hour">14:00</td>
-                                            <td><a href="#id2">{t('agendaV:personList.person2.name')}</a></td>
-                                            <td>{t('agendaV:personList.person2.function')}</td>
-                                        </tr>*/}
+                                            <td><a href="#id17">{t('agendaV:personList.person17.name')}</a></td>
+                                            <td>{t('agendaV:personList.person17.function')}</td>
+                                        </tr>
                                         </tbody>
                                     </table>
                                 </div>
@@ -248,7 +248,7 @@ const agendaV = () => {
 
 
                                         <tr>
-                                            <td className="hour">14:30</td>
+                                            <td className="hour">14:40</td>
                                             <td className="center"
                                                 colSpan="2"><strong>{t('agendaV:table.tableMainTitle2')}</strong></td>
                                         </tr>
