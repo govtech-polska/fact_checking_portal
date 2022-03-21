@@ -113,9 +113,18 @@ const agendaV = () => {
                                             <td>{t('agendaV:personList.person8.function')}</td>
                                         </tr>*/}
                                         <tr>
-                                            <td className="hour">14:00</td>
-                                            <td><a href="#id17">{t('agendaV:personList.person17.name')}</a></td>
-                                            <td>{t('agendaV:personList.person17.function')}</td>
+                                            <td rowSpan="2" className="hour">14:00</td>
+                                            <td><a href="#id17">{t('agendaV:personList.person17.name')}</a>  </td>
+                                            <td>{t('agendaV:personList.person17.function')} </td>
+
+
+                                        </tr>
+                                        <tr>
+                                            <td><a href="#id18">{t('agendaV:personList.person18.name')}</a></td>
+                                            <td>{t('agendaV:personList.person18.function')}</td>
+
+
+
                                         </tr>
                                         </tbody>
                                     </table>
@@ -286,6 +295,15 @@ const agendaV = () => {
                                             <p>{t('agendaV:personList.person2.description')}</p>
                                         </div>
                                     </li>
+                                    <li id="id18" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh5/18.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaV:personList.person18.name')}</h2>
+                                            <p>{t('agendaV:personList.person18.description')}</p>
+                                        </div>
+                                    </li>
                                     <li id="id11" className="person">
                                         <div className="imageWrapper noImage">
                                             <img src="/images/persons/fh5/11.png"/>
@@ -320,6 +338,15 @@ const agendaV = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaV:personList.person5.name')}</h2>
                                             <p>{t('agendaV:personList.person5.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id14" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh5/14.jpg"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaV:personList.person14.name')}</h2>
+                                            <p>{t('agendaV:personList.person14.description')}</p>
                                         </div>
                                     </li>
                                     <li id="id15" className="person">

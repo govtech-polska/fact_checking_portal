@@ -86,8 +86,8 @@
     },
     "person14": {
       "name": "Marcin Jedliński and scouts",
-      "function": "ZHP Chorągiew Kielecka",
-      "description": ""
+      "function": "Kielce Region of the Polish Scouting Association (ZHP)",
+      "description": "Scoutmaster from the Kielce Banner of the Polish Scouting Association - coordinator of the organized aid for refugees.\nStrongly involved in scouting, he performs many functions at several levels of the Polish Scouting Association - hence his experience in management and organization."
     },
     "person15": {
       "name": "Michał Kanownik",
@@ -101,8 +101,13 @@
     },
     "person17": {
       "name": "Marzenna Modrzewska-Michalczyk",
-      "function": "Dyrektor Zespołu Szkół Ekonomicznych im. A. i J. Vetterów w Lublinie",
+      "function": "Director of A & J Vetter Economic Schools of Lublin",
       "description": ""
+    },
+    "person18": {
+      "name": "Wiktor Boruta",
+      "function": "Director of the School Complex No. 1 in Łosice",
+      "description": "Director of the School Complex No. 1 in Łosice. A graduate of the Faculty of Pedagogy at the University of Natural Sciences and Humanities in Siedlce. Treasurer and member of the Board of the Siedlce Local Government Society. Author of publications on animal therapy. Organizer of charity campaigns, including Paintings Auctions for intellectually disabled children."
     }
   }
 }
