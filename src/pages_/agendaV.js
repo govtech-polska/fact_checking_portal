@@ -107,11 +107,11 @@ const agendaV = () => {
                                             <td><a href="#id16">{t('agendaV:personList.person16.name')}</a></td>
                                             <td>{t('agendaV:personList.person16.function')}</td>
                                         </tr>
-                                        {/*  <tr>
+                                         <tr>
                                             <td className="hour">13:00</td>
-                                            <td><a href="#id8">{t('agendaV:personList.person8.name')}</a></td>
-                                            <td>{t('agendaV:personList.person8.function')}</td>
-                                        </tr>*/}
+                                            <td><a href="#id19">{t('agendaV:personList.person19.name')}</a></td>
+                                            <td>{t('agendaV:personList.person19.function')}</td>
+                                        </tr>
                                         <tr>
                                             <td rowSpan="2" className="hour">14:00</td>
                                             <td><a href="#id17">{t('agendaV:personList.person17.name')}</a>  </td>
@@ -347,6 +347,15 @@ const agendaV = () => {
                                         <div className="textWrapper">
                                             <h2 className="name">{t('agendaV:personList.person14.name')}</h2>
                                             <p>{t('agendaV:personList.person14.description')}</p>
+                                        </div>
+                                    </li>
+                                    <li id="id19" className="person">
+                                        <div className="imageWrapper">
+                                            <img src="/images/persons/fh5/19.png"/>
+                                        </div>
+                                        <div className="textWrapper">
+                                            <h2 className="name">{t('agendaV:personList.person19.name')}</h2>
+                                            <p>{t('agendaV:personList.person19.description')}</p>
                                         </div>
                                     </li>
                                     <li id="id15" className="person">
