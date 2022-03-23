@@ -88,76 +88,43 @@ const challengeV = () => {
                         </div>
                     </section>
 
-
-                    <section className="s2" id="konkurs">
+                    <section className="s2" id="eksperckie_spotkania">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
+                                    <div className="iframeWrapper">
+                                        <iframe webkitAllowFullScreen mozallowfullscreen allowFullScreen
+                                                src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                                title="0" byline="0" portrait="0" frameBorder="0" allow="autoplay"></iframe>
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
                                     <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section13.title')}</h2>
-                                        <p className="title">{t('challengeV:section13.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section13.description" components={[<span/>]}/>
+                                        <h2 className="section">{t('challengeV:section12.title')}</h2>
+                                        <p className="title">{t('challengeV:section12.subtitle')}</p>
+                                        <p><Trans i18nKey="challengeV:section12.description"
+                                                  components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                  target="_blank"/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="challengeV:section13.description1" components={[<span/>]}/>
+                                            <Trans i18nKey="challengeV:section12.description1"
+                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                   target="_blank"/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="challengeV:section13.description2" components={[<span/>]}/>
+                                            <Trans i18nKey="challengeV:section12.description2"
+                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
+                                                                   target="_blank"/>]}/>
                                         </p>
                                         <p>
-                                            <Trans i18nKey="challengeV:section13.description3" components={[<span/>]}/>
+                                            <Trans i18nKey="challengeV:section12.description3" components={[<span/>]}/>
                                         </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section13.description4" components={[<span/>]}/>
-                                        </p>
+
+                                        <span> <Trans i18nKey="challengeV:section12.button"
+                                                      components={[<a target="_blank" className="button" href="/agendaV"/>,
+                                                          <a target="_blank" className="button" href="/en/agendaV"/>]}/></span>
                                     </div>
                                 </div>
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image2.png" alt=""/>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section className="s4" id="zostanfakehunterem">
-                        <div className="container-fluid">
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-
-                                    <div className="imageWrapper">
-                                        <img src="/images/image3.png" alt=""/>
-
-                                    </div>
-                                </div>
-                                <div className="col-lg-6">
-
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section4.title')}</h2>
-                                        <p className="title">{t('challengeV:section4.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section4.description"/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section4.description1"/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section4.description2"/>
-                                        </p>
-                                        <a
-                                            target="_blank"
-                                            rel="noopener noreferrer"
-                                            className="button"
-                                            href="https://www.webankieta.pl/ankieta/712620/rejestracja-do-konkursu-fakehunterchallenge-geopolityka.html"
-                                        >
-                                            {t('challengeV:section4.applyBtn')}
-                                        </a>
-                                    </div>
-
-
-                                </div>
-
                             </div>
                         </div>
                     </section>
@@ -242,17 +209,49 @@ const challengeV = () => {
                             </div>
                         </div>
                     </section>
+                    <section className="s4" id="zostanfakehunterem">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+                                <div className="col-lg-6">
+
+                                    <div className="imageWrapper">
+                                        <img src="/images/image3.png" alt=""/>
+
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeV:section4.title')}</h2>
+                                        <p className="title">{t('challengeV:section4.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section4.description"/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section4.description1"/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section4.description2"/>
+                                        </p>
+                                        <a
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="button"
+                                            href="https://www.webankieta.pl/ankieta/712620/rejestracja-do-konkursu-fakehunterchallenge-geopolityka.html"
+                                        >
+                                            {t('challengeV:section4.applyBtn')}
+                                        </a>
+                                    </div>
+
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
                     <section className="s2" id="wyslij_zgloszenie">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-
-
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/mail.png" alt=""/>
-                                        <div className="author">Onlineprinters / Unsplash</div>
-                                    </div>
-                                </div>
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -269,6 +268,14 @@ const challengeV = () => {
                                         </a>
                                     </div>
                                 </div>
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/mail.png" alt=""/>
+                                        <div className="author">Onlineprinters / Unsplash</div>
+                                    </div>
+                                </div>
+
+
 
 
 
@@ -279,7 +286,12 @@ const challengeV = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image5.png" alt=""/>
+                                        <div className="author">strixcode / Adobe Stock</div>
+                                    </div>
+                                </div>
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -305,50 +317,39 @@ const challengeV = () => {
                                     </div>
                                 </div>
 
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image5.png" alt=""/>
-                                        <div className="author">strixcode / Adobe Stock</div>
-                                    </div>
-                                </div>
+
 
 
                             </div>
                         </div>
                     </section>
-                    <section className="s2" id="eksperckie_spotkania">
+                    <section className="s2" id="konkurs">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
-                                  <div className="imageWrapper">
-                                        <img src="/images/micro.png" alt="eksperckie_spotkania"/>
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeV:section13.title')}</h2>
+                                        <p className="title">{t('challengeV:section13.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description1" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description2" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description3" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section13.description4" components={[<span/>]}/>
+                                        </p>
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section12.title')}</h2>
-                                        <p className="title">{t('challengeV:section12.subtitle')}</p>
-                                        <p><Trans i18nKey="challengeV:section12.description"
-                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
-                                                                   target="_blank"/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section12.description1"
-                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
-                                                                   target="_blank"/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section12.description2"
-                                                   components={[<a className="link" href="https://fakehunter.pap.pl"
-                                                                   target="_blank"/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section12.description3" components={[<span/>]}/>
-                                        </p>
-
-                                        <span> <Trans i18nKey="challengeV:section12.button"
-                                                      components={[<a target="_blank" className="button" href="/agendaV"/>,
-                                                          <a target="_blank" className="button" href="/en/agendaV"/>]}/></span>
+                                    <div className="imageWrapper">
+                                        <img src="/images/image2.png" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -357,20 +358,6 @@ const challengeV = () => {
                     <section className="s6" id="partnerzy">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <h2 className="section">{t('challengeV:section9.title')}</h2>
-                                        <p className="title">{t('challengeV:section9.subtitle')}</p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section9.description" components={[<span/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="challengeV:section9.description1" components={[<span/>]}/>
-                                        </p>
-                                    </div>
-                                </div>
-
                                 <div className="col-lg-6">
                                     <ul className="logoWrapper">
 
@@ -396,6 +383,20 @@ const challengeV = () => {
 
                                     </ul>
                                 </div>
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeV:section9.title')}</h2>
+                                        <p className="title">{t('challengeV:section9.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section9.description" components={[<span/>]}/>
+                                        </p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section9.description1" components={[<span/>]}/>
+                                        </p>
+                                    </div>
+                                </div>
+
+
 
 
                             </div>
@@ -404,19 +405,6 @@ const challengeV = () => {
                     <section className="s2" id="o_konkursie">
                         <div className="container-fluid">
                             <div className="row no-gutters">
-
-
-                                <div className="col-lg-6">
-                                    <div className="iframeWrapper">
-                                        <iframe height="400px"
-                                                src="https://www.youtube.com/embed/Q_trVUFPNCI"
-                                                frameBorder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowFullScreen></iframe>
-                                    </div>
-
-                                </div>
-
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
                                         <h2 className="section">{t('challengeV:section1.title')}</h2>
@@ -433,6 +421,19 @@ const challengeV = () => {
                                     </div>
                                 </div>
 
+                                <div className="col-lg-6">
+                                    <div className="iframeWrapper">
+                                        <iframe height="400px"
+                                                src="https://www.youtube.com/embed/Q_trVUFPNCI"
+                                                frameBorder="0"
+                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                                allowFullScreen></iframe>
+                                    </div>
+
+                                </div>
+
+
+
 
                             </div>
                         </div>
@@ -441,7 +442,12 @@ const challengeV = () => {
                         <div className="container-fluid">
                             <div className="row no-gutters">
 
-
+                                <div className="col-lg-6">
+                                    <div className="imageWrapper">
+                                        <img src="/images/image4.png" alt=""/>
+                                        <div className="author">Alejandro Escamilla / Unsplash</div>
+                                    </div>
+                                </div>
 
                                 <div className="col-lg-6">
                                     <div className="textWrapper">
@@ -454,17 +460,17 @@ const challengeV = () => {
                                     </div>
                                 </div>
 
-                                <div className="col-lg-6">
-                                    <div className="imageWrapper">
-                                        <img src="/images/image4.png" alt=""/>
-                                        <div className="author">Alejandro Escamilla / Unsplash</div>
-                                    </div>
-                                </div>
+
 
 
                             </div>
                         </div>
                     </section>
+
+
+
+
+
                     <section className="s8" id="kontakt">
                         <div className="container-fluid">
                             <div className="row no-gutters">
