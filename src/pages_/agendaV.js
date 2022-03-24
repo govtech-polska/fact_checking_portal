@@ -462,6 +462,15 @@ const agendaV = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z psychologiem Dorotą Mintą</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/YfToY1Jq.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z psychologiem Dorotą Mintą"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul>
                                 </div>
 
