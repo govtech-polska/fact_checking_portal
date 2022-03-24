@@ -470,13 +470,21 @@ const agendaV = () => {
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z psychologiem Dorotą Mintą"
                                                         width="620"></iframe>
                                             </div>
-                                        </li><li>
+                                        </li>
+                                        <li>
                                             <h5>#FakeHunter Challenge/Geopolityka - rozmowa z red. Jarosławem Junko</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/e9yQj8Ra.html"
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z red. Jarosławem Junko"
                                                         width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z dyrektorami Zespołów Szkół w Lubilinie i Łosicach</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/A4gmQPi6.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z dyrektorami Zespołów Szkół w Lubilinie i Łosicach" width="620"></iframe>
                                             </div>
                                         </li>
                                     </ul>
