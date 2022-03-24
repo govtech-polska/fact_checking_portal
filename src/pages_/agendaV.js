@@ -48,12 +48,12 @@ const agendaV = () => {
 
                                 <p className="lead">{t('agendaV:subtitle')}</p>
 
-                                {/*    <a className="button center"
+                                 <a className="button center"
                                    rel="noopener noreferrer"
                                    href="#frames"
                                 >{t('agendaV:iframebutton')}
                                 </a>
-                                */}
+
 
 
 
@@ -446,20 +446,29 @@ const agendaV = () => {
 
 
 
-                                {/* <div id="frames" className="iframeList">
+                                <div id="frames" className="iframeList">
                                     <h2 className="title">{t('agendaV:subtitle2')}</h2>
                                     <ul>
                                         <li>
-                                            <h5>#FakeHunter Challenge/Gospodarka - otwarcie</h5>
+                                            <h5>#FakeHunter Challenge/Geopolityka - otwarcie wydarzenia</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
-                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/YVOZ3bhr.html"
-                                                        title="#FakeHunter Challenge/Gospodarka - otwarcie"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/UHM7tKEM.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - otwarcie wydarzenia"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z Justyną Orłowską oraz Michałem Kanownikiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/qRPU8uiG.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z Justyną Orłowską oraz Michałem Kanownikiem"
                                                         width="620"></iframe>
                                             </div>
                                         </li>
                                     </ul>
-                                </div>*/}
+                                </div>
 
                             </div>
                         </div>
