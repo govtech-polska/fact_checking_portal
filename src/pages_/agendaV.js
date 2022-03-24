@@ -48,14 +48,11 @@ const agendaV = () => {
 
                                 <p className="lead">{t('agendaV:subtitle')}</p>
 
-                                 <a className="button center"
+                                <a className="button center"
                                    rel="noopener noreferrer"
                                    href="#frames"
                                 >{t('agendaV:iframebutton')}
                                 </a>
-
-
-
 
 
                                 <div className="tableWrapper">
@@ -83,7 +80,7 @@ const agendaV = () => {
 
                                         <tr>
                                             <td rowSpan="2" className="hour">10:00</td>
-                                            <td><a href="#id13">{t('agendaV:personList.person13.name')}</a>  </td>
+                                            <td><a href="#id13">{t('agendaV:personList.person13.name')}</a></td>
                                             <td>{t('agendaV:personList.person13.function')} </td>
 
 
@@ -91,7 +88,6 @@ const agendaV = () => {
                                         <tr>
                                             <td><a href="#id15">{t('agendaV:personList.person15.name')}</a></td>
                                             <td>{t('agendaV:personList.person15.function')}</td>
-
 
 
                                         </tr>
@@ -107,14 +103,14 @@ const agendaV = () => {
                                             <td><a href="#id16">{t('agendaV:personList.person16.name')}</a></td>
                                             <td>{t('agendaV:personList.person16.function')}</td>
                                         </tr>
-                                         <tr>
+                                        <tr>
                                             <td className="hour">13:00</td>
                                             <td><a href="#id19">{t('agendaV:personList.person19.name')}</a></td>
                                             <td>{t('agendaV:personList.person19.function')}</td>
                                         </tr>
                                         <tr>
                                             <td rowSpan="2" className="hour">14:00</td>
-                                            <td><a href="#id17">{t('agendaV:personList.person17.name')}</a>  </td>
+                                            <td><a href="#id17">{t('agendaV:personList.person17.name')}</a></td>
                                             <td>{t('agendaV:personList.person17.function')} </td>
 
 
@@ -124,12 +120,10 @@ const agendaV = () => {
                                             <td>{t('agendaV:personList.person18.function')}</td>
 
 
-
                                         </tr>
                                         </tbody>
                                     </table>
                                 </div>
-
 
 
                                 <div className="tableWrapper">
@@ -210,7 +204,6 @@ const agendaV = () => {
                                         </tr>
 
 
-
                                         <tr>
                                             <td className="middle hour" rowSpan="4">12:00</td>
                                             <td className="debateName" colSpan="2">
@@ -235,11 +228,6 @@ const agendaV = () => {
                                             <td>{t('agendaV:personList.person3.function')}
                                             </td>
                                         </tr>
-
-
-
-
-
 
 
                                         <tr>
@@ -444,8 +432,6 @@ const agendaV = () => {
                                 </ul>
 
 
-
-
                                 <div id="frames" className="iframeList">
                                     <h2 className="title">{t('agendaV:subtitle2')}</h2>
                                     <ul>
@@ -464,6 +450,15 @@ const agendaV = () => {
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/qRPU8uiG.html"
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z Justyną Orłowską oraz Michałem Kanownikiem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z harcmistrzem Chorągwi Kieleckiej</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/kGYR3lm6.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z harcmistrzem Chorągwi Kieleckiej"
                                                         width="620"></iframe>
                                             </div>
                                         </li>
