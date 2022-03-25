@@ -530,6 +530,14 @@ const agendaV = () => {
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z gen. Romanem Polko"
                                                         width="620"></iframe>
                                             </div>
+                                        </li><li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z red. Jakubem Biernatem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/mSuufxhZ.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z red. Jakubem Biernatem"
+                                                        width="620"></iframe>
+                                            </div>
                                         </li>
                                     </ul>
                                 </div>
