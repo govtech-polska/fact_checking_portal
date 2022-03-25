@@ -496,6 +496,24 @@ const agendaV = () => {
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z dyrektorami Zespołów Szkół w Lubilinie i Łosicach" width="620"></iframe>
                                             </div>
                                         </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z Grzegorzem Kuczyńskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/VU4i7Rgd.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z Grzegorzem Kuczyńskim"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z Michałem Markiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/Qg5XzaDZ.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z Michałem Markiem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
                                     </ul>
                                 </div>
 
