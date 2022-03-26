@@ -530,7 +530,8 @@ const agendaV = () => {
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z gen. Romanem Polko"
                                                         width="620"></iframe>
                                             </div>
-                                        </li><li>
+                                        </li>
+                                        <li>
                                             <h5>#FakeHunter Challenge/Geopolityka - rozmowa z red. Jakubem Biernatem</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
@@ -539,6 +540,47 @@ const agendaV = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z Pawłem Delągiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/wq7zD5uP.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z Pawłem Delągiem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z Dominikiem Andrzejczukiem</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/TU8ouODY.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z Dominikiem Andrzejczukiem"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - debata pt. "Państwo, którego nie ma. Dezinformacja na temat Polski w światowym obiegu informacji"</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/WkKsEyca.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - debata pt. &#34;Państwo, którego nie ma. Dezinformacja na temat Polski w światowym obiegu informacji&#34;"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z Bogdanem Pliszką</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/sGWut6tF.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z Bogdanem Pliszką"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+
                                     </ul>
                                 </div>
 
