@@ -577,7 +577,8 @@ const agendaV = () => {
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/sGWut6tF.html"
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z Bogdanem Pliszką"
-                                                        width="620"></iframe>
+                                                        width="620">
+                                                </iframe>
                                             </div>
                                         </li>
 
@@ -587,7 +588,9 @@ const agendaV = () => {
                                                 <iframe allowFullScreen frameBorder="0" height="350"
                                                         src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/55b849hi.html"
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z Michałem Baranowskim"
-                                                        width="620"></iframe>
+                                                        width="620">
+
+                                                </iframe>
                                             </div>
                                         </li>
 

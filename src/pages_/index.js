@@ -114,11 +114,11 @@ const Index = ({pinned, hashtags, categories}) => {
 
               <Categories activeCategory={category} initialData={categories}/>
 
-                <div className="advert">
-                    <a href="https://fakehunter.pap.pl/challengeV"><img
-                        src="/images/FH Geopolityka_750x200.gif"/></a>
+              {/*  <div className="advert">
+                    <a href="https://fakehunter.pap.pl/challengeV">
+                        <img src="/images/FH Geopolityka_750x200.gif"/></a>
                 </div>
-
+*/}
 
                 <Header>
                     <Container>
