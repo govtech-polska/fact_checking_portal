@@ -581,6 +581,26 @@ const agendaV = () => {
                                             </div>
                                         </li>
 
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - rozmowa z Michałem Baranowskim</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/55b849hi.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - rozmowa z Michałem Baranowskim"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+
+                                        <li>
+                                            <h5>#FakeHunter Challenge/Geopolityka - zakończenie spotkań eksperckich</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350"
+                                                        src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/r3NRZDN2.html"
+                                                        title="#FakeHunter Challenge/Geopolityka - zakończenie spotkań eksperckich"
+                                                        width="620"></iframe>
+                                            </div>
+                                        </li>
+
                                     </ul>
                                 </div>
 
