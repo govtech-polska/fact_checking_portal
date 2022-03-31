@@ -88,14 +88,40 @@ const challengeV = () => {
                         </div>
                     </section>
 
+
+                    <section className="s2" id="wyniki_konkursu">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+
+                                <div className="col-lg-6">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('challengeV:section15.title')}</h2>
+                                        <p className="title">{t('challengeV:section15.subtitle')}</p>
+                                        <p>
+                                            <Trans i18nKey="challengeV:section15.description" components={[<span/>]}/>
+                                        </p>
+                                    </div>
+                                </div>
+                                <div className="col-lg-6">
+                                    <div className="iframeWrapper">
+                                        <iframe webkitAllowFullScreen mozallowfullscreen allowFullScreen
+                                                src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
+                                                title="0" byline="0" portrait="0" frameBorder="0" allow="autoplay"></iframe>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
+
+
                     <section className="s2" id="eksperckie_spotkania">
                         <div className="container-fluid">
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
                                     <div className="iframeWrapper">
-                                        {/* <iframe webkitAllowFullScreen mozallowfullscreen allowFullScreen
-                                                src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
-                                                title="0" byline="0" portrait="0" frameBorder="0" allow="autoplay"></iframe> */}
 
                                         <iframe allowFullScreen frameBorder="0" height="350"
                                                 src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/wq7zD5uP.html"
@@ -499,32 +525,7 @@ const challengeV = () => {
 
 
 
-                    {/*<section className="s2" id="wyniki_konkursu">*/}
-                    {/*    <div className="container-fluid">*/}
-                    {/*        <div className="row no-gutters">*/}
 
-                    {/*            <div className="col-lg-6">*/}
-                    {/*                <div className="imageWrapper">*/}
-                    {/*                    <img src="/images/fh3nagrody.png" alt="nagrody" />*/}
-                    {/*                </div>*/}
-                    {/*            </div>*/}
-                    {/*            <div className="col-lg-6">*/}
-                    {/*                <div className="textWrapper">*/}
-                    {/*                    <h2 className="section">{t('challengeV:section15.title')}</h2>*/}
-                    {/*                    <p className="title">{t('challengeV:section15.subtitle')}</p>*/}
-                    {/*                    <p>*/}
-                    {/*                        <Trans i18nKey="challengeV:section15.description" components={[<span/>]}/>*/}
-                    {/*                    </p>*/}
-                    {/*                    <p>*/}
-                    {/*                        <Trans i18nKey="challengeV:section15.description1" components={[<span/>]}/>*/}
-                    {/*                    </p>*/}
-                    {/*                </div>*/}
-                    {/*            </div>*/}
-
-
-                    {/*        </div>*/}
-                    {/*    </div>*/}
-                    {/*</section>*/}
 
 
                     <section>
