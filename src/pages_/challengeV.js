@@ -104,10 +104,8 @@ const challengeV = () => {
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
-                                    <div className="iframeWrapper">
-                                        <iframe webkitAllowFullScreen mozallowfullscreen allowFullScreen
-                                                src="//ljsp.lwcdn.com/api/video/embed.jsp?id=2b275b50-2fea-4968-b2b1-c7f3a77e3d18&pi=6ccbd9c0-a038-4243-b85b-cdfa19dd5c05"
-                                                title="0" byline="0" portrait="0" frameBorder="0" allow="autoplay"></iframe>
+                                    <div className="imageWrapper">
+                                        <img src="/images/nagrodyfh5.png" alt=""/>
                                     </div>
                                 </div>
 
