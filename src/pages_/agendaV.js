@@ -522,7 +522,8 @@ const agendaV = () => {
                                                         title="#FakeHunter Challenge/Geopolityka - rozmowa z Robertem Królem"
                                                         width="620"></iframe>
                                             </div>
-                                        </li><li>
+                                        </li>
+                                        <li>
                                             <h5>#FakeHunter Challenge/Geopolityka - rozmowa z gen. Romanem Polko</h5>
                                             <div className="iframeWrapper">
                                                 <iframe allowFullScreen frameBorder="0" height="350"
@@ -603,6 +604,15 @@ const agendaV = () => {
                                                         width="620"></iframe>
                                             </div>
                                         </li>
+
+                                        <li>
+                                            <h5>Ogłoszenie wyników #FakeHunter Challenge/Geopolityka</h5>
+                                            <div className="iframeWrapper">
+                                                <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/TgTBT52h.html"
+                                                        title="Ogłoszenie wyników #FakeHunter Challenge/Geopolityka" width="620"></iframe>
+                                            </div>
+                                        </li>
+
 
                                     </ul>
                                 </div>
