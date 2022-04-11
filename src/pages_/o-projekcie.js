@@ -388,6 +388,11 @@ const About = () => {
                           <img src="/images/pgnig.png" alt="PGNIG"/>
                         </a>
                       </li>
+                      <li className="play">
+                        <a target="_blank" rel="noopener noreferrer" href="https://www.pfizer.com/">
+                          <img src="/images/partners/Pfizer_Logo.png" alt="Pfizer"/>
+                        </a>
+                      </li>
                       <li className="info">
                         <h5 className="title">
 
