@@ -70,6 +70,12 @@
     "description": "Are you interested in our project? Do you need more information about it? Or maybe you want to support us, but you do not know how? If so, simply send us a message using email <0>fakehunter@pap.pl</0>. Let us be in touch!",
     "applyBtn": "Apply"
   },
+  "section8": {
+    "title": "Fighting fake news",
+    "subtitle": "News agencies are on the front line in the fight against fake news",
+    "description": "“Since the outbreak of the pandemic, the amount of unverified information that continues to reach all citizens has increased significantly, and Russia's invasion in Ukraine has exacerbated this phenomenon. For this reason, it is the news agencies, including the Polish Press Agency, that are on the front line in preventing misleading public opinion ”- Łukasz Świerżewski, board member of the Polish Press Agency.",
+    "verifiedNewsBtn": "read the report"
+  },
   "contactForm": {
     "name": "Name",
     "surname": "Surname",

@@ -80,6 +80,12 @@
     "successMsg": "Twoja wiadomość została wysłana.",
     "errorMsg": "Nie udało się wysłać wiadomości."
   },
+  "section8": {
+    "title": "Walka z fake newsami",
+    "subtitle": "Agencje informacyjne są na pierwszej linii frontu w walce z fake newsami",
+    "description": "„Od czasu wybuchu pandemii wyraźnie zwiększyła się ilość niezweryfikowanych informacji, które nieustannie docierają do wszystkich obywateli – a inwazja Rosji na Ukrainę dodatkowo spotęgowała to zjawisko. Z tego powodu to właśnie agencje informacyjne, w tym także Polska Agencja Prasowa, są na pierwszej linii frontu w przeciwdziałaniu wprowadzania opinii publicznej w błąd” – Łukasz Świerżewski, członek zarządu Polskiej Agencji Prasowej.\n ",
+    "verifiedNewsBtn": "PRZECZYTAJ RELACJĘ"
+  },
   "more": "Więcej",
   "less": "Mniej"
 }
