@@ -24,6 +24,10 @@
     "/agendaV": ["agendaV"],
     "/dolacz-do-partnerow": ["dolacz-do-partnerow"],
     "/partnerzy": ["partnerzy"],
-    "/edukacja": ["edukacja"]
+    "/edukacja": ["edukacja"],
+    "/analizy": ["analizy"],
+    "/analiza1": ["analiza1"],
+    "/analiza2": ["analiza2"],
+    "/analiza3": ["analiza3"]
   }
 }

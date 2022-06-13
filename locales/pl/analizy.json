@@ -1,0 +1,17 @@
+{
+
+  "link": "href=\"/analiza1\"",
+  "title": "Analizy",
+  "news1": {
+    "title": "Propaganda antyukraińska i antyszczepionkowa - pokrewieństwa i źródła",
+    "description": "Wraz z rosyjską inwazją na Ukrainę, niemal z dnia na dzień zmieniła się treść fake newsów krążących w serwisach społecznościowych."
+  },
+  "news2": {
+    "title": "Polski system ekonomiczny na celowniku – kierunki działań Kremla",
+    "description": "Geografia, surowce, waluty, zadłużenie, konflikty w UE – na tym skupią się Rosjanie. Polska ekonomia w rosyjskiej wojnie propagandowej –główne linie narracyjne."
+  },
+  "news3": {
+    "title": "Gra na konflikt – główne narracje rosyjskiej dezinformacji",
+    "description": "W przypadku rosyjskiej dezinformacji wojennej można mówić o „produkcie dedykowanym”. Przekazy będące efektem działania propagandy są efektem gruntownej analizy – biorą pod uwagę polskie realia życia, tragiczne karty z historii, sympatie i resentymenty."
+  }
+}
