@@ -52,7 +52,9 @@ const Analysis = () => {
                         <div className="newsList row">
                             <div className="news col-md-4">
                                 <a href="/analiza1">
-                                    <div className="imageWrapper"></div>
+                                    <div className="imageWrapper">
+                                        <img src="images/news/kreml_small_analiza_1.png">
+                                    </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news1.title')}</h2>
                                         <p className="description">{t('analizy:news1.description')}</p>
@@ -61,7 +63,9 @@ const Analysis = () => {
                             </div>
                             <div className="news col-md-4">
                                 <a href="/analiza2">
-                                    <div className="imageWrapper"></div>
+                                    <div className="imageWrapper">
+                                        <img src="images/news/abaliza_2_small.png">
+                                    </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news2.title')}</h2>
                                         <p className="description">{t('analizy:news2.description')}</p>
@@ -70,7 +74,9 @@ const Analysis = () => {
                             </div>
                             <div className="news col-md-4">
                                 <a href="/analiza3">
-                                    <div className="imageWrapper"></div>
+                                    <div className="imageWrapper">
+                                        <img src="images/news/abaliza_3_small.png">
+                                    </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news3.title')}</h2>
                                         <p className="description">{t('analizy:news3.description')}</p>

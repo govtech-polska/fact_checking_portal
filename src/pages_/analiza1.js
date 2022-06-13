@@ -47,6 +47,9 @@ const analysisNews = () => {
                                 <a className="back pl" href="/analizy">&#60; Wróć</a>
                                 <a className="back en" href="/en/analizy">&#60; Back</a>
                                 <h1 className="articleTitle">{t('analiza1:title')}</h1>
+                                <div className="imageWrapper">
+                                    <img src="images/news/kreml_big_analiza_1.png">
+                                </div>
                                 <p className="lead">{t('analiza1:paragraph1')}</p>
                                 <p>{t('analiza1:paragraph2')}</p>
                                 <p>{t('analiza1:paragraph3')}</p>
