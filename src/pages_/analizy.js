@@ -53,7 +53,7 @@ const Analysis = () => {
                             <div className="news col-md-4">
                                 <a href="/analiza1">
                                     <div className="imageWrapper">
-                                        <img src="images/news/kreml_small_analiza_1.png">
+                                        <img src="images/news/kreml_small_analiza_1.png" alt=""/>
                                     </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news1.title')}</h2>
@@ -64,7 +64,7 @@ const Analysis = () => {
                             <div className="news col-md-4">
                                 <a href="/analiza2">
                                     <div className="imageWrapper">
-                                        <img src="images/news/abaliza_2_small.png">
+                                        <img src="images/news/abaliza_2_small.png" alt=""/>
                                     </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news2.title')}</h2>
@@ -75,7 +75,7 @@ const Analysis = () => {
                             <div className="news col-md-4">
                                 <a href="/analiza3">
                                     <div className="imageWrapper">
-                                        <img src="images/news/abaliza_3_small.png">
+                                        <img src="images/news/abaliza_3_small.png" alt=""/>
                                     </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news3.title')}</h2>
