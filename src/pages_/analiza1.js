@@ -99,7 +99,7 @@ const analysisNews = () => {
                                 </div>
                                 <p>
                                     <Trans i18nKey="analiza1:footnotes"
-                                           components={[
+                                           components={[</sup>,
                                                <a className="link" href="https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b"
                                                   target="_blank"/>,
                                                <a className="link" href="https://www.brookings.edu/techstream/popular-podcasters-spread-russian-disinformation-about-ukraine-biolabs/"
