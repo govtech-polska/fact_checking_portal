@@ -67,11 +67,15 @@ const analysisNews = () => {
                                 <p>{t('analiza1:paragraph12')}</p>
                                 <p>{t('analiza1:paragraph13')}</p>
                                 <h3>{t('analiza1:subtitle4')}</h3>
-                                <p>{t('analiza1:paragraph14')}</p>
+                                 <p>{t('analiza1:paragraph14')}</p>
                                 <p>
                                 <Trans i18nKey="analiza1:paragraph15"
-                                       components={[<a className="link" href="https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b"
-                                                       target="_blank"/>]}/></p>
+                                       components={[
+                                           <a className="link" href="https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b"
+                                                target="_blank"/>
+                                       ]}
+                                />
+                                </p>
                                 <p>{t('analiza1:paragraph16')}</p>
                                 <p>{t('analiza1:paragraph17')}</p>
                                 <p>{t('analiza1:paragraph18')}</p>
