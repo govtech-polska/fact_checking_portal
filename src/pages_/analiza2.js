@@ -1,6 +1,7 @@
 /* eslint-disable react/jsx-key */
 import Head from 'next/head'
 import useTranslation from 'next-translate/useTranslation'
+import Trans from 'next-translate/Trans'
 
 import CommonHead from 'base/CommonHead'
 import Layout from 'containers/Layout'
@@ -54,20 +55,72 @@ const analysisNews = () => {
                                 <p>{t('analiza2:paragraph2')}</p>
                                 <h3>{t('analiza2:subtitle1')}</h3>
                                 <p>{t('analiza2:paragraph3')}</p>
-                                <p>{t('analiza2:paragraph4')}</p>
+                                <p>
+                                    <Trans i18nKey="analiza2:paragraph4"
+                                           components={[
+                                               <a className="link" href="https://fakehunter.pap.pl/raport/028e70db-b7c7-4c3c-b1e7-c4acb1cb3b7b"
+                                                  target="_blank"/>,
+                                               <a className="link" href="https://fakehunter.pap.pl/raport/7a7b7745-6dd4-462d-aed6-fb75b789d4d4"
+                                                  target="_blank"/>,
+                                               <a className="link" href="https://fakehunter.pap.pl/raport/18e5d8e5-6b24-4392-b009-a36473f7b28f"
+                                                  target="_blank"/>
+                                           ]}
+                                    />
+                                </p>
                                 <p>{t('analiza2:paragraph5')}</p>
                                 <h3>{t('analiza2:subtitle2')}</h3>
                                 <p>{t('analiza2:paragraph6')}</p>
                                 <p>{t('analiza2:paragraph7')}</p>
                                 <h3>{t('analiza2:subtitle3')}</h3>
+
+                                <p>
+                                    <Trans i18nKey="analiza2:paragraph8"
+                                           components={[
+                                               <a className="link" href="https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/8422422,gospodarka-inwazja-rosji-na-ukraine-wojna-rynek-pracy.html"
+                                                  target="_blank"/>
+                                           ]}
+                                    />
+                                </p>
                                 <p>{t('analiza2:paragraph8')}</p>
                                 <h3>{t('analiza2:subtitle4')}</h3>
-                                <p>{t('analiza2:paragraph9')}</p>
+
+                <p>
+                    <Trans i18nKey="analiza2:paragraph9"
+                           components={[
+                               <a className="link" href="https://fakehunter.pap.pl/raport/dec44e57-4205-4d3d-897d-b041f8801d86"
+                                  target="_blank"/>,
+                               <a className="link" href="https://fakehunter.pap.pl/raport/a4442caf-0f0b-4fe3-9ce0-fed909a33664"
+                                  target="_blank"/>,
+                               <a className="link" href="https://fakehunter.pap.pl/raport/4913cf8a-fed8-4539-932f-cfd314357377"
+                                  target="_blank"/>,
+                               <a className="link" href="https://fakehunter.pap.pl/raport/43ffc73c-7ec1-4806-b97b-0b5e2f4c048f<"
+                                  target="_blank"/>
+                           ]}
+                    />
+                </p>
+
                                 <h3>{t('analiza2:subtitle5')}</h3>
-                                <p>{t('analiza2:paragraph10')}</p>
+
+                                <p>
+                                    <Trans i18nKey="analiza2:paragraph10"
+                                           components={[
+                                               <a className="link" href="https://wszystkoconajwazniejsze.pl/prof-piotr-dlugosz-ukraincy-w-polsce/?fbclid=IwAR3tuc_h1z1cCt3FfeoF2xgbmMThEpeluW3ulRqDSYCXjxd5qjOuZvxFQf4"
+                                                  target="_blank"/>
+                                           ]}
+                                    />
+                                </p>
+
                                 <p>{t('analiza2:paragraph11')}</p>
                                 <h3>{t('analiza2:subtitle6')}</h3>
-                                <p>{t('analiza2:paragraph12')}</p>
+
+                                <p>
+                                    <Trans i18nKey="analiza2:paragraph12"
+                                           components={[
+                                               <a className="link" href="https://alebank.pl/goldman-sachs-podwyzszyl-prognoze-wzrostu-pkb-polski-do-61-proc-w-2022-roku/?id=411109&catid=25926"
+                                                  target="_blank"/>
+                                           ]}
+                                    />
+                                </p>
                                 <p>{t('analiza2:paragraph13')}</p>
 
                             </div>

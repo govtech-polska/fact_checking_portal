@@ -77,7 +77,14 @@ const analysisNews = () => {
                                        ]}
                                 />
                                 </p>
-                                <p>{t('analiza1:paragraph16')}</p>
+                                <p>
+                                <Trans i18nKey="analiza1:paragraph16"
+                                       components={[
+                                           <a className="link" href="https://www.brookings.edu/techstream/popular-podcasters-spread-russian-disinformation-about-ukraine-biolabs/"
+                                              target="_blank"/>
+                                       ]}
+                                />
+                                </p>
                                 <p>{t('analiza1:paragraph17')}</p>
                                 <p>{t('analiza1:paragraph18')}</p>
                                 <p>{t('analiza1:paragraph19')}</p>
