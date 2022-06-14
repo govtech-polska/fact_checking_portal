@@ -90,7 +90,9 @@ const analysisNews = () => {
                                            ]}
                                     />
                                 </p>
-                                <p>{t('analiza2:paragraph8')}</p>
+
+
+
                                 <h3>{t('analiza2:subtitle4')}</h3>
 
                 <p>
