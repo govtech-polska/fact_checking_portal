@@ -54,7 +54,16 @@ const analysisNews = () => {
                                 <p className="lead">{t('analiza2:paragraph1')}</p>
                                 <p>{t('analiza2:paragraph2')}</p>
                                 <h3>{t('analiza2:subtitle1')}</h3>
-                                <p>{t('analiza2:paragraph3')}</p>
+
+                                <p>
+                                    <Trans i18nKey="analiza2:paragraph3"
+                                           components={[
+                                               <a className="link" href="https://www.bankier.pl/wiadomosc/Naplyw-bezposrednich-inwestycji-zagranicznych-do-Polski-rekordowo-wysoki-8330856.html"
+                                                  target="_blank"/>
+                                           ]}
+                                    />
+                                </p>
+
                                 <p>
                                     <Trans i18nKey="analiza2:paragraph4"
                                            components={[

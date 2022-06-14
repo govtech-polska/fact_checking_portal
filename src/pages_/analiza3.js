@@ -1,6 +1,7 @@
 /* eslint-disable react/jsx-key */
 import Head from 'next/head'
 import useTranslation from 'next-translate/useTranslation'
+import Trans from 'next-translate/Trans'
 
 import CommonHead from 'base/CommonHead'
 import Layout from 'containers/Layout'
@@ -51,6 +52,7 @@ const analysisNews = () => {
                                     <img src="/images/news/abaliza_3_big.png" alt=""/>
                                 </div>
                                 <p className="lead">{t('analiza3:paragraph1')}</p>
+                                https://www.gov.pl/web/sluzby-specjalne/klamstwa-rosyjskiej-propagandy2
                                 <p>{t('analiza3:paragraph2')}</p>
                                 <p>{t('analiza3:paragraph3')}</p>
                                 <p>{t('analiza3:paragraph4')}</p>
