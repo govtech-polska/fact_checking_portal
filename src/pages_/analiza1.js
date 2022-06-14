@@ -1,6 +1,7 @@
 /* eslint-disable react/jsx-key */
 import Head from 'next/head'
 import useTranslation from 'next-translate/useTranslation'
+import Trans from 'next-translate/Trans'
 
 import CommonHead from 'base/CommonHead'
 import Layout from 'containers/Layout'
