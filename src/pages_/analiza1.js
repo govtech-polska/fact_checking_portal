@@ -72,16 +72,14 @@ const analysisNews = () => {
                                 <p>
                                 <Trans i18nKey="analiza1:paragraph15"
                                        components={[
-                                           <a className="link" href="https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b"
-                                                target="_blank"/>
+                                           <sup></sup>
                                        ]}
                                 />
                                 </p>
                                 <p>
                                 <Trans i18nKey="analiza1:paragraph16"
                                        components={[
-                                           <a className="link" href="https://www.brookings.edu/techstream/popular-podcasters-spread-russian-disinformation-about-ukraine-biolabs/"
-                                              target="_blank"/>
+                                           <sup></sup>
                                        ]}
                                 />
                                 </p>
@@ -102,6 +100,7 @@ const analysisNews = () => {
                                            components={[<sup></sup>,
                                                <a className="link" href="https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b"
                                                   target="_blank"/>,
+                                               <sup></sup>,
                                                <a className="link" href="https://www.brookings.edu/techstream/popular-podcasters-spread-russian-disinformation-about-ukraine-biolabs/"
                                                   target="_blank"/>
                                            ]}
