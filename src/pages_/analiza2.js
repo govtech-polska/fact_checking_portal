@@ -54,28 +54,20 @@ const analysisNews = () => {
                                 <p className="lead">{t('analiza2:paragraph1')}</p>
                                 <p>{t('analiza2:paragraph2')}</p>
                                 <h3>{t('analiza2:subtitle1')}</h3>
-
                                 <p>
                                     <Trans i18nKey="analiza2:paragraph3"
-                                           components={[
-                                               <a className="link" href="https://www.bankier.pl/wiadomosc/Naplyw-bezposrednich-inwestycji-zagranicznych-do-Polski-rekordowo-wysoki-8330856.html"
-                                                  target="_blank"/>
-                                           ]}
-                                    />
-                                </p>
-
-                                <p>
-                                    <Trans i18nKey="analiza2:paragraph4"
                                            components={[
                                                <a className="link" href="https://fakehunter.pap.pl/raport/028e70db-b7c7-4c3c-b1e7-c4acb1cb3b7b"
                                                   target="_blank"/>,
                                                <a className="link" href="https://fakehunter.pap.pl/raport/7a7b7745-6dd4-462d-aed6-fb75b789d4d4"
                                                   target="_blank"/>,
-                                               <a className="link" href="https://fakehunter.pap.pl/raport/18e5d8e5-6b24-4392-b009-a36473f7b28f"
+                                               <a className="link" href="https://fakehunter.pap.pl/raport/18e5d8e5-6b24-4392-b007-a28f473f"
                                                   target="_blank"/>
                                            ]}
                                     />
                                 </p>
+
+                                <p>{t('analiza2:paragraph4')}</p>
                                 <p>{t('analiza2:paragraph5')}</p>
                                 <h3>{t('analiza2:subtitle2')}</h3>
                                 <p>{t('analiza2:paragraph6')}</p>
