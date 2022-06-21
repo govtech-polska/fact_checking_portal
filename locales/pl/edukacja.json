@@ -1,28 +1,33 @@
 {
-  "title": "Dołącz do walki <0/> <1>z dezinformacją</1>",
-  "follow": "Śledź nas: ",
-  "quote": "„Prawdą jest zawsze to, co się dzieje, <0/> a nie nasza opowieść o tym, <1/> co się powinno dziać.”",
   "section1": {
     "title": "O projekcie",
-    "subtitle": "Wezwanie do walki z dezinformacją!",
-    "description": "to społeczny projekt weryfikacji treści publikowanych w internecie, uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2."
+    "subtitle": "#FakeHunter – Edu to projekt edukacyjny skierowany do uczniów szkół średnich, którego celem jest uświadomienie zagrożeń związanych z dezinformacją, walka z fake newsami, nauczenie młodzieży weryfikacji treści publikowanych w internecie i utrwalenie bezpiecznych zachowań. ",
+    "description": "W ramach projektu serwis #FakeHunter przygotował szkolenia wideo z zakresu przeciwdziałania dezinformacji, które nauczyciele wykorzystali podczas zajęć szkolnych z uczniami. Tłumaczymy w nagraniach, jak rozpoznać fake newsa, na czym polega zjawisko dezinformacji, jaka jest rola mediów społecznościowych w szerzeniu fałszywych treści i dajemy wskazówki, jak mądrze i świadomie poruszać się w wirtualnej rzeczywistości. Oprócz szkoleń wideo, wszystkie szkoły ponadpodstawowe otrzymały także zestaw ćwiczeń i scenariusz lekcji.",
+    "description1": "Projekt realizowany jest przez: Polską Agencję Prasową, Ministerstwo Edukacji i Nauki, Centrum GovTech Polska oraz Instytut Badań Edukacyjnych."
   },
-  "section7": {
-    "title": "Kontakt",
-    "subtitle": "Czekamy na twoją wiadomość",
-    "description": "Jesteś zainteresowany naszym projektem? Potrzebujesz więcej informacji na jego temat? A może chcesz nas wesprzeć, ale jeszcze nie wiesz jak? Jeśli tak, wyślij nam wiadomość na adres email: <0>fakehunter@pap.pl</0> Bądźmy w kontakcie!",
-    "applyBtn": "Aplikuj"
+  "section2": {
+    "title": "SZKOLENIE WIDEO",
+    "subtitle": "Czym są Fake Newsy",
+    "point1": "Jakich tematów najczęściej dotyczą fake newsy?",
+    "point2": "Kto tworzy fałszywe treści w sieci i jaki jest cel takich działań?",
+    "point3": "Gdzie najczęściej możesz spotkać się ze zmanipulowanymi i fałszywymi informacjami?"
   },
-  "contactForm": {
-    "name": "Imię",
-    "surname": "Nazwisko",
-    "email": "Email",
-    "topic": "Temat",
-    "message": "Treść",
-    "send": "Wyślij",
-    "successMsg": "Twoja wiadomość została wysłana.",
-    "errorMsg": "Nie udało się wysłać wiadomości."
+  "section3": {
+    "title": "SZKOLENIE WIDEO",
+    "subtitle": "Jak rozpoznać Fake Newsa",
+    "point1": "Przyjrzyj się autorowi publikacji",
+    "point2": "Sprawdź źródło",
+    "point3": "Sprawdź aktualność informacji",
+    "point4": "Zwróć uwagę na język",
+    "point5": "Upewnij się, że nie jest to strona satyryczna",
+    "point6": "Zwróć uwagę na stronniczość medium",
+    "point7": "Zapytaj eksperta"
   },
-  "more": "Więcej",
-  "less": "Mniej"
+  "section4": {
+    "title": "SZKOLENIE WIDEO",
+    "subtitle": "Gdzie sprawdzić informacje",
+    "point1": "Jeśli uważasz, że dana informacja może być fałszywa, zgłoś ją serwisowi #FakeHunter. Dzięki temu szybko i rzetelnie zostanie sprawdzona, a Ty otrzymasz raport dotyczący tego, czy informacja jest prawdziwa.",
+    "point2": "Media społecznościowe nie są najlepszym źródłem informacji.",
+    "point3": "Nie tylko udostępnianie i przekazywanie wiadomości zwiększa jej zasięg - reakcja na post lub komentarz również."
+  }
 }
