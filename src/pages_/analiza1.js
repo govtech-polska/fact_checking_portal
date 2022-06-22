@@ -68,20 +68,20 @@ const analysisNews = () => {
                                 <p>{t('analiza1:paragraph12')}</p>
                                 <p>{t('analiza1:paragraph13')}</p>
                                 <h3>{t('analiza1:subtitle4')}</h3>
-                                 <p>{t('analiza1:paragraph14')}</p>
+                                <p>{t('analiza1:paragraph14')}</p>
                                 <p>
-                                <Trans i18nKey="analiza1:paragraph15"
-                                       components={[
-                                           <sup></sup>
-                                       ]}
-                                />
+                                    <Trans i18nKey="analiza1:paragraph15"
+                                           components={[
+                                               <sup></sup>
+                                           ]}
+                                    />
                                 </p>
                                 <p>
-                                <Trans i18nKey="analiza1:paragraph16"
-                                       components={[
-                                           <sup></sup>
-                                       ]}
-                                />
+                                    <Trans i18nKey="analiza1:paragraph16"
+                                           components={[
+                                               <sup></sup>
+                                           ]}
+                                    />
                                 </p>
                                 <p>{t('analiza1:paragraph17')}</p>
                                 <p>{t('analiza1:paragraph18')}</p>
@@ -95,16 +95,15 @@ const analysisNews = () => {
                                         {t('analiza1:chart1')}
                                     </div>
                                 </div>
-                                <p>
-                                    <Trans i18nKey="analiza1:footnotes"
-                                           components={[<sup></sup>,
-                                               <a className="link" href="https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b"
-                                                  target="_blank"/>,
-                                               <sup></sup>,
-                                               <a className="link" href="https://www.brookings.edu/techstream/popular-podcasters-spread-russian-disinformation-about-ukraine-biolabs/"
-                                                  target="_blank"/>
-                                           ]}
-                                    />
+                                <p className="footnotes">
+                                    {t('analiza1:footnotes')}<br/> <br/>
+                                    <sup>1</sup><a className="link"
+                                                   href="https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b"
+                                                   target="_blank">https://www.spiegel.de/politik/deutschland/ukraine-krieg-ein-fuenftel-in-deutschland-glaubt-verschwoerungsmythen-a-43e24191-8375-4576-a4aa-9388607fd04b</a>
+                                    <br/> <br/>
+                                    <sup>2</sup> <a className="link" href="https://www.brookings.edu/techstream/popular-podcasters-spread-russian-disinformation-about-ukraine-biolabs/"
+                                                    target="_blank">https://www.brookings.edu/techstream/popular-podcasters-spread-russian-disinformation-about-ukraine-biolabs</a>
+
                                 </p>
 
                             </div>
