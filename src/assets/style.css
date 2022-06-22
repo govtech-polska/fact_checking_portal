@@ -935,7 +935,7 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 .analysis .pageTitle{font-size:40px; font-weight:700; margin:0 0 30px 0;}
 .analysis .newsList .news{position:relative; margin:0 0 30px 0;}
 .analysis .newsList .news:after{content:""; display:block; height:1px; width:calc(100% - 30px); background:#F1F1F1; position:absolute; bottom:0; left:15px;}
-.analysis .newsList .news a .imageWrapper{}
+.analysis .newsList .news a .imageWrapper{position: relative; top: inherit;}
 .analysis .newsList .news a .imageWrapper img{width:100%; height:auto; margin:0 0 10px 0;}
 .analysis .newsList .news a .textWrapper{padding:0;}
 .analysis .newsList .news a .textWrapper .title{color:#333333; font-size:24px; line-height:32px; margin:0 0 10px 0;}
@@ -966,10 +966,11 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 .analysis.en .newsList{display: none;}
 
 @media (max-width: 991px) {
-  .analysis .newsList .news a .textWrapper .title, .analysisNews .articleTitle{font-size:24px; line-height:32px;}
+  .analysis .newsList .news a .textWrapper .title, .analysisNews .articleTitle{font-size:20px; line-height:28px;}
   .analysis .newsList .news a .textWrapper .description, .analysisNews p, .analysisNews p.lead{font-size:16px; line-height:24px;}
   .analysisNews h3{font-size:20px;}
   .analysisNews .imageWrapper{display:block;}
+  .analysis .newsList .news a .imageWrapper{display: block;}
 
 }
 
