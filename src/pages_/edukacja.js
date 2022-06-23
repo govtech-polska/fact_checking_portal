@@ -144,6 +144,32 @@ const Edukacja = () => {
                             </div>
                         </div>
                     </section>
+
+                    <section className="s6" id="kontakt">
+                        <div className="container-fluid">
+                            <div className="row no-gutters">
+
+
+                                <div className="col-lg-12">
+                                    <div className="textWrapper">
+                                        <h2 className="section">{t('edukacja:section5.title')}</h2>
+                                        <ul className="partnersList list-unstyled">
+                                            <li><a href="https://pap.pl"><img src="/images/education/logo_pap.png" alt=""/></a></li>
+                                            <li><a href="https://www.ibe.edu.pl/index.php/pl/"><img src="/images/education/ibe.png" alt=""/></a></li>
+                                            <li><a href="https://www.gov.pl/web/govtech"><img src="/images/education/govtech.png" alt=""/></a></li>
+                                            <li><a href="https://www.gov.pl/web/edukacja-i-nauka"><img src="/images/education/me.png" alt=""/></a></li>
+                                            <li><a href="https://www.gov.pl/web/edukacja-i-nauka"><img src="/images/education/men.png" alt=""/></a></li>
+
+                                        </ul>
+
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </section>
+
                 </div>
             </Layout>
         </>
