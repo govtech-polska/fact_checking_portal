@@ -174,6 +174,10 @@ const menuItems = (isFirefox = false, t) => [
   {
     href: '/dolacz-do-partnerow',
     label: t('common:nav.partners')
+  },
+  {
+    href: '/challengeV',
+    label: t('common:nav.challengeV')
   }
 ]
 
