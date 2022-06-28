@@ -1,29 +1,36 @@
 {
-  "title": "Join the fight <0/><1>against disinformation</1>",
-  "follow": "Follow us: ",
-  "quote": "„The truth is always what is happening,<0/> and not our story about<1/> what should be happening.”",
   "section1": {
-    "title": "About the project",
-    "subtitle": "The call to combat disinformation!",
-    "description": "is a community-based project for verifying content published on the Internet, launched by the Polish Press Agency (PAP) together with GovTech Polska. It aims to demystify and refute false information related to the SARS-CoV-2 virus."
-
+    "title": "about the project",
+    "subtitle": "#FakeHunter - Edu is an educational project for high school students, the aim of which is to raise awareness of the dangers of disinformation, to fight against fake news, to teach young people to verify content published on the Internet and to establish safe behaviour.",
+    "description": "As part of the project, #FakeHunter prepared video trainings on counteracting disinformation, which teachers used during school activities with students. In the recordings, we explain how to recognize fake news, what is the phenomenon of disinformation, what is the role of social media in spreading false content and we give tips on how to wisely and consciously navigate in virtual reality. In addition to video training, all secondary schools also received a set of exercises and a lesson plan.",
+    "description1": "The project is implemented by: the Polish Press Agency, the Ministry of Education and Science, The GovTech Polska Center and the Educational Research Institute."
   },
-  "section7": {
-    "title": "Contact",
-    "subtitle": "We are waiting for your message",
-    "description": "Are you interested in our project? Do you need more information about it? Or maybe you want to support us, but you do not know how? If so, simply send us a message using email <0>fakehunter@pap.pl</0>. Let us be in touch!",
-    "applyBtn": "Apply"
+  "section2": {
+    "title": "VIDEO TRAINING ",
+    "subtitle": "What are Fake News",
+    "point1": "What are the most common topics of fake news?",
+    "point2": "Who creates fake content on the web and what is the purpose of such activities?",
+    "point3": "Where are you most likely to encounter manipulated and false information?"
   },
-  "contactForm": {
-    "name": "Name",
-    "surname": "Surname",
-    "email": "Email address",
-    "topic": "Subject",
-    "message": "Message content",
-    "send": "Send",
-    "successMsg": "Your message has been successfully submitted.",
-    "errorMsg": "Your message has not been submitted!"
+  "section3": {
+    "title": "VIDEO TRAINING ",
+    "subtitle": "How to recognize Fake News",
+    "point1": "Look at the author of the publication",
+    "point2": "Check the source",
+    "point3": "Check that the information is up to date",
+    "point4": "Pay attention to the language",
+    "point5": "Make sure it's not a satirical page",
+    "point6": "Pay attention to the bias of the medium",
+    "point7": "Ask an expert"
   },
-  "more": "More",
-  "less": "Less"
+  "section4": {
+    "title": "VIDEO TRAINING ",
+    "subtitle": "Where to check information",
+    "point1": "If you believe a piece of information may be false, please report it to #FakeHunter. Thanks to this, it will be checked quickly and reliably, and you will receive a report on whether the information is true.",
+    "point2": "Social media is not the best source of information.",
+    "point3": "Not only sharing and forwarding messages increases their reach - response to post or comment also."
+  },
+  "section5": {
+    "title": "Partners"
+  }
 }
