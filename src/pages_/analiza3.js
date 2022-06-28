@@ -50,6 +50,9 @@ const analysisNews = () => {
                                 <h1 className="articleTitle">{t('analiza3:title')}</h1>
                                 <div className="imageWrapper">
                                     <img src="/images/news/analiza_3.jpg" alt=""/>
+                                    <div className="description">
+                                        Fot. PAP/EPA/ALESSANDRO GUERRA
+                                    </div>
                                 </div>
                                 <p className="lead">{t('analiza3:paragraph1')}</p>
                                 <p>
