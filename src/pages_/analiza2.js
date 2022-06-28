@@ -49,7 +49,7 @@ const analysisNews = () => {
                                 <a className="back en" href="/en/analizy">&#60; Back</a>
                                 <h1 className="articleTitle">{t('analiza2:title')}</h1>
                                 <div className="imageWrapper">
-                                    <img src="/images/news/abaliza_2_big.png" alt=""/>
+                                    <img src="/images/news/analiza_2.jpg" alt=""/>
                                 </div>
                                 <p className="lead">{t('analiza2:paragraph1')}</p>
                                 <p>{t('analiza2:paragraph2')}</p>
