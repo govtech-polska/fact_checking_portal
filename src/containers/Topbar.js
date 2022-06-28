@@ -143,6 +143,10 @@ const MenuItemLink = styled(Link)`
 
 const menuItems = (isFirefox = false, t) => [
   {
+    href: '/analizy',
+    label: t('common:nav.analysis')
+  },
+    {
     href: '/',
     label: t('common:nav.verified')
   },
