@@ -83,7 +83,7 @@ const Edukacja = () => {
                                 <div className="col-lg-6">
                                     <div className="iframeWrapper">
                                         <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/Rnlgw5G0.html"
-                                                title="SZKOLENIE WIDEO 1 - CZYM SĄ FAKE NEWSY" width="620"></iframe>
+                                                title="SZKOLENIE WIDEO 1 - CZYM JEST FAKE NEWS" width="620"></iframe>
                                     </div>
                                 </div>
 
@@ -155,11 +155,9 @@ const Edukacja = () => {
                                         <h2 className="section">{t('edukacja:section5.title')}</h2>
                                         <ul className="partnersList list-unstyled">
                                             <li><a href="https://pap.pl"><img src="/images/education/logo_pap.png" alt=""/></a></li>
-                                            <li><a href="https://www.ibe.edu.pl/index.php/pl/"><img src="/images/education/ibe.png" alt=""/></a></li>
-                                            <li><a href="https://www.gov.pl/web/govtech"><img src="/images/education/govtech.png" alt=""/></a></li>
                                             <li><a href="https://www.gov.pl/web/edukacja-i-nauka"><img src="/images/education/me.png" alt=""/></a></li>
-                                            <li><a href="https://www.gov.pl/web/edukacja-i-nauka"><img src="/images/education/men.png" alt=""/></a></li>
-
+                                            <li><a href="https://www.gov.pl/web/govtech"><img src="/images/education/govtech.png" alt=""/></a></li>
+                                            <li><a href="https://www.ibe.edu.pl/index.php/pl/"><img src="/images/education/ibe.png" alt=""/></a></li>
                                         </ul>
 
 

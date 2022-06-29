@@ -972,6 +972,8 @@ header ul li a{padding:5px 10px !important;}
 header ul li:first-child a{border:1px solid #fff;}
 header ul li:first-child a:hover, header ul li:first-child a:focus{text-decoration:none; background:#fff; color:#dc371b;}
 
+.education .textWrapper .title{font-size:30px; line-height:38px;}
+
 @media (max-width: 991px) {
   .analysis .newsList .news a .textWrapper .title, .analysisNews .articleTitle{font-size:20px; line-height:28px;}
   .analysis .newsList .news a .textWrapper .description, .analysisNews p, .analysisNews p.lead{font-size:16px; line-height:24px;}
