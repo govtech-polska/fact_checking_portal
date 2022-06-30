@@ -82,7 +82,7 @@ const Edukacja = () => {
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="iframeWrapper">
-                                        <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/Rnlgw5G0.html"
+                                        <iframe allowFullScreen frameBorder="0" height="350" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/LALYTF01.html"
                                                 title="SZKOLENIE WIDEO 1 - CZYM JEST FAKE NEWS" width="620"></iframe>
                                     </div>
                                 </div>

@@ -176,6 +176,10 @@ const menuItems = (isFirefox = false, t) => [
     label: t('common:nav.partners')
   },
   {
+    href: '/edukacja',
+    label: t('common:nav.education')
+  },
+  {
     href: '/challengeV',
     label: t('common:nav.challengeV')
   }
