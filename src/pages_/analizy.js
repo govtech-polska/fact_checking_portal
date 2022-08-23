@@ -52,6 +52,17 @@ const Analysis = () => {
 
                         <div className="newsList row">
                             <div className="news col-md-4">
+                                <a href="/analiza5">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_5.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news5.title')}</h2>
+                                        <p className="description">{t('analizy:news5.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="news col-md-4">
                                 <a href="/analiza4">
                                     <div className="imageWrapper">
                                         <img src="/images/news/analiza_4.jpg" alt=""/>
@@ -98,6 +109,17 @@ const Analysis = () => {
                         </div>
 
                         <div className="newsList en row">
+                            <div className="news col-md-4">
+                                <a href="/en/analiza5">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_5.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news5.title')}</h2>
+                                        <p className="description">{t('analizy:news5.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
                             <div className="news col-md-4">
                                 <a href="/en/analiza4">
                                     <div className="imageWrapper">

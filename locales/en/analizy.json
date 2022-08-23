@@ -16,5 +16,9 @@
   "news4": {
     "title": "Orlen caught in Moscow’s crosshairs",
     "description": "The Polish fuel market is very sensitive to 'information war' activities, such as fake news, for several reasons, the main one being that it is part of the energy sector - a critical element of any economy."
+  },
+  "news5": {
+    "title": "Fake news: rtęć w Odrze - biała księga",
+    "description": "Od wieczora 11 sierpnia, przez kilka dni kolportowano w polskich mediach nieprawdziwą informację o niezwykle wysokiej zawartości rtęci w wodach Odry, powodującej masowe śnięcie ryb. "
   }
 }
