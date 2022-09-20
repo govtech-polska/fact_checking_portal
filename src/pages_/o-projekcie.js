@@ -408,7 +408,7 @@ const About = () => {
                                         </li>
                                         <li className="play">
                                             <a target="_blank" rel="noopener noreferrer" href="https://www.pfizer.com/">
-                                                <img src="/images/partners/Pfizer_Logo.png" alt="Pfizer"/>
+                                                <img src="/images/partners/Pfizer_logo.png" alt="Pfizer"/>
                                             </a>
                                         </li>
                                         <li className="info">
