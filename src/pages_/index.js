@@ -120,7 +120,7 @@ const Index = ({pinned, hashtags, categories}) => {
                 </div>
 */}
 
-                <span className="partnerLogoTwo"></span>
+
 
                 <Header>
                     <Container>

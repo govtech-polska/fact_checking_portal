@@ -61,7 +61,7 @@ const Pinned = ({ data }) => {
       <DetailsWrapper>
         <LogoLink href={url} newTab>
           <StyledLogo />
-          <Title>{t('developers:plugins.pinned')}</Title>
+          <Title>{t('developers:plugins.pinned')}</Title> <span className="partnerLogoTwo"></span>
         </LogoLink>
         <ContentWrapper>
           {data?.results?.map((card) => (
