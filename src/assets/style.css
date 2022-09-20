@@ -624,6 +624,9 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 
 #nagrody{z-index: 10;}
 
+.nauka.i.zdrowie .partnerLogoThree{display: none;}
+
+
 @media (max-width: 1199px) {
   .s1 .title {
     font-size: 115px;
