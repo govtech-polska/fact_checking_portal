@@ -44,9 +44,6 @@ const FeedTitle = ({hashtag, category}) => {
     if (hashtag) title = t('verified:feed.resultsForTag', {hashtag})
     if (category) title = t('verified:feed.resultsForCategory', {category})
 
-    if (window?.location.pathname === '/kategoria/nauka%20i%20zdrowie')
-        require('src/assets/zdrowie.css')
-
     if (title) {
         const resetUrl = resolveUrl(appUrls.FEED)
         return (
