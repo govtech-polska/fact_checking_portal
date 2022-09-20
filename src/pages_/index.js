@@ -23,6 +23,7 @@ import {appUrls, apiUrls} from 'urls'
 import {resolveUrl, matchUrl} from 'utils'
 import CommonHead from 'base/CommonHead'
 
+
 const TitleWrapper = styled.div`
   display: flex;
 `
@@ -102,6 +103,8 @@ const Index = ({pinned, hashtags, categories}) => {
         })
     }
 
+
+
     return (
         <>
             <Head>
@@ -140,7 +143,7 @@ const Index = ({pinned, hashtags, categories}) => {
 
 
                     <section>
-                        <TitleWrapper>
+                        <TitleWrapper className={category}>
                             <FeedTitle hashtag={query['tags[]']} category={category}/> <span className="partnerLogoThree"></span>
                             <FeedLayoutManager active={layout} onChange={handleLayoutChange}/>
 
