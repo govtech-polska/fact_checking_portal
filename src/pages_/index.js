@@ -141,8 +141,9 @@ const Index = ({pinned, hashtags, categories}) => {
 
                     <section>
                         <TitleWrapper>
-                            <FeedTitle hashtag={query['tags[]']} category={category}/> <span className="partnerLogoThree"></span>
+                            <FeedTitle hashtag={query['tags[]']} category={category}/>
                             <FeedLayoutManager active={layout} onChange={handleLayoutChange}/>
+                            <span className="partnerLogoThree"></span>
                         </TitleWrapper>
                         <Feed
                             layout={layout}
