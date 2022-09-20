@@ -44,6 +44,9 @@ const FeedTitle = ({hashtag, category}) => {
     if (hashtag) title = t('verified:feed.resultsForTag', {hashtag})
     if (category) title = t('verified:feed.resultsForCategory', {category})
 
+    if (window?.location.pathname === '/kategoria/nauka%20i%20zdrowie')
+        require('src/assets/zdrowie.css')
+
     if (title) {
         const resetUrl = resolveUrl(appUrls.FEED)
         return (
@@ -141,9 +144,9 @@ const Index = ({pinned, hashtags, categories}) => {
 
                     <section>
                         <TitleWrapper>
-                            <FeedTitle hashtag={query['tags[]']} category={category}/>
+                            <FeedTitle hashtag={query['tags[]']} category={category}/> <span className="partnerLogoThree"></span>
                             <FeedLayoutManager active={layout} onChange={handleLayoutChange}/>
-                            <span className="partnerLogoThree"></span>
+
                         </TitleWrapper>
                         <Feed
                             layout={layout}
