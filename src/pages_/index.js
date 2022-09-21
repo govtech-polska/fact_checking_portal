@@ -127,7 +127,6 @@ const Index = ({pinned, hashtags, categories}) => {
 
                 <Header>
                     <Container>
-                        <span className="partnerLogo"></span>
                         <Pinned initialData={pinned}/>
                     </Container>
                 </Header>
@@ -144,7 +143,9 @@ const Index = ({pinned, hashtags, categories}) => {
 
                     <section>
                         <TitleWrapper className={category}>
-                            <FeedTitle hashtag={query['tags[]']} category={category}/> <span className="partnerLogoThree"></span>
+                            <FeedTitle hashtag={query['tags[]']} category={category}/>
+                            <div className="partnerLogo pgnig">Partner kategorii <a href="https://pgnig.pl/"><img src="/images/partners/pgnig_logo.png" alt="PGNIG" /></a></div>
+                            <div className="partnerLogo pfizer">Partner kategorii <a href="https://www.pfizer.pl/"><img src="/images/partners/Pfizer_logo.png" alt="Pfizer" /></a> </div>
                             <FeedLayoutManager active={layout} onChange={handleLayoutChange}/>
 
                         </TitleWrapper>
