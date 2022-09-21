@@ -624,8 +624,13 @@ article .iframeList .title{font-weight: 700; margin:0 0 50px 0; border-top:2px s
 
 #nagrody{z-index: 10;}
 
-.partnerLogo{display: none;}
+.pages___TitleWrapper-sc-1vm3jlu-0 .bqzEFY{border-bottom: 0 !important;}
 
+.partnerLogo{display: none;}
+.partnerLogo{float: right; font-size: 13px; margin: 20px 0 0 0;}
+.partnerLogo a{float: right;}
+.partnerLogo a img{height: 40px; max-height: 40px; margin: -13px 0 0 10px;}
+.partnerLogo:after{clear: both; content: ""; display: block;}
 
 @media (max-width: 1199px) {
   .s1 .title {
