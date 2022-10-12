@@ -47,7 +47,7 @@ const partnerzy = () => {
                         <div className="container-fluid">
 
 
-
+                            {/*
 
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
@@ -70,7 +70,7 @@ const partnerzy = () => {
                                 </div>
                             </div>
 
-
+*/}
                             <div className="row no-gutters">
                                 <div className="col-lg-6">
 

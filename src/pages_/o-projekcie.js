@@ -401,11 +401,12 @@ const About = () => {
                                                      alt="Obywatele zdrowo zaangaĹźowani"/>
                                             </a>
                                         </li>
+                                        {/*
                                         <li className="play">
                                             <a target="_blank" rel="noopener noreferrer" href="https://pgnig.pl/">
                                                 <img src="/images/pgnig.png" alt="PGNIG"/>
                                             </a>
-                                        </li>
+                                        </li>*/}
                                         <li className="play">
                                             <a target="_blank" rel="noopener noreferrer" href="https://www.pfizer.com/">
                                                 <img src="/images/partners/Pfizer_logo.png" alt="Pfizer"/>
