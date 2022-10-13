@@ -992,9 +992,13 @@ header ul li:nth-child(4) a{padding:5px 10px !important;}
   display:-ms-flexbox;
   display:flex;}
 
+.topbar-listItem{margin:0 5px 0 0;}
+.topbar-listItem:last-child{margin:0;}
+
 .topbar-listItem:nth-child(1) .topbar-link {
   border: 1px solid #ffffff;
-  padding: 5px 10px !important;
+  padding: 8px 1rem !important;
+
 }
 
 .topbar-listItem:nth-child(4) .topbar-link {
@@ -1006,9 +1010,9 @@ header ul li:nth-child(4) a{padding:5px 10px !important;}
 
 .topbar-link{
   color:#ffffff;
-  font-weight:600;
+  font-weight:400;
   padding:8px 15px;
-  font-size:14px;
+  font-size:14px !important;
   margin:0;
   -webkit-text-decoration:none;
   text-decoration:none;
