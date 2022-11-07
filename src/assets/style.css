@@ -1025,12 +1025,12 @@ header ul li:nth-child(4) a{padding:5px 10px !important;}
 
 @media (max-width:1299px){
 
-  .bjmEiw{display: none !important;}
+  .Fruwx .csYVjv{display: none !important;}
   .topbar{display: flex; width: 100%; background: #dc371b; padding: 20px 0 0 0; overflow: scroll; align-items:center;}
   .topbar li{display: block; margin: 0 10px 15px 0; width: auto;}
   .topbar-listItem:last-child{margin: 0 0 15px 0;}
   .topbar-link{width: auto; white-space: nowrap;}
-  .clDkiI{display: flex; flex-direction: column; }
+  .Fruwx{display: flex !important; flex-direction: column !important; }
 
 
 }
