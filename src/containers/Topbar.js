@@ -237,19 +237,19 @@ const Topbar = () => {
           {/*</MenuList>*/}
 
           <ul className="topbar">
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/analizy">Analizy</a></li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://app.fakehunter.pap.pl/">Zweryfikowane informacje</a></li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/o-projekcie" >O projekcie</a></li>
-            <li className="topbar-listItem"><a href="https://fakehunter.pap.pl/o-projekcie#jaktodziala" className="topbar-link" target="_blank"
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/analizy">Analizy</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/">Zweryfikowane informacje</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/o-projekcie" >O projekcie</a></li>
+            <li className="topbar-listItem"><a href="https://fake-hunter.pap.pl/o-projekcie#jaktodziala" className="topbar-link" target="_blank"
                    rel="noreferrer noopener">Zgłoś informację</a></li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/o-projekcie#zostanfakehunterem">Zostań
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/o-projekcie#zostanfakehunterem">Zostań
               fakehunterem</a>
             </li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/zespol">Zespół</a></li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/dolacz-do-partnerow">Dołącz do partnerów</a>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/zespol">Zespół</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/dolacz-do-partnerow">Dołącz do partnerów</a>
             </li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/edukacja">#FakeHunter - Edu</a></li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/challengeV">#FakeHunter
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/edukacja">#FakeHunter - Edu</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/challengeV">#FakeHunter
               Challenge/Geopolityka</a></li>
           </ul>
 
