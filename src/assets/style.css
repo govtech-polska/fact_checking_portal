@@ -626,6 +626,8 @@ article .iframeList .title{font-weight:700; margin:0 0 50px 0; border-top:2px so
 .energetyka .partnerLogo.pgnig{display:block;}
 .nauka .partnerLogo.pfizer{display:block;}
 
+
+
 @media (max-width:1199px){
   .s1 .title{
     font-size:115px;
@@ -1020,3 +1022,12 @@ header ul li:nth-child(4) a{padding:5px 10px !important;}
 }
 
 .topbar-link:hover, .topbar-link:focus{text-decoration:none; color:#fff;}
+
+@media (max-width:1299px){
+
+  .topbar{display: none; position: absolute;top:85px; left: 0; width: 100%; background: #dc371b; padding: 10px 10px 20px 10px;}
+  .topbar li{display: block; margin: 0 0 15px 0;}
+
+  .bjmEiw:focus + .topbar{display: block;}
+
+}
