@@ -209,9 +209,9 @@ const Topbar = () => {
               <Logo />
             </StyledH1>
           </StyledLink>
-          <Hamburger onClick={() => setIsOpen(!isOpen)}>
-            <HamburgerItems />
-          </Hamburger>
+          {/* <Hamburger onClick={() => setIsOpen(!isOpen)}>*/}
+            {/*  <HamburgerItems />*/}
+            {/*</Hamburger>*/}
           {/*<MenuList isOpen={isOpen}>*/}
           {/*  {menuItems(isFirefox, t).map((item) => (*/}
           {/*      <li key={item.href}>*/}
