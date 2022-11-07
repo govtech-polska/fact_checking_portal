@@ -1025,9 +1025,12 @@ header ul li:nth-child(4) a{padding:5px 10px !important;}
 
 @media (max-width:1299px){
 
-  .topbar{display: none; position: absolute;top:85px; left: 0; width: 100%; background: #dc371b; padding: 10px 10px 20px 10px;}
-  .topbar li{display: block; margin: 0 0 15px 0;}
+  .bjmEiw{display: none !important;}
+  .topbar{display: flex; width: 100%; background: #dc371b; padding: 20px 0 0 0; overflow: scroll; align-items:center;}
+  .topbar li{display: block; margin: 0 10px 15px 0; width: auto;}
+  .topbar-listItem:last-child{margin: 0 0 15px 0;}
+  .topbar-link{width: auto; white-space: nowrap;}
+  .clDkiI{display: flex; flex-direction: column; }
 
-  .bjmEiw:focus + .topbar{display: block;}
 
 }
