@@ -12,6 +12,7 @@
     "/challengeIII":["challengeIII"],
     "/challengeIV":["challengeIV"],
     "/challengeV":["challengeV"],
+    "/challengeVI":["challengeVI"],
     "/zespol": ["team"],
     "/dla-programistow": ["developers"],
     "rgx:/plugins/*": ["developers", "verified"],
