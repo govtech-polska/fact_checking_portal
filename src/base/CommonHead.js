@@ -4,10 +4,10 @@ const CommonHead = ({ title }) => {
   return (
     <>
       <title>{title}</title>
-      <meta
-        name="description"
+      <meta name="description"
         content="#FakeHunter to społeczny projekt weryfikacji treści publikowanych w internecie uruchomiony przez Polską Agencję Prasową wspólnie z GovTech Polska, którego celem jest demaskowanie nieprawdziwych wiadomości dotyczących wirusa SARS-CoV-2"
       />
+        <meta name="robots" content="noindex" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={title} />
