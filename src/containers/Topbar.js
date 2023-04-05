@@ -249,8 +249,8 @@ const Topbar = () => {
             <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/dolacz-do-partnerow">Dołącz do partnerów</a>
             </li>
             <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/edukacja">#FakeHunter - Edu</a></li>
-            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/challengeVI">#FakeHunter
-              Challenge - Wojna Informacyjna</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/challengeVII">#FakeHunter
+              Challenge - Fake News Alert</a></li>
           </ul>
 
         </Content>
