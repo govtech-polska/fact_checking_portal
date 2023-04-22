@@ -44,7 +44,7 @@ const Description = styled.p`
 
 const DateInfo = styled.p`
   font-size: 14px;
-  color: #aaa;
+  color: #797676;
   line-height: 1;
   margin: 0;
 `
