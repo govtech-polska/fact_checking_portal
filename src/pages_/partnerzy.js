@@ -98,35 +98,7 @@ const partnerzy = () => {
                             </div>
 
 
-                            <div className="row no-gutters">
-                                <div className="col-lg-6">
-                                    <div className="textWrapper">
-                                        <div className="textWrapperImg">
-                                            <a href="https://www.pfizer.com/"><img src="/images/partners/Pfizer_logo.png" alt="Pfizer"/></a></div>
-                                        <p><br />
-                                          <strong> <Trans i18nKey="partnerzy:section1.partner4"
-                                                   components={[<span/>]}/></strong>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="partnerzy:section1.partner4a"
-                                                   components={[<span/>]}/>
-                                        </p>
-                                        <p>
-                                            <Trans i18nKey="partnerzy:section1.partner4b"
-                                                   components={[<span/>]}/>
-                                        </p>
-                                    </div>
 
-                                </div>
-                                <div className="col-lg-6">
-
-                                    <div className="imageWrapper">
-
-                                        <img src="/images/pfizer.jpg" alt="pfizer"/>
-                                    </div>
-
-                                </div>
-                            </div>
 
 
 
