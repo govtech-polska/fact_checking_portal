@@ -43,7 +43,7 @@ const Actions = styled.div`
 const AcceptBtn = styled(Button)`
   line-height: 1;
   font-weight: ${({ theme }) => theme.font.weight.medium};
-  color: #008f52;
+  color: #008859;
 `
 
 const CloseBtn = styled(Button)`
