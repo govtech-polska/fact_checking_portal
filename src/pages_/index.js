@@ -144,8 +144,7 @@ const Index = ({pinned, hashtags, categories}) => {
                     <section>
                         <TitleWrapper className={category}>
                             <FeedTitle hashtag={query['tags[]']} category={category}/>
-                            {/* <div className="partnerLogo pgnig">Partner kategorii <a href="https://pgnig.pl/"><img src="/images/partners/pgnig_logo.png" alt="PGNIG" /></a></div>
-                            <div className="partnerLogo pfizer">Partner kategorii <a href="https://www.pfizer.pl/"><img src="/images/partners/Pfizer_logo.png" alt="Pfizer" /></a> </div>*/}
+                             <div className="partnerLogo ptez">Partner kategorii <a href="https://ptez.pl/"><img src="/images/partners/ptez.png" alt="ptez" /></a></div>
                             <FeedLayoutManager active={layout} onChange={handleLayoutChange}/>
 
                         </TitleWrapper>

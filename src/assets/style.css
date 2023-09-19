@@ -623,6 +623,7 @@ article .iframeList .title{font-weight:700; margin:0 0 50px 0; border-top:2px so
 .partnerLogo a img{height:40px; max-height:40px; margin:-13px 0 0 10px;}
 .partnerLogo:after{clear:both; content:""; display:block;}
 
+.energetyka .partnerLogo.ptez{display:block;}
 .energetyka .partnerLogo.pgnig{display:block;}
 .nauka .partnerLogo.pfizer{display:block;}
 
