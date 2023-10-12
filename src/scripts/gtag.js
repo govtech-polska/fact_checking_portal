@@ -4,5 +4,5 @@ export default function gtag() {
     window.dataLayer.push(arguments)
   }
   gtag('js', new Date())
-  gtag('config', 'UA-162854541-2')
+  gtag('config', 'G-9FWBX7CQFY')
 }
