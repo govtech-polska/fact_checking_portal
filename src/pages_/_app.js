@@ -34,6 +34,7 @@ class App extends NextApp {
           <link rel="icon" href="/favicon.ico" />
           <link rel="alternate" type="application/rss+xml" href="/rss" />
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-9FWBX7CQFY"></script>
+          <script async src="src/scripts/gtag.js"></script>
         </Head>
         <ThemeProvider theme={theme}>
           <Component {...pageProps} />
