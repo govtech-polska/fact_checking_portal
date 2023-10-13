@@ -143,6 +143,10 @@ const MenuItemLink = styled(Link)`
 
 const menuItems = (isFirefox = false, t) => [
   {
+    href: '/analizy',
+    label: t('common:nav.analysis')
+  },
+    {
     href: '/',
     label: t('common:nav.verified')
   },
@@ -170,6 +174,10 @@ const menuItems = (isFirefox = false, t) => [
   {
     href: '/dolacz-do-partnerow',
     label: t('common:nav.partners')
+  },
+  {
+    href: '/edukacja',
+    label: t('common:nav.education')
   },
   {
     href: '/challengeV',
@@ -201,32 +209,50 @@ const Topbar = () => {
               <Logo />
             </StyledH1>
           </StyledLink>
-          <Hamburger onClick={() => setIsOpen(!isOpen)}>
-            <HamburgerItems />
-          </Hamburger>
-          <MenuList isOpen={isOpen}>
-            {menuItems(isFirefox, t).map((item) => (
-                <li key={item.href}>
-                  <MenuItemLink
-                      href={item.href}
-                      special={item.special}
-                      external={item.special}
-                      {...(item.special ? NEW_TAB_PROPSES : {})}
-                  >
-                    {item.label}
-                  </MenuItemLink>
-                </li>
-            ))}
-            <li>
-              <MenuItemLink
-                  nextLinkProps={{ lang: isPL ? 'en' : 'pl' }}
-                  page={routeWithoutLocale}
-                  href={pathWithoutLocale}
-              >
-                {isPL ? 'EN' : 'PL'}
-              </MenuItemLink>
+          {/* <Hamburger onClick={() => setIsOpen(!isOpen)}>*/}
+            {/*  <HamburgerItems />*/}
+            {/*</Hamburger>*/}
+          {/*<MenuList isOpen={isOpen}>*/}
+          {/*  {menuItems(isFirefox, t).map((item) => (*/}
+          {/*      <li key={item.href}>*/}
+          {/*        <MenuItemLink*/}
+          {/*            href={item.href}*/}
+          {/*            special={item.special}*/}
+          {/*            external={item.special}*/}
+          {/*            {...(item.special ? NEW_TAB_PROPSES : {})}*/}
+          {/*        >*/}
+          {/*          {item.label}*/}
+          {/*        </MenuItemLink>*/}
+          {/*      </li>*/}
+          {/*  ))}*/}
+          {/*  <li>*/}
+          {/*    <MenuItemLink*/}
+          {/*        nextLinkProps={{ lang: isPL ? 'en' : 'pl' }}*/}
+          {/*        page={routeWithoutLocale}*/}
+          {/*        href={pathWithoutLocale}*/}
+          {/*    >*/}
+          {/*      {isPL ? 'EN' : 'PL'}*/}
+          {/*    </MenuItemLink>*/}
+          {/*  </li>*/}
+          {/*</MenuList>*/}
+
+          <ul className="topbar">
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/analizy">Analizy</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fakehunter.pap.pl/">Zweryfikowane informacje</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/o-projekcie" >O projekcie</a></li>
+            <li className="topbar-listItem"><a href="https://fake-hunter.pap.pl/o-projekcie#jaktodziala" className="topbar-link" target="_blank"
+                   rel="noreferrer noopener">Zgłoś informację</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/o-projekcie#zostanfakehunterem">Zostań
+              fakehunterem</a>
             </li>
-          </MenuList>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/zespol">Zespół</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/dolacz-do-partnerow">Dołącz do partnerów</a>
+            </li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/edukacja">#FakeHunter - Edu</a></li>
+            <li className="topbar-listItem"><a className="topbar-link" href="https://fake-hunter.pap.pl/challengeVII">#FakeHunter
+              Challenge - Fake News Alert</a></li>
+          </ul>
+
         </Content>
       </Wrapper>
   )

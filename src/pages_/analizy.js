@@ -49,11 +49,34 @@ const Analysis = () => {
                                 <h1 className="pageTitle">{t('analizy:title')}</h1>
                             </div>
                         </div>
+
                         <div className="newsList row">
+                            <div className="news col-md-4">
+                                <a href="/analiza5">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_5.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news5.title')}</h2>
+                                        <p className="description">{t('analizy:news5.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="news col-md-4">
+                                <a href="/analiza4">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_4.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news4.title')}</h2>
+                                        <p className="description">{t('analizy:news4.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
                             <div className="news col-md-4">
                                 <a href="/analiza1">
                                     <div className="imageWrapper">
-                                        <img src="/images/news/kreml_small_analiza_1.png" alt=""/>
+                                        <img src="/images/news/analiza_1.jpg" alt=""/>
                                     </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news1.title')}</h2>
@@ -64,7 +87,7 @@ const Analysis = () => {
                             <div className="news col-md-4">
                                 <a href="/analiza2">
                                     <div className="imageWrapper">
-                                        <img src="/images/news/abaliza_2_small.png" alt=""/>
+                                        <img src="/images/news/analiza_2.jpg" alt=""/>
                                     </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news2.title')}</h2>
@@ -75,7 +98,7 @@ const Analysis = () => {
                             <div className="news col-md-4">
                                 <a href="/analiza3">
                                     <div className="imageWrapper">
-                                        <img src="/images/news/abaliza_3_small.png" alt=""/>
+                                        <img src="/images/news/analiza_3.jpg" alt=""/>
                                     </div>
                                     <div className="textWrapper">
                                         <h2 className="title">{t('analizy:news3.title')}</h2>
@@ -84,6 +107,65 @@ const Analysis = () => {
                                 </a>
                             </div>
                         </div>
+
+                        <div className="newsList en row">
+                            <div className="news col-md-4">
+                                <a href="/en/analiza5">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_5.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news5.title')}</h2>
+                                        <p className="description">{t('analizy:news5.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="news col-md-4">
+                                <a href="/en/analiza4">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_4.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news4.title')}</h2>
+                                        <p className="description">{t('analizy:news4.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="news col-md-4">
+                                <a href="/en/analiza1">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_1.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news1.title')}</h2>
+                                        <p className="description">{t('analizy:news1.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="news col-md-4">
+                                <a href="/en/analiza2">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_2.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news2.title')}</h2>
+                                        <p className="description">{t('analizy:news2.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div className="news col-md-4">
+                                <a href="/en/analiza3">
+                                    <div className="imageWrapper">
+                                        <img src="/images/news/analiza_3.jpg" alt=""/>
+                                    </div>
+                                    <div className="textWrapper">
+                                        <h2 className="title">{t('analizy:news3.title')}</h2>
+                                        <p className="description">{t('analizy:news3.description')}</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </Layout>

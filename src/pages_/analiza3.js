@@ -49,18 +49,24 @@ const analysisNews = () => {
                                 <a className="back en" href="/en/analizy">&#60; Back</a>
                                 <h1 className="articleTitle">{t('analiza3:title')}</h1>
                                 <div className="imageWrapper">
-                                    <img src="/images/news/abaliza_3_big.png" alt=""/>
+                                    <img src="/images/news/analiza_3.jpg" alt=""/>
+                                    <div className="description">
+                                        Fot. PAP/EPA/ALESSANDRO GUERRA
+                                    </div>
                                 </div>
                                 <p className="lead">{t('analiza3:paragraph1')}</p>
                                 <p>
                                     <Trans i18nKey="analiza3:paragraph2"
                                            components={[
-                                               <a className="link" href="https://www.gov.pl/web/sluzby-specjalne/klamstwa-rosyjskiej-propagandy2"
-                                                  target="_blank"/>
+                                               <sup></sup>
                                            ]}
                                     />
                                 </p>
-                                <p>{t('analiza3:paragraph3')}</p>
+                                <p><Trans i18nKey="analiza3:paragraph3"
+                                          components={[
+                                              <sup></sup>
+                                          ]}
+                                /></p>
                                 <p>{t('analiza3:paragraph4')}</p>
                                 <p>{t('analiza3:paragraph5')}</p>
                                 <h3>{t('analiza3:subtitle1')}</h3>
@@ -139,35 +145,40 @@ const analysisNews = () => {
                                 </div>
                                 <p>{t('analiza3:paragraph25')}</p>
                             </div>
-                            <p>
-                            <Trans i18nKey="analiza3:footnotes"
-                                   components={[<sup></sup>,
-                                       <a className="link" href="https://www.gov.pl/web/sluzby-specjalne/klamstwa-rosyjskiej-propagandy2"
-                                          target="_blank"/>,
-                                       <sup></sup>,
-                                       <a className="link" href="https://cyberdefence24.pl/cyberbezpieczenstwo/rosyjska-wojna-dezinformacyjna-ekspert-celem-rosjan-jest-stymulowanie-paniki-w-polsce-wywiad"
-                                          target="_blank"/>,
-                                       <sup></sup>,
-                                       <a className="link" href="https://www.state.gov/wp-content/uploads/2020/08/Pillars-of-Russia%E2%80%99s-Disinformation-and-Propaganda-Ecosystem_08-04-20.pdf"
-                                          target="_blank"/>,
-                                       <sup></sup>,
-                                       <a className="link" href="https://pieniadze.rp.pl/konta-bankowe/art35948741-hrywny-do-wymiany-ruszyla-akcja-pomocy-banku-centralnego "
-                                          target="_blank"/>,
-                                       <sup></sup>,
-                                       <a className="link" href="https://www.rp.pl/konflikty-zbrojne/art35822351-kamil-basaj-trwa-operacja-rosji-przeciw-uciekinierom"
-                                          target="_blank"/>,
-                                       <sup></sup>,
-                                       <a className="link" href="https://twitter.com/StZaryn/status/1524332174270517251?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1524332174270517251%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpolskieradio24.pl%2F5%2F1222%2FArtykul%2F2956378Kreml-probuje-fake-newsami-uderzac-w-Polske-RCB-ostrzega-i-apeluje-o-walke-z-dezinformacja"
-                                          target="_blank"/>,
-                                       <sup></sup>,
-                                       <a className="link" href="https://konkret24.tvn24.pl/polska,108/wojsko-polskie-postawione-do-stanu-pelnej-gotowosci-bojowej-by-chronic-lwow-i-wolyn-ten-rozkaz-jest-falszywka,1104470.html"
-                                          target="_blank"/>,
-                                       <sup></sup>,
-                                       <a className="link" href="https://euvsdisinfo.eu/the-bucha-massacre-how-to-deflect-attention-in-poland/"
-                                          target="_blank"/>
-                                   ]}
-                            />
-                        </p>
+                            <p className="footnotes">
+                                {t('analiza3:footnotes')}<br/> <br/>
+
+
+                                <sup>1</sup> <a className="link" href="https://www.gov.pl/web/sluzby-specjalne/klamstwa-rosyjskiej-propagandy2"
+                                                target="_blank">https://www.gov.pl/web/sluzby-specjalne/klamstwa-rosyjskiej-propagandy2</a>
+                                <br/><br/>
+                                <sup>2</sup> <a className="link"
+                                                href="https://cyberdefence24.pl/cyberbezpieczenstwo/rosyjska-wojna-dezinformacyjna-ekspert-celem-rosjan-jest-stymulowanie-paniki-w-polsce-wywiad"
+                                                target="_blank">https://cyberdefence24.pl/cyberbezpieczenstwo/rosyjska-wojna-dezinformacyjna-ekspert-celem-rosjan-jest-stymulowanie-paniki-w-polsce-wywiad</a>
+                                <br/><br/>
+                                <sup>3</sup> <a className="link"
+                                                href="https://www.state.gov/wp-content/uploads/2020/08/Pillars-of-Russia%E2%80%99s-Disinformation-and-Propaganda-Ecosystem_08-04-20.pdf"
+                                                target="_blank">https://www.state.gov/wp-content/uploads/2020/08/Pillars-of-Russia%E2%80%99s-Disinformation-and-Propaganda-Ecosystem_08-04-20.pdf</a>
+                                <br/><br/>
+                                <sup>4</sup> <a className="link" href="https://pieniadze.rp.pl/konta-bankowe/art35948741-hrywny-do-wymiany-ruszyla-akcja-pomocy-banku-centralnego "
+                                                target="_blank">https://pieniadze.rp.pl/konta-bankowe/art35948741-hrywny-do-wymiany-ruszyla-akcja-pomocy-banku-centralnego</a>
+                                <br/><br/>
+                                <sup>5</sup> <a className="link" href="https://www.rp.pl/konflikty-zbrojne/art35822351-kamil-basaj-trwa-operacja-rosji-przeciw-uciekinierom"
+                                               target="_blank">https://www.rp.pl/konflikty-zbrojne/art35822351-kamil-basaj-trwa-operacja-rosji-przeciw-uciekinierom</a>
+                                <br/><br/>
+                                <sup>6</sup> <a className="link"
+                                               href="https://twitter.com/StZaryn/status/1524332174270517251?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1524332174270517251%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpolskieradio24.pl%2F5%2F1222%2FArtykul%2F2956378Kreml-probuje-fake-newsami-uderzac-w-Polske-RCB-ostrzega-i-apeluje-o-walke-z-dezinformacja"
+                                               target="_blank">https://twitter.com/StZaryn/status/1524332174270517251?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1524332174270517251%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fpolskieradio24.pl%2F5%2F1222%2FArtykul%2F2956378Kreml-probuje-fake-newsami-uderzac-w-Polske-RCB-ostrzega-i-apeluje-o-walke-z-dezinformacja</a>
+                                <br/><br/>
+                                <sup>7</sup> <a className="link"
+                                               href="https://konkret24.tvn24.pl/polska,108/wojsko-polskie-postawione-do-stanu-pelnej-gotowosci-bojowej-by-chronic-lwow-i-wolyn-ten-rozkaz-jest-falszywka,1104470.html"
+                                               target="_blank">https://konkret24.tvn24.pl/polska,108/wojsko-polskie-postawione-do-stanu-pelnej-gotowosci-bojowej-by-chronic-lwow-i-wolyn-ten-rozkaz-jest-falszywka,1104470.html</a>
+                                <br/><br/>
+                                <sup>8</sup> <a className="link" href="https://euvsdisinfo.eu/the-bucha-massacre-how-to-deflect-attention-in-poland/"
+                                               target="_blank">https://euvsdisinfo.eu/the-bucha-massacre-how-to-deflect-attention-in-poland</a>
+
+
+                            </p>
 
                         </div>
 

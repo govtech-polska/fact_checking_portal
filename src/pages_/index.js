@@ -23,6 +23,7 @@ import {appUrls, apiUrls} from 'urls'
 import {resolveUrl, matchUrl} from 'utils'
 import CommonHead from 'base/CommonHead'
 
+
 const TitleWrapper = styled.div`
   display: flex;
 `
@@ -102,6 +103,8 @@ const Index = ({pinned, hashtags, categories}) => {
         })
     }
 
+
+
     return (
         <>
             <Head>
@@ -120,6 +123,8 @@ const Index = ({pinned, hashtags, categories}) => {
                 </div>
 */}
 
+
+
                 <Header>
                     <Container>
                         <Pinned initialData={pinned}/>
@@ -137,9 +142,11 @@ const Index = ({pinned, hashtags, categories}) => {
 
 
                     <section>
-                        <TitleWrapper>
+                        <TitleWrapper className={category}>
                             <FeedTitle hashtag={query['tags[]']} category={category}/>
+                             <div className="partnerLogo ptez">Partner kategorii <a href="https://ptez.pl/"><img src="/images/partners/ptez.png" alt="ptez" /></a></div>
                             <FeedLayoutManager active={layout} onChange={handleLayoutChange}/>
+
                         </TitleWrapper>
                         <Feed
                             layout={layout}

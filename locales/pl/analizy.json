@@ -13,5 +13,13 @@
   "news3": {
     "title": "Gra na konflikt – główne narracje rosyjskiej dezinformacji",
     "description": "W przypadku rosyjskiej dezinformacji wojennej można mówić o „produkcie dedykowanym”. Przekazy będące efektem działania propagandy są efektem gruntownej analizy – biorą pod uwagę polskie realia życia, tragiczne karty z historii, sympatie i resentymenty."
+  },
+  "news4": {
+    "title": "Orlen na celowniku Moskwy",
+    "description": "Polski rynek paliw stał się istotnym celem rosyjskiej dezinformacji z dwóch przyczyn. Po pierwsze Moskwa nawet nie ukrywa, że surowce energetyczne są dla niej narzędziem w polityce zagranicznej i bronią w wojnie hybrydowej."
+  },
+  "news5": {
+    "title": "Fake news: rtęć w Odrze - biała księga",
+    "description": "Od wieczora 11 sierpnia, przez kilka dni kolportowano w polskich mediach nieprawdziwą informację o niezwykle wysokiej zawartości rtęci w wodach Odry, powodującej masowe śnięcie ryb. "
   }
 }

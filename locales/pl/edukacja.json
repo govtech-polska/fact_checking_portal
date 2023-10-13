@@ -7,14 +7,14 @@
   },
   "section2": {
     "title": "SZKOLENIE WIDEO",
-    "subtitle": "Czym są Fake Newsy",
+    "subtitle": "Czym jest fake news",
     "point1": "Jakich tematów najczęściej dotyczą fake newsy?",
     "point2": "Kto tworzy fałszywe treści w sieci i jaki jest cel takich działań?",
     "point3": "Gdzie najczęściej możesz spotkać się ze zmanipulowanymi i fałszywymi informacjami?"
   },
   "section3": {
     "title": "SZKOLENIE WIDEO",
-    "subtitle": "Jak rozpoznać Fake Newsa",
+    "subtitle": "Jak rozpoznać fake newsa",
     "point1": "Przyjrzyj się autorowi publikacji",
     "point2": "Sprawdź źródło",
     "point3": "Sprawdź aktualność informacji",
@@ -29,5 +29,8 @@
     "point1": "Jeśli uważasz, że dana informacja może być fałszywa, zgłoś ją serwisowi #FakeHunter. Dzięki temu szybko i rzetelnie zostanie sprawdzona, a Ty otrzymasz raport dotyczący tego, czy informacja jest prawdziwa.",
     "point2": "Media społecznościowe nie są najlepszym źródłem informacji.",
     "point3": "Nie tylko udostępnianie i przekazywanie wiadomości zwiększa jej zasięg - reakcja na post lub komentarz również."
+  },
+  "section5": {
+    "title": "Partnerzy"
   }
 }

@@ -33,7 +33,14 @@ class App extends NextApp {
           />
           <link rel="icon" href="/favicon.ico" />
           <link rel="alternate" type="application/rss+xml" href="/rss" />
-          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162854541-2"></script>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-9FWBX7CQFY"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments)}
+            gtag('js', new Date());
+            gtag('config', 'G-9FWBX7CQFY');
+          </script>
+
         </Head>
         <ThemeProvider theme={theme}>
           <Component {...pageProps} />

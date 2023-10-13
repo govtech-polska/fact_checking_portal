@@ -12,6 +12,7 @@
     "/challengeIII":["challengeIII"],
     "/challengeIV":["challengeIV"],
     "/challengeV":["challengeV"],
+    "/challengeVI":["challengeVI"],
     "/zespol": ["team"],
     "/dla-programistow": ["developers"],
     "rgx:/plugins/*": ["developers", "verified"],
@@ -28,6 +29,8 @@
     "/analizy": ["analizy"],
     "/analiza1": ["analiza1"],
     "/analiza2": ["analiza2"],
-    "/analiza3": ["analiza3"]
+    "/analiza3": ["analiza3"],
+    "/analiza4": ["analiza4"],
+    "/analiza5": ["analiza5"]
   }
 }

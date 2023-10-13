@@ -49,7 +49,10 @@ const analysisNews = () => {
                                 <a className="back en" href="/en/analizy">&#60; Back</a>
                                 <h1 className="articleTitle">{t('analiza2:title')}</h1>
                                 <div className="imageWrapper">
-                                    <img src="/images/news/abaliza_2_big.png" alt=""/>
+                                    <img src="/images/news/analiza_2.jpg" alt=""/>
+                                    <div className="description">
+                                        Fot. PAP/Jerzy Undo
+                                    </div>
                                 </div>
                                 <p className="lead">{t('analiza2:paragraph1')}</p>
                                 <p>{t('analiza2:paragraph2')}</p>
@@ -57,12 +60,7 @@ const analysisNews = () => {
                                 <p>
                                     <Trans i18nKey="analiza2:paragraph3"
                                            components={[
-                                               <a className="link" href="https://fakehunter.pap.pl/raport/028e70db-b7c7-4c3c-b1e7-c4acb1cb3b7b"
-                                                  target="_blank"/>,
-                                               <a className="link" href="https://fakehunter.pap.pl/raport/7a7b7745-6dd4-462d-aed6-fb75b789d4d4"
-                                                  target="_blank"/>,
-                                               <a className="link" href="https://fakehunter.pap.pl/raport/18e5d8e5-6b24-4392-b007-a28f473f"
-                                                  target="_blank"/>
+                                               <sup></sup>
                                            ]}
                                     />
                                 </p>
@@ -77,38 +75,28 @@ const analysisNews = () => {
                                 <p>
                                     <Trans i18nKey="analiza2:paragraph8"
                                            components={[
-                                               <a className="link" href="https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/8422422,gospodarka-inwazja-rosji-na-ukraine-wojna-rynek-pracy.html"
-                                                  target="_blank"/>
+                                               <sup></sup>
                                            ]}
                                     />
                                 </p>
 
 
-
                                 <h3>{t('analiza2:subtitle4')}</h3>
 
-                <p>
-                    <Trans i18nKey="analiza2:paragraph9"
-                           components={[
-                               <a className="link" href="https://fakehunter.pap.pl/raport/dec44e57-4205-4d3d-897d-b041f8801d86"
-                                  target="_blank"/>,
-                               <a className="link" href="https://fakehunter.pap.pl/raport/a4442caf-0f0b-4fe3-9ce0-fed909a33664"
-                                  target="_blank"/>,
-                               <a className="link" href="https://fakehunter.pap.pl/raport/4913cf8a-fed8-4539-932f-cfd314357377"
-                                  target="_blank"/>,
-                               <a className="link" href="https://fakehunter.pap.pl/raport/43ffc73c-7ec1-4806-b97b-0b5e2f4c048f<"
-                                  target="_blank"/>
-                           ]}
-                    />
-                </p>
+                                <p>
+                                    <Trans i18nKey="analiza2:paragraph9"
+                                           components={[
+                                               <sup></sup>
+                                           ]}
+                                    />
+                                </p>
 
                                 <h3>{t('analiza2:subtitle5')}</h3>
 
                                 <p>
                                     <Trans i18nKey="analiza2:paragraph10"
                                            components={[
-                                               <a className="link" href="https://wszystkoconajwazniejsze.pl/prof-piotr-dlugosz-ukraincy-w-polsce/?fbclid=IwAR3tuc_h1z1cCt3FfeoF2xgbmMThEpeluW3ulRqDSYCXjxd5qjOuZvxFQf4"
-                                                  target="_blank"/>
+                                               <sup></sup>
                                            ]}
                                     />
                                 </p>
@@ -119,12 +107,39 @@ const analysisNews = () => {
                                 <p>
                                     <Trans i18nKey="analiza2:paragraph12"
                                            components={[
-                                               <a className="link" href="https://alebank.pl/goldman-sachs-podwyzszyl-prognoze-wzrostu-pkb-polski-do-61-proc-w-2022-roku/?id=411109&catid=25926"
-                                                  target="_blank"/>
+                                               <sup></sup>
                                            ]}
                                     />
                                 </p>
                                 <p>{t('analiza2:paragraph13')}</p>
+
+                                <p className="footnotes">{t('analiza2:footnotes')}<br/> <br/>
+
+                                    <sup>1</sup> <a className="link"
+                                                   href="https://www.gov.pl/web/sluzby-specjalne/klamstwa-rosyjskiej-propagandy2"
+                                                   target="_blank">https://www.gov.pl/web/sluzby-specjalne/klamstwa-rosyjskiej-propagandy2</a>
+                                    <br/> <br/>
+                                    <sup>2</sup> <a className="link" href="https://cyberdefence24.pl/cyberbezpieczenstwo/rosyjska-wojna-dezinformacyjna-ekspert-celem-rosjan-jest-stymulowanie-paniki-w-polsce-wywiad"
+                                                    target="_blank">https://cyberdefence24.pl/cyberbezpieczenstwo/rosyjska-wojna-dezinformacyjna-ekspert-celem-rosjan-jest-stymulowanie-paniki-w-polsce-wywiad</a>
+                                    <br/> <br/>
+
+                                    <sup>3</sup> <a className="link"
+                                                   href="https://www.state.gov/wp-content/uploads/2020/08/Pillars-of-Russia%E2%80%99s-Disinformation-and-Propaganda-Ecosystem_08-04-20.pdf"
+                                                   target="_blank">https://www.state.gov/wp-content/uploads/2020/08/Pillars-of-Russia%E2%80%99s-Disinformation-and-Propaganda-Ecosystem_08-04-20.pdf</a>
+                                    <br/> <br/>
+                                    <sup>4</sup> <a className="link" href="https://pieniadze.rp.pl/konta-bankowe/art35948741-hrywny-do-wymiany-ruszyla-akcja-pomocy-banku-centralnego"
+                                                    target="_blank">https://pieniadze.rp.pl/konta-bankowe/art35948741-hrywny-do-wymiany-ruszyla-akcja-pomocy-banku-centralnego</a>
+
+                                    <br/> <br/>
+                                    <sup>5</sup> <a className="link"
+                                                   href="https://www.rp.pl/konflikty-zbrojne/art35822351-kamil-basaj-trwa-operacja-rosji-przeciw-uciekinierom"
+                                                   target="_blank">https://www.rp.pl/konflikty-zbrojne/art35822351-kamil-basaj-trwa-operacja-rosji-przeciw-uciekinierom</a>
+                                    <br/> <br/>
+                                    <sup>6</sup> <a className="link" href="hhttps://twitter.com/StZaryn/status/1524332174270517251?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1524332174270517251%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fpolskieradio24.pl%2F5%2F1222%2FArtykul%2F2956378Kreml-probuje-fake-newsami-uderzac-w-Polske-RCB-ostrzega-i-apeluje-o-walke-z-dezinformacja"
+                                                    target="_blank">https://twitter.com/StZaryn/status/1524332174270517251?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1524332174270517251%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fpolskieradio24.pl%2F5%2F1222%2FArtykul%2F2956378Kreml-probuje-fake-newsami-uderzac-w-Polske-RCB-ostrzega-i-apeluje-o-walke-z-dezinformacja</a>
+
+                                </p>
+
 
                             </div>
 
