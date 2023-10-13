@@ -7,7 +7,7 @@ import GlobalStyle from 'base/GlobalStyle'
 import theme from 'base/theme'
 
 import ybug from 'scripts/ybug'
-import gtag from 'scripts/gtag'
+
 
 import 'assets/style.css'
 
@@ -33,8 +33,6 @@ class App extends NextApp {
           />
           <link rel="icon" href="/favicon.ico" />
           <link rel="alternate" type="application/rss+xml" href="/rss" />
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-9FWBX7CQFY"></script>
-
         </Head>
         <ThemeProvider theme={theme}>
           <Component {...pageProps} />
