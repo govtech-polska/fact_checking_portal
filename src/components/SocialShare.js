@@ -3,9 +3,9 @@ import {
   FacebookShareButton,
   FacebookIcon,
   PocketShareButton,
-  TwitterShareButton,
+  XShareButton,
   WhatsappShareButton,
-  TwitterIcon,
+  XIcon,
   PocketIcon,
   WhatsappIcon
 } from 'react-share'
@@ -58,9 +58,9 @@ const SocialShare = ({ url, title, description }) => {
       <FacebookShareButton url={url}>
         <FacebookIcon size={32} />
       </FacebookShareButton>
-      <TwitterShareButton url={url}>
-        <TwitterIcon size={32} title="Udostępnij na Twitterze" />
-      </TwitterShareButton>
+      <XShareButton url={url}>
+        <XIcon size={32} title="Udostępnij na Twitterze" />
+      </XShareButton>
       <WhatsappShareButton url={url} windowWidth={660} windowHeight={700}>
         <WhatsappIcon size={32} title="Wyślij na WhatsApp" />
       </WhatsappShareButton>
